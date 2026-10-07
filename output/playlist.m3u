@@ -15,7 +15,7 @@ https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8
 https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8
 #EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="SEXTREME BRAZIL" tvg-logo="https://cdn.mitvstatic.com/channels/br_sextreme-brazil_m.png" group-title="Adulto",SEXTREME BRAZIL
 https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8
-#EXTINF:-1 tvg-id="tv.assembleia.piaui.br" tvg-name="TV ASSEMBLEIA PI" group-title="Piauí",TV ASSEMBLEIA PI
+#EXTINF:-1 tvg-id="tv.assembleia.piaui.br" tvg-name="TV ASSEMBLEIA PI" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/00d88a2f7b68ae4ec8f03cf98a5f0045.webp" group-title="Piauí",TV ASSEMBLEIA PI
 https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8
 #EXTINF:-1 tvg-id="BandSports.br" tvg-name="BAND SPORTS" tvg-logo="https://static.guiadetv.com/channel/b5rLv8XUFPm6zzun6rmU8hSsqtsx18xueBIqQLaT.png" group-title="Esportes",BAND SPORTS
 https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8

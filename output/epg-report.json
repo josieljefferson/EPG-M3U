@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T19:26:49.562247-03:00",
+  "generated_at": "2026-10-07T19:43:43.620772-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -49,13 +49,13 @@
     "with_programs": 61
   },
   "programs": {
-    "total": 3418,
+    "total": 3402,
     "by_source": {
-      "fallback": 3418
+      "fallback": 3402
     },
     "by_channel": {
       "Band.br": 17,
-      "BandNews.br": 42,
+      "BandNews.br": 40,
       "BandPiaui.br": 20,
       "BandSports.br": 23,
       "CNNBrasil.br": 23,
@@ -64,7 +64,7 @@
       "DiscoveryChannel.br": 35,
       "ESPN.br": 15,
       "ESPN2.br": 18,
-      "ESPN3.br": 154,
+      "ESPN3.br": 150,
       "ESPN4.br": 148,
       "ESPN5.br": 126,
       "ESPN6.br": 124,
@@ -83,10 +83,10 @@
       "Premiere2.br": 3,
       "Premiere3.br": 3,
       "Premiere4.br": 3,
-      "Premiere5.br": 91,
+      "Premiere5.br": 84,
       "Premiere6.br": 3,
       "Premiere7.br": 3,
-      "PremiereFC.br": 260,
+      "PremiereFC.br": 257,
       "RecordNews.br": 65,
       "RecordTV.br": 119,
       "RedeGloboTeresina.br": 23,
@@ -456,7 +456,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 154,
+      "programs": 150,
       "url": "https://www.guiadetv.com/canal/espn-3",
       "error": ""
     },
@@ -478,7 +478,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 154,
+      "programs": 150,
       "url": "https://www.guiadetv.com/canal/espn-3",
       "error": ""
     },
@@ -786,7 +786,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 91,
+      "programs": 84,
       "url": "https://www.guiadetv.com/canal/premiere-5",
       "error": ""
     },
@@ -808,7 +808,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 91,
+      "programs": 84,
       "url": "https://www.guiadetv.com/canal/premiere-5",
       "error": ""
     },
@@ -874,7 +874,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 260,
+      "programs": 257,
       "url": "https://www.guiadetv.com/canal/premiere-fc",
       "error": ""
     },
@@ -896,7 +896,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 260,
+      "programs": 257,
       "url": "https://www.guiadetv.com/canal/premiere-fc",
       "error": ""
     },
@@ -1446,7 +1446,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 42,
+      "programs": 40,
       "url": "https://www.guiadetv.com/canal/bandnews",
       "error": ""
     },
@@ -1468,7 +1468,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 42,
+      "programs": 40,
       "url": "https://www.guiadetv.com/canal/bandnews",
       "error": ""
     },
