@@ -1,0 +1,703 @@
+{
+  "TVClube.br": {
+    "name": "TV CLUBE",
+    "tvg_name": "TV CLUBE",
+    "aliases": [
+      "TVClube.br",
+      "TV CLUBE",
+      "tv-clube",
+      "TV Clube",
+      "TV Clube PI",
+      "TV Clube Piauí",
+      "TV Clube Teresina",
+      "TV Clube HD"
+    ]
+  },
+  "Cancaonova.br": {
+    "name": "TV CANÇÃO NOVA",
+    "tvg_name": "TV CANÇÃO NOVA",
+    "aliases": [
+      "Cancaonova.br",
+      "TV CANÇÃO NOVA",
+      "canc-o-nova",
+      "Canção Nova",
+      "Canção Nova HD",
+      "TV Canção Nova"
+    ]
+  },
+  "BandPiaui.br": {
+    "name": "BAND PIAUÍ",
+    "tvg_name": "BAND PIAUÍ",
+    "aliases": [
+      "BandPiaui.br",
+      "BAND PIAUÍ",
+      "band-piaui-hd",
+      "Band Piauí",
+      "Band Piauí HD",
+      "Band PI"
+    ]
+  },
+  "TVCidadeVerde.br": {
+    "name": "TV CIDADE VERDE",
+    "tvg_name": "TV CIDADE VERDE",
+    "aliases": [
+      "TVCidadeVerde.br",
+      "TV CIDADE VERDE",
+      "tv-cidade-verde-hd",
+      "TV Cidade Verde",
+      "TV Cidade Verde HD",
+      "Cidade Verde",
+      "Cidade Verde HD"
+    ]
+  },
+  "TVAntena10.br": {
+    "name": "TV ANTENA 10",
+    "tvg_name": "TV ANTENA 10",
+    "aliases": [
+      "TVAntena10.br",
+      "TV ANTENA 10",
+      "tv-antena-10-hd",
+      "TV Antena 10",
+      "Antena 10",
+      "TV Antena 10 HD",
+      "Antena 10 HD"
+    ]
+  },
+  "SexyHot.br": {
+    "name": "SEXY HOT",
+    "tvg_name": "SEXY HOT",
+    "aliases": [
+      "SexyHot.br",
+      "SEXY HOT",
+      "sexy-hot",
+      "Sexy Hot",
+      "SexyHot",
+      "Sexy Hot HD"
+    ]
+  },
+  "sexprive-brasileirinhas.br": {
+    "name": "SEXPRIVE",
+    "tvg_name": "SEXPRIVE",
+    "aliases": [
+      "sexprive-brasileirinhas.br",
+      "SEXPRIVE",
+      "sexprive-brasileirinhas",
+      "SexPrive",
+      "SexPrive Brasileirinhas",
+      "Sex Prive",
+      "Brasileirinhas"
+    ]
+  },
+  "SextremeBrazil.br": {
+    "name": "SEXTREME BRAZIL",
+    "tvg_name": "SEXTREME BRAZIL",
+    "aliases": [
+      "SextremeBrazil.br",
+      "SEXTREME BRAZIL",
+      "sextreme-brazil",
+      "SexTreme",
+      "SexTreme Brazil",
+      "SEXTREME",
+      "Sextreme Brazil"
+    ]
+  },
+  "tv.assembleia.piaui.br": {
+    "name": "TV ASSEMBLEIA PI",
+    "tvg_name": "TV ASSEMBLEIA PI",
+    "aliases": [
+      "tv.assembleia.piaui.br",
+      "TV ASSEMBLEIA PI",
+      "tv-assembleia-pi",
+      "TV Assembleia Piauí",
+      "TV Assembleia PI",
+      "Assembleia Legislativa do Piauí",
+      "TV ALEPI",
+      "TVAlepi",
+      "ALEPI"
+    ]
+  },
+  "BandSports.br": {
+    "name": "BAND SPORTS",
+    "tvg_name": "BAND SPORTS",
+    "aliases": [
+      "BandSports.br",
+      "BAND SPORTS",
+      "bandsports",
+      "BandSports",
+      "Band Sports",
+      "Bandsports"
+    ]
+  },
+  "ESPN.br": {
+    "name": "ESPN",
+    "tvg_name": "ESPN",
+    "aliases": [
+      "ESPN.br",
+      "ESPN",
+      "espn",
+      "ESPN Brasil"
+    ]
+  },
+  "ESPN2.br": {
+    "name": "ESPN 2",
+    "tvg_name": "ESPN 2",
+    "aliases": [
+      "ESPN2.br",
+      "ESPN 2",
+      "espn-2",
+      "ESPN2",
+      "ESPN 2 Brasil"
+    ]
+  },
+  "ESPN3.br": {
+    "name": "ESPN 3",
+    "tvg_name": "ESPN 3",
+    "aliases": [
+      "ESPN3.br",
+      "ESPN 3",
+      "espn-3",
+      "ESPN3",
+      "ESPN 3 Brasil"
+    ]
+  },
+  "ESPN4.br": {
+    "name": "ESPN 4",
+    "tvg_name": "ESPN 4",
+    "aliases": [
+      "ESPN4.br",
+      "ESPN 4",
+      "espn-4",
+      "ESPN4",
+      "ESPN 4 Brasil"
+    ]
+  },
+  "ESPN5.br": {
+    "name": "ESPN 5",
+    "tvg_name": "ESPN 5",
+    "aliases": [
+      "ESPN5.br",
+      "ESPN 5",
+      "espn-5",
+      "ESPN5",
+      "ESPN 5 Brasil"
+    ]
+  },
+  "ESPN6.br": {
+    "name": "ESPN 6",
+    "tvg_name": "ESPN 6",
+    "aliases": [
+      "ESPN6.br",
+      "ESPN 6",
+      "espn-6",
+      "ESPN6",
+      "ESPN 6 Brasil"
+    ]
+  },
+  "GETV.br": {
+    "name": "GE TV",
+    "tvg_name": "GE TV",
+    "aliases": [
+      "GETV.br",
+      "GE TV",
+      "ge-tv",
+      "GETV",
+      "Globo Esporte TV"
+    ]
+  },
+  "NSports.br": {
+    "name": "N SPORTS",
+    "tvg_name": "N SPORTS",
+    "aliases": [
+      "NSports.br",
+      "N SPORTS",
+      "nsports",
+      "NSports",
+      "N Sports"
+    ]
+  },
+  "Premiere2.br": {
+    "name": "PREMIERE 2",
+    "tvg_name": "PREMIERE 2",
+    "aliases": [
+      "Premiere2.br",
+      "PREMIERE 2",
+      "premiere-2",
+      "Premiere 2",
+      "Premiere2"
+    ]
+  },
+  "Premiere3.br": {
+    "name": "PREMIERE 3",
+    "tvg_name": "PREMIERE 3",
+    "aliases": [
+      "Premiere3.br",
+      "PREMIERE 3",
+      "premiere-3",
+      "Premiere 3",
+      "Premiere3"
+    ]
+  },
+  "Premiere4.br": {
+    "name": "PREMIERE 4",
+    "tvg_name": "PREMIERE 4",
+    "aliases": [
+      "Premiere4.br",
+      "PREMIERE 4",
+      "premiere-4",
+      "Premiere 4",
+      "Premiere4"
+    ]
+  },
+  "Premiere5.br": {
+    "name": "PREMIERE 5",
+    "tvg_name": "PREMIERE 5",
+    "aliases": [
+      "Premiere5.br",
+      "PREMIERE 5",
+      "premiere-5",
+      "Premiere 5",
+      "Premiere5"
+    ]
+  },
+  "Premiere6.br": {
+    "name": "PREMIERE 6",
+    "tvg_name": "PREMIERE 6",
+    "aliases": [
+      "Premiere6.br",
+      "PREMIERE 6",
+      "premiere-6",
+      "Premiere 6",
+      "Premiere6"
+    ]
+  },
+  "Premiere7.br": {
+    "name": "PREMIERE 7",
+    "tvg_name": "PREMIERE 7",
+    "aliases": [
+      "Premiere7.br",
+      "PREMIERE 7",
+      "premiere-7",
+      "Premiere 7",
+      "Premiere7"
+    ]
+  },
+  "PremiereFC.br": {
+    "name": "PREMIERE FC",
+    "tvg_name": "PREMIERE FC",
+    "aliases": [
+      "PremiereFC.br",
+      "PREMIERE FC",
+      "premiere-fc",
+      "Premiere FC",
+      "Premiere Clubes",
+      "Premiere"
+    ]
+  },
+  "SporTV.br": {
+    "name": "SPORTV",
+    "tvg_name": "SPORTV",
+    "aliases": [
+      "SporTV.br",
+      "SPORTV",
+      "sportv",
+      "SporTV",
+      "Sport TV"
+    ]
+  },
+  "SporTV2.br": {
+    "name": "SPORTV 2",
+    "tvg_name": "SPORTV 2",
+    "aliases": [
+      "SporTV2.br",
+      "SPORTV 2",
+      "sportv-2",
+      "SporTV2",
+      "SporTV 2"
+    ]
+  },
+  "SporTV3.br": {
+    "name": "SPORTV 3",
+    "tvg_name": "SPORTV 3",
+    "aliases": [
+      "SporTV3.br",
+      "SPORTV 3",
+      "sportv-3",
+      "SporTV3",
+      "SporTV 3"
+    ]
+  },
+  "SportyNet.br": {
+    "name": "SPORTYNET",
+    "tvg_name": "SPORTYNET",
+    "aliases": [
+      "SportyNet.br",
+      "SPORTYNET",
+      "sportynet",
+      "SporyNet",
+      "Sporty.net"
+    ]
+  },
+  "XSports.br": {
+    "name": "X SPORTS",
+    "tvg_name": "X SPORTS",
+    "aliases": [
+      "XSports.br",
+      "X SPORTS",
+      "xsports",
+      "XSports",
+      "X Sports"
+    ]
+  },
+  "Space.br": {
+    "name": "SPACE",
+    "tvg_name": "SPACE",
+    "aliases": [
+      "Space.br",
+      "SPACE",
+      "space",
+      "Space Channel",
+      "TNT Space"
+    ]
+  },
+  "TNT.br": {
+    "name": "TNT",
+    "tvg_name": "TNT",
+    "aliases": [
+      "TNT.br",
+      "TNT",
+      "tnt",
+      "TNT Brasil",
+      "TNT Channel"
+    ]
+  },
+  "DiscoveryChannel.br": {
+    "name": "DISCOVERY CHANNEL",
+    "tvg_name": "DISCOVERY CHANNEL",
+    "aliases": [
+      "DiscoveryChannel.br",
+      "DISCOVERY CHANNEL",
+      "discovery-channel",
+      "Discovery",
+      "Discovery Channel"
+    ]
+  },
+  "InvestigacaoDiscovery.br": {
+    "name": "INVESTIGAÇÃO DISCOVERY",
+    "tvg_name": "INVESTIGAÇÃO DISCOVERY",
+    "aliases": [
+      "InvestigacaoDiscovery.br",
+      "INVESTIGAÇÃO DISCOVERY",
+      "investigacao-discovery",
+      "Investigação Discovery",
+      "ID",
+      "Investigation Discovery"
+    ]
+  },
+  "Band.br": {
+    "name": "BAND",
+    "tvg_name": "BAND",
+    "aliases": [
+      "Band.br",
+      "BAND",
+      "band",
+      "Band TV",
+      "Rede Bandeirantes",
+      "Bandeirantes"
+    ]
+  },
+  "GloboRio.br": {
+    "name": "GLOBO RIO DE JANEIRO",
+    "tvg_name": "GLOBO RIO DE JANEIRO",
+    "aliases": [
+      "GloboRio.br",
+      "GLOBO RIO DE JANEIRO",
+      "globo-rio-de-janeiro",
+      "Globo RJ",
+      "TV Globo Rio",
+      "Globo Rio"
+    ]
+  },
+  "GloboSP.br": {
+    "name": "GLOBO SP",
+    "tvg_name": "GLOBO SP",
+    "aliases": [
+      "GloboSP.br",
+      "GLOBO SP",
+      "globo-sp",
+      "Globo SP",
+      "TV Globo São Paulo",
+      "Globo São Paulo"
+    ]
+  },
+  "RecordTV.br": {
+    "name": "RECORD TV",
+    "tvg_name": "RECORD TV",
+    "aliases": [
+      "RecordTV.br",
+      "RECORD TV",
+      "record-tv",
+      "Record",
+      "Rede Record",
+      "Record TV"
+    ]
+  },
+  "RedeTV.br": {
+    "name": "REDE TV",
+    "tvg_name": "REDE TV",
+    "aliases": [
+      "RedeTV.br",
+      "REDE TV",
+      "rede-tv",
+      "RedeTV!",
+      "Rede TV!"
+    ]
+  },
+  "SBT.br": {
+    "name": "SBT",
+    "tvg_name": "SBT",
+    "aliases": [
+      "SBT.br",
+      "SBT",
+      "sbt",
+      "Sistema Brasileiro de Televisão",
+      "SBT Brasil"
+    ]
+  },
+  "SBTRio.br": {
+    "name": "SBT RIO DE JANEIRO",
+    "tvg_name": "SBT RIO DE JANEIRO",
+    "aliases": [
+      "SBTRio.br",
+      "SBT RIO DE JANEIRO",
+      "sbt-rio-de-janeiro",
+      "SBT RJ",
+      "SBT Rio"
+    ]
+  },
+  "TVBrasil.br": {
+    "name": "TV BRASIL",
+    "tvg_name": "TV BRASIL",
+    "aliases": [
+      "TVBrasil.br",
+      "TV BRASIL",
+      "tv-brasil",
+      "TV Brasil",
+      "EBC TV Brasil"
+    ]
+  },
+  "TVCultura.br": {
+    "name": "TV CULTURA",
+    "tvg_name": "TV CULTURA",
+    "aliases": [
+      "TVCultura.br",
+      "TV CULTURA",
+      "tv-cultura",
+      "TV Cultura",
+      "Cultura",
+      "TV Cultura HD"
+    ]
+  },
+  "BandNews.br": {
+    "name": "BANDNEWS",
+    "tvg_name": "BANDNEWS",
+    "aliases": [
+      "BandNews.br",
+      "BANDNEWS",
+      "bandnews",
+      "Band News",
+      "BandNews TV"
+    ]
+  },
+  "CanalUOL.br": {
+    "name": "CANAL UOL",
+    "tvg_name": "CANAL UOL",
+    "aliases": [
+      "CanalUOL.br",
+      "CANAL UOL",
+      "canal-uol",
+      "UOL",
+      "Canal UOL"
+    ]
+  },
+  "CNNBrasil.br": {
+    "name": "CNN BRASIL",
+    "tvg_name": "CNN BRASIL",
+    "aliases": [
+      "CNNBrasil.br",
+      "CNN BRASIL",
+      "cnn",
+      "CNN Brasil",
+      "CNN"
+    ]
+  },
+  "GloboNews.br": {
+    "name": "GLOBO NEWS",
+    "tvg_name": "GLOBO NEWS",
+    "aliases": [
+      "GloboNews.br",
+      "GLOBO NEWS",
+      "globo-news",
+      "GloboNews",
+      "Globo News"
+    ]
+  },
+  "JovemPanNews.br": {
+    "name": "JOVEM PAN NEWS",
+    "tvg_name": "JOVEM PAN NEWS",
+    "aliases": [
+      "JovemPanNews.br",
+      "JOVEM PAN NEWS",
+      "jovem-pan-news",
+      "JP News",
+      "Jovem Pan News",
+      "Jovem Pan"
+    ]
+  },
+  "RecordNews.br": {
+    "name": "RECORD NEWS",
+    "tvg_name": "RECORD NEWS",
+    "aliases": [
+      "RecordNews.br",
+      "RECORD NEWS",
+      "record-news",
+      "Record News",
+      "RecordNews"
+    ]
+  },
+  "SBTNews.br": {
+    "name": "SBT NEWS",
+    "tvg_name": "SBT NEWS",
+    "aliases": [
+      "SBTNews.br",
+      "SBT NEWS",
+      "sbt-news",
+      "SBT News",
+      "SBTNews"
+    ]
+  },
+  "Multishow.br": {
+    "name": "MULTISHOW",
+    "tvg_name": "MULTISHOW",
+    "aliases": [
+      "Multishow.br",
+      "MULTISHOW",
+      "multishow-hd",
+      "Multishow",
+      "Multishow HD"
+    ]
+  },
+  "TNTNovelas.br": {
+    "name": "TNT NOVELAS",
+    "tvg_name": "TNT NOVELAS",
+    "aliases": [
+      "TNTNovelas.br",
+      "TNT NOVELAS",
+      "tnt-novelas",
+      "TNT Novelas",
+      "TNT Novelas HD"
+    ]
+  },
+  "Viva.br": {
+    "name": "VIVA",
+    "tvg_name": "VIVA",
+    "aliases": [
+      "Viva.br",
+      "VIVA",
+      "viva",
+      "Viva",
+      "Viva HD",
+      "Canal Viva"
+    ]
+  },
+  "TVAlvoradaDoSul.br": {
+    "name": "TV ALVORADA DO SUL",
+    "tvg_name": "TV ALVORADA DO SUL",
+    "aliases": [
+      "TVAlvoradaDoSul.br",
+      "TV ALVORADA DO SUL",
+      "tv-alvorada-do-sul-hd",
+      "TV Alvorada do Sul",
+      "TV Alvorada do Sul HD"
+    ]
+  },
+  "MeioNorte.br": {
+    "name": "MEIO NORTE",
+    "tvg_name": "MEIO NORTE",
+    "aliases": [
+      "MeioNorte.br",
+      "MEIO NORTE",
+      "meio-norte",
+      "TV Meio Norte",
+      "Meio Norte TV",
+      "Meio Norte HD"
+    ]
+  },
+  "MeioNorteHD.br": {
+    "name": "MEIO NORTE HD",
+    "tvg_name": "MEIO NORTE HD",
+    "aliases": [
+      "MeioNorteHD.br",
+      "MEIO NORTE HD",
+      "meio-norte-hd",
+      "Meio Norte",
+      "TV Meio Norte HD"
+    ]
+  },
+  "Playboy.br": {
+    "name": "PLAYBOY",
+    "tvg_name": "PLAYBOY",
+    "aliases": [
+      "Playboy.br",
+      "PLAYBOY",
+      "playboy",
+      "Playboy",
+      "Playboy TV",
+      "Playboy HD"
+    ]
+  },
+  "PlayboyHD.br": {
+    "name": "PLAYBOY HD",
+    "tvg_name": "PLAYBOY HD",
+    "aliases": [
+      "PlayboyHD.br",
+      "PLAYBOY HD",
+      "playboy-hd",
+      "Playboy HD",
+      "Playboy"
+    ]
+  },
+  "VenusTV.br": {
+    "name": "VENUS TV",
+    "tvg_name": "VENUS TV",
+    "aliases": [
+      "VenusTV.br",
+      "VENUS TV",
+      "venus-tv-sd",
+      "Venus TV",
+      "Venus TV SD"
+    ]
+  },
+  "RedeGloboTeresina.br": {
+    "name": "REDE GLOBO TERESINA",
+    "tvg_name": "REDE GLOBO TERESINA",
+    "aliases": [
+      "RedeGloboTeresina.br",
+      "REDE GLOBO TERESINA",
+      "rede-globo-teresina",
+      "Globo Teresina",
+      "TV Globo Teresina",
+      "Rede Globo Teresina"
+    ]
+  },
+  "SBTPiaui.br": {
+    "name": "SBT PIAUÍ",
+    "tvg_name": "SBT PIAUÍ",
+    "aliases": [
+      "SBTPiaui.br",
+      "SBT PIAUÍ",
+      "sbt-piaui",
+      "SBT PI",
+      "SBT Piauí"
+    ]
+  }
+}
