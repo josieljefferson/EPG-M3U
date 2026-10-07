@@ -1,0 +1,634 @@
+# ============================================================
+# 🧹 LIMPEZA INTELIGENTE DE WORKFLOWS
+# ============================================================
+
+name: 🧹 Limpeza Inteligente de Workflows (10min)
+
+# ============================================================
+# ⏰ AGENDAMENTO
+# ============================================================
+
+on:
+
+  schedule:
+    # Executa aproximadamente a cada 10 minutos
+    - cron: "*/10 * * * *"
+
+  # Execução manual
+  workflow_dispatch:
+
+# ============================================================
+# 🔐 PERMISSÕES
+# ============================================================
+
+permissions:
+  actions: write
+
+# ============================================================
+# 🧹 JOB
+# ============================================================
+
+jobs:
+
+  cleanup:
+
+    name: 🧹 Limpar Execuções Antigas
+
+    runs-on: ubuntu-latest
+
+    timeout-minutes: 15
+
+    steps:
+
+      # ======================================================
+      # 🧹 LIMPEZA
+      # ======================================================
+
+      - name: 🗑️ Limpar execuções antigas
+        id: cleanup
+
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+        shell: bash
+
+        run: |
+
+          set -Eeuo pipefail
+
+          # ==================================================
+          # ⚙️ CONFIGURAÇÕES
+          # ==================================================
+
+          # 10 minutos = 600 segundos
+          RETENTION_SECONDS=600
+
+          # Execuções por página
+          PER_PAGE=100
+
+          # Tentativas máximas por exclusão
+          MAX_RETRIES=3
+
+          # Timestamp atual em UTC
+          NOW=$(date -u +%s)
+
+          # ID da execução atual
+          CURRENT_RUN_ID="${GITHUB_RUN_ID}"
+
+          # ==================================================
+          # 📁 DIRETÓRIO TEMPORÁRIO
+          # ==================================================
+
+          TEMP_DIR="$(mktemp -d)"
+
+          trap 'rm -rf "$TEMP_DIR"' EXIT
+
+          PAGES_FILE="$TEMP_DIR/pages.json"
+          RUNS_FILE="$TEMP_DIR/runs.jsonl"
+          DELETE_FILE="$TEMP_DIR/delete.txt"
+          SUCCESS_FILE="$TEMP_DIR/success.txt"
+          FAILED_FILE="$TEMP_DIR/failed.txt"
+
+          touch \
+            "$RUNS_FILE" \
+            "$DELETE_FILE" \
+            "$SUCCESS_FILE" \
+            "$FAILED_FILE"
+
+          # ==================================================
+          # 🎨 CABEÇALHO
+          # ==================================================
+
+          echo ""
+
+          echo "╔══════════════════════════════════════════════════════╗"
+          echo "║        🧹 LIMPEZA INTELIGENTE DE WORKFLOWS         ║"
+          echo "╠══════════════════════════════════════════════════════╣"
+          echo "║ ⏱️  Retenção: 10 minutos                            ║"
+          echo "║ 🔄 Frequência: aproximadamente 10 minutos           ║"
+          echo "║ 🛡️  Execuções em andamento: preservadas             ║"
+          echo "║ 🛡️  Execução atual: preservada                      ║"
+          echo "║ 🔁 Retry automático: 3 tentativas                    ║"
+          echo "╚══════════════════════════════════════════════════════╝"
+
+          echo ""
+
+          echo "📦 Repositório : $GITHUB_REPOSITORY"
+          echo "🔢 Execução atual: $CURRENT_RUN_ID"
+          echo "🕒 UTC         : $(date -u '+%Y-%m-%d %H:%M:%S')"
+          echo "🕒 Local       : $(date '+%Y-%m-%d %H:%M:%S')"
+
+          echo ""
+
+          # ==================================================
+          # 🔎 FASE 1
+          # ==================================================
+
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+          echo "🔎 FASE 1/3 — CONSULTANDO EXECUÇÕES"
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+
+          # ==================================================
+          # 📥 CONSULTAR TODAS AS PÁGINAS
+          # ==================================================
+
+          if ! gh api \
+            --paginate \
+            --slurp \
+            -H "Accept: application/vnd.github+json" \
+            "/repos/${GITHUB_REPOSITORY}/actions/runs?per_page=${PER_PAGE}" \
+            > "$PAGES_FILE"; then
+
+            echo ""
+            echo "❌ ERRO: Não foi possível consultar a API do GitHub."
+
+            exit 1
+
+          fi
+
+          # ==================================================
+          # 🔧 PROCESSAR JSON
+          # ==================================================
+
+          jq -c '
+            .[]
+            | .workflow_runs[]
+          ' "$PAGES_FILE" > "$RUNS_FILE"
+
+          TOTAL_FOUND=$(wc -l < "$RUNS_FILE" | tr -d ' ')
+
+          echo ""
+          echo "📦 Total de execuções encontradas: $TOTAL_FOUND"
+
+          # ==================================================
+          # 📊 CONTADORES
+          # ==================================================
+
+          TOTAL_OLD=0
+          TOTAL_NEW=0
+          TOTAL_RUNNING=0
+          TOTAL_COMPLETED=0
+          TOTAL_CANCELLED=0
+          TOTAL_FAILURE=0
+          TOTAL_PROTECTED=0
+
+          # ==================================================
+          # 🔎 ANALISAR EXECUÇÕES
+          # ==================================================
+
+          while IFS= read -r RUN; do
+
+            # ------------------------------------------------
+            # 📌 DADOS
+            # ------------------------------------------------
+
+            ID=$(jq -r '.id // empty' <<< "$RUN")
+
+            CREATED=$(jq -r '.created_at // empty' <<< "$RUN")
+
+            STATUS=$(jq -r '.status // empty' <<< "$RUN")
+
+            CONCLUSION=$(jq -r '.conclusion // empty' <<< "$RUN")
+
+            NAME=$(jq -r '.name // "Workflow desconhecido"' <<< "$RUN")
+
+            # ------------------------------------------------
+            # 🛡️ VALIDAÇÃO
+            # ------------------------------------------------
+
+            if [[ -z "$ID" || -z "$CREATED" ]]; then
+              continue
+            fi
+
+            # ------------------------------------------------
+            # 🛡️ PRESERVAR EXECUÇÃO ATUAL
+            # ------------------------------------------------
+
+            if [[ "$ID" == "$CURRENT_RUN_ID" ]]; then
+
+              TOTAL_PROTECTED=$((TOTAL_PROTECTED + 1))
+
+              echo "🛡️ PRESERVADA — EXECUÇÃO ATUAL"
+
+              echo "   ID      : $ID"
+              echo "   Workflow: $NAME"
+              echo "   Status  : $STATUS"
+
+              echo ""
+
+              continue
+
+            fi
+
+            # ------------------------------------------------
+            # 🕒 CONVERTER DATA
+            # ------------------------------------------------
+
+            RUN_DATE=$(date -u -d "$CREATED" +%s 2>/dev/null || true)
+
+            if [[ -z "$RUN_DATE" ]]; then
+
+              echo "⚠️ Data inválida:"
+              echo "   ID   : $ID"
+              echo "   Data : $CREATED"
+
+              continue
+
+            fi
+
+            # ------------------------------------------------
+            # ⏱️ CALCULAR IDADE
+            # ------------------------------------------------
+
+            AGE=$((NOW - RUN_DATE))
+
+            # Proteção contra datas futuras
+            if (( AGE < 0 )); then
+              AGE=0
+            fi
+
+            AGE_HOURS=$((AGE / 3600))
+            AGE_MINUTES=$(((AGE % 3600) / 60))
+            AGE_SECONDS=$((AGE % 60))
+
+            AGE_DISPLAY="${AGE_HOURS}h ${AGE_MINUTES}min ${AGE_SECONDS}s"
+
+            # ==================================================
+            # 🛡️ EXECUÇÕES NÃO CONCLUÍDAS
+            # ==================================================
+
+            if [[ "$STATUS" != "completed" ]]; then
+
+              TOTAL_RUNNING=$((TOTAL_RUNNING + 1))
+
+              echo "🛡️ PRESERVADA"
+
+              echo "   ID      : $ID"
+              echo "   Workflow: $NAME"
+              echo "   Status  : $STATUS"
+              echo "   Idade   : $AGE_DISPLAY"
+
+              echo ""
+
+              continue
+
+            fi
+
+            # ==================================================
+            # 📊 ESTATÍSTICAS
+            # ==================================================
+
+            TOTAL_COMPLETED=$((TOTAL_COMPLETED + 1))
+
+            if [[ "$CONCLUSION" == "cancelled" ]]; then
+              TOTAL_CANCELLED=$((TOTAL_CANCELLED + 1))
+            fi
+
+            if [[ "$CONCLUSION" == "failure" ]]; then
+              TOTAL_FAILURE=$((TOTAL_FAILURE + 1))
+            fi
+
+            # ==================================================
+            # ⏱️ VERIFICAR RETENÇÃO
+            # ==================================================
+
+            if (( AGE >= RETENTION_SECONDS )); then
+
+              TOTAL_OLD=$((TOTAL_OLD + 1))
+
+              echo "$ID" >> "$DELETE_FILE"
+
+              echo "🗑️ SELECIONADA"
+
+              echo "   ID        : $ID"
+              echo "   Workflow  : $NAME"
+              echo "   Idade     : $AGE_DISPLAY"
+              echo "   Resultado : ${CONCLUSION:-unknown}"
+
+              echo ""
+
+            else
+
+              TOTAL_NEW=$((TOTAL_NEW + 1))
+
+              echo "✅ PRESERVADA"
+
+              echo "   ID      : $ID"
+              echo "   Workflow: $NAME"
+              echo "   Idade   : $AGE_DISPLAY"
+
+              echo ""
+
+            fi
+
+          done < "$RUNS_FILE"
+
+          # ==================================================
+          # 📊 RESUMO DA ANÁLISE
+          # ==================================================
+
+          echo ""
+
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+          echo "📊 RESUMO DA ANÁLISE"
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+
+          echo "📦 Encontradas       : $TOTAL_FOUND"
+          echo "🗑️ Antigas           : $TOTAL_OLD"
+          echo "🕒 Recentes          : $TOTAL_NEW"
+          echo "🛡️ Em andamento      : $TOTAL_RUNNING"
+          echo "🛡️ Protegidas        : $TOTAL_PROTECTED"
+          echo "✅ Concluídas        : $TOTAL_COMPLETED"
+          echo "🚫 Canceladas        : $TOTAL_CANCELLED"
+          echo "❌ Falhas            : $TOTAL_FAILURE"
+
+          # ==================================================
+          # 🚪 NADA PARA EXCLUIR
+          # ==================================================
+
+          if (( TOTAL_OLD == 0 )); then
+
+            echo ""
+
+            echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+            echo "✨ NENHUMA EXECUÇÃO COM MAIS DE 10 MINUTOS"
+            echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+
+            echo ""
+
+            echo "🎉 O repositório já está limpo!"
+
+            echo ""
+
+            {
+              echo "cleanup_count=0"
+              echo "failed_count=0"
+              echo "total_found=$TOTAL_FOUND"
+              echo "total_old=0"
+              echo "total_new=$TOTAL_NEW"
+              echo "total_running=$TOTAL_RUNNING"
+              echo "total_completed=$TOTAL_COMPLETED"
+              echo "total_cancelled=$TOTAL_CANCELLED"
+              echo "total_failure=$TOTAL_FAILURE"
+              echo "total_protected=$TOTAL_PROTECTED"
+              echo "success_rate=100.00"
+            } >> "$GITHUB_OUTPUT"
+
+            exit 0
+
+          fi
+
+          # ==================================================
+          # 🗑️ FASE 2
+          # ==================================================
+
+          echo ""
+
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+          echo "🗑️ FASE 2/3 — EXCLUSÃO"
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+
+          echo ""
+
+          echo "🎯 Execuções para excluir: $TOTAL_OLD"
+
+          echo ""
+
+          # ==================================================
+          # 🗑️ FUNÇÃO DE EXCLUSÃO
+          # ==================================================
+
+          delete_run() {
+
+            local RUN_ID="$1"
+            local ATTEMPT=1
+
+            while (( ATTEMPT <= MAX_RETRIES )); do
+
+              echo "🤖 Excluindo ID $RUN_ID — tentativa $ATTEMPT/$MAX_RETRIES"
+
+              if gh api \
+                --method DELETE \
+                -H "Accept: application/vnd.github+json" \
+                "/repos/${GITHUB_REPOSITORY}/actions/runs/${RUN_ID}" \
+                >/dev/null 2>&1; then
+
+                echo "$RUN_ID" >> "$SUCCESS_FILE"
+
+                echo "   ✅ Sucesso"
+
+                return 0
+
+              fi
+
+              echo "   ⚠️ Falha"
+
+              if (( ATTEMPT < MAX_RETRIES )); then
+
+                sleep $((ATTEMPT * 2))
+
+              fi
+
+              ATTEMPT=$((ATTEMPT + 1))
+
+            done
+
+            echo "$RUN_ID" >> "$FAILED_FILE"
+
+            echo "   ❌ Falha definitiva"
+
+            return 0
+
+          }
+
+          # ==================================================
+          # 🚀 EXCLUSÃO CONTROLADA
+          # ==================================================
+
+          while IFS= read -r RUN_ID; do
+
+            [[ -z "$RUN_ID" ]] && continue
+
+            delete_run "$RUN_ID"
+
+          done < "$DELETE_FILE"
+
+          # ==================================================
+          # 📊 FASE 3
+          # ==================================================
+
+          DELETED=$(wc -l < "$SUCCESS_FILE" | tr -d ' ')
+
+          FAILED=$(wc -l < "$FAILED_FILE" | tr -d ' ')
+
+          # ==================================================
+          # 📈 TAXA DE SUCESSO
+          # ==================================================
+
+          if (( TOTAL_OLD > 0 )); then
+
+            SUCCESS_RATE=$(
+              awk \
+                -v success="$DELETED" \
+                -v total="$TOTAL_OLD" \
+                'BEGIN {
+                  printf "%.2f", (success / total) * 100
+                }'
+            )
+
+          else
+
+            SUCCESS_RATE="100.00"
+
+          fi
+
+          # ==================================================
+          # 🏁 RESULTADO
+          # ==================================================
+
+          echo ""
+
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+          echo "🏁 FASE 3/3 — LIMPEZA CONCLUÍDA"
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+
+          echo ""
+
+          echo "📦 Encontradas       : $TOTAL_FOUND"
+          echo "🗑️ Selecionadas      : $TOTAL_OLD"
+          echo "✅ Deletadas         : $DELETED"
+          echo "❌ Falharam          : $FAILED"
+          echo "🕒 Recentes          : $TOTAL_NEW"
+          echo "🛡️ Em andamento      : $TOTAL_RUNNING"
+          echo "🛡️ Protegidas        : $TOTAL_PROTECTED"
+          echo "📈 Taxa de sucesso   : ${SUCCESS_RATE}%"
+
+          echo ""
+
+          if (( FAILED == 0 )); then
+
+            echo "🎉 TODAS AS EXECUÇÕES COM MAIS DE 10 MINUTOS FORAM REMOVIDAS!"
+
+          else
+
+            echo "⚠️ Algumas execuções não puderam ser removidas."
+
+          fi
+
+          echo ""
+
+          # ==================================================
+          # 📤 OUTPUTS
+          # ==================================================
+
+          {
+            echo "cleanup_count=$DELETED"
+            echo "failed_count=$FAILED"
+            echo "total_found=$TOTAL_FOUND"
+            echo "total_old=$TOTAL_OLD"
+            echo "total_new=$TOTAL_NEW"
+            echo "total_running=$TOTAL_RUNNING"
+            echo "total_completed=$TOTAL_COMPLETED"
+            echo "total_cancelled=$TOTAL_CANCELLED"
+            echo "total_failure=$TOTAL_FAILURE"
+            echo "total_protected=$TOTAL_PROTECTED"
+            echo "success_rate=$SUCCESS_RATE"
+          } >> "$GITHUB_OUTPUT"
+
+      # ======================================================
+      # 📋 RESUMO VISUAL
+      # ======================================================
+
+      - name: 📋 Gerar resumo
+
+        if: always()
+
+        shell: bash
+
+        run: |
+
+          set -u
+
+          echo "# 🧹 Limpeza Inteligente de Workflows" \
+            >> "$GITHUB_STEP_SUMMARY"
+
+          echo "" \
+            >> "$GITHUB_STEP_SUMMARY"
+
+          echo "> ⏱️ Retenção configurada: **10 minutos**" \
+            >> "$GITHUB_STEP_SUMMARY"
+
+          echo "" \
+            >> "$GITHUB_STEP_SUMMARY"
+
+          echo "## 📊 Resultado" \
+            >> "$GITHUB_STEP_SUMMARY"
+
+          echo "" \
+            >> "$GITHUB_STEP_SUMMARY"
+
+          echo "| Métrica | Resultado |" \
+            >> "$GITHUB_STEP_SUMMARY"
+
+          echo "|---|---:|" \
+            >> "$GITHUB_STEP_SUMMARY"
+
+          echo "| 📦 Execuções encontradas | ${{ steps.cleanup.outputs.total_found || '0' }} |" \
+            >> "$GITHUB_STEP_SUMMARY"
+
+          echo "| 🗑️ Execuções antigas | ${{ steps.cleanup.outputs.total_old || '0' }} |" \
+            >> "$GITHUB_STEP_SUMMARY"
+
+          echo "| ✅ Deletadas | ${{ steps.cleanup.outputs.cleanup_count || '0' }} |" \
+            >> "$GITHUB_STEP_SUMMARY"
+
+          echo "| ❌ Falhas | ${{ steps.cleanup.outputs.failed_count || '0' }} |" \
+            >> "$GITHUB_STEP_SUMMARY"
+
+          echo "| 🕒 Recentes | ${{ steps.cleanup.outputs.total_new || '0' }} |" \
+            >> "$GITHUB_STEP_SUMMARY"
+
+          echo "| 🛡️ Em andamento | ${{ steps.cleanup.outputs.total_running || '0' }} |" \
+            >> "$GITHUB_STEP_SUMMARY"
+
+          echo "| 🛡️ Execução atual protegida | ${{ steps.cleanup.outputs.total_protected || '0' }} |" \
+            >> "$GITHUB_STEP_SUMMARY"
+
+          echo "| 📈 Taxa de sucesso | ${{ steps.cleanup.outputs.success_rate || '0' }}% |" \
+            >> "$GITHUB_STEP_SUMMARY"
+
+          echo "" \
+            >> "$GITHUB_STEP_SUMMARY"
+
+          echo "## ⚙️ Configuração" \
+            >> "$GITHUB_STEP_SUMMARY"
+
+          echo "" \
+            >> "$GITHUB_STEP_SUMMARY"
+
+          echo "- 🤖 Automático: aproximadamente a cada **10 minutos**" \
+            >> "$GITHUB_STEP_SUMMARY"
+
+          echo "- ⏱️ Retenção: **10 minutos**" \
+            >> "$GITHUB_STEP_SUMMARY"
+
+          echo "- 🔄 Retry: **3 tentativas**" \
+            >> "$GITHUB_STEP_SUMMARY"
+
+          echo "- 🛡️ Execuções em andamento: **preservadas**" \
+            >> "$GITHUB_STEP_SUMMARY"
+
+          echo "- 🛡️ Execução atual: **preservada**" \
+            >> "$GITHUB_STEP_SUMMARY"
+
+          echo "- 🔐 Permissão: **actions: write**" \
+            >> "$GITHUB_STEP_SUMMARY"
+
+          echo "" \
+            >> "$GITHUB_STEP_SUMMARY"
+
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" \
+            >> "$GITHUB_STEP_SUMMARY"
+
+          echo "🤖 Limpeza automática finalizada." \
+            >> "$GITHUB_STEP_SUMMARY"

@@ -1,0 +1,885 @@
+# =============================================================
+# 📺 ATUALIZAR EPG + PLAYLIST
+# =============================================================
+
+name: 📺 Atualizar EPG e Playlist
+
+
+# =============================================================
+# ⏰ AGENDAMENTO
+# =============================================================
+
+on:
+
+  # Execução manual pelo GitHub Actions
+  workflow_dispatch:
+
+  # 03:00 e 15:00 UTC
+  # = 00:00 e 12:00 no horário de Brasília
+  schedule:
+    - cron: "0 3,15 * * *"
+
+
+# =============================================================
+# 🔐 PERMISSÕES
+# =============================================================
+
+permissions:
+  contents: write
+
+
+# =============================================================
+# 🔒 CONCORRÊNCIA
+# =============================================================
+
+concurrency:
+  group: epg-mitv
+  cancel-in-progress: false
+
+
+# =============================================================
+# 🚀 JOBS
+# =============================================================
+
+jobs:
+
+  # ===========================================================
+  # 📺 GERAR EPG
+  # ===========================================================
+
+  generate:
+
+    name: 🚀 Gerar EPG + M3U
+
+    runs-on: ubuntu-latest
+
+    timeout-minutes: 36
+
+
+    # =========================================================
+    # STEPS
+    # =========================================================
+
+    steps:
+
+      # ======================================================
+      # 📥 CHECKOUT
+      # ======================================================
+
+      - name: 📥 Checkout
+
+        uses: actions/checkout@v4
+
+        with:
+          fetch-depth: 0
+          ref: main
+          persist-credentials: true
+
+
+      # ======================================================
+      # 🐍 PYTHON
+      # ======================================================
+
+      - name: 🐍 Configurar Python
+
+        uses: actions/setup-python@v5
+
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+
+      # ======================================================
+      # 📦 DEPENDÊNCIAS
+      # ======================================================
+
+      - name: 📦 Instalar dependências
+
+        run: |
+
+          set -e
+
+          python -m pip install --upgrade pip
+
+          pip install -r requirements.txt
+
+
+      # ======================================================
+      # 🌐 PLAYWRIGHT / CHROMIUM
+      # ======================================================
+
+      - name: 🌐 Instalar Chromium
+
+        run: |
+
+          set -e
+
+          python -m playwright install --with-deps chromium
+
+
+      # ======================================================
+      # 🔎 VALIDAR CONFIGURAÇÃO
+      # ======================================================
+
+      - name: 🔎 Validar channels.json
+
+        run: |
+
+          set -e
+
+          test -f config/channels.json
+
+          python - <<'PY'
+
+          import json
+          from pathlib import Path
+
+
+          path = Path("config/channels.json")
+
+
+          data = json.loads(
+              path.read_text(
+                  encoding="utf-8"
+              )
+          )
+
+
+          # --------------------------------------------------
+          # VALIDAR OBJETO PRINCIPAL
+          # --------------------------------------------------
+
+          if not isinstance(data, dict):
+
+              raise SystemExit(
+                  "channels.json precisa ser um objeto JSON."
+              )
+
+
+          # --------------------------------------------------
+          # VALIDAR CANAIS
+          # --------------------------------------------------
+
+          channels = data.get("channels")
+
+
+          if not isinstance(channels, list):
+
+              raise SystemExit(
+                  "channels.json não possui 'channels' como lista."
+              )
+
+
+          if not channels:
+
+              raise SystemExit(
+                  "Nenhum canal configurado."
+              )
+
+
+          ids = []
+
+
+          for channel in channels:
+
+              if not isinstance(channel, dict):
+
+                  raise SystemExit(
+                      "Existe um canal inválido no channels.json."
+                  )
+
+
+              if not channel.get("id"):
+
+                  raise SystemExit(
+                      "Canal sem id."
+                  )
+
+
+              if not channel.get("name"):
+
+                  raise SystemExit(
+                      f"Canal {channel.get('id')} sem name."
+                  )
+
+
+              ids.append(
+                  channel["id"]
+              )
+
+
+          # --------------------------------------------------
+          # IDS DUPLICADOS
+          # --------------------------------------------------
+
+          if len(ids) != len(set(ids)):
+
+              raise SystemExit(
+                  "Existem IDs de canais duplicados."
+              )
+
+
+          print(
+              f"✅ {len(channels)} canais encontrados."
+          )
+
+
+          # --------------------------------------------------
+          # VALIDAR FONTES
+          # --------------------------------------------------
+
+          settings = data.get(
+              "settings",
+              {}
+          )
+
+
+          if not isinstance(settings, dict):
+
+              raise SystemExit(
+                  "A seção 'settings' precisa ser um objeto."
+              )
+
+
+          sources = settings.get(
+              "sources",
+              []
+          )
+
+
+          if not isinstance(sources, list):
+
+              raise SystemExit(
+                  "A seção 'sources' precisa ser uma lista."
+              )
+
+
+          print(
+              f"✅ {len(sources)} fontes configuradas."
+          )
+
+
+          # --------------------------------------------------
+          # MOSTRAR PRIORIDADES
+          # --------------------------------------------------
+
+          for source in sorted(
+              sources,
+              key=lambda item: item.get(
+                  "priority",
+                  999
+              )
+          ):
+
+              print(
+                  f"   {source.get('priority', '?')}. "
+                  f"{source.get('name', source.get('id', 'desconhecida'))}"
+              )
+
+          PY
+
+
+      # ======================================================
+      # 📁 PREPARAR DIRETÓRIOS
+      # ======================================================
+
+      - name: 📁 Preparar diretórios
+
+        run: |
+
+          set -e
+
+          mkdir -p output
+          mkdir -p debug_epg
+
+
+      # ======================================================
+      # 🚀 EXECUTAR GERADOR
+      # ======================================================
+
+      - name: 🚀 Executar gerador EPG
+
+        env:
+
+          # --------------------------------------------------
+          # mi.tv
+          # --------------------------------------------------
+
+          MITV_DAYS_AHEAD: "2"
+
+          MITV_MIN_PROGRAMS: "1"
+
+          MITV_PAGE_TIMEOUT: "60000"
+
+          MITV_WAIT: "3000"
+
+          MITV_RETRIES: "2"
+
+
+          # --------------------------------------------------
+          # PROTEÇÕES CONTRA EPG INCOMPLETO
+          # --------------------------------------------------
+
+          EPG_MIN_CHANNEL_COVERAGE: "0.50"
+
+          EPG_MIN_PROGRAM_RATIO: "0.50"
+
+          EPG_REQUIRE_ALL_CHANNELS: "0"
+
+
+        run: |
+
+          set -e
+
+          python script/epg_generator.py
+
+
+      # ======================================================
+      # 🔎 VALIDAR EPG.XML
+      # ======================================================
+
+      - name: 🔎 Validar epg.xml
+
+        if: success()
+
+        run: |
+
+          set -e
+
+          test -s output/epg.xml
+
+
+          python - <<'PY'
+
+          import xml.etree.ElementTree as ET
+          from pathlib import Path
+
+
+          path = Path(
+              "output/epg.xml"
+          )
+
+
+          root = ET.parse(
+              path
+          ).getroot()
+
+
+          channels = root.findall(
+              "channel"
+          )
+
+
+          programmes = root.findall(
+              "programme"
+          )
+
+
+          # --------------------------------------------------
+          # VALIDAR RAIZ
+          # --------------------------------------------------
+
+          if root.tag != "tv":
+
+              raise SystemExit(
+                  "Raiz XML inválida."
+              )
+
+
+          # --------------------------------------------------
+          # VALIDAR CANAIS
+          # --------------------------------------------------
+
+          if not channels:
+
+              raise SystemExit(
+                  "Nenhum canal no EPG."
+              )
+
+
+          # --------------------------------------------------
+          # VALIDAR PROGRAMAS
+          # --------------------------------------------------
+
+          if not programmes:
+
+              raise SystemExit(
+                  "Nenhum programa no EPG."
+              )
+
+
+          print(
+              f"✅ Canais: {len(channels)}"
+          )
+
+
+          print(
+              f"✅ Programas: {len(programmes)}"
+          )
+
+          PY
+
+
+      # ======================================================
+      # 🗜️ GERAR EPG.XML.GZ
+      # ======================================================
+
+      - name: 🗜️ Gerar epg.xml.gz
+
+        if: success()
+
+        run: |
+
+          set -e
+
+
+          test -s output/epg.xml
+
+
+          gzip -9 -n -c \
+            output/epg.xml \
+            > output/epg.xml.gz
+
+
+          test -s output/epg.xml.gz
+
+
+          echo "✅ epg.xml.gz criado."
+
+
+      # ======================================================
+      # 📺 VALIDAR PLAYLIST.M3U
+      # ======================================================
+
+      - name: 📺 Validar playlist.m3u
+
+        if: success()
+
+        run: |
+
+          set -e
+
+
+          # --------------------------------------------------
+          # IMPORTANTE:
+          # O GERADOR CRIA:
+          #
+          # output/playlist.m3u
+          #
+          # e não:
+          #
+          # output/playlists.m3u
+          # --------------------------------------------------
+
+          test -s output/playlist.m3u
+
+
+          # --------------------------------------------------
+          # VALIDAR CABEÇALHO
+          # --------------------------------------------------
+
+          grep -q '^#EXTM3U' \
+            output/playlist.m3u
+
+
+          # --------------------------------------------------
+          # CONTAR CANAIS
+          # --------------------------------------------------
+
+          entries=$(
+            awk '/^#EXTINF:/ { count++ } END { print count + 0 }' \
+              output/playlist.m3u
+          )
+
+
+          # --------------------------------------------------
+          # VALIDAR QUANTIDADE
+          # --------------------------------------------------
+
+          if [ "$entries" -lt 1 ]; then
+
+            echo "❌ Playlist sem canais."
+
+            exit 1
+
+          fi
+
+
+          echo "✅ Playlist M3U válida."
+
+          echo "📺 Entradas: $entries"
+
+
+      # ======================================================
+      # 📊 VALIDAR RELATÓRIO
+      # ======================================================
+
+      - name: 📊 Validar epg-report.json
+
+        if: always()
+
+        run: |
+
+          set -e
+
+
+          if [ ! -f output/epg-report.json ]; then
+
+            echo "⚠️ epg-report.json não encontrado."
+
+            exit 0
+
+          fi
+
+
+          if [ ! -s output/epg-report.json ]; then
+
+            echo "⚠️ epg-report.json está vazio."
+
+            exit 1
+
+          fi
+
+
+          python - <<'PY'
+
+          import json
+          from pathlib import Path
+
+
+          path = Path(
+              "output/epg-report.json"
+          )
+
+
+          data = json.loads(
+              path.read_text(
+                  encoding="utf-8"
+              )
+          )
+
+
+          if not isinstance(data, dict):
+
+              raise SystemExit(
+                  "epg-report.json precisa ser um objeto JSON."
+              )
+
+
+          print(
+              "✅ epg-report.json válido."
+          )
+
+          PY
+
+
+      # ======================================================
+      # 🔎 VALIDAR TODOS OS ARQUIVOS
+      # ======================================================
+
+      - name: 🔎 Validar arquivos finais
+
+        if: success()
+
+        run: |
+
+          set -e
+
+
+          echo "=========================================="
+
+          echo "📁 VALIDANDO OUTPUT"
+
+          echo "=========================================="
+
+
+          test -s output/epg.xml
+
+          test -s output/epg.xml.gz
+
+          test -s output/playlist.m3u
+
+          test -s output/epg-report.json
+
+
+          if [ -f output/epg_aliases.json ]; then
+
+            test -s output/epg_aliases.json
+
+          fi
+
+
+          echo
+
+          echo "✅ Todos os arquivos obrigatórios foram gerados."
+
+
+          echo
+
+          echo "📁 Conteúdo de output:"
+
+          ls -lah output
+
+
+      # ======================================================
+      # 📂 MOSTRAR ARQUIVOS GERADOS
+      # ======================================================
+
+      - name: 📂 Verificar arquivos gerados
+
+        if: always()
+
+        run: |
+
+          echo "=========================================="
+
+          echo "📁 OUTPUT"
+
+          echo "=========================================="
+
+
+          ls -lah output || true
+
+
+          echo
+
+          echo "=========================================="
+
+          echo "📺 PLAYLIST.M3U"
+
+          echo "=========================================="
+
+
+          if [ -f output/playlist.m3u ]; then
+
+            head -20 output/playlist.m3u
+
+          fi
+
+
+          echo
+
+          echo "=========================================="
+
+          echo "📺 FIM DA VERIFICAÇÃO"
+
+          echo "=========================================="
+
+
+      # ======================================================
+      # 📦 ARTIFACTS
+      # ======================================================
+
+      - name: 📦 Salvar artefatos
+
+        if: always()
+
+        uses: actions/upload-artifact@v4
+
+        with:
+
+          name: epg-output
+
+          retention-days: 7
+
+          path: |
+
+            output/epg.xml
+            output/epg.xml.gz
+            output/playlist.m3u
+            output/epg_aliases.json
+            output/epg-report.json
+            debug_epg/
+
+
+      # ======================================================
+      # 🚀 PUBLICAR EPG + PLAYLIST
+      # ======================================================
+
+      - name: 🚀 Publicar EPG + Playlist
+
+        if: success()
+
+        run: |
+
+          set -Eeuo pipefail
+
+
+          # --------------------------------------------------
+          # CONFIGURAR GIT
+          # --------------------------------------------------
+
+          git config user.name "github-actions[bot]"
+
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+
+          # --------------------------------------------------
+          # GARANTIR MAIN E ATUALIZAR REFERÊNCIA REMOTA
+          # --------------------------------------------------
+
+          git fetch origin main
+
+          git checkout main
+
+          # --------------------------------------------------
+          # ADICIONAR ARQUIVOS GERADOS
+          # --------------------------------------------------
+
+          git add \
+            output/epg.xml \
+            output/epg.xml.gz \
+            output/playlist.m3u \
+            output/epg-report.json
+
+          if [ -f output/epg_aliases.json ]; then
+            git add output/epg_aliases.json
+          fi
+
+
+          # --------------------------------------------------
+          # VERIFICAR ALTERAÇÕES
+          # --------------------------------------------------
+
+          if git diff --cached --quiet; then
+            echo "ℹ️ Nenhuma alteração para publicar."
+            exit 0
+          fi
+
+
+          # --------------------------------------------------
+          # COMMIT LOCAL
+          # --------------------------------------------------
+
+          git commit \
+            -m "📺 Atualizar EPG, playlist e relatório"
+
+
+          # --------------------------------------------------
+          # SINCRONIZAR COM O REMOTO
+          #
+          # -X theirs prioriza o commit gerado pelo workflow
+          # em caso de conflito nos arquivos de saída.
+          # Isso evita que um EPG recém-gerado seja perdido.
+          # --------------------------------------------------
+
+          echo "🔄 Sincronizando main com origin/main..."
+
+          git pull \
+            --rebase \
+            -X theirs \
+            origin main
+
+
+          # --------------------------------------------------
+          # GARANTIR QUE O REBASE TERMINOU
+          # --------------------------------------------------
+
+          if [ -d .git/rebase-merge ] || [ -d .git/rebase-apply ]; then
+            echo "❌ Rebase não foi concluído."
+            exit 1
+          fi
+
+
+          # --------------------------------------------------
+          # PUSH
+          # --------------------------------------------------
+
+          echo "📤 Publicando no origin/main..."
+
+          git push origin HEAD:main
+
+          echo "✅ EPG, playlist e relatório publicados com sucesso."
+
+
+      # ======================================================
+      # 🚨 PUBLICAR RELATÓRIO EM CASO DE FALHA
+      # ======================================================
+
+      - name: 🚨 Publicar relatório de falha
+
+        if: failure()
+
+        run: |
+
+          set +e
+
+
+          # --------------------------------------------------
+          # VERIFICAR RELATÓRIO
+          # --------------------------------------------------
+
+          if [ ! -s output/epg-report.json ]; then
+
+            echo "⚠️ Nenhum relatório disponível."
+
+            exit 0
+
+          fi
+
+
+          # --------------------------------------------------
+          # CONFIGURAR GIT
+          # --------------------------------------------------
+
+          git config user.name \
+            "github-actions[bot]"
+
+
+          git config user.email \
+            "41898282+github-actions[bot]@users.noreply.github.com"
+
+
+          # --------------------------------------------------
+          # ADICIONAR RELATÓRIO
+          # --------------------------------------------------
+
+          git add \
+            output/epg-report.json
+
+
+          # --------------------------------------------------
+          # VERIFICAR ALTERAÇÕES
+          # --------------------------------------------------
+
+          if git diff --cached --quiet; then
+
+            echo "ℹ️ Nenhuma alteração no relatório."
+
+            exit 0
+
+          fi
+
+
+          # --------------------------------------------------
+          # COMMIT
+          # --------------------------------------------------
+
+          git commit \
+            -m "🚨 Atualizar relatório de falha do EPG"
+
+
+          # --------------------------------------------------
+          # SINCRONIZAR COM O REMOTO
+          # --------------------------------------------------
+
+          git fetch origin main
+
+          git pull \
+            --rebase \
+            -X theirs \
+            origin main || {
+              echo "⚠️ Não foi possível rebasear o relatório de falha."
+              git rebase --abort 2>/dev/null || true
+              exit 0
+            }
+
+
+          # --------------------------------------------------
+          # PUSH
+          # --------------------------------------------------
+
+          git push origin HEAD:main || {
+            echo "⚠️ Não foi possível publicar o relatório de falha."
+            exit 0
+          }
