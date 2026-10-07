@@ -60,8 +60,8 @@ FONTES:
 EPG:
 
     https://raw.githubusercontent.com/
-    josieljefferson/epg-multi/
-    refs/heads/main/output/epg.xml
+    josieljefferson/EPG-M3U/
+    refs/heads/main/output/epg.xml.gz
 =============================================================
 """
 
@@ -110,8 +110,8 @@ DEBUG_DIR = ROOT / "debug_epg"
 
 EPG_URL = (
     "https://raw.githubusercontent.com/"
-    "josieljefferson/epg-multi/"
-    "refs/heads/main/output/epg.xml"
+    "josieljefferson/EPG-M3U/"
+    "refs/heads/main/output/epg.xml.gz"
 )
 
 
