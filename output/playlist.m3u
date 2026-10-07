@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/josieljefferson/epg-multi/refs/heads/main/output/epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz"
 #EXTINF:-1 tvg-id="TVClube.br" tvg-name="TV CLUBE" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-clube-hd-1_m.png" group-title="Piauí",TV CLUBE
 https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8
 #EXTINF:-1 tvg-id="Cancaonova.br" tvg-name="TV CANÇÃO NOVA" tvg-logo="https://cdn.mitvstatic.com/channels/br_canc-o-nova_m.png" group-title="Brasil",TV CANÇÃO NOVA
