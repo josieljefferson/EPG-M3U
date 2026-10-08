@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T07:22:41.531640-03:00",
+  "generated_at": "2026-10-08T07:35:29.704630-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -59,7 +59,7 @@
       "BandPiaui.br": 20,
       "BandSports.br": 24,
       "CNNBrasil.br": 23,
-      "CanalUOL.br": 119,
+      "CanalUOL.br": 118,
       "Cancaonova.br": 36,
       "DiscoveryChannel.br": 30,
       "ESPN.br": 14,
@@ -103,7 +103,7 @@
       "SporTV3.br": 15,
       "SportyNet.br": 217,
       "TNT.br": 29,
-      "TNTNovelas.br": 254,
+      "TNTNovelas.br": 255,
       "TVAlvoradaDoSul.br": 26,
       "TVAntena10.br": 18,
       "TVBrasil.br": 52,
@@ -1446,7 +1446,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 119,
+      "programs": 118,
       "url": "https://www.guiadetv.com/canal/canal-uol",
       "error": ""
     },
@@ -1468,7 +1468,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 119,
+      "programs": 118,
       "url": "https://www.guiadetv.com/canal/canal-uol",
       "error": ""
     },
@@ -1666,7 +1666,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 254,
+      "programs": 255,
       "url": "https://www.guiadetv.com/canal/tnt-novelas",
       "error": ""
     },
@@ -1688,7 +1688,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 254,
+      "programs": 255,
       "url": "https://www.guiadetv.com/canal/tnt-novelas",
       "error": ""
     },
