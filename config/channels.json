@@ -1,0 +1,841 @@
+{
+  "settings": {
+    "days": 2,
+    "timezone": "-0300",
+    "timezone_id": "America/Sao_Paulo",
+    "language": "pt-BR",
+    "sources": [
+      {
+        "id": "mitv",
+        "name": "mi.tv",
+        "priority": 1,
+        "url": "https://mi.tv/br/programacao",
+        "channel_url": "https://mi.tv/br/canais/{slug}"
+      },
+      {
+        "id": "guiadetv",
+        "name": "Guia de TV",
+        "priority": 2,
+        "url": "https://www.guiadetv.com",
+        "channel_url": "https://www.guiadetv.com/canal/{slug}",
+        "categories": [
+          {
+            "id": "filmes-series",
+            "name": "Filmes e Séries",
+            "url": "https://www.guiadetv.com/categorias/filmes-e-series.html"
+          },
+          {
+            "id": "documentarios",
+            "name": "Documentários",
+            "url": "https://www.guiadetv.com/categorias/documentarios.html"
+          },
+          {
+            "id": "esportes",
+            "name": "Esportes",
+            "url": "https://www.guiadetv.com/categorias/esportes.html"
+          },
+          {
+            "id": "infantil",
+            "name": "Infantil",
+            "url": "https://www.guiadetv.com/categorias/infantil.html"
+          },
+          {
+            "id": "tv-aberta",
+            "name": "TV Aberta",
+            "url": "https://www.guiadetv.com/categorias/tv-aberta.html"
+          },
+          {
+            "id": "noticias",
+            "name": "Notícias",
+            "url": "https://www.guiadetv.com/categorias/noticias.html"
+          },
+          {
+            "id": "variedades",
+            "name": "Variedades",
+            "url": "https://www.guiadetv.com/categorias/variedades.html"
+          }
+        ]
+      },
+      {
+        "id": "alepi",
+        "name": "ALEPI",
+        "priority": 3,
+        "url": "https://www.al.pi.leg.br/comunicacao/tv-assembleia/programacao",
+        "only_channels": [
+          "tv.assembleia.piaui.br"
+        ]
+      }
+    ]
+  },
+  "channels": [
+    {
+      "id": "TVClube.br",
+      "name": "TV CLUBE",
+      "slug": "tv-clube-hd-1",
+      "group": "Piauí",
+      "logo": "https://cdn.mitvstatic.com/channels/br_tv-clube-hd-1_m.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "TV Clube",
+        "TV Clube PI",
+        "TV Clube Piauí",
+        "TV Clube Teresina",
+        "TV Clube HD"
+      ]
+    },
+    {
+      "id": "Cancaonova.br",
+      "name": "TV CANÇÃO NOVA",
+      "slug": "canc-o-nova",
+      "group": "Brasil",
+      "logo": "https://cdn.mitvstatic.com/channels/br_canc-o-nova_m.png",
+      "stream": "https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/chunklist_w1352164720.m3u8",
+      "aliases": [
+        "Canção Nova",
+        "Canção Nova HD",
+        "TV Canção Nova"
+      ]
+    },
+    {
+      "id": "BandPiaui.br",
+      "name": "BAND PIAUÍ",
+      "slug": "band-piaui-hd",
+      "group": "Piauí",
+      "logo": "https://cdn.mitvstatic.com/channels/br_band-piaui-hd_m.png",
+      "stream": "https://6836041ea1117.streamlock.net/tvodia/tvodia/chunklist_w183304090.m3u8",
+      "aliases": [
+        "Band Piauí",
+        "Band Piauí HD",
+        "Band PI"
+      ]
+    },
+    {
+      "id": "TVCidadeVerde.br",
+      "name": "TV CIDADE VERDE",
+      "slug": "tv-cidade-verde-hd",
+      "group": "Piauí",
+      "logo": "https://cdn.mitvstatic.com/channels/br_tv-cidade-verde-hd_m.png",
+      "stream": "https://6836041ea1117.streamlock.net/cverde/cverde/chunklist_w1356678882.m3u8",
+      "aliases": [
+        "TV Cidade Verde",
+        "TV Cidade Verde HD",
+        "Cidade Verde",
+        "Cidade Verde HD"
+      ]
+    },
+    {
+      "id": "TVAntena10.br",
+      "name": "TV ANTENA 10",
+      "slug": "tv-antena-10-hd",
+      "group": "Piauí",
+      "logo": "https://cdn.mitvstatic.com/channels/br_tv-antena-10-hd_m.png",
+      "stream": "https://srt01.logicahost.com.br/a10mais/tracks-v1a1/mono.ts.m3u8",
+      "aliases": [
+        "TV Antena 10",
+        "Antena 10",
+        "TV Antena 10 HD",
+        "Antena 10 HD"
+      ]
+    },
+    {
+      "id": "SexyHot.br",
+      "name": "SEXY HOT",
+      "slug": "sexy-hot",
+      "group": "Adulto",
+      "logo": "https://cdn.mitvstatic.com/channels/br_sexy-hot_m.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "Sexy Hot",
+        "SexyHot",
+        "Sexy Hot HD"
+      ]
+    },
+    {
+      "id": "sexprive-brasileirinhas.br",
+      "name": "SEXPRIVE",
+      "slug": "sexprive-brasileirinhas",
+      "group": "Adulto",
+      "logo": "https://cdn.mitvstatic.com/channels/br_sexprive-brasileirinhas_m.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "SexPrive",
+        "SexPrive Brasileirinhas",
+        "Sex Prive",
+        "Brasileirinhas"
+      ]
+    },
+    {
+      "id": "SextremeBrazil.br",
+      "name": "SEXTREME BRAZIL",
+      "slug": "sextreme-brazil",
+      "group": "Adulto",
+      "logo": "https://cdn.mitvstatic.com/channels/br_sextreme-brazil_m.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "SexTreme",
+        "SexTreme Brazil",
+        "SEXTREME",
+        "Sextreme Brazil"
+      ]
+    },
+    {
+      "id": "tv.assembleia.piaui.br",
+      "name": "TV ASSEMBLEIA PI",
+      "slug": "",
+      "group": "Piauí",
+      "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/00d88a2f7b68ae4ec8f03cf98a5f0045.webp",
+      "stream": "https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8",
+      "aliases": [
+        "TV Assembleia Piauí",
+        "TV Assembleia PI",
+        "Assembleia Legislativa do Piauí",
+        "TV ALEPI",
+        "TVAlepi",
+        "ALEPI"
+      ]
+    },
+    {
+      "id": "BandSports.br",
+      "name": "BAND SPORTS",
+      "slug": "bandsports",
+      "group": "Esportes",
+      "logo": "https://static.guiadetv.com/channel/b5rLv8XUFPm6zzun6rmU8hSsqtsx18xueBIqQLaT.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "BandSports",
+        "Band Sports",
+        "Bandsports"
+      ]
+    },
+    {
+      "id": "ESPN.br",
+      "name": "ESPN",
+      "slug": "espn",
+      "group": "Esportes",
+      "logo": "https://static.guiadetv.com/channel/TjGpU2fe85zIbjNbJU92iR7Uup7BnpXtKVvuAALV.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "ESPN",
+        "ESPN Brasil"
+      ]
+    },
+    {
+      "id": "ESPN2.br",
+      "name": "ESPN 2",
+      "slug": "espn-2",
+      "group": "Esportes",
+      "logo": "https://static.guiadetv.com/channel/55279R9yfRKnzN4XUeuZ9hdd0WM61fD8rKAPD4oI.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "ESPN2",
+        "ESPN 2",
+        "ESPN 2 Brasil"
+      ]
+    },
+    {
+      "id": "ESPN3.br",
+      "name": "ESPN 3",
+      "slug": "espn-3",
+      "group": "Esportes",
+      "logo": "https://static.guiadetv.com/channel/uuZJDw4RNEtG2KZLe7kNNTyxX6jKpNPJDg3yYYis.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "ESPN3",
+        "ESPN 3",
+        "ESPN 3 Brasil"
+      ]
+    },
+    {
+      "id": "ESPN4.br",
+      "name": "ESPN 4",
+      "slug": "espn-4",
+      "group": "Esportes",
+      "logo": "https://static.guiadetv.com/channel/NbCozvwgOONEXubbDHqcoBPkbBTrFcg5gA1aMA3o.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "ESPN4",
+        "ESPN 4",
+        "ESPN 4 Brasil"
+      ]
+    },
+    {
+      "id": "ESPN5.br",
+      "name": "ESPN 5",
+      "slug": "espn-5",
+      "group": "Esportes",
+      "logo": "https://static.guiadetv.com/channel/a0k3Ik9vT9eMBoIc5ufsHvbHAdqilE3qmk3rOuvS.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "ESPN5",
+        "ESPN 5",
+        "ESPN 5 Brasil"
+      ]
+    },
+    {
+      "id": "ESPN6.br",
+      "name": "ESPN 6",
+      "slug": "espn-6",
+      "group": "Esportes",
+      "logo": "https://static.guiadetv.com/channel/nquFTL8kN4zEvZvNrn0frqh8KjAwN2jw4qb64Hzm.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "ESPN6",
+        "ESPN 6",
+        "ESPN 6 Brasil"
+      ]
+    },
+    {
+      "id": "GETV.br",
+      "name": "GE TV",
+      "slug": "ge-tv",
+      "group": "Esportes",
+      "logo": "https://static.guiadetv.com/channel/NvEKyMyWSG5b5DyP3fpuUcVpKNBLRnX9YbLrQp0n.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "GE TV",
+        "GETV",
+        "Globo Esporte TV"
+      ]
+    },
+    {
+      "id": "NSports.br",
+      "name": "N SPORTS",
+      "slug": "nsports",
+      "group": "Esportes",
+      "logo": "https://static.guiadetv.com/channel/tOSo2u05xSHpkbDSQbBKIacvR6e1BgS9O9PvY664.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "NSports",
+        "N Sports"
+      ]
+    },
+    {
+      "id": "Premiere2.br",
+      "name": "PREMIERE 2",
+      "slug": "premiere-2",
+      "group": "Esportes",
+      "logo": "https://static.guiadetv.com/channel/ZaLxlvm4ijaSAtTwfhJTrvYjmiaFi8SciyiHwh9l.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "Premiere 2",
+        "Premiere2"
+      ]
+    },
+    {
+      "id": "Premiere3.br",
+      "name": "PREMIERE 3",
+      "slug": "premiere-3",
+      "group": "Esportes",
+      "logo": "https://static.guiadetv.com/channel/FDXXZa0cRf9ZkXwruyrL8YJCwiJW8k2wEwMmiEeI.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "Premiere 3",
+        "Premiere3"
+      ]
+    },
+    {
+      "id": "Premiere4.br",
+      "name": "PREMIERE 4",
+      "slug": "premiere-4",
+      "group": "Esportes",
+      "logo": "https://static.guiadetv.com/channel/76M6sIBSXfOQ1gs8huZq9blVihxjUYBk38SH5G1S.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "Premiere 4",
+        "Premiere4"
+      ]
+    },
+    {
+      "id": "Premiere5.br",
+      "name": "PREMIERE 5",
+      "slug": "premiere-5",
+      "group": "Esportes",
+      "logo": "https://static.guiadetv.com/channel/RR5YcaXv67v9AKcLHXOyY9YuRBmNOPgC028PU8vV.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "Premiere 5",
+        "Premiere5"
+      ]
+    },
+    {
+      "id": "Premiere6.br",
+      "name": "PREMIERE 6",
+      "slug": "premiere-6",
+      "group": "Esportes",
+      "logo": "https://static.guiadetv.com/channel/mHFMJM5sGQnKorD0HnFXLO2JcUlHvEObjSZiHknP.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "Premiere 6",
+        "Premiere6"
+      ]
+    },
+    {
+      "id": "Premiere7.br",
+      "name": "PREMIERE 7",
+      "slug": "premiere-7",
+      "group": "Esportes",
+      "logo": "https://static.guiadetv.com/channel/IIxu6NiXwlVLL7Fs1cxm7VFLOeAu4TXu86wefVrG.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "Premiere 7",
+        "Premiere7"
+      ]
+    },
+    {
+      "id": "PremiereFC.br",
+      "name": "PREMIERE FC",
+      "slug": "premiere-fc",
+      "group": "Esportes",
+      "logo": "https://static.guiadetv.com/channel/MEO9lxSgmC5CAwsKhTHPzZCZX9ZFE7lRFqA48ElS.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "Premiere FC",
+        "Premiere Clubes",
+        "Premiere"
+      ]
+    },
+    {
+      "id": "SporTV.br",
+      "name": "SPORTV",
+      "slug": "sportv",
+      "group": "Esportes",
+      "logo": "https://cdn.mitvstatic.com/channels/br_sportv_m.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "SporTV",
+        "Sport TV"
+      ]
+    },
+    {
+      "id": "SporTV2.br",
+      "name": "SPORTV 2",
+      "slug": "sportv-2",
+      "group": "Esportes",
+      "logo": "https://cdn.mitvstatic.com/channels/br_sportv2_m.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "SporTV2",
+        "SporTV 2"
+      ]
+    },
+    {
+      "id": "SporTV3.br",
+      "name": "SPORTV 3",
+      "slug": "sportv-3",
+      "group": "Esportes",
+      "logo": "https://cdn.mitvstatic.com/channels/br_sportv3_m.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "SporTV3",
+        "SporTV 3"
+      ]
+    },
+    {
+      "id": "SportyNet.br",
+      "name": "SPORTYNET",
+      "slug": "sportynet",
+      "group": "Esportes",
+      "logo": "https://static.guiadetv.com/channel/LzYk6E4aKcCOD2ptoJUadbTUClGL6oHitZ8AJSEX.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "SporyNet",
+        "Sporty.net"
+      ]
+    },
+    {
+      "id": "XSports.br",
+      "name": "X SPORTS",
+      "slug": "xsports",
+      "group": "Esportes",
+      "logo": "https://static.guiadetv.com/channel/agJ0Cs58Y5Is8i6fzfnbw6xhBjEjsmXGBtO64gx8.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "XSports",
+        "X Sports"
+      ]
+    },
+    {
+      "id": "Space.br",
+      "name": "SPACE",
+      "slug": "space",
+      "group": "Filmes e Séries",
+      "logo": "https://cdn.mitvstatic.com/channels/br_space_m.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "Space Channel",
+        "TNT Space"
+      ]
+    },
+    {
+      "id": "TNT.br",
+      "name": "TNT",
+      "slug": "tnt",
+      "group": "Filmes e Séries",
+      "logo": "https://cdn.mitvstatic.com/channels/br_tnt_m.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "TNT Brasil",
+        "TNT Channel"
+      ]
+    },
+    {
+      "id": "DiscoveryChannel.br",
+      "name": "DISCOVERY CHANNEL",
+      "slug": "discovery-channel",
+      "group": "Documentários",
+      "logo": "https://cdn.mitvstatic.com/channels/br_discovery_m.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "Discovery",
+        "Discovery Channel"
+      ]
+    },
+    {
+      "id": "InvestigacaoDiscovery.br",
+      "name": "INVESTIGAÇÃO DISCOVERY",
+      "slug": "investigacao-discovery",
+      "group": "Documentários",
+      "logo": "https://static.guiadetv.com/channel/UJ1Uam4fnZGaoLJkfY8LITk8P3bklKFfXz9JSCmz.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "Investigação Discovery",
+        "ID",
+        "Investigation Discovery"
+      ]
+    },
+    {
+      "id": "Band.br",
+      "name": "BAND",
+      "slug": "band",
+      "group": "Brasil",
+      "logo": "https://cdn.mitvstatic.com/channels/br_bandeirantes_m.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "Band TV",
+        "Rede Bandeirantes",
+        "Bandeirantes"
+      ]
+    },
+    {
+      "id": "GloboRio.br",
+      "name": "GLOBO RIO DE JANEIRO",
+      "slug": "globo-rio-de-janeiro",
+      "group": "Brasil",
+      "logo": "https://cdn.mitvstatic.com/channels/br_globo-rio-hd_m.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "Globo RJ",
+        "TV Globo Rio",
+        "Globo Rio"
+      ]
+    },
+    {
+      "id": "GloboSP.br",
+      "name": "GLOBO SP",
+      "slug": "globo-sp",
+      "group": "Brasil",
+      "logo": "https://cdn.mitvstatic.com/channels/br_globo-rio-hd_m.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "Globo SP",
+        "TV Globo São Paulo",
+        "Globo São Paulo"
+      ]
+    },
+    {
+      "id": "RecordTV.br",
+      "name": "RECORD TV",
+      "slug": "record",
+      "group": "Brasil",
+      "logo": "https://cdn.mitvstatic.com/channels/record_m.jpg",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "Record",
+        "Rede Record",
+        "Record TV"
+      ]
+    },
+    {
+      "id": "RedeTV.br",
+      "name": "REDE TV",
+      "slug": "rede-tv",
+      "group": "Brasil",
+      "logo": "https://cdn.mitvstatic.com/channels/br_rede-tv_m.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "RedeTV!",
+        "Rede TV!"
+      ]
+    },
+    {
+      "id": "SBT.br",
+      "name": "SBT",
+      "slug": "sbt",
+      "group": "Brasil",
+      "logo": "https://cdn.mitvstatic.com/channels/br_sbt_m.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "Sistema Brasileiro de Televisão",
+        "SBT Brasil"
+      ]
+    },
+    {
+      "id": "SBTRio.br",
+      "name": "SBT RIO DE JANEIRO",
+      "slug": "sbt-rio-de-janeiro",
+      "group": "Brasil",
+      "logo": "https://cdn.mitvstatic.com/channels/br_sbt_m.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "SBT RJ",
+        "SBT Rio"
+      ]
+    },
+    {
+      "id": "TVBrasil.br",
+      "name": "TV BRASIL",
+      "slug": "tv-brasil",
+      "group": "Brasil",
+      "logo": "https://static.guiadetv.com/channel/hiPOTuS9RKQcM1CvBj9RVbEhZ0LfWyrk1KSTjFJq.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "TV Brasil",
+        "EBC TV Brasil"
+      ]
+    },
+    {
+      "id": "TVCultura.br",
+      "name": "TV CULTURA",
+      "slug": "cultura-hd",
+      "group": "Brasil",
+      "logo": "https://static.guiadetv.com/channel/O3ZfDTZag7EgZHmklnGStrYyxc4WlgE3NvDmGuxW.gif",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "TV Cultura",
+        "Cultura",
+        "TV Cultura HD"
+      ]
+    },
+    {
+      "id": "BandNews.br",
+      "name": "BANDNEWS",
+      "slug": "bandnews",
+      "group": "Notícias",
+      "logo": "https://cdn.mitvstatic.com/channels/br_bandnews-hd_m.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "Band News",
+        "BandNews TV"
+      ]
+    },
+    {
+      "id": "CanalUOL.br",
+      "name": "CANAL UOL",
+      "slug": "canal-uol",
+      "group": "Notícias",
+      "logo": "https://static.guiadetv.com/channel/o0rxLMUiAxBay6Y55180E2KpjaEBkKrviByLVWSK.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "UOL",
+        "Canal UOL"
+      ]
+    },
+    {
+      "id": "CNNBrasil.br",
+      "name": "CNN BRASIL",
+      "slug": "cnn",
+      "group": "Notícias",
+      "logo": "https://static.guiadetv.com/channel/yvn5yE3HZJJsx3vxT5g4eGlvo9ofpLuOu9o9cFmF.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "CNN Brasil",
+        "CNN"
+      ]
+    },
+    {
+      "id": "GloboNews.br",
+      "name": "GLOBO NEWS",
+      "slug": "globo-news",
+      "group": "Notícias",
+      "logo": "https://static.guiadetv.com/channel/KpYLORqCHpFTqsGbREw13YWNxMiG7ZprWbU1VjWT.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "GloboNews",
+        "Globo News"
+      ]
+    },
+    {
+      "id": "JovemPanNews.br",
+      "name": "JOVEM PAN NEWS",
+      "slug": "jovem-pan-news",
+      "group": "Notícias",
+      "logo": "https://static.guiadetv.com/channel/mUg3QjceZ1q2vtKIQlh6j0y8Pqs9udn4F0qGfqAs.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "JP News",
+        "Jovem Pan News",
+        "Jovem Pan"
+      ]
+    },
+    {
+      "id": "RecordNews.br",
+      "name": "RECORD NEWS",
+      "slug": "record-news",
+      "group": "Notícias",
+      "logo": "https://static.guiadetv.com/channel/fWKQ5LEAdazLVIDIQdLokT6IBRoPxF2GehQonaNI.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "Record News",
+        "RecordNews"
+      ]
+    },
+    {
+      "id": "SBTNews.br",
+      "name": "SBT NEWS",
+      "slug": "sbt-news",
+      "group": "Notícias",
+      "logo": "https://static.guiadetv.com/channel/eKOsz2b9YZDjpqHdkXF1HIKtVFwaiAh37q1psBZe.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "SBT News",
+        "SBTNews"
+      ]
+    },
+    {
+      "id": "Multishow.br",
+      "name": "MULTISHOW",
+      "slug": "multishow-hd",
+      "group": "Entretenimento",
+      "logo": "https://cdn.mitvstatic.com/channels/br_multishow-hd_m.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "Multishow",
+        "Multishow HD"
+      ]
+    },
+    {
+      "id": "TNTNovelas.br",
+      "name": "TNT NOVELAS",
+      "slug": "tnt-novelas",
+      "group": "Novelas",
+      "logo": "https://static.guiadetv.com/channel/oQCqU3ZmzXazJQi7YbfUOKYB0jtJxAeepvHjlbQ0.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "TNT Novelas",
+        "TNT Novelas HD"
+      ]
+    },
+    {
+      "id": "Viva.br",
+      "name": "VIVA",
+      "slug": "viva",
+      "group": "Entretenimento",
+      "logo": "https://static.guiadetv.com/channel/B4BVxVhqvMhizBgo2AcKDxTpeKsLImCKhvFrdWsf.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "Viva",
+        "Viva HD",
+        "Canal Viva"
+      ]
+    },
+    {
+      "id": "TVAlvoradaDoSul.br",
+      "name": "TV ALVORADA DO SUL",
+      "slug": "tv-alvorada-do-sul-hd",
+      "group": "Piauí",
+      "logo": "https://cdn.mitvstatic.com/channels/br_tv-alvorada-do-sul-hd_m.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "TV Alvorada do Sul",
+        "TV Alvorada do Sul HD"
+      ]
+    },
+    {
+      "id": "MeioNorte.br",
+      "name": "MEIO NORTE",
+      "slug": "meio-norte",
+      "group": "Piauí",
+      "logo": "https://cdn.mitvstatic.com/channels/br_meio-norte-hd_m.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "TV Meio Norte",
+        "Meio Norte TV",
+        "Meio Norte HD"
+      ]
+    },
+    {
+      "id": "MeioNorteHD.br",
+      "name": "MEIO NORTE HD",
+      "slug": "meio-norte-hd",
+      "group": "Piauí",
+      "logo": "https://cdn.mitvstatic.com/channels/br_meio-norte-hd_m.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "Meio Norte",
+        "TV Meio Norte HD"
+      ]
+    },
+    {
+      "id": "Playboy.br",
+      "name": "PLAYBOY",
+      "slug": "playboy",
+      "group": "Adulto",
+      "logo": "https://cdn.mitvstatic.com/channels/br_playboy_m.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "Playboy",
+        "Playboy TV",
+        "Playboy HD"
+      ]
+    },
+    {
+      "id": "PlayboyHD.br",
+      "name": "PLAYBOY HD",
+      "slug": "playboy-hd",
+      "group": "Adulto",
+      "logo": "https://cdn.mitvstatic.com/channels/br_playboy-hd_m.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "Playboy HD",
+        "Playboy"
+      ]
+    },
+    {
+      "id": "VenusTV.br",
+      "name": "VENUS TV",
+      "slug": "venus-tv-sd",
+      "group": "Adulto",
+      "logo": "https://cdn.mitvstatic.com/channels/br_venus-tv-sd_m.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "Venus TV",
+        "Venus TV SD"
+      ]
+    },
+    {
+      "id": "RedeGloboTeresina.br",
+      "name": "REDE GLOBO TERESINA",
+      "slug": "rede-globo-teresina",
+      "group": "Piauí",
+      "logo": "https://cdn.mitvstatic.com/channels/globo_m.jpg",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "Globo Teresina",
+        "TV Globo Teresina",
+        "Rede Globo Teresina"
+      ]
+    },
+    {
+      "id": "SBTPiaui.br",
+      "name": "SBT PIAUÍ",
+      "slug": "sbt-piaui",
+      "group": "Piauí",
+      "logo": "https://cdn.mitvstatic.com/channels/br_sbt_m.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "SBT PI",
+        "SBT Piauí"
+      ]
+    }
+  ]
+}
