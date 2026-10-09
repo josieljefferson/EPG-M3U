@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T17:15:01.585271-03:00",
+  "generated_at": "2026-10-09T17:27:46.114917-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -49,9 +49,9 @@
     "with_programs": 61
   },
   "programs": {
-    "total": 3445,
+    "total": 3446,
     "by_source": {
-      "fallback": 3445
+      "fallback": 3446
     },
     "by_channel": {
       "Band.br": 21,
@@ -77,7 +77,7 @@
       "MeioNorte.br": 19,
       "MeioNorteHD.br": 19,
       "Multishow.br": 43,
-      "NSports.br": 179,
+      "NSports.br": 180,
       "Playboy.br": 45,
       "PlayboyHD.br": 45,
       "Premiere2.br": 3,
@@ -676,7 +676,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 179,
+      "programs": 180,
       "url": "https://www.guiadetv.com/canal/nsports",
       "error": ""
     },
@@ -698,7 +698,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 179,
+      "programs": 180,
       "url": "https://www.guiadetv.com/canal/nsports",
       "error": ""
     },
