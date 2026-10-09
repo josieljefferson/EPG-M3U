@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T07:28:50.359028-03:00",
+  "generated_at": "2026-10-09T07:41:43.080308-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -49,9 +49,9 @@
     "with_programs": 61
   },
   "programs": {
-    "total": 3637,
+    "total": 3635,
     "by_source": {
-      "fallback": 3637
+      "fallback": 3635
     },
     "by_channel": {
       "Band.br": 21,
@@ -59,14 +59,14 @@
       "BandPiaui.br": 23,
       "BandSports.br": 25,
       "CNNBrasil.br": 25,
-      "CanalUOL.br": 108,
+      "CanalUOL.br": 107,
       "Cancaonova.br": 40,
       "DiscoveryChannel.br": 27,
       "ESPN.br": 18,
       "ESPN2.br": 14,
-      "ESPN3.br": 166,
+      "ESPN3.br": 167,
       "ESPN4.br": 160,
-      "ESPN5.br": 145,
+      "ESPN5.br": 144,
       "ESPN6.br": 133,
       "GETV.br": 109,
       "GloboNews.br": 15,
@@ -87,7 +87,7 @@
       "Premiere6.br": 3,
       "Premiere7.br": 3,
       "PremiereFC.br": 285,
-      "RecordNews.br": 109,
+      "RecordNews.br": 108,
       "RecordTV.br": 30,
       "RedeGloboTeresina.br": 28,
       "RedeTV.br": 25,
@@ -456,7 +456,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 166,
+      "programs": 167,
       "url": "https://www.guiadetv.com/canal/espn-3",
       "error": ""
     },
@@ -478,7 +478,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 166,
+      "programs": 167,
       "url": "https://www.guiadetv.com/canal/espn-3",
       "error": ""
     },
@@ -544,7 +544,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 145,
+      "programs": 144,
       "url": "https://www.guiadetv.com/canal/espn-5",
       "error": ""
     },
@@ -566,7 +566,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 145,
+      "programs": 144,
       "url": "https://www.guiadetv.com/canal/espn-5",
       "error": ""
     },
@@ -1446,7 +1446,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 108,
+      "programs": 107,
       "url": "https://www.guiadetv.com/canal/canal-uol",
       "error": ""
     },
@@ -1468,7 +1468,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 108,
+      "programs": 107,
       "url": "https://www.guiadetv.com/canal/canal-uol",
       "error": ""
     },
@@ -1556,7 +1556,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 109,
+      "programs": 108,
       "url": "https://www.guiadetv.com/canal/record-news",
       "error": ""
     },
@@ -1578,7 +1578,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 109,
+      "programs": 108,
       "url": "https://www.guiadetv.com/canal/record-news",
       "error": ""
     },
