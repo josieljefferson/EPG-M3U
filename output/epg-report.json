@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T06:49:09.607911-03:00",
+  "generated_at": "2026-10-10T07:02:16.585685-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -70,7 +70,7 @@
       "ESPN6.br": 133,
       "GETV.br": 103,
       "GloboNews.br": 17,
-      "GloboRio.br": 105,
+      "GloboRio.br": 104,
       "GloboSP.br": 26,
       "InvestigacaoDiscovery.br": 35,
       "JovemPanNews.br": 18,
@@ -87,12 +87,12 @@
       "Premiere6.br": 4,
       "Premiere7.br": 4,
       "PremiereFC.br": 285,
-      "RecordNews.br": 110,
+      "RecordNews.br": 109,
       "RecordTV.br": 23,
       "RedeGloboTeresina.br": 26,
       "RedeTV.br": 27,
       "SBT.br": 18,
-      "SBTNews.br": 72,
+      "SBTNews.br": 71,
       "SBTPiaui.br": 19,
       "SBTRio.br": 81,
       "SextremeBrazil.br": 19,
@@ -101,9 +101,9 @@
       "SporTV.br": 29,
       "SporTV2.br": 15,
       "SporTV3.br": 20,
-      "SportyNet.br": 209,
+      "SportyNet.br": 211,
       "TNT.br": 25,
-      "TNTNovelas.br": 250,
+      "TNTNovelas.br": 251,
       "TVAlvoradaDoSul.br": 26,
       "TVAntena10.br": 17,
       "TVBrasil.br": 55,
@@ -984,7 +984,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 209,
+      "programs": 211,
       "url": "https://www.guiadetv.com/canal/sportynet",
       "error": ""
     },
@@ -1006,7 +1006,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 209,
+      "programs": 211,
       "url": "https://www.guiadetv.com/canal/sportynet",
       "error": ""
     },
@@ -1182,7 +1182,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 105,
+      "programs": 104,
       "url": "https://www.guiadetv.com/canal/globo-rio-de-janeiro",
       "error": ""
     },
@@ -1204,7 +1204,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 105,
+      "programs": 104,
       "url": "https://www.guiadetv.com/canal/globo-rio-de-janeiro",
       "error": ""
     },
@@ -1556,7 +1556,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 110,
+      "programs": 109,
       "url": "https://www.guiadetv.com/canal/record-news",
       "error": ""
     },
@@ -1578,7 +1578,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 110,
+      "programs": 109,
       "url": "https://www.guiadetv.com/canal/record-news",
       "error": ""
     },
@@ -1600,7 +1600,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 72,
+      "programs": 71,
       "url": "https://www.guiadetv.com/canal/sbt-news",
       "error": ""
     },
@@ -1622,7 +1622,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 72,
+      "programs": 71,
       "url": "https://www.guiadetv.com/canal/sbt-news",
       "error": ""
     },
@@ -1666,7 +1666,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 250,
+      "programs": 251,
       "url": "https://www.guiadetv.com/canal/tnt-novelas",
       "error": ""
     },
@@ -1688,7 +1688,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 250,
+      "programs": 251,
       "url": "https://www.guiadetv.com/canal/tnt-novelas",
       "error": ""
     },
