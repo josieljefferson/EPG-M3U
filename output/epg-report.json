@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T16:23:47.567755-03:00",
+  "generated_at": "2026-10-10T16:36:43.721017-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -49,9 +49,9 @@
     "with_programs": 61
   },
   "programs": {
-    "total": 3375,
+    "total": 3366,
     "by_source": {
-      "fallback": 3375
+      "fallback": 3366
     },
     "by_channel": {
       "Band.br": 24,
@@ -70,7 +70,7 @@
       "ESPN6.br": 122,
       "GETV.br": 98,
       "GloboNews.br": 21,
-      "GloboRio.br": 87,
+      "GloboRio.br": 83,
       "GloboSP.br": 26,
       "InvestigacaoDiscovery.br": 35,
       "JovemPanNews.br": 18,
@@ -86,8 +86,8 @@
       "Premiere5.br": 54,
       "Premiere6.br": 4,
       "Premiere7.br": 4,
-      "PremiereFC.br": 278,
-      "RecordNews.br": 94,
+      "PremiereFC.br": 276,
+      "RecordNews.br": 91,
       "RecordTV.br": 23,
       "RedeGloboTeresina.br": 26,
       "RedeTV.br": 29,
@@ -874,7 +874,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 278,
+      "programs": 276,
       "url": "https://www.guiadetv.com/canal/premiere-fc",
       "error": ""
     },
@@ -896,7 +896,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 278,
+      "programs": 276,
       "url": "https://www.guiadetv.com/canal/premiere-fc",
       "error": ""
     },
@@ -1182,7 +1182,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 87,
+      "programs": 83,
       "url": "https://www.guiadetv.com/canal/globo-rio-de-janeiro",
       "error": ""
     },
@@ -1204,7 +1204,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 87,
+      "programs": 83,
       "url": "https://www.guiadetv.com/canal/globo-rio-de-janeiro",
       "error": ""
     },
@@ -1556,7 +1556,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 94,
+      "programs": 91,
       "url": "https://www.guiadetv.com/canal/record-news",
       "error": ""
     },
@@ -1578,7 +1578,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 94,
+      "programs": 91,
       "url": "https://www.guiadetv.com/canal/record-news",
       "error": ""
     },
