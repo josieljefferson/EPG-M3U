@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T16:38:08.855314-03:00",
+  "generated_at": "2026-10-11T16:51:15.960394-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -49,12 +49,12 @@
     "with_programs": 61
   },
   "programs": {
-    "total": 3141,
+    "total": 3032,
     "by_source": {
-      "fallback": 3141
+      "fallback": 3032
     },
     "by_channel": {
-      "Band.br": 90,
+      "Band.br": 19,
       "BandNews.br": 61,
       "BandPiaui.br": 23,
       "BandSports.br": 26,
@@ -66,7 +66,7 @@
       "ESPN2.br": 12,
       "ESPN3.br": 153,
       "ESPN4.br": 133,
-      "ESPN5.br": 131,
+      "ESPN5.br": 129,
       "ESPN6.br": 120,
       "GETV.br": 96,
       "GloboNews.br": 20,
@@ -81,7 +81,7 @@
       "Playboy.br": 44,
       "PlayboyHD.br": 44,
       "Premiere2.br": 5,
-      "Premiere3.br": 40,
+      "Premiere3.br": 5,
       "Premiere4.br": 6,
       "Premiere5.br": 32,
       "Premiere6.br": 6,
@@ -103,7 +103,7 @@
       "SporTV3.br": 17,
       "SportyNet.br": 215,
       "TNT.br": 26,
-      "TNTNovelas.br": 252,
+      "TNTNovelas.br": 253,
       "TVAlvoradaDoSul.br": 17,
       "TVAntena10.br": 16,
       "TVBrasil.br": 28,
@@ -112,15 +112,15 @@
       "TVCultura.br": 33,
       "VenusTV.br": 17,
       "Viva.br": 30,
-      "XSports.br": 165,
+      "XSports.br": 163,
       "sexprive-brasileirinhas.br": 27,
       "tv.assembleia.piaui.br": 80
     }
   },
   "attempts": {
-    "total": 164,
+    "total": 160,
     "successful": 122,
-    "failed": 42
+    "failed": 38
   },
   "files": {
     "epg": "output/epg.xml",
@@ -544,7 +544,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 131,
+      "programs": 129,
       "url": "https://www.guiadetv.com/canal/espn-5",
       "error": ""
     },
@@ -566,7 +566,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 131,
+      "programs": 129,
       "url": "https://www.guiadetv.com/canal/espn-5",
       "error": ""
     },
@@ -730,20 +730,9 @@
       "date": "2026-10-11",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
-      "url": "https://mi.tv/br/canais/premiere-3",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "Premiere3.br",
-      "channel_name": "PREMIERE 3",
-      "date": "2026-10-11",
-      "source": "guiadetv",
-      "priority": 2,
       "success": true,
-      "programs": 40,
-      "url": "https://www.guiadetv.com/canal/premiere-3",
+      "programs": 5,
+      "url": "https://mi.tv/br/canais/premiere-3",
       "error": ""
     },
     {
@@ -752,20 +741,9 @@
       "date": "2026-10-12",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
-      "url": "https://mi.tv/br/canais/premiere-3",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "Premiere3.br",
-      "channel_name": "PREMIERE 3",
-      "date": "2026-10-12",
-      "source": "guiadetv",
-      "priority": 2,
       "success": true,
-      "programs": 40,
-      "url": "https://www.guiadetv.com/canal/premiere-3",
+      "programs": 5,
+      "url": "https://mi.tv/br/canais/premiere-3",
       "error": ""
     },
     {
@@ -1050,7 +1028,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 165,
+      "programs": 163,
       "url": "https://www.guiadetv.com/canal/xsports",
       "error": ""
     },
@@ -1072,7 +1050,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 165,
+      "programs": 163,
       "url": "https://www.guiadetv.com/canal/xsports",
       "error": ""
     },
@@ -1170,20 +1148,9 @@
       "date": "2026-10-11",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
-      "url": "https://mi.tv/br/canais/band",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "Band.br",
-      "channel_name": "BAND",
-      "date": "2026-10-11",
-      "source": "guiadetv",
-      "priority": 2,
       "success": true,
-      "programs": 90,
-      "url": "https://www.guiadetv.com/canal/band",
+      "programs": 19,
+      "url": "https://mi.tv/br/canais/band",
       "error": ""
     },
     {
@@ -1192,20 +1159,9 @@
       "date": "2026-10-12",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
-      "url": "https://mi.tv/br/canais/band",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "Band.br",
-      "channel_name": "BAND",
-      "date": "2026-10-12",
-      "source": "guiadetv",
-      "priority": 2,
       "success": true,
-      "programs": 90,
-      "url": "https://www.guiadetv.com/canal/band",
+      "programs": 19,
+      "url": "https://mi.tv/br/canais/band",
       "error": ""
     },
     {
@@ -1710,7 +1666,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 252,
+      "programs": 253,
       "url": "https://www.guiadetv.com/canal/tnt-novelas",
       "error": ""
     },
@@ -1732,7 +1688,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 252,
+      "programs": 253,
       "url": "https://www.guiadetv.com/canal/tnt-novelas",
       "error": ""
     },
