@@ -277,9 +277,6 @@
   <programme channel="CNNBrasil.br" start="20261013000000 -0300" stop="20261013010000 -0300">
     <title lang="pt-BR">Laura Coates Live News Laura Coates mergulha na história com uma busca implacável pelos fatos.</title>
   </programme>
-  <programme channel="Cancaonova.br" start="20261013000000 -0300" stop="20261013010000 -0300">
-    <title lang="pt-BR">Sorrindo pra Vida Religious Junte-se a um grupo diário de oração, música e meditação da palavra de Deus.</title>
-  </programme>
   <programme channel="ESPN2.br" start="20261013000000 -0300" stop="20261013010000 -0300">
     <title lang="pt-BR">Green Bay Packers x Chicago Bears NFL Todas as emoções da National Football League, a liga profissional de futebol americano dos EUA.</title>
   </programme>
@@ -493,6 +490,9 @@
   <programme channel="GloboSP.br" start="20261013002500 -0300" stop="20261013011500 -0300">
     <title lang="pt-BR">Jornal da Globo News O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia</title>
   </programme>
+  <programme channel="RedeGloboTeresina.br" start="20261013002500 -0300" stop="20261013011500 -0300">
+    <title lang="pt-BR">Jornal da Globo News O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia</title>
+  </programme>
   <programme channel="TVAlvoradaDoSul.br" start="20261013002500 -0300" stop="20261013011500 -0300">
     <title lang="pt-BR">Jornal da Globo News O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia</title>
   </programme>
@@ -679,9 +679,6 @@
   <programme channel="XSports.br" start="20261013010000 -0300" stop="20261013014500 -0300">
     <title lang="pt-BR">Programação</title>
   </programme>
-  <programme channel="Cancaonova.br" start="20261013010000 -0300" stop="20261013020000 -0300">
-    <title lang="pt-BR">Nossa Missão É Evangelizar Religious Acompanhe pregações baseadas na palavra de Deus, realizadas em encontros de espiritualidade.</title>
-  </programme>
   <programme channel="ESPN.br" start="20261013010000 -0300" stop="20261013020000 -0300">
     <title lang="pt-BR">SportsCenter Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião</title>
   </programme>
@@ -860,6 +857,9 @@
     <title lang="pt-BR">40min A Nobreza do Amor Tonho deduz que Mirinho sequestrou Alika, e Niara se desespera. Mirinho chega com Alika a seu cativeiro, e a princesa se revo</title>
   </programme>
   <programme channel="GloboSP.br" start="20261013011500 -0300" stop="20261013015500 -0300">
+    <title lang="pt-BR">A Nobreza do Amor Soap O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa</title>
+  </programme>
+  <programme channel="RedeGloboTeresina.br" start="20261013011500 -0300" stop="20261013015500 -0300">
     <title lang="pt-BR">A Nobreza do Amor Soap O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa</title>
   </programme>
   <programme channel="TVAlvoradaDoSul.br" start="20261013011500 -0300" stop="20261013015500 -0300">
@@ -1384,6 +1384,9 @@
   <programme channel="GloboSP.br" start="20261013015500 -0300" stop="20261013024000 -0300">
     <title lang="pt-BR">Por Você Soap Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a úl</title>
   </programme>
+  <programme channel="RedeGloboTeresina.br" start="20261013015500 -0300" stop="20261013024000 -0300">
+    <title lang="pt-BR">Por Você Soap Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a úl</title>
+  </programme>
   <programme channel="TVAlvoradaDoSul.br" start="20261013015500 -0300" stop="20261013024000 -0300">
     <title lang="pt-BR">Por Você Soap Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a úl</title>
   </programme>
@@ -1527,9 +1530,6 @@
   </programme>
   <programme channel="SportyNet.br" start="20261013015900 -0300" stop="20261013153000 -0300">
     <title lang="pt-BR">Programação SportyNet Sinopse não disponível.</title>
-  </programme>
-  <programme channel="Cancaonova.br" start="20261013020000 -0300" stop="20261013023000 -0300">
-    <title lang="pt-BR">Ajuda à Igreja que Sofre Religious Conheça as realidades de pessoas necessitadas, pobres, excluídas e precisam de apoio, bem como ações da Igreja Cat</title>
   </programme>
   <programme channel="NSports.br" start="20261013020000 -0300" stop="20261013023000 -0300">
     <title lang="pt-BR">30min Desimpedidos NINGUÉM AGUENTA MAIS A DATA FIFA! O novo PURO SUCO traz tudo que está acontecendo (ou deixando de acontecer) durante a pausa do no</title>
@@ -1846,9 +1846,6 @@
   <programme channel="SportyNet.br" start="20261013022800 -0300" stop="20261013153000 -0300">
     <title lang="pt-BR">VT - Atlas x Chivas Uma das ligas mais importantes das Américas agora é da SportyNet! São 18 clubes na disputa do Campeonato Mexicano, uma competição</title>
   </programme>
-  <programme channel="Cancaonova.br" start="20261013023000 -0300" stop="20261013024500 -0300">
-    <title lang="pt-BR">Palavra de Deus Religious Dom Walmor faz uma reflexão por meio da leitura do versículo do Evangelho do Dia. Um momento de oração dedicado a Nossa Sen</title>
-  </programme>
   <programme channel="CanalUOL.br" start="20261013023000 -0300" stop="20261013030000 -0300">
     <title lang="pt-BR">30min O Impensável O programa apresentado pelo professor Gil Giardelli traz o que há de mais recente no universo da tecnologia e como isso impacta a</title>
   </programme>
@@ -2158,6 +2155,9 @@
   <programme channel="GloboSP.br" start="20261013024000 -0300" stop="20261013032000 -0300">
     <title lang="pt-BR">Vai que Cola Comedy Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária d</title>
   </programme>
+  <programme channel="RedeGloboTeresina.br" start="20261013024000 -0300" stop="20261013032000 -0300">
+    <title lang="pt-BR">Vai que Cola Comedy Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária d</title>
+  </programme>
   <programme channel="TVAlvoradaDoSul.br" start="20261013024000 -0300" stop="20261013032000 -0300">
     <title lang="pt-BR">Vai que Cola Comedy Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária d</title>
   </programme>
@@ -2187,9 +2187,6 @@
   </programme>
   <programme channel="BandNews.br" start="20261013024500 -0300" stop="20261013030000 -0300">
     <title lang="pt-BR">15min Madrugada BandNews Acompanhe o noticiário atualizado com as principais informações a cada 30 minutos.</title>
-  </programme>
-  <programme channel="Cancaonova.br" start="20261013024500 -0300" stop="20261013030000 -0300">
-    <title lang="pt-BR">Shows Canção Nova Religious Momento de louvor, oração e animação com canções ministradas por músicos católicos.</title>
   </programme>
   <programme channel="GETV.br" start="20261013024500 -0300" stop="20261013031500 -0300">
     <title lang="pt-BR">NFL: Los Angeles Chargers x Seattle Seahawks Los Angeles Chargers e Seattle Seahawks jogam pela 4ª rodada da fase Regular da NFL, no Lumen Field, em</title>
@@ -2247,9 +2244,6 @@
   </programme>
   <programme channel="CanalUOL.br" start="20261013030000 -0300" stop="20261013033000 -0300">
     <title lang="pt-BR">30min Mídia &amp; Marketing O vídeocast traz entrevistas sobre o mundo da propaganda e da criatividade. O jornalista Renato Pezzotti recebe protagonistas</title>
-  </programme>
-  <programme channel="Cancaonova.br" start="20261013030000 -0300" stop="20261013033000 -0300">
-    <title lang="pt-BR">Terço da Misericórdia Religious Junte-se à reza do Terço da Misericórdia com Maria do Rosário e envie seu pedido de oração.</title>
   </programme>
   <programme channel="ESPN4.br" start="20261013030000 -0300" stop="20261013033000 -0300">
     <title lang="pt-BR">30min Destaques da Conmebol Libertadores Todos os destaques, os melhores lances, os melhores gols, um resumo completo sobre a Libertadores.</title>
@@ -2989,6 +2983,9 @@
   <programme channel="GloboSP.br" start="20261013032000 -0300" stop="20261013040000 -0300">
     <title lang="pt-BR">Vai que Cola Comedy Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária d</title>
   </programme>
+  <programme channel="RedeGloboTeresina.br" start="20261013032000 -0300" stop="20261013040000 -0300">
+    <title lang="pt-BR">Vai que Cola Comedy Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária d</title>
+  </programme>
   <programme channel="TVAlvoradaDoSul.br" start="20261013032000 -0300" stop="20261013040000 -0300">
     <title lang="pt-BR">Vai que Cola Comedy Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária d</title>
   </programme>
@@ -3039,9 +3036,6 @@
   </programme>
   <programme channel="CanalUOL.br" start="20261013033000 -0300" stop="20261013040500 -0300">
     <title lang="pt-BR">35min UOL Prime O melhor do jornalismo do UOL no formato de reportagens e documentários exclusivos</title>
-  </programme>
-  <programme channel="Cancaonova.br" start="20261013033000 -0300" stop="20261013041500 -0300">
-    <title lang="pt-BR">O Amor Vencerá Religious Acompanhe um momento de intercessão pelo Brasil, pelas famílias e por todos que acompanham a Canção Nova. Um convite à oraçã</title>
   </programme>
   <programme channel="NSports.br" start="20261013033000 -0300" stop="20261013041500 -0300">
     <title lang="pt-BR">45min DEC Convidamos o jornalista Mauro Beting para enfrentar os influenciadores de futebol! Quem será que levou a melhor?</title>
@@ -3184,6 +3178,9 @@
   <programme channel="GloboSP.br" start="20261013040000 -0300" stop="20261013050000 -0300">
     <title lang="pt-BR">Hora 1 News Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejorn</title>
   </programme>
+  <programme channel="RedeGloboTeresina.br" start="20261013040000 -0300" stop="20261013050000 -0300">
+    <title lang="pt-BR">Hora 1 News Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejorn</title>
+  </programme>
   <programme channel="SporTV2.br" start="20261013040000 -0300" stop="20261013050000 -0300">
     <title lang="pt-BR">Barueri x Osasco Campeonato Paulista de Vôlei Feminino Partida válida pela segunda rodada da primeira fase. Do Ginásio José Corrêa, em Barueri, SP. g</title>
   </programme>
@@ -3274,9 +3271,6 @@
   <programme channel="CanalUOL.br" start="20261013040500 -0300" stop="20261014015500 -0300">
     <title lang="pt-BR">Programação</title>
   </programme>
-  <programme channel="Cancaonova.br" start="20261013041500 -0300" stop="20261013043000 -0300">
-    <title lang="pt-BR">Discípulos e Missionários Religious O arcebispo de São Paulo, cardeal Dom Odilo Scherer, conversa com o padre Wagner Ferreira sobre temas atuais refe</title>
-  </programme>
   <programme channel="SBTRio.br" start="20261013041500 -0300" stop="20261013060000 -0300">
     <title lang="pt-BR">SBT Notícias Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia.</title>
   </programme>
@@ -3345,9 +3339,6 @@
   </programme>
   <programme channel="SporTV.br" start="20261013043000 -0300" stop="20261013050000 -0300">
     <title lang="pt-BR">Chapecoense x Athletico-PR Campeonato Brasileiro Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</title>
-  </programme>
-  <programme channel="Cancaonova.br" start="20261013043000 -0300" stop="20261013053000 -0300">
-    <title lang="pt-BR">Rosário da Madrugada Religious Momento de oração e preces dedicado à Virgem Maria. googletag.cmd.push(function() { googletag.display('div-gpt-ad-1570</title>
   </programme>
   <programme channel="ESPN.br" start="20261013043000 -0300" stop="20261013053000 -0300">
     <title lang="pt-BR">Crystal Palace x Nottingham Forest Campeonato Inglês Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglate</title>
@@ -3667,9 +3658,6 @@
   <programme channel="TNTNovelas.br" start="20261013060000 -0300" stop="20261013062100 -0300">
     <title lang="pt-BR">21min Matches Lara vê sua vida virar escândalo quando Dennis, seu novo match, é preso no motel em que estavam e ela é apelidada pela mídia de "Amante</title>
   </programme>
-  <programme channel="Cancaonova.br" start="20261013060000 -0300" stop="20261013063000 -0300">
-    <title lang="pt-BR">Terço Mariano Religious Acompanhe as rezas do Terço Mariano com o Padre Reginaldo Manzotti.</title>
-  </programme>
   <programme channel="ESPN5.br" start="20261013060000 -0300" stop="20261013063000 -0300">
     <title lang="pt-BR">30min F1: The Inside Line Seja bem-vindo ao mundo da principal categoria do automobilismo mundial. Acompanhe os bastidores, as principais notícias e</title>
   </programme>
@@ -3859,6 +3847,9 @@
   <programme channel="GloboSP.br" start="20261013060000 -0300" stop="20261013083000 -0300">
     <title lang="pt-BR">Bom Dia SP News As primeiras notícias do estado nas manhãs com informações sobre os fatos mais importantes do dia, entrevistas, acontecimentos, previ</title>
   </programme>
+  <programme channel="RedeGloboTeresina.br" start="20261013060000 -0300" stop="20261013083000 -0300">
+    <title lang="pt-BR">Bom Dia PI News Acompanhe as últimas notícias de Teresina e de todo o estado do Piauí.</title>
+  </programme>
   <programme channel="SBT.br" start="20261013060000 -0300" stop="20261013083000 -0300">
     <title lang="pt-BR">Se Liga Brasil News Um telejornal que traz as principais notícias do Brasil, notícias policiais e os temas que repercutem nas redes sociais.</title>
   </programme>
@@ -3958,9 +3949,6 @@
   <programme channel="NSports.br" start="20261013063000 -0300" stop="20261013064500 -0300">
     <title lang="pt-BR">15min Futebol Pelo Mundo Fui no jogo Flamengo 1 x 1 Independiente Del Valle pelas quartas de final da Libertadores no estádio do Maracanã no Rio de J</title>
   </programme>
-  <programme channel="Cancaonova.br" start="20261013063000 -0300" stop="20261013065000 -0300">
-    <title lang="pt-BR">A Bíblia no Meu Dia a Dia Religious Padre Roger Luís incentiva fiéis a se aprofundarem na palavra de Deus.</title>
-  </programme>
   <programme channel="ESPN3.br" start="20261013063000 -0300" stop="20261013070000 -0300">
     <title lang="pt-BR">30min Inside Serie A Um programa para conhecer a fundo a primeira divisão do futebol italiano e saber tudo sobre cada rodada: histórias, entrevistas,</title>
   </programme>
@@ -4051,9 +4039,6 @@
   <programme channel="SportyNet.br" start="20261013064900 -0300" stop="20261014014500 -0300">
     <title lang="pt-BR">Programação</title>
   </programme>
-  <programme channel="Cancaonova.br" start="20261013065000 -0300" stop="20261013070000 -0300">
-    <title lang="pt-BR">Palavra de Vida Eterna Religious Dom Aberto Taveira, arcebispo de Belém do Pará, leva fiéis a experimentarem a graça da palavra de Deus, que renova v</title>
-  </programme>
   <programme channel="TNTNovelas.br" start="20261013065700 -0300" stop="20261013074100 -0300">
     <title lang="pt-BR">44min Força de Mulher Anos mais tarde, irin decide enfrentar Sarp. Será que segredos serão revelados?</title>
   </programme>
@@ -4113,9 +4098,6 @@
   </programme>
   <programme channel="tv.assembleia.piaui.br" start="20261013070000 -0300" stop="20261013073000 -0300">
     <title lang="pt-BR">- PIAUÍ QUE PRODUZ - INÉDITO</title>
-  </programme>
-  <programme channel="Cancaonova.br" start="20261013070000 -0300" stop="20261013074800 -0300">
-    <title lang="pt-BR">Santa Missa Religious Acompanhe a celebração da santa missa em João Pessoa.</title>
   </programme>
   <programme channel="CNNBrasil.br" start="20261013070000 -0300" stop="20261013080000 -0300">
     <title lang="pt-BR">CNN This Morning News Acompanhe a repercussão dos principais acontecimentos notícia em todo o planeta.</title>
@@ -4390,9 +4372,6 @@
   <programme channel="PlayboyHD.br" start="20261013074700 -0300" stop="20261013081200 -0300">
     <title lang="pt-BR">Toyride Temporada 1 Episódio 5 Nikki e Daniel visitam fabricantes de brinquedos adultos e testam os produtos.</title>
   </programme>
-  <programme channel="Cancaonova.br" start="20261013074800 -0300" stop="20261013080300 -0300">
-    <title lang="pt-BR">Pai das Misericórdias Religious Discussões sobre diversos temas que ajudam na caminhada para a santidade, apresentando a espiritualidade e devoção ao</title>
-  </programme>
   <programme channel="DiscoveryChannel.br" start="20261013074800 -0300" stop="20261013083500 -0300">
     <title lang="pt-BR">Largados e Pelados Temporada 1 Episódio 5 - Coragem em Bornéu Puma e Julie precisam sobreviver pelados em Sabah, em Bornéu, por 21 dias. A selva é um</title>
   </programme>
@@ -4525,9 +4504,6 @@
   <programme channel="SportyNet.br" start="20261013080100 -0300" stop="20261014015500 -0300">
     <title lang="pt-BR">Programação</title>
   </programme>
-  <programme channel="Cancaonova.br" start="20261013080300 -0300" stop="20261013093300 -0300">
-    <title lang="pt-BR">Sorrindo pra Vida Religious Junte-se a um grupo diário de oração, música e meditação da palavra de Deus.</title>
-  </programme>
   <programme channel="Viva.br" start="20261013081100 -0300" stop="20261013085600 -0300">
     <title lang="pt-BR">O Profeta Soap Clóvis surpreende Sônia; Tainha conta que ficou pobre de novo; Marcos tem uma visão com Camilo; Carola planeja recuperar o diário de L</title>
   </programme>
@@ -4631,6 +4607,9 @@
     <title lang="pt-BR">1h Bom Dia Brasil Acompanhe as principais notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.</title>
   </programme>
   <programme channel="GloboSP.br" start="20261013083000 -0300" stop="20261013093000 -0300">
+    <title lang="pt-BR">Bom Dia Brasil News Acompanhe as principais notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.</title>
+  </programme>
+  <programme channel="RedeGloboTeresina.br" start="20261013083000 -0300" stop="20261013093000 -0300">
     <title lang="pt-BR">Bom Dia Brasil News Acompanhe as principais notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.</title>
   </programme>
   <programme channel="TVAlvoradaDoSul.br" start="20261013083000 -0300" stop="20261013093000 -0300">
@@ -4942,6 +4921,9 @@
   <programme channel="GloboSP.br" start="20261013093000 -0300" stop="20261013103500 -0300">
     <title lang="pt-BR">Encontro com Patrícia Poeta Entertainment O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jo</title>
   </programme>
+  <programme channel="RedeGloboTeresina.br" start="20261013093000 -0300" stop="20261013103500 -0300">
+    <title lang="pt-BR">Encontro com Patrícia Poeta Entertainment O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jo</title>
+  </programme>
   <programme channel="TVAlvoradaDoSul.br" start="20261013093000 -0300" stop="20261013103500 -0300">
     <title lang="pt-BR">Encontro com Patrícia Poeta Entertainment O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jo</title>
   </programme>
@@ -4962,9 +4944,6 @@
   </programme>
   <programme channel="ESPN6.br" start="20261013093000 -0300" stop="20261014023000 -0300">
     <title lang="pt-BR">Programação</title>
-  </programme>
-  <programme channel="Cancaonova.br" start="20261013093300 -0300" stop="20261013100000 -0300">
-    <title lang="pt-BR">Canção Nova Notícias News As notícias do dia e reportagens com um jornalismo a serviço da vida e da esperança.</title>
   </programme>
   <programme channel="TVBrasil.br" start="20261013093500 -0300" stop="20261013094700 -0300">
     <title lang="pt-BR">Peixonauta Temporada 2 Episódio 6 - O Caso das Novas Comidas Dois esquilos se impressionam com alguns alimentos industrializados e decidem abrir uma</title>
@@ -5034,9 +5013,6 @@
   </programme>
   <programme channel="ESPN4.br" start="20261013100000 -0300" stop="20261013101000 -0300">
     <title lang="pt-BR">10min Momento ESPN Programas especiais com o melhor conteúdo dos canais ESPN. Entrevistas e matérias especiais feitas pelo melhor time do canal que m</title>
-  </programme>
-  <programme channel="Cancaonova.br" start="20261013100000 -0300" stop="20261013103000 -0300">
-    <title lang="pt-BR">Cantinho da Criança Children Acompanhe histórias de evangelização para crianças apresentadas de forma divertida e inteligente, com vários personagens</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261013100000 -0300" stop="20261013103000 -0300">
     <title lang="pt-BR">30min VT - Corinthians x Fluminense Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Su</title>
@@ -5251,9 +5227,6 @@
   <programme channel="PremiereFC.br" start="20261013103000 -0300" stop="20261013113000 -0300">
     <title lang="pt-BR">1h Giro Da Rodada - Brasileirão - 29ª Rodada Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</title>
   </programme>
-  <programme channel="Cancaonova.br" start="20261013103000 -0300" stop="20261013114800 -0300">
-    <title lang="pt-BR">O Amor Vencerá Religious Acompanhe um momento de intercessão pelo Brasil, pelas famílias e por todos que acompanham a Canção Nova. Um convite à oraçã</title>
-  </programme>
   <programme channel="RedeTV.br" start="20261013103000 -0300" stop="20261013120000 -0300">
     <title lang="pt-BR">Fica com a Gente Cooking Chef Edu Guedes prepara receitas práticas para entreter e ensinar os telespectadores.</title>
   </programme>
@@ -5273,6 +5246,9 @@
     <title lang="pt-BR">Programação</title>
   </programme>
   <programme channel="GloboSP.br" start="20261013103500 -0300" stop="20261013114500 -0300">
+    <title lang="pt-BR">Mais Você Talk Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia</title>
+  </programme>
+  <programme channel="RedeGloboTeresina.br" start="20261013103500 -0300" stop="20261013114500 -0300">
     <title lang="pt-BR">Mais Você Talk Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia</title>
   </programme>
   <programme channel="TVAlvoradaDoSul.br" start="20261013103500 -0300" stop="20261013114500 -0300">
@@ -5593,6 +5569,9 @@
   <programme channel="GloboSP.br" start="20261013114500 -0300" stop="20261013130000 -0300">
     <title lang="pt-BR">SP1 News Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos paulistanos, como</title>
   </programme>
+  <programme channel="RedeGloboTeresina.br" start="20261013114500 -0300" stop="20261013130000 -0300">
+    <title lang="pt-BR">PI1 News Denúncias, investigação, problemas das comunidades, defesa do consumidor, saúde, educação, economia doméstica, política, cultura e previsão</title>
+  </programme>
   <programme channel="TVAlvoradaDoSul.br" start="20261013114500 -0300" stop="20261013130000 -0300">
     <title lang="pt-BR">PI1 News Denúncias, investigação, problemas das comunidades, defesa do consumidor, saúde, educação, economia doméstica, política, cultura e previsão</title>
   </programme>
@@ -5610,9 +5589,6 @@
   </programme>
   <programme channel="SexyHot.br" start="20261013114700 -0300" stop="20261013124700 -0300">
     <title lang="pt-BR">Sem Medo de P.u e Monstro Adults only / 2025 Os mascarados entram em ação, mas elas não têm medo de monstros ou membros grandes.</title>
-  </programme>
-  <programme channel="Cancaonova.br" start="20261013114800 -0300" stop="20261013120000 -0300">
-    <title lang="pt-BR">Mais Saúde Health Conheça as principais tendências nas áreas de bem-estar, saúde, qualidade de vida e educação alimentar, com o ponto de vista de pro</title>
   </programme>
   <programme channel="TNTNovelas.br" start="20261013114800 -0300" stop="20261013123300 -0300">
     <title lang="pt-BR">45min Será Isso Amor? Serkan convida a equipe, incluindo Eda, à sua casa. Melek decide contar para Eda que ela está saindo com o rival de Serkan, Kaa</title>
@@ -5670,9 +5646,6 @@
   </programme>
   <programme channel="sexprive-brasileirinhas.br" start="20261013120000 -0300" stop="20261013123000 -0300">
     <title lang="pt-BR">Carona do Ted Adults only Se tudo pode acontecer entre quatro paredes, também pode sobre quatro rodas. Seguindo a onda das startups de mobilidade urb</title>
-  </programme>
-  <programme channel="Cancaonova.br" start="20261013120000 -0300" stop="20261013125000 -0300">
-    <title lang="pt-BR">Santa Missa Religious Acompanhe a celebração da santa missa em João Pessoa.</title>
   </programme>
   <programme channel="Band.br" start="20261013120000 -0300" stop="20261013130000 -0300">
     <title lang="pt-BR">Jogo Aberto - Debate Acompanhe notícias, debates diários e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do</title>
@@ -5926,9 +5899,6 @@
   <programme channel="tv.assembleia.piaui.br" start="20261013124900 -0300" stop="20261014060000 -0300">
     <title lang="pt-BR">PROGRAMAÇÃO TV ASSEMBLEIA SEGUNDA-FEIRA</title>
   </programme>
-  <programme channel="Cancaonova.br" start="20261013125000 -0300" stop="20261013130000 -0300">
-    <title lang="pt-BR">Boletim de Notícia News Acompanhe as últimas notícias que abrangem o Brasil e o mundo, com destaques sendo apresentados de forma sucinta, objetiva e</title>
-  </programme>
   <programme channel="ESPN4.br" start="20261013125000 -0300" stop="20261014020500 -0300">
     <title lang="pt-BR">Programação</title>
   </programme>
@@ -5995,13 +5965,13 @@
   <programme channel="XSports.br" start="20261013130000 -0300" stop="20261013131000 -0300">
     <title lang="pt-BR">10min Horário Político Obrigatório Horário reservado para a transmissão da propaganda política partidária.</title>
   </programme>
-  <programme channel="Cancaonova.br" start="20261013130000 -0300" stop="20261013131300 -0300">
-    <title lang="pt-BR">Propaganda Eleitoral Politics Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</title>
-  </programme>
   <programme channel="GloboRio.br" start="20261013130000 -0300" stop="20261013132000 -0300">
     <title lang="pt-BR">20min Propaganda Eleitoral Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</title>
   </programme>
   <programme channel="GloboSP.br" start="20261013130000 -0300" stop="20261013132000 -0300">
+    <title lang="pt-BR">Propaganda Eleitoral Politics Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</title>
+  </programme>
+  <programme channel="RedeGloboTeresina.br" start="20261013130000 -0300" stop="20261013132000 -0300">
     <title lang="pt-BR">Propaganda Eleitoral Politics Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</title>
   </programme>
   <programme channel="TVAlvoradaDoSul.br" start="20261013130000 -0300" stop="20261013132000 -0300">
@@ -6157,9 +6127,6 @@
   <programme channel="SportyNet.br" start="20261013131200 -0300" stop="20261014014500 -0300">
     <title lang="pt-BR">Programação</title>
   </programme>
-  <programme channel="Cancaonova.br" start="20261013131300 -0300" stop="20261013133000 -0300">
-    <title lang="pt-BR">Vitrine CN Religious Este programa visa mostrar os produtos como CDs, livros, que contêm conteúdo de evangelização.</title>
-  </programme>
   <programme channel="XSports.br" start="20261013131500 -0300" stop="20261014021500 -0300">
     <title lang="pt-BR">Programação</title>
   </programme>
@@ -6174,6 +6141,9 @@
   </programme>
   <programme channel="GloboSP.br" start="20261013132000 -0300" stop="20261013133000 -0300">
     <title lang="pt-BR">SP1 News Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos paulistanos, como</title>
+  </programme>
+  <programme channel="RedeGloboTeresina.br" start="20261013132000 -0300" stop="20261013133000 -0300">
+    <title lang="pt-BR">PI1 News Denúncias, investigação, problemas das comunidades, defesa do consumidor, saúde, educação, economia doméstica, política, cultura e previsão</title>
   </programme>
   <programme channel="TVAlvoradaDoSul.br" start="20261013132000 -0300" stop="20261013133000 -0300">
     <title lang="pt-BR">PI1 News Denúncias, investigação, problemas das comunidades, defesa do consumidor, saúde, educação, economia doméstica, política, cultura e previsão</title>
@@ -6244,6 +6214,9 @@
   <programme channel="GloboSP.br" start="20261013133000 -0300" stop="20261013135000 -0300">
     <title lang="pt-BR">Globo Esporte SP As últimas notícias dos principais eventos do mundo esportivo com destaque para os times do estado.</title>
   </programme>
+  <programme channel="RedeGloboTeresina.br" start="20261013133000 -0300" stop="20261013135000 -0300">
+    <title lang="pt-BR">Globo Esporte PI Confira as últimas notícias dos principais eventos do mundo esportivo, com foco nos times do estado.</title>
+  </programme>
   <programme channel="TVAlvoradaDoSul.br" start="20261013133000 -0300" stop="20261013135000 -0300">
     <title lang="pt-BR">Globo Esporte PI Confira as últimas notícias dos principais eventos do mundo esportivo, com foco nos times do estado.</title>
   </programme>
@@ -6285,9 +6258,6 @@
   </programme>
   <programme channel="tv.assembleia.piaui.br" start="20261013133000 -0300" stop="20261013140000 -0300">
     <title lang="pt-BR">- BOM GOSTO</title>
-  </programme>
-  <programme channel="Cancaonova.br" start="20261013133000 -0300" stop="20261013143800 -0300">
-    <title lang="pt-BR">Juntos Somos + Religious Acompanhe iniciativa que agrega valores do reino de Deus e, por meio de testemunhos, mostra a força da evangelização da gran</title>
   </programme>
   <programme channel="ESPN3.br" start="20261013133000 -0300" stop="20261013153000 -0300">
     <title lang="pt-BR">2h VT - ATP 1000: Xangai: Quartas de Final É a série mais importante do tênis masculino depois dos quatro Grand Slams. Os principais tenistas do mund</title>
@@ -6365,6 +6335,9 @@
     <title lang="pt-BR">Vale Tudo Soap César garante a Fátima que não matou Odete, mas avisa que vai sumir do mapa; Fátima revela a Raquel que César sabia sobre o dossiê; a</title>
   </programme>
   <programme channel="GloboSP.br" start="20261013135000 -0300" stop="20261013150000 -0300">
+    <title lang="pt-BR">Jornal Hoje News As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.</title>
+  </programme>
+  <programme channel="RedeGloboTeresina.br" start="20261013135000 -0300" stop="20261013150000 -0300">
     <title lang="pt-BR">Jornal Hoje News As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.</title>
   </programme>
   <programme channel="TVAlvoradaDoSul.br" start="20261013135000 -0300" stop="20261013150000 -0300">
@@ -6451,9 +6424,6 @@
   <programme channel="SBTNews.br" start="20261013140000 -0300" stop="20261013150000 -0300">
     <title lang="pt-BR">1h True Crime O True Crime é um podcast jornalístico, apresentado por Fabio Diamante e Robinson Cerantula, que analisa crimes de grande repercussão n</title>
   </programme>
-  <programme channel="SBTNews.br" start="20261013140000 -0300" stop="20261013150000 -0300">
-    <title lang="pt-BR">4h Programação SBT News Programação SBT News. Guia de notícias do mundo do entretenimento: descubra tudo o que rola no mundo dos filmes e saiba em pr</title>
-  </programme>
   <programme channel="XSports.br" start="20261013140000 -0300" stop="20261013150000 -0300">
     <title lang="pt-BR">1h Show da Rodada: Campeonato Alemão Sinopse não disponível.</title>
   </programme>
@@ -6509,19 +6479,19 @@
     <title lang="pt-BR">4h Programação SBT News Programação SBT News.</title>
   </programme>
   <programme channel="Premiere2.br" start="20261013140000 -0300" stop="20261013220000 -0300">
-    <title lang="pt-BR">Premiere 2 Acompanhe a programação pay-per-view. 4 horas 21 min restantes</title>
+    <title lang="pt-BR">Premiere 2 Acompanhe a programação pay-per-view. 4 horas 6 min restantes</title>
   </programme>
   <programme channel="Premiere3.br" start="20261013140000 -0300" stop="20261013220000 -0300">
-    <title lang="pt-BR">Premiere 3 Acompanhe a programação pay-per-view. 4 horas 21 min restantes</title>
+    <title lang="pt-BR">Premiere 3 Acompanhe a programação pay-per-view. 4 horas 6 min restantes</title>
   </programme>
   <programme channel="Premiere4.br" start="20261013140000 -0300" stop="20261013220000 -0300">
-    <title lang="pt-BR">Premiere 4 Acompanhe a programação pay-per-view. 4 horas 21 min restantes</title>
+    <title lang="pt-BR">Premiere 4 Acompanhe a programação pay-per-view. 4 horas 6 min restantes</title>
   </programme>
   <programme channel="Premiere6.br" start="20261013140000 -0300" stop="20261013220000 -0300">
-    <title lang="pt-BR">Premiere 6 Acompanhe a programação pay-per-view. 4 horas 20 min restantes</title>
+    <title lang="pt-BR">Premiere 6 Acompanhe a programação pay-per-view. 4 horas 5 min restantes</title>
   </programme>
   <programme channel="Premiere7.br" start="20261013140000 -0300" stop="20261013220000 -0300">
-    <title lang="pt-BR">Premiere 7 Acompanhe a programação pay-per-view. 4 horas 20 min restantes</title>
+    <title lang="pt-BR">Premiere 7 Acompanhe a programação pay-per-view. 4 horas 5 min restantes</title>
   </programme>
   <programme channel="NSports.br" start="20261013140000 -0300" stop="20261014013000 -0300">
     <title lang="pt-BR">Programação</title>
@@ -6691,9 +6661,6 @@
   <programme channel="PlayboyHD.br" start="20261013143600 -0300" stop="20261013150000 -0300">
     <title lang="pt-BR">Surfing Attraction Adults only Sensualmente estimulada pelas águas do oceano Pacífico uma bela aventureira latino-americana percorre com seu carro co</title>
   </programme>
-  <programme channel="Cancaonova.br" start="20261013143800 -0300" stop="20261013145000 -0300">
-    <title lang="pt-BR">Poder da Palavra Religious Momento de oração e reflexão sobre a palavra do Senhor, com Luzia Santiago.</title>
-  </programme>
   <programme channel="SporTV.br" start="20261013144000 -0300" stop="20261013144500 -0300">
     <title lang="pt-BR">Pílula Futebol Feminino Soccer Destaques do futebol feminino e entrevistas com as principais jogadoras da atualidade.</title>
   </programme>
@@ -6723,9 +6690,6 @@
   </programme>
   <programme channel="Multishow.br" start="20261013144700 -0300" stop="20261013153700 -0300">
     <title lang="pt-BR">Vai que Cola Temporada 12 Episódio 6 - A Princesa e a Plebeia Os negócios de Tetê empacam e ela briga com uma cliente. Não bastasse isso, ainda viral</title>
-  </programme>
-  <programme channel="Cancaonova.br" start="20261013145000 -0300" stop="20261013153000 -0300">
-    <title lang="pt-BR">Terço da Misericórdia Religious Junte-se à reza do Terço da Misericórdia com Maria do Rosário e envie seu pedido de oração.</title>
   </programme>
   <programme channel="XSports.br" start="20261013145000 -0300" stop="20261013165000 -0300">
     <title lang="pt-BR">2h Al Ahli x Al Nassr Ao vivo Al Ahli e Al Nassr jogam pela 9ª rodada do Primeiro Turno da Liga Saudita, no Alinma Stadium, em Jeddah, Arábia Saudita</title>
@@ -6759,6 +6723,9 @@
   </programme>
   <programme channel="PlayboyHD.br" start="20261013150000 -0300" stop="20261013152500 -0300">
     <title lang="pt-BR">Toyride Temporada 1 Episódio 4 Nikki e Daniel visitam fabricantes de brinquedos eróticos.</title>
+  </programme>
+  <programme channel="RedeGloboTeresina.br" start="20261013150000 -0300" stop="20261013152500 -0300">
+    <title lang="pt-BR">Roque Santeiro - Edição Especial Soap Em Asa Branca, moradores vivem em função dos supostos milagres de Roque Santeiro, que teria morrido como mártir</title>
   </programme>
   <programme channel="TVAlvoradaDoSul.br" start="20261013150000 -0300" stop="20261013152500 -0300">
     <title lang="pt-BR">Roque Santeiro - Edição Especial Soap Em Asa Branca, moradores vivem em função dos supostos milagres de Roque Santeiro, que teria morrido como mártir</title>
@@ -6898,6 +6865,9 @@
   <programme channel="GloboSP.br" start="20261013152500 -0300" stop="20261013160000 -0300">
     <title lang="pt-BR">Além do Tempo - Edição Especial Soap A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.</title>
   </programme>
+  <programme channel="RedeGloboTeresina.br" start="20261013152500 -0300" stop="20261013160000 -0300">
+    <title lang="pt-BR">Além do Tempo - Edição Especial Soap A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.</title>
+  </programme>
   <programme channel="TVAlvoradaDoSul.br" start="20261013152500 -0300" stop="20261013160000 -0300">
     <title lang="pt-BR">Além do Tempo - Edição Especial Soap A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.</title>
   </programme>
@@ -6966,9 +6936,6 @@
   </programme>
   <programme channel="RecordNews.br" start="20261013153000 -0300" stop="20261013161000 -0300">
     <title lang="pt-BR">40min Zapping Revista eletrônica dinâmica e com conteúdo diversificado, que traz reportagens sobre cultura, bastidores da televisão, celebridades, mú</title>
-  </programme>
-  <programme channel="Cancaonova.br" start="20261013153000 -0300" stop="20261013163000 -0300">
-    <title lang="pt-BR">Escola da Fé Religious O teólogo e professor Felipe Aquino aborda temas semanais com base nos ensinamentos de Jesus Cristo, em um estudo sobre as dou</title>
   </programme>
   <programme channel="ESPN6.br" start="20261013153000 -0300" stop="20261013163000 -0300">
     <title lang="pt-BR">1h Resenha Resenha com jogadores e ex-jogadores de futebol em um ambiente descontraído e cheio de histórias imperdíveis.</title>
@@ -7052,16 +7019,16 @@
     <title lang="pt-BR">2h Programação SportyNet Sinopse não disponível.</title>
   </programme>
   <programme channel="SBT.br" start="20261013154500 -0300" stop="20261013180000 -0300">
-    <title lang="pt-BR">Galatasaray x Barcelona UEFA Champions League Todas as emoções da principal competição de futebol masculino disputada entre clubes europeus. 17 min r</title>
+    <title lang="pt-BR">Galatasaray x Barcelona UEFA Champions League Todas as emoções da principal competição de futebol masculino disputada entre clubes europeus. 2 min re</title>
   </programme>
   <programme channel="SBTPiaui.br" start="20261013154500 -0300" stop="20261013180000 -0300">
-    <title lang="pt-BR">Galatasaray x Barcelona UEFA Champions League Todas as emoções da principal competição de futebol masculino disputada entre clubes europeus. 12 min r</title>
+    <title lang="pt-BR">Galatasaray x Barcelona UEFA Champions League Todas as emoções da principal competição de futebol masculino disputada entre clubes europeus.</title>
   </programme>
   <programme channel="SBTRio.br" start="20261013154500 -0300" stop="20261013180000 -0300">
     <title lang="pt-BR">–</title>
   </programme>
   <programme channel="TVCidadeVerde.br" start="20261013154500 -0300" stop="20261013180000 -0300">
-    <title lang="pt-BR">Galatasaray x Barcelona UEFA Champions League Todas as emoções da principal competição de futebol masculino disputada entre clubes europeus. 25 min r</title>
+    <title lang="pt-BR">Galatasaray x Barcelona UEFA Champions League Todas as emoções da principal competição de futebol masculino disputada entre clubes europeus. 10 min r</title>
   </programme>
   <programme channel="GloboRio.br" start="20261013154500 -0300" stop="20261014011500 -0300">
     <title lang="pt-BR">Programação</title>
@@ -7162,6 +7129,9 @@
   <programme channel="BandPiaui.br" start="20261013160000 -0300" stop="20261013173000 -0300">
     <title lang="pt-BR">Brasil Urgente News Acompanhe os principais acontecimentos do dia no Piauí, com foco em temas do cotidiano.</title>
   </programme>
+  <programme channel="RedeGloboTeresina.br" start="20261013160000 -0300" stop="20261013173000 -0300">
+    <title lang="pt-BR">A Ressurreição de Gavin Stone Comedy drama / 2017 Gavin Stone é um ex-astro infantil forçado a fazer serviço comunitário em uma igreja. Ele finge ser</title>
+  </programme>
   <programme channel="SextremeBrazil.br" start="20261013160000 -0300" stop="20261013173000 -0300">
     <title lang="pt-BR">Sempre Mais Adults only / 2023 Depois que invadem o castelo, as corajosas guerreiras Leena e Zara fogem e se unem a um trapaceiro e a um aprendiz de</title>
   </programme>
@@ -7202,7 +7172,7 @@
     <title lang="pt-BR">GloboNews Mais News Julia Duailibi apresenta as principais notícias do dia e a repercussão dos acontecimentos mais importantes do momento. Tudo com a</title>
   </programme>
   <programme channel="JovemPanNews.br" start="20261013160000 -0300" stop="20261013180000 -0300">
-    <title lang="pt-BR">3 em 1 News Diferentes pontos de vista de um mesmo assunto. Cobertura e análise do cenário político brasileiro. 15 min restantes</title>
+    <title lang="pt-BR">3 em 1 News Diferentes pontos de vista de um mesmo assunto. Cobertura e análise do cenário político brasileiro. restantes</title>
   </programme>
   <programme channel="Premiere5.br" start="20261013160000 -0300" stop="20261013180000 -0300">
     <title lang="pt-BR">–</title>
@@ -7223,19 +7193,19 @@
     <title lang="pt-BR">2h Deportivo La Coruña x Levante Ao vivo Deportivo La Coruña e Levante jogam pela 9ª rodada do Primeiro Turno da La Liga, no Riazor, em Corunha, Espa</title>
   </programme>
   <programme channel="TNT.br" start="20261013160000 -0300" stop="20261013180000 -0300">
-    <title lang="pt-BR">Galatasaray x Barcelona UEFA Champions League Todas as emoções da principal competição de futebol masculino disputada entre clubes europeus. 18 min r</title>
+    <title lang="pt-BR">Galatasaray x Barcelona UEFA Champions League Todas as emoções da principal competição de futebol masculino disputada entre clubes europeus. 4 min re</title>
   </programme>
   <programme channel="TVBrasil.br" start="20261013160000 -0300" stop="20261013180000 -0300">
     <title lang="pt-BR">Sem Censura Newsmagazine Informações sobre o que acontece no Brasil e no mundo, em diferentes áreas da atividade humana. Entrevistados e debatedores</title>
   </programme>
   <programme channel="SporTV2.br" start="20261013160000 -0300" stop="20261013181000 -0300">
-    <title lang="pt-BR">Praia Clube x Minas Campeonato Mineiro de Vôlei Feminino Confira as partidas do Campeonato Mineiro de Vôlei Feminino. 29 min restantes</title>
+    <title lang="pt-BR">Praia Clube x Minas Campeonato Mineiro de Vôlei Feminino Confira as partidas do Campeonato Mineiro de Vôlei Feminino. 14 min restantes</title>
   </programme>
   <programme channel="SBTNews.br" start="20261013160000 -0300" stop="20261013183000 -0300">
     <title lang="pt-BR">–</title>
   </programme>
   <programme channel="Band.br" start="20261013160000 -0300" stop="20261013192000 -0300">
-    <title lang="pt-BR">Brasil Urgente News Acompanhe os principais acontecimentos do dia no Piauí, com foco em temas do cotidiano. 1 hora 38 min restantes</title>
+    <title lang="pt-BR">Brasil Urgente News Acompanhe os principais acontecimentos do dia no Piauí, com foco em temas do cotidiano. 1 hora 24 min restantes</title>
   </programme>
   <programme channel="tv.assembleia.piaui.br" start="20261013160000 -0300" stop="20261013200000 -0300">
     <title lang="pt-BR">- SOB OUTRO OLHAR – REPRISE</title>
@@ -7310,13 +7280,10 @@
     <title lang="pt-BR">Turma da Mônica Children Um grupo de amigos está sempre se metendo em confusões no Bairro do Limoeiro. Mônica, Cebolinha, Cascão, Magali e o resto da</title>
   </programme>
   <programme channel="VenusTV.br" start="20261013162200 -0300" stop="20261013175000 -0300">
-    <title lang="pt-BR">Um Grande Anal Adults only / 2022 Mulheres cheias de tesão gostam mesmo é de fazer um bom sexo anal e se esbaldam de prazer. 3 min restantes</title>
+    <title lang="pt-BR">Um Grande Anal Adults only / 2022 Mulheres cheias de tesão gostam mesmo é de fazer um bom sexo anal e se esbaldam de prazer.</title>
   </programme>
   <programme channel="ESPN3.br" start="20261013163000 -0300" stop="20261013164000 -0300">
     <title lang="pt-BR">10min Futebol Americano Universitário Ao vivo Acompanhe, nos canais ESPN, o melhor do futebol americano universitário. Duelos entre grandes equipes e</title>
-  </programme>
-  <programme channel="Cancaonova.br" start="20261013163000 -0300" stop="20261013170000 -0300">
-    <title lang="pt-BR">Ajuda à Igreja que Sofre Religious Conheça as realidades de pessoas necessitadas, pobres, excluídas e precisam de apoio, bem como ações da Igreja Cat</title>
   </programme>
   <programme channel="ESPN6.br" start="20261013163000 -0300" stop="20261013170000 -0300">
     <title lang="pt-BR">30min ESPN FIlmes: Setting The Tempo A faixa dedicada a documentários produzidos pela ESPN em parceria com grandes produtoras nacionais e internacion</title>
@@ -7447,9 +7414,6 @@
   <programme channel="CanalUOL.br" start="20261013170000 -0300" stop="20261013173000 -0300">
     <title lang="pt-BR">30min O Impensável O programa apresentado pelo professor Gil Giardelli traz o que há de mais recente no universo da tecnologia e como isso impacta a</title>
   </programme>
-  <programme channel="Cancaonova.br" start="20261013170000 -0300" stop="20261013173000 -0300">
-    <title lang="pt-BR">Cantinho da Criança Children Acompanhe histórias de evangelização para crianças apresentadas de forma divertida e inteligente, com vários personagens</title>
-  </programme>
   <programme channel="ESPN4.br" start="20261013170000 -0300" stop="20261013173000 -0300">
     <title lang="pt-BR">30min Destaques da Conmebol Libertadores Todos os destaques, os melhores lances, os melhores gols, um resumo completo sobre a Libertadores.</title>
   </programme>
@@ -7490,7 +7454,7 @@
     <title lang="pt-BR">1h Expresso BandNews No ar As principais notícias do dia de forma rápida e dinâmica com a credibilidade da BandNews TV.</title>
   </programme>
   <programme channel="BandSports.br" start="20261013170000 -0300" stop="20261013180000 -0300">
-    <title lang="pt-BR">Os Donos da Bola Sports talk Acompanhe as principais notícias do esporte do Mato Grosso do Sul e de todo o país. 24 min restantes</title>
+    <title lang="pt-BR">Os Donos da Bola Sports talk Acompanhe as principais notícias do esporte do Mato Grosso do Sul e de todo o país. 9 min restantes</title>
   </programme>
   <programme channel="ESPN4.br" start="20261013170000 -0300" stop="20261013180000 -0300">
     <title lang="pt-BR">1h NFL Redzone Ao vivo Programa com mais de 6 horas de transmissão ao vivo aos domingos da temporada regular da NFL, cobrindo todas as oportunidades</title>
@@ -7508,7 +7472,7 @@
     <title lang="pt-BR">Quest Means Business Bus./financial Richard Quest e sua equipe de correspondentes apresentam uma cobertura sobre os últimos acontecimentos na área fi</title>
   </programme>
   <programme channel="ESPN2.br" start="20261013170000 -0300" stop="20261013190000 -0300">
-    <title lang="pt-BR">Masters de Xangai de Tênis Masculino 2026 Masters de Xangai de Tênis Masculino 2026 1 hora 23 min restantes</title>
+    <title lang="pt-BR">Masters de Xangai de Tênis Masculino 2026 Masters de Xangai de Tênis Masculino 2026 1 hora 9 min restantes</title>
   </programme>
   <programme channel="ESPN4.br" start="20261013170000 -0300" stop="20261013190000 -0300">
     <title lang="pt-BR">2h VT - Brentford x Liverpool Grandes craques, técnicos de renome, torcedores e muitos outros personagens reunidos: é impossível caminhar sozinho. Si</title>
@@ -7603,9 +7567,6 @@
   <programme channel="tv.assembleia.piaui.br" start="20261013173000 -0300" stop="20261013174000 -0300">
     <title lang="pt-BR">- O DONO DA RUA</title>
   </programme>
-  <programme channel="Cancaonova.br" start="20261013173000 -0300" stop="20261013174800 -0300">
-    <title lang="pt-BR">A Bíblia no Meu Dia a Dia Religious Padre Roger Luís incentiva fiéis a se aprofundarem na palavra de Deus. 13 min restantes</title>
-  </programme>
   <programme channel="XSports.br" start="20261013173000 -0300" stop="20261013175000 -0300">
     <title lang="pt-BR">20min Mundo Futsal Ao vivo Sinopse não disponível.</title>
   </programme>
@@ -7646,7 +7607,7 @@
     <title lang="pt-BR">O Mundo de Beakman Children O excêntrico cientista Beakman, por meio de experimentos químicos bizarros e divertidos, ilustra conceitos básicos da ciê</title>
   </programme>
   <programme channel="sexprive-brasileirinhas.br" start="20261013173000 -0300" stop="20261013180000 -0300">
-    <title lang="pt-BR">Porn Stars Adults only Acompanhe filmes para lá de salientes com as maiores estrelas da pornografia. 25 min restantes</title>
+    <title lang="pt-BR">Porn Stars Adults only Acompanhe filmes para lá de salientes com as maiores estrelas da pornografia. 10 min restantes</title>
   </programme>
   <programme channel="GloboRio.br" start="20261013173000 -0300" stop="20261013182000 -0300">
     <title lang="pt-BR">50min Vale a Pena Ver de Novo - Avenida Brasil No aeroporto, Jorginho e Nina são presos. Ele diz para Tufão que Carminha armou o flagrante; Janaína e</title>
@@ -7658,6 +7619,9 @@
     <title lang="pt-BR">55min Vale a Pena Ver de Novo - Avenida Brasil No ar Max provoca e diz para família que ele Carminha já se conhecem há muito tempo; Nilo conta para C</title>
   </programme>
   <programme channel="GloboSP.br" start="20261013173000 -0300" stop="20261013182500 -0300">
+    <title lang="pt-BR">Vale a Pena Ver de Novo - Avenida Brasil Soap Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade d</title>
+  </programme>
+  <programme channel="RedeGloboTeresina.br" start="20261013173000 -0300" stop="20261013182500 -0300">
     <title lang="pt-BR">Vale a Pena Ver de Novo - Avenida Brasil Soap Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade d</title>
   </programme>
   <programme channel="TVAlvoradaDoSul.br" start="20261013173000 -0300" stop="20261013182500 -0300">
@@ -7679,10 +7643,10 @@
     <title lang="pt-BR">30min VT - Remo x Santos Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasile</title>
   </programme>
   <programme channel="RedeTV.br" start="20261013173000 -0300" stop="20261013183000 -0300">
-    <title lang="pt-BR">Igreja Universal do Reino de Deus Religious Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus. 47 min restantes</title>
+    <title lang="pt-BR">Igreja Universal do Reino de Deus Religious Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus. 33 min restantes</title>
   </programme>
   <programme channel="BandPiaui.br" start="20261013173000 -0300" stop="20261013185000 -0300">
-    <title lang="pt-BR">Brasil Urgente News Acompanhe os principais acontecimentos do dia no Piauí, com foco em temas do cotidiano. 1 hora 15 min restantes</title>
+    <title lang="pt-BR">Brasil Urgente News Acompanhe os principais acontecimentos do dia no Piauí, com foco em temas do cotidiano. 1 hora restantes</title>
   </programme>
   <programme channel="SextremeBrazil.br" start="20261013173000 -0300" stop="20261013190000 -0300">
     <title lang="pt-BR">Pequenas Universitárias Começando a Trabalhar Adults only Lindas mulheres divertem-se com membros enormes. Uma delas usa um avental provocante, a out</title>
@@ -7691,7 +7655,7 @@
     <title lang="pt-BR">–</title>
   </programme>
   <programme channel="ESPN.br" start="20261013173000 -0300" stop="20261013193000 -0300">
-    <title lang="pt-BR">Equipe F Especialistas comentam os principais acontecimentos notícia no futebol brasileiro. 1 hora 53 min restantes</title>
+    <title lang="pt-BR">Equipe F Especialistas comentam os principais acontecimentos notícia no futebol brasileiro. 1 hora 39 min restantes</title>
   </programme>
   <programme channel="ESPN5.br" start="20261013173000 -0300" stop="20261013193000 -0300">
     <title lang="pt-BR">–</title>
@@ -7739,7 +7703,7 @@
     <title lang="pt-BR">46min Será Isso Amor? Selin vê algo na casa de Serkan que ela não deveria ter visto. Toda a equipe vai para Antalya por causa de um negócio important</title>
   </programme>
   <programme channel="RecordTV.br" start="20261013174000 -0300" stop="20261013174500 -0300">
-    <title lang="pt-BR">Jornal da Record - 24h News Acompanhe o boletim informativo com as últimas notícias do Brasil e do mundo. 2 min restantes</title>
+    <title lang="pt-BR">Jornal da Record - 24h News Acompanhe o boletim informativo com as últimas notícias do Brasil e do mundo.</title>
   </programme>
   <programme channel="TVAntena10.br" start="20261013174000 -0300" stop="20261013174500 -0300">
     <title lang="pt-BR">Jornal da Record - 24h News Acompanhe o boletim informativo com as últimas notícias do Brasil e do mundo.</title>
@@ -7783,9 +7747,6 @@
   <programme channel="SportyNet.br" start="20261013174500 -0300" stop="20261014015500 -0300">
     <title lang="pt-BR">Programação</title>
   </programme>
-  <programme channel="Cancaonova.br" start="20261013174800 -0300" stop="20261013175000 -0300">
-    <title lang="pt-BR">Boletim de Notícia News Acompanhe as últimas notícias que abrangem o Brasil e o mundo, com destaques sendo apresentados de forma sucinta, objetiva e</title>
-  </programme>
   <programme channel="Playboy.br" start="20261013174900 -0300" stop="20261013181200 -0300">
     <title lang="pt-BR">Surfing Attraction Adults only Sensualmente estimulada pelas águas do oceano Pacífico uma bela aventureira latino-americana percorre com seu carro co</title>
   </programme>
@@ -7794,9 +7755,6 @@
   </programme>
   <programme channel="tv.assembleia.piaui.br" start="20261013175000 -0300" stop="20261013180000 -0300">
     <title lang="pt-BR">- RAZÕES DA FÉ</title>
-  </programme>
-  <programme channel="Cancaonova.br" start="20261013175000 -0300" stop="20261013183000 -0300">
-    <title lang="pt-BR">Terço Mariano Religious Acompanhe as rezas do Terço Mariano com o Padre Reginaldo Manzotti.</title>
   </programme>
   <programme channel="VenusTV.br" start="20261013175000 -0300" stop="20261013191800 -0300">
     <title lang="pt-BR">M...s Trans Adults only / 2024 Madrastas transexuais e donas de casa devoram grandes membros antes de serem dominadas e preenchidas. A única coisa ma</title>
@@ -7829,7 +7787,7 @@
     <title lang="pt-BR">30min Show da Rodada do Italiano O melhor resumo dos gols da Série A italiana logo depois de cada partida.</title>
   </programme>
   <programme channel="Multishow.br" start="20261013180000 -0300" stop="20261013183000 -0300">
-    <title lang="pt-BR">TVZ Music Os melhores videoclipes nacionais e internacionais das paradas musicais.</title>
+    <title lang="pt-BR">TVZ Music Os melhores videoclipes nacionais e internacionais das paradas musicais. 29 min restantes</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261013180000 -0300" stop="20261013183000 -0300">
     <title lang="pt-BR">30min VT - Athletico-PR x Bahia Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super</title>
@@ -7900,8 +7858,11 @@
   <programme channel="SBTNews.br" start="20261013180000 -0300" stop="20261013190000 -0300">
     <title lang="pt-BR">1h Sala de Imprensa - Reprise O Sala de Imprensa, comandado pela jornalista Basília Rodrigues, recebe nomes importantes da política nacional.</title>
   </programme>
+  <programme channel="SBTNews.br" start="20261013180000 -0300" stop="20261013190000 -0300">
+    <title lang="pt-BR">4h Programação SBT News Programação SBT News. Guia de notícias do mundo do entretenimento: descubra tudo o que rola no mundo dos filmes e saiba em pr</title>
+  </programme>
   <programme channel="SBTPiaui.br" start="20261013180000 -0300" stop="20261013190000 -0300">
-    <title lang="pt-BR">SBT Cidades News Notícias com foco em prestação de serviços, defesa do cidadão e participação popular.</title>
+    <title lang="pt-BR">SBT Cidades News Notícias com foco em prestação de serviços, defesa do cidadão e participação popular. 57 min restantes</title>
   </programme>
   <programme channel="TNT.br" start="20261013180000 -0300" stop="20261013190000 -0300">
     <title lang="pt-BR">Pós-Jogo Destaques, entrevistas e análises de partidas das principais competições esportivas.</title>
@@ -8032,6 +7993,9 @@
   <programme channel="GloboSP.br" start="20261013182500 -0300" stop="20261013191000 -0300">
     <title lang="pt-BR">A Nobreza do Amor Soap O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa</title>
   </programme>
+  <programme channel="RedeGloboTeresina.br" start="20261013182500 -0300" stop="20261013191000 -0300">
+    <title lang="pt-BR">A Nobreza do Amor Soap O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa</title>
+  </programme>
   <programme channel="TVAlvoradaDoSul.br" start="20261013182500 -0300" stop="20261013191000 -0300">
     <title lang="pt-BR">A Nobreza do Amor Soap O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa</title>
   </programme>
@@ -8052,9 +8016,6 @@
   </programme>
   <programme channel="Multishow.br" start="20261013183000 -0300" stop="20261013183900 -0300">
     <title lang="pt-BR">Vai que Cola Temporada 11 Episódio 18 - A Friaca O frio bate em Murundinho e todos passam a congelar, e Sidlayne tem um esquema para ficar quentinha.</title>
-  </programme>
-  <programme channel="Cancaonova.br" start="20261013183000 -0300" stop="20261013184500 -0300">
-    <title lang="pt-BR">Vitrine CN Religious Este programa visa mostrar os produtos como CDs, livros, que contêm conteúdo de evangelização.</title>
   </programme>
   <programme channel="NSports.br" start="20261013183000 -0300" stop="20261013184500 -0300">
     <title lang="pt-BR">15min BJJ Cria Steven Ortiz é atleta da AOJ, academia liderada pelos irmãos Guilherme Mendes e Rafael Mendes.</title>
@@ -8151,9 +8112,6 @@
   </programme>
   <programme channel="GloboRio.br" start="20261013184500 -0300" stop="20261013191500 -0300">
     <title lang="pt-BR">30min RJ2 O telejornal mostra os acontecimentos do dia a dia, explora os debates entre a população e as autoridades. Promove campanhas e discussões,</title>
-  </programme>
-  <programme channel="Cancaonova.br" start="20261013184500 -0300" stop="20261013193000 -0300">
-    <title lang="pt-BR">Canção Nova Notícias News As notícias do dia e reportagens com um jornalismo a serviço da vida e da esperança.</title>
   </programme>
   <programme channel="ESPN4.br" start="20261013184500 -0300" stop="20261014164500 -0300">
     <title lang="pt-BR">ESPN é uma rede de canais de televisão por assinatura brasileira, franquia local do canal homônimo dos Estados Unidos, sendo controlada diretamente p</title>
@@ -8314,6 +8272,9 @@
   <programme channel="GloboSP.br" start="20261013191000 -0300" stop="20261013194000 -0300">
     <title lang="pt-BR">SP2 News Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos paulistanos, como</title>
   </programme>
+  <programme channel="RedeGloboTeresina.br" start="20261013191000 -0300" stop="20261013194000 -0300">
+    <title lang="pt-BR">PI2 News Acompanhe denúncias, investigação, problemas das comunidades, defesa do consumidor, saúde, educação, economia doméstica, política, cultura e</title>
+  </programme>
   <programme channel="TVAlvoradaDoSul.br" start="20261013191000 -0300" stop="20261013194000 -0300">
     <title lang="pt-BR">PI2 News Acompanhe denúncias, investigação, problemas das comunidades, defesa do consumidor, saúde, educação, economia doméstica, política, cultura e</title>
   </programme>
@@ -8401,9 +8362,6 @@
   <programme channel="CanalUOL.br" start="20261013193000 -0300" stop="20261013203000 -0300">
     <title lang="pt-BR">1h O Povo Quer Saber Chico Barney desvenda mistérios das redes, da TV e da cultura pop brasileira.</title>
   </programme>
-  <programme channel="Cancaonova.br" start="20261013193000 -0300" stop="20261013203000 -0300">
-    <title lang="pt-BR">Pra Ser Feliz Religious O padre Adriano Zandoná apresenta testemunhos e reflexões que ajudam a encontrar elementos simples do cotidiano, como o amor</title>
-  </programme>
   <programme channel="ESPN3.br" start="20261013193000 -0300" stop="20261013203000 -0300">
     <title lang="pt-BR">1h VT - NFL: Buffalo Bills x Los Angeles Rams Touchdowns, viradas espetaculares, jogadas que entram para a história e os melhores atletas em campo. A</title>
   </programme>
@@ -8471,6 +8429,9 @@
     <title lang="pt-BR">50min Por Você Juarez tenta disfarçar o nervosismo entre os amigos no karaokê. Kátia fica presa com uma gestante no elevador do hospital, e a moça en</title>
   </programme>
   <programme channel="GloboSP.br" start="20261013194000 -0300" stop="20261013203000 -0300">
+    <title lang="pt-BR">Por Você Soap Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a úl</title>
+  </programme>
+  <programme channel="RedeGloboTeresina.br" start="20261013194000 -0300" stop="20261013203000 -0300">
     <title lang="pt-BR">Por Você Soap Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a úl</title>
   </programme>
   <programme channel="TVAlvoradaDoSul.br" start="20261013194000 -0300" stop="20261013203000 -0300">
@@ -8767,13 +8728,13 @@
   <programme channel="XSports.br" start="20261013203000 -0300" stop="20261013204000 -0300">
     <title lang="pt-BR">10min Horário Político Obrigatório Horário reservado para a transmissão da propaganda política partidária.</title>
   </programme>
-  <programme channel="Cancaonova.br" start="20261013203000 -0300" stop="20261013204300 -0300">
-    <title lang="pt-BR">Propaganda Eleitoral Politics Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</title>
-  </programme>
   <programme channel="GloboRio.br" start="20261013203000 -0300" stop="20261013205000 -0300">
     <title lang="pt-BR">20min Propaganda Eleitoral Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</title>
   </programme>
   <programme channel="GloboSP.br" start="20261013203000 -0300" stop="20261013205000 -0300">
+    <title lang="pt-BR">Propaganda Eleitoral Politics Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</title>
+  </programme>
+  <programme channel="RedeGloboTeresina.br" start="20261013203000 -0300" stop="20261013205000 -0300">
     <title lang="pt-BR">Propaganda Eleitoral Politics Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</title>
   </programme>
   <programme channel="TVAlvoradaDoSul.br" start="20261013203000 -0300" stop="20261013205000 -0300">
@@ -8953,9 +8914,6 @@
   <programme channel="XSports.br" start="20261013204000 -0300" stop="20261014022000 -0300">
     <title lang="pt-BR">Programação</title>
   </programme>
-  <programme channel="Cancaonova.br" start="20261013204300 -0300" stop="20261013210000 -0300">
-    <title lang="pt-BR">Shows Canção Nova Religious Momento de louvor, oração e animação com canções ministradas por músicos católicos.</title>
-  </programme>
   <programme channel="NSports.br" start="20261013204500 -0300" stop="20261013210000 -0300">
     <title lang="pt-BR">15min Desimpedidos Como funciona a relação jogador de futebol e empresário? Em mais um episódio de "1:1" Egídio e Madson contam os bastidores das rel</title>
   </programme>
@@ -9008,6 +8966,9 @@
     <title lang="pt-BR">50min Jornal Nacional As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejorn</title>
   </programme>
   <programme channel="GloboSP.br" start="20261013205000 -0300" stop="20261013214000 -0300">
+    <title lang="pt-BR">Jornal Nacional News As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejorna</title>
+  </programme>
+  <programme channel="RedeGloboTeresina.br" start="20261013205000 -0300" stop="20261013214000 -0300">
     <title lang="pt-BR">Jornal Nacional News As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejorna</title>
   </programme>
   <programme channel="TVAlvoradaDoSul.br" start="20261013205000 -0300" stop="20261013214000 -0300">
@@ -9087,9 +9048,6 @@
   </programme>
   <programme channel="CanalUOL.br" start="20261013210000 -0300" stop="20261013220000 -0300">
     <title lang="pt-BR">1h Splash Show Os babados, os romances e, lógico, as trends e os memes do momento! Fernanda Braz Soares te conta no "Splash Show"!</title>
-  </programme>
-  <programme channel="Cancaonova.br" start="20261013210000 -0300" stop="20261013220000 -0300">
-    <title lang="pt-BR">Reinflama Religious Momento de encontro com Deus por meio de oração, música e meditação da palavra divina. A intervenção da Virgem Maria é clamada pa</title>
   </programme>
   <programme channel="ESPN6.br" start="20261013210000 -0300" stop="20261013220000 -0300">
     <title lang="pt-BR">1h VT - NFL: Buffalo Bills x Los Angeles Rams Touchdowns, viradas espetaculares, jogadas que entram para a história e os melhores atletas em campo. A</title>
@@ -9325,6 +9283,9 @@
   <programme channel="GloboSP.br" start="20261013214000 -0300" stop="20261013224500 -0300">
     <title lang="pt-BR">Quem Ama Cuida Soap Após ser demitida, Adriana tem sua casa destruída por uma enchente que também leva seu marido. Ainda sem entender como seguir, el</title>
   </programme>
+  <programme channel="RedeGloboTeresina.br" start="20261013214000 -0300" stop="20261013224500 -0300">
+    <title lang="pt-BR">Quem Ama Cuida Soap Após ser demitida, Adriana tem sua casa destruída por uma enchente que também leva seu marido. Ainda sem entender como seguir, el</title>
+  </programme>
   <programme channel="TVAlvoradaDoSul.br" start="20261013214000 -0300" stop="20261013224500 -0300">
     <title lang="pt-BR">Quem Ama Cuida Soap Após ser demitida, Adriana tem sua casa destruída por uma enchente que também leva seu marido. Ainda sem entender como seguir, el</title>
   </programme>
@@ -9459,9 +9420,6 @@
   </programme>
   <programme channel="tv.assembleia.piaui.br" start="20261013220000 -0300" stop="20261013230000 -0300">
     <title lang="pt-BR">- SESSÃO PLENÁRIA - REPRISE</title>
-  </programme>
-  <programme channel="Cancaonova.br" start="20261013220000 -0300" stop="20261013233000 -0300">
-    <title lang="pt-BR">PHN Religious De maneira descontraída, dinâmica e, ao mesmo tempo, profunda, o apresentador Pitter Di Laura mostra ao público, por meio de testemunho</title>
   </programme>
   <programme channel="ESPN4.br" start="20261013220000 -0300" stop="20261014000000 -0300">
     <title lang="pt-BR">2h VT - Burnley x Wolverhampton A segunda divisão inglesa é disputada por 24 clubes que querem conquistar uma das vagas para competir na tão sonhada</title>
@@ -9691,6 +9649,9 @@
   <programme channel="GloboSP.br" start="20261013224500 -0300" stop="20261013234000 -0300">
     <title lang="pt-BR">Chef de Alto Nível Temporada 2 Episódio 1 A versão brasileira do programa "Next Level Chef", de Gordon Ramsay, seleciona participantes entre chefs pr</title>
   </programme>
+  <programme channel="RedeGloboTeresina.br" start="20261013224500 -0300" stop="20261013234000 -0300">
+    <title lang="pt-BR">Chef de Alto Nível Temporada 2 Episódio 1 A versão brasileira do programa "Next Level Chef", de Gordon Ramsay, seleciona participantes entre chefs pr</title>
+  </programme>
   <programme channel="TVAlvoradaDoSul.br" start="20261013224500 -0300" stop="20261013234000 -0300">
     <title lang="pt-BR">Chef de Alto Nível Temporada 2 Episódio 1 A versão brasileira do programa "Next Level Chef", de Gordon Ramsay, seleciona participantes entre chefs pr</title>
   </programme>
@@ -9904,9 +9865,6 @@
   <programme channel="CanalUOL.br" start="20261013233000 -0300" stop="20261014000000 -0300">
     <title lang="pt-BR">30min Profissão Montanhista As montanhas mais altas do globo da visão de quem conhece do assunto. Domingo, 18 de outubro</title>
   </programme>
-  <programme channel="Cancaonova.br" start="20261013233000 -0300" stop="20261014000000 -0300">
-    <title lang="pt-BR">Sorrindo pra Vida Religious Junte-se a um grupo diário de oração, música e meditação da palavra de Deus.</title>
-  </programme>
   <programme channel="ESPN3.br" start="20261013233000 -0300" stop="20261014000000 -0300">
     <title lang="pt-BR">30min Destaques da Conmebol Sulamericana Todos os destaques, os melhores lances, os melhores gols, um resumo completo sobre a Libertadores. Terça-fei</title>
   </programme>
@@ -10001,6 +9959,9 @@
     <title lang="pt-BR">45min Avisa Lá que Eu Vou : Xingu - MT No Xingu, Paulo vive o Kuarup com os Yawalapiti, conversa com Tapi e a pajé Mapulu, aprende sobre a luta Huka</title>
   </programme>
   <programme channel="GloboSP.br" start="20261013234000 -0300" stop="20261014002500 -0300">
+    <title lang="pt-BR">Avisa Lá que Eu Vou Temporada 5 Episódio 1 - Xingu - MT No Xingu, Paulo vive o Kuarup com os Yawalapiti, conversa com Tapi e a pajé Mapulu, aprende s</title>
+  </programme>
+  <programme channel="RedeGloboTeresina.br" start="20261013234000 -0300" stop="20261014002500 -0300">
     <title lang="pt-BR">Avisa Lá que Eu Vou Temporada 5 Episódio 1 - Xingu - MT No Xingu, Paulo vive o Kuarup com os Yawalapiti, conversa com Tapi e a pajé Mapulu, aprende s</title>
   </programme>
   <programme channel="TVAlvoradaDoSul.br" start="20261013234000 -0300" stop="20261014002500 -0300">
