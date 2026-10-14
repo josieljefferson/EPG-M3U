@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T16:27:39.250662-03:00",
+  "generated_at": "2026-10-14T16:40:43.420131-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -49,9 +49,9 @@
     "with_programs": 61
   },
   "programs": {
-    "total": 3324,
+    "total": 3322,
     "by_source": {
-      "fallback": 3324
+      "fallback": 3322
     },
     "by_channel": {
       "Band.br": 19,
@@ -64,10 +64,10 @@
       "DiscoveryChannel.br": 37,
       "ESPN.br": 17,
       "ESPN2.br": 19,
-      "ESPN3.br": 145,
+      "ESPN3.br": 146,
       "ESPN4.br": 139,
       "ESPN5.br": 137,
-      "ESPN6.br": 131,
+      "ESPN6.br": 128,
       "GETV.br": 91,
       "GloboNews.br": 15,
       "GloboRio.br": 69,
@@ -456,7 +456,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 145,
+      "programs": 146,
       "url": "https://www.guiadetv.com/canal/espn-3",
       "error": ""
     },
@@ -478,7 +478,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 145,
+      "programs": 146,
       "url": "https://www.guiadetv.com/canal/espn-3",
       "error": ""
     },
@@ -588,7 +588,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 131,
+      "programs": 128,
       "url": "https://www.guiadetv.com/canal/espn-6",
       "error": ""
     },
@@ -610,7 +610,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 131,
+      "programs": 128,
       "url": "https://www.guiadetv.com/canal/espn-6",
       "error": ""
     },
