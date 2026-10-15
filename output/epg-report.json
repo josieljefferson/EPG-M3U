@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T05:19:56.120840-03:00",
+  "generated_at": "2026-10-15T05:32:51.767260-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -49,9 +49,9 @@
     "with_programs": 61
   },
   "programs": {
-    "total": 3496,
+    "total": 3495,
     "by_source": {
-      "fallback": 3496
+      "fallback": 3495
     },
     "by_channel": {
       "Band.br": 19,
@@ -112,7 +112,7 @@
       "TVCultura.br": 65,
       "VenusTV.br": 17,
       "Viva.br": 30,
-      "XSports.br": 170,
+      "XSports.br": 169,
       "sexprive-brasileirinhas.br": 35,
       "tv.assembleia.piaui.br": 80
     }
@@ -1028,7 +1028,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 170,
+      "programs": 169,
       "url": "https://www.guiadetv.com/canal/xsports",
       "error": ""
     },
@@ -1050,7 +1050,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 170,
+      "programs": 169,
       "url": "https://www.guiadetv.com/canal/xsports",
       "error": ""
     },
