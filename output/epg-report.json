@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T16:13:46.846599-03:00",
+  "generated_at": "2026-10-15T16:26:42.491093-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -46,22 +46,22 @@
   ],
   "channels": {
     "configured": 61,
-    "with_programs": 58
+    "with_programs": 61
   },
   "programs": {
-    "total": 3572,
+    "total": 3369,
     "by_source": {
-      "fallback": 3572
+      "fallback": 3369
     },
     "by_channel": {
       "Band.br": 19,
       "BandNews.br": 66,
       "BandPiaui.br": 23,
-      "BandSports.br": 168,
+      "BandSports.br": 26,
       "CNNBrasil.br": 23,
       "CanalUOL.br": 112,
       "Cancaonova.br": 37,
-      "DiscoveryChannel.br": 96,
+      "DiscoveryChannel.br": 31,
       "ESPN.br": 17,
       "ESPN2.br": 16,
       "ESPN3.br": 147,
@@ -88,6 +88,7 @@
       "Premiere7.br": 3,
       "PremiereFC.br": 286,
       "RecordNews.br": 85,
+      "RecordTV.br": 29,
       "RedeGloboTeresina.br": 28,
       "RedeTV.br": 24,
       "SBT.br": 19,
@@ -101,10 +102,12 @@
       "SporTV2.br": 12,
       "SporTV3.br": 15,
       "SportyNet.br": 182,
-      "TNT.br": 101,
+      "TNT.br": 33,
       "TNTNovelas.br": 252,
       "TVAlvoradaDoSul.br": 28,
+      "TVAntena10.br": 22,
       "TVBrasil.br": 55,
+      "TVCidadeVerde.br": 21,
       "TVClube.br": 28,
       "TVCultura.br": 64,
       "VenusTV.br": 17,
@@ -115,9 +118,9 @@
     }
   },
   "attempts": {
-    "total": 172,
-    "successful": 116,
-    "failed": 56
+    "total": 160,
+    "successful": 122,
+    "failed": 38
   },
   "files": {
     "epg": "output/epg.xml",
@@ -199,21 +202,10 @@
       "date": "2026-10-15",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 21,
       "url": "https://mi.tv/br/canais/tv-cidade-verde-hd",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "TVCidadeVerde.br",
-      "channel_name": "TV CIDADE VERDE",
-      "date": "2026-10-15",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/tv-cidade-verde-hd: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "TVCidadeVerde.br",
@@ -221,21 +213,10 @@
       "date": "2026-10-16",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 21,
       "url": "https://mi.tv/br/canais/tv-cidade-verde-hd",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "TVCidadeVerde.br",
-      "channel_name": "TV CIDADE VERDE",
-      "date": "2026-10-16",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/tv-cidade-verde-hd: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "TVAntena10.br",
@@ -243,21 +224,10 @@
       "date": "2026-10-15",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 22,
       "url": "https://mi.tv/br/canais/tv-antena-10-hd",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "TVAntena10.br",
-      "channel_name": "TV ANTENA 10",
-      "date": "2026-10-15",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/tv-antena-10-hd: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "TVAntena10.br",
@@ -265,21 +235,10 @@
       "date": "2026-10-16",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 22,
       "url": "https://mi.tv/br/canais/tv-antena-10-hd",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "TVAntena10.br",
-      "channel_name": "TV ANTENA 10",
-      "date": "2026-10-16",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/tv-antena-10-hd: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "SexyHot.br",
@@ -419,20 +378,9 @@
       "date": "2026-10-15",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
-      "url": "https://mi.tv/br/canais/bandsports",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "BandSports.br",
-      "channel_name": "BAND SPORTS",
-      "date": "2026-10-15",
-      "source": "guiadetv",
-      "priority": 2,
       "success": true,
-      "programs": 168,
-      "url": "https://www.guiadetv.com/canal/bandsports",
+      "programs": 26,
+      "url": "https://mi.tv/br/canais/bandsports",
       "error": ""
     },
     {
@@ -441,20 +389,9 @@
       "date": "2026-10-16",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
-      "url": "https://mi.tv/br/canais/bandsports",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "BandSports.br",
-      "channel_name": "BAND SPORTS",
-      "date": "2026-10-16",
-      "source": "guiadetv",
-      "priority": 2,
       "success": true,
-      "programs": 168,
-      "url": "https://www.guiadetv.com/canal/bandsports",
+      "programs": 26,
+      "url": "https://mi.tv/br/canais/bandsports",
       "error": ""
     },
     {
@@ -1145,20 +1082,9 @@
       "date": "2026-10-15",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 33,
       "url": "https://mi.tv/br/canais/tnt",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "TNT.br",
-      "channel_name": "TNT",
-      "date": "2026-10-15",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": true,
-      "programs": 101,
-      "url": "https://www.guiadetv.com/canal/tnt",
       "error": ""
     },
     {
@@ -1167,20 +1093,9 @@
       "date": "2026-10-16",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 33,
       "url": "https://mi.tv/br/canais/tnt",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "TNT.br",
-      "channel_name": "TNT",
-      "date": "2026-10-16",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": true,
-      "programs": 101,
-      "url": "https://www.guiadetv.com/canal/tnt",
       "error": ""
     },
     {
@@ -1189,20 +1104,9 @@
       "date": "2026-10-15",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
-      "url": "https://mi.tv/br/canais/discovery-channel",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "DiscoveryChannel.br",
-      "channel_name": "DISCOVERY CHANNEL",
-      "date": "2026-10-15",
-      "source": "guiadetv",
-      "priority": 2,
       "success": true,
-      "programs": 96,
-      "url": "https://www.guiadetv.com/canal/discovery-channel",
+      "programs": 31,
+      "url": "https://mi.tv/br/canais/discovery-channel",
       "error": ""
     },
     {
@@ -1211,20 +1115,9 @@
       "date": "2026-10-16",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
-      "url": "https://mi.tv/br/canais/discovery-channel",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "DiscoveryChannel.br",
-      "channel_name": "DISCOVERY CHANNEL",
-      "date": "2026-10-16",
-      "source": "guiadetv",
-      "priority": 2,
       "success": true,
-      "programs": 96,
-      "url": "https://www.guiadetv.com/canal/discovery-channel",
+      "programs": 31,
+      "url": "https://mi.tv/br/canais/discovery-channel",
       "error": ""
     },
     {
@@ -1343,21 +1236,10 @@
       "date": "2026-10-15",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 29,
       "url": "https://mi.tv/br/canais/record",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "RecordTV.br",
-      "channel_name": "RECORD TV",
-      "date": "2026-10-15",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/record: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "RecordTV.br",
@@ -1365,21 +1247,10 @@
       "date": "2026-10-16",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 29,
       "url": "https://mi.tv/br/canais/record",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "RecordTV.br",
-      "channel_name": "RECORD TV",
-      "date": "2026-10-16",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/record: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "RedeTV.br",
