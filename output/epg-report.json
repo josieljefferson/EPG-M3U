@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T05:13:01.295687-03:00",
+  "generated_at": "2026-10-16T05:25:52.105893-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -87,7 +87,7 @@
       "Premiere6.br": 3,
       "Premiere7.br": 3,
       "PremiereFC.br": 284,
-      "RecordNews.br": 112,
+      "RecordNews.br": 113,
       "RecordTV.br": 29,
       "RedeGloboTeresina.br": 28,
       "RedeTV.br": 24,
@@ -112,7 +112,7 @@
       "TVCultura.br": 64,
       "VenusTV.br": 17,
       "Viva.br": 31,
-      "XSports.br": 169,
+      "XSports.br": 168,
       "sexprive-brasileirinhas.br": 35,
       "tv.assembleia.piaui.br": 80
     }
@@ -1028,7 +1028,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 169,
+      "programs": 168,
       "url": "https://www.guiadetv.com/canal/xsports",
       "error": ""
     },
@@ -1050,7 +1050,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 169,
+      "programs": 168,
       "url": "https://www.guiadetv.com/canal/xsports",
       "error": ""
     },
@@ -1556,7 +1556,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 112,
+      "programs": 113,
       "url": "https://www.guiadetv.com/canal/record-news",
       "error": ""
     },
@@ -1578,7 +1578,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 112,
+      "programs": 113,
       "url": "https://www.guiadetv.com/canal/record-news",
       "error": ""
     },
