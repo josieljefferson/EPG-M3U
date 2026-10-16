@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T15:55:24.066744-03:00",
+  "generated_at": "2026-10-16T16:08:41.088227-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -46,12 +46,12 @@
   ],
   "channels": {
     "configured": 61,
-    "with_programs": 61
+    "with_programs": 60
   },
   "programs": {
-    "total": 3626,
+    "total": 3355,
     "by_source": {
-      "fallback": 3626
+      "fallback": 3355
     },
     "by_channel": {
       "Band.br": 21,
@@ -59,20 +59,20 @@
       "BandPiaui.br": 25,
       "BandSports.br": 29,
       "CNNBrasil.br": 26,
-      "CanalUOL.br": 96,
+      "CanalUOL.br": 93,
       "Cancaonova.br": 39,
       "DiscoveryChannel.br": 27,
       "ESPN.br": 18,
       "ESPN2.br": 19,
       "ESPN3.br": 150,
-      "ESPN4.br": 153,
+      "ESPN4.br": 155,
       "ESPN5.br": 135,
       "ESPN6.br": 129,
-      "GETV.br": 105,
+      "GETV.br": 103,
       "GloboNews.br": 17,
-      "GloboRio.br": 94,
+      "GloboRio.br": 93,
       "GloboSP.br": 28,
-      "InvestigacaoDiscovery.br": 266,
+      "InvestigacaoDiscovery.br": 35,
       "JovemPanNews.br": 14,
       "MeioNorte.br": 18,
       "MeioNorteHD.br": 18,
@@ -83,7 +83,7 @@
       "Premiere2.br": 3,
       "Premiere3.br": 3,
       "Premiere4.br": 3,
-      "Premiere5.br": 61,
+      "Premiere5.br": 59,
       "Premiere6.br": 3,
       "Premiere7.br": 3,
       "PremiereFC.br": 284,
@@ -92,16 +92,15 @@
       "RedeGloboTeresina.br": 27,
       "RedeTV.br": 25,
       "SBT.br": 20,
-      "SBTNews.br": 71,
+      "SBTNews.br": 67,
       "SBTPiaui.br": 22,
       "SBTRio.br": 73,
       "SextremeBrazil.br": 19,
-      "SexyHot.br": 28,
       "Space.br": 28,
       "SporTV.br": 21,
       "SporTV2.br": 15,
       "SporTV3.br": 4,
-      "SportyNet.br": 181,
+      "SportyNet.br": 179,
       "TNT.br": 31,
       "TNTNovelas.br": 252,
       "TVAlvoradaDoSul.br": 27,
@@ -119,8 +118,8 @@
   },
   "attempts": {
     "total": 162,
-    "successful": 122,
-    "failed": 40
+    "successful": 120,
+    "failed": 42
   },
   "files": {
     "epg": "output/epg.xml",
@@ -246,10 +245,21 @@
       "date": "2026-10-16",
       "source": "mitv",
       "priority": 1,
-      "success": true,
-      "programs": 28,
+      "success": false,
+      "programs": 0,
       "url": "https://mi.tv/br/canais/sexy-hot",
-      "error": ""
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "SexyHot.br",
+      "channel_name": "SEXY HOT",
+      "date": "2026-10-16",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/sexy-hot: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
     },
     {
       "channel_id": "SexyHot.br",
@@ -257,10 +267,21 @@
       "date": "2026-10-17",
       "source": "mitv",
       "priority": 1,
-      "success": true,
-      "programs": 28,
+      "success": false,
+      "programs": 0,
       "url": "https://mi.tv/br/canais/sexy-hot",
-      "error": ""
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "SexyHot.br",
+      "channel_name": "SEXY HOT",
+      "date": "2026-10-17",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/sexy-hot: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
     },
     {
       "channel_id": "sexprive-brasileirinhas.br",
@@ -500,7 +521,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 153,
+      "programs": 155,
       "url": "https://www.guiadetv.com/canal/espn-4",
       "error": ""
     },
@@ -522,7 +543,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 153,
+      "programs": 155,
       "url": "https://www.guiadetv.com/canal/espn-4",
       "error": ""
     },
@@ -632,7 +653,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 105,
+      "programs": 103,
       "url": "https://www.guiadetv.com/canal/ge-tv",
       "error": ""
     },
@@ -654,7 +675,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 105,
+      "programs": 103,
       "url": "https://www.guiadetv.com/canal/ge-tv",
       "error": ""
     },
@@ -786,7 +807,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 61,
+      "programs": 59,
       "url": "https://www.guiadetv.com/canal/premiere-5",
       "error": ""
     },
@@ -808,7 +829,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 61,
+      "programs": 59,
       "url": "https://www.guiadetv.com/canal/premiere-5",
       "error": ""
     },
@@ -984,7 +1005,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 181,
+      "programs": 179,
       "url": "https://www.guiadetv.com/canal/sportynet",
       "error": ""
     },
@@ -1006,7 +1027,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 181,
+      "programs": 179,
       "url": "https://www.guiadetv.com/canal/sportynet",
       "error": ""
     },
@@ -1126,20 +1147,9 @@
       "date": "2026-10-16",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
-      "url": "https://mi.tv/br/canais/investigacao-discovery",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "InvestigacaoDiscovery.br",
-      "channel_name": "INVESTIGAÇÃO DISCOVERY",
-      "date": "2026-10-16",
-      "source": "guiadetv",
-      "priority": 2,
       "success": true,
-      "programs": 266,
-      "url": "https://www.guiadetv.com/canal/investigacao-discovery",
+      "programs": 35,
+      "url": "https://mi.tv/br/canais/investigacao-discovery",
       "error": ""
     },
     {
@@ -1148,20 +1158,9 @@
       "date": "2026-10-17",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
-      "url": "https://mi.tv/br/canais/investigacao-discovery",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "InvestigacaoDiscovery.br",
-      "channel_name": "INVESTIGAÇÃO DISCOVERY",
-      "date": "2026-10-17",
-      "source": "guiadetv",
-      "priority": 2,
       "success": true,
-      "programs": 266,
-      "url": "https://www.guiadetv.com/canal/investigacao-discovery",
+      "programs": 35,
+      "url": "https://mi.tv/br/canais/investigacao-discovery",
       "error": ""
     },
     {
@@ -1204,7 +1203,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 94,
+      "programs": 93,
       "url": "https://www.guiadetv.com/canal/globo-rio-de-janeiro",
       "error": ""
     },
@@ -1226,7 +1225,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 94,
+      "programs": 93,
       "url": "https://www.guiadetv.com/canal/globo-rio-de-janeiro",
       "error": ""
     },
@@ -1468,7 +1467,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 96,
+      "programs": 93,
       "url": "https://www.guiadetv.com/canal/canal-uol",
       "error": ""
     },
@@ -1490,7 +1489,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 96,
+      "programs": 93,
       "url": "https://www.guiadetv.com/canal/canal-uol",
       "error": ""
     },
@@ -1622,7 +1621,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 71,
+      "programs": 67,
       "url": "https://www.guiadetv.com/canal/sbt-news",
       "error": ""
     },
@@ -1644,7 +1643,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 71,
+      "programs": 67,
       "url": "https://www.guiadetv.com/canal/sbt-news",
       "error": ""
     },
