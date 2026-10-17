@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T04:50:36.576921-03:00",
+  "generated_at": "2026-10-17T05:03:48.093960-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -49,13 +49,13 @@
     "with_programs": 61
   },
   "programs": {
-    "total": 3552,
+    "total": 3550,
     "by_source": {
-      "fallback": 3552
+      "fallback": 3550
     },
     "by_channel": {
       "Band.br": 21,
-      "BandNews.br": 88,
+      "BandNews.br": 87,
       "BandPiaui.br": 25,
       "BandSports.br": 29,
       "CNNBrasil.br": 26,
@@ -103,7 +103,7 @@
       "SporTV3.br": 14,
       "SportyNet.br": 190,
       "TNT.br": 31,
-      "TNTNovelas.br": 258,
+      "TNTNovelas.br": 257,
       "TVAlvoradaDoSul.br": 27,
       "TVAntena10.br": 23,
       "TVBrasil.br": 55,
@@ -1402,7 +1402,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 88,
+      "programs": 87,
       "url": "https://www.guiadetv.com/canal/bandnews",
       "error": ""
     },
@@ -1424,7 +1424,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 88,
+      "programs": 87,
       "url": "https://www.guiadetv.com/canal/bandnews",
       "error": ""
     },
@@ -1666,7 +1666,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 258,
+      "programs": 257,
       "url": "https://www.guiadetv.com/canal/tnt-novelas",
       "error": ""
     },
@@ -1688,7 +1688,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 258,
+      "programs": 257,
       "url": "https://www.guiadetv.com/canal/tnt-novelas",
       "error": ""
     },
