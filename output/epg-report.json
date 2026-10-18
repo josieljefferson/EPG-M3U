@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T05:06:13.905053-03:00",
+  "generated_at": "2026-10-18T05:19:21.686309-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -49,9 +49,9 @@
     "with_programs": 61
   },
   "programs": {
-    "total": 3404,
+    "total": 3406,
     "by_source": {
-      "fallback": 3404
+      "fallback": 3406
     },
     "by_channel": {
       "Band.br": 24,
@@ -67,14 +67,14 @@
       "ESPN3.br": 163,
       "ESPN4.br": 167,
       "ESPN5.br": 145,
-      "ESPN6.br": 136,
+      "ESPN6.br": 135,
       "GETV.br": 121,
       "GloboNews.br": 20,
       "GloboRio.br": 93,
       "GloboSP.br": 26,
       "InvestigacaoDiscovery.br": 36,
       "JovemPanNews.br": 18,
-      "MeioNorte.br": 16,
+      "MeioNorte.br": 19,
       "MeioNorteHD.br": 19,
       "Multishow.br": 43,
       "NSports.br": 179,
@@ -588,7 +588,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 136,
+      "programs": 135,
       "url": "https://www.guiadetv.com/canal/espn-6",
       "error": ""
     },
@@ -610,7 +610,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 136,
+      "programs": 135,
       "url": "https://www.guiadetv.com/canal/espn-6",
       "error": ""
     },
@@ -1743,7 +1743,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 16,
+      "programs": 19,
       "url": "https://mi.tv/br/canais/meio-norte",
       "error": ""
     },
@@ -1754,7 +1754,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 16,
+      "programs": 19,
       "url": "https://mi.tv/br/canais/meio-norte",
       "error": ""
     },
