@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T10:18:20.350677-03:00",
+  "generated_at": "2026-10-18T15:07:30.488099-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -49,52 +49,52 @@
     "with_programs": 61
   },
   "programs": {
-    "total": 3210,
+    "total": 3121,
     "by_source": {
-      "fallback": 3210
+      "fallback": 3121
     },
     "by_channel": {
       "Band.br": 20,
-      "BandNews.br": 70,
+      "BandNews.br": 56,
       "BandPiaui.br": 23,
       "BandSports.br": 20,
       "CNNBrasil.br": 19,
-      "CanalUOL.br": 54,
+      "CanalUOL.br": 46,
       "Cancaonova.br": 31,
       "DiscoveryChannel.br": 27,
       "ESPN.br": 16,
       "ESPN2.br": 20,
-      "ESPN3.br": 165,
-      "ESPN4.br": 170,
-      "ESPN5.br": 140,
-      "ESPN6.br": 134,
-      "GETV.br": 116,
+      "ESPN3.br": 163,
+      "ESPN4.br": 165,
+      "ESPN5.br": 138,
+      "ESPN6.br": 131,
+      "GETV.br": 112,
       "GloboNews.br": 20,
-      "GloboRio.br": 83,
+      "GloboRio.br": 72,
       "GloboSP.br": 17,
       "InvestigacaoDiscovery.br": 34,
       "JovemPanNews.br": 17,
       "MeioNorte.br": 16,
       "MeioNorteHD.br": 16,
       "Multishow.br": 46,
-      "NSports.br": 179,
+      "NSports.br": 177,
       "Playboy.br": 42,
       "PlayboyHD.br": 42,
       "Premiere2.br": 5,
       "Premiere3.br": 5,
       "Premiere4.br": 5,
-      "Premiere5.br": 46,
+      "Premiere5.br": 38,
       "Premiere6.br": 6,
       "Premiere7.br": 3,
-      "PremiereFC.br": 273,
-      "RecordNews.br": 89,
+      "PremiereFC.br": 274,
+      "RecordNews.br": 83,
       "RecordTV.br": 19,
       "RedeGloboTeresina.br": 17,
       "RedeTV.br": 22,
       "SBT.br": 13,
-      "SBTNews.br": 51,
+      "SBTNews.br": 42,
       "SBTPiaui.br": 12,
-      "SBTRio.br": 60,
+      "SBTRio.br": 53,
       "SextremeBrazil.br": 19,
       "SexyHot.br": 30,
       "Space.br": 22,
@@ -103,7 +103,7 @@
       "SporTV3.br": 15,
       "SportyNet.br": 191,
       "TNT.br": 29,
-      "TNTNovelas.br": 258,
+      "TNTNovelas.br": 257,
       "TVAlvoradaDoSul.br": 17,
       "TVAntena10.br": 15,
       "TVBrasil.br": 29,
@@ -112,7 +112,7 @@
       "TVCultura.br": 29,
       "VenusTV.br": 17,
       "Viva.br": 30,
-      "XSports.br": 169,
+      "XSports.br": 161,
       "sexprive-brasileirinhas.br": 27,
       "tv.assembleia.piaui.br": 80
     }
@@ -456,7 +456,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 165,
+      "programs": 163,
       "url": "https://www.guiadetv.com/canal/espn-3",
       "error": ""
     },
@@ -478,7 +478,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 165,
+      "programs": 163,
       "url": "https://www.guiadetv.com/canal/espn-3",
       "error": ""
     },
@@ -500,7 +500,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 170,
+      "programs": 165,
       "url": "https://www.guiadetv.com/canal/espn-4",
       "error": ""
     },
@@ -522,7 +522,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 170,
+      "programs": 165,
       "url": "https://www.guiadetv.com/canal/espn-4",
       "error": ""
     },
@@ -544,7 +544,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 140,
+      "programs": 138,
       "url": "https://www.guiadetv.com/canal/espn-5",
       "error": ""
     },
@@ -566,7 +566,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 140,
+      "programs": 138,
       "url": "https://www.guiadetv.com/canal/espn-5",
       "error": ""
     },
@@ -588,7 +588,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 134,
+      "programs": 131,
       "url": "https://www.guiadetv.com/canal/espn-6",
       "error": ""
     },
@@ -610,7 +610,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 134,
+      "programs": 131,
       "url": "https://www.guiadetv.com/canal/espn-6",
       "error": ""
     },
@@ -632,7 +632,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 116,
+      "programs": 112,
       "url": "https://www.guiadetv.com/canal/ge-tv",
       "error": ""
     },
@@ -654,7 +654,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 116,
+      "programs": 112,
       "url": "https://www.guiadetv.com/canal/ge-tv",
       "error": ""
     },
@@ -676,7 +676,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 179,
+      "programs": 177,
       "url": "https://www.guiadetv.com/canal/nsports",
       "error": ""
     },
@@ -698,7 +698,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 179,
+      "programs": 177,
       "url": "https://www.guiadetv.com/canal/nsports",
       "error": ""
     },
@@ -786,7 +786,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 46,
+      "programs": 38,
       "url": "https://www.guiadetv.com/canal/premiere-5",
       "error": ""
     },
@@ -808,7 +808,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 46,
+      "programs": 38,
       "url": "https://www.guiadetv.com/canal/premiere-5",
       "error": ""
     },
@@ -874,7 +874,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 273,
+      "programs": 274,
       "url": "https://www.guiadetv.com/canal/premiere-fc",
       "error": ""
     },
@@ -896,7 +896,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 273,
+      "programs": 274,
       "url": "https://www.guiadetv.com/canal/premiere-fc",
       "error": ""
     },
@@ -1028,7 +1028,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 169,
+      "programs": 161,
       "url": "https://www.guiadetv.com/canal/xsports",
       "error": ""
     },
@@ -1050,7 +1050,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 169,
+      "programs": 161,
       "url": "https://www.guiadetv.com/canal/xsports",
       "error": ""
     },
@@ -1182,7 +1182,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 83,
+      "programs": 72,
       "url": "https://www.guiadetv.com/canal/globo-rio-de-janeiro",
       "error": ""
     },
@@ -1204,7 +1204,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 83,
+      "programs": 72,
       "url": "https://www.guiadetv.com/canal/globo-rio-de-janeiro",
       "error": ""
     },
@@ -1314,7 +1314,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 60,
+      "programs": 53,
       "url": "https://www.guiadetv.com/canal/sbt-rio-de-janeiro",
       "error": ""
     },
@@ -1336,7 +1336,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 60,
+      "programs": 53,
       "url": "https://www.guiadetv.com/canal/sbt-rio-de-janeiro",
       "error": ""
     },
@@ -1402,7 +1402,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 70,
+      "programs": 56,
       "url": "https://www.guiadetv.com/canal/bandnews",
       "error": ""
     },
@@ -1424,7 +1424,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 70,
+      "programs": 56,
       "url": "https://www.guiadetv.com/canal/bandnews",
       "error": ""
     },
@@ -1446,7 +1446,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 54,
+      "programs": 46,
       "url": "https://www.guiadetv.com/canal/canal-uol",
       "error": ""
     },
@@ -1468,7 +1468,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 54,
+      "programs": 46,
       "url": "https://www.guiadetv.com/canal/canal-uol",
       "error": ""
     },
@@ -1556,7 +1556,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 89,
+      "programs": 83,
       "url": "https://www.guiadetv.com/canal/record-news",
       "error": ""
     },
@@ -1578,7 +1578,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 89,
+      "programs": 83,
       "url": "https://www.guiadetv.com/canal/record-news",
       "error": ""
     },
@@ -1600,7 +1600,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 51,
+      "programs": 42,
       "url": "https://www.guiadetv.com/canal/sbt-news",
       "error": ""
     },
@@ -1622,7 +1622,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 51,
+      "programs": 42,
       "url": "https://www.guiadetv.com/canal/sbt-news",
       "error": ""
     },
@@ -1666,7 +1666,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 258,
+      "programs": 257,
       "url": "https://www.guiadetv.com/canal/tnt-novelas",
       "error": ""
     },
@@ -1688,7 +1688,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 258,
+      "programs": 257,
       "url": "https://www.guiadetv.com/canal/tnt-novelas",
       "error": ""
     },
