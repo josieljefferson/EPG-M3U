@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T05:32:33.705928-03:00",
+  "generated_at": "2026-10-20T05:45:42.467322-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -49,9 +49,9 @@
     "with_programs": 61
   },
   "programs": {
-    "total": 3506,
+    "total": 3504,
     "by_source": {
-      "fallback": 3506
+      "fallback": 3504
     },
     "by_channel": {
       "Band.br": 20,
@@ -65,8 +65,8 @@
       "ESPN.br": 16,
       "ESPN2.br": 20,
       "ESPN3.br": 164,
-      "ESPN4.br": 170,
-      "ESPN5.br": 152,
+      "ESPN4.br": 169,
+      "ESPN5.br": 151,
       "ESPN6.br": 137,
       "GETV.br": 122,
       "GloboNews.br": 15,
@@ -500,7 +500,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 170,
+      "programs": 169,
       "url": "https://www.guiadetv.com/canal/espn-4",
       "error": ""
     },
@@ -522,7 +522,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 170,
+      "programs": 169,
       "url": "https://www.guiadetv.com/canal/espn-4",
       "error": ""
     },
@@ -544,7 +544,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 152,
+      "programs": 151,
       "url": "https://www.guiadetv.com/canal/espn-5",
       "error": ""
     },
@@ -566,7 +566,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 152,
+      "programs": 151,
       "url": "https://www.guiadetv.com/canal/espn-5",
       "error": ""
     },
