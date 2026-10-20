@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T16:17:20.808509-03:00",
+  "generated_at": "2026-10-20T16:30:39.543036-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -49,15 +49,15 @@
     "with_programs": 61
   },
   "programs": {
-    "total": 3380,
+    "total": 3518,
     "by_source": {
-      "fallback": 3380
+      "fallback": 3518
     },
     "by_channel": {
       "Band.br": 20,
       "BandNews.br": 50,
       "BandPiaui.br": 24,
-      "BandSports.br": 25,
+      "BandSports.br": 166,
       "CNNBrasil.br": 23,
       "CanalUOL.br": 121,
       "Cancaonova.br": 35,
@@ -77,7 +77,7 @@
       "MeioNorte.br": 21,
       "MeioNorteHD.br": 21,
       "Multishow.br": 41,
-      "NSports.br": 162,
+      "NSports.br": 159,
       "Playboy.br": 40,
       "PlayboyHD.br": 40,
       "Premiere2.br": 3,
@@ -118,9 +118,9 @@
     }
   },
   "attempts": {
-    "total": 160,
+    "total": 162,
     "successful": 122,
-    "failed": 38
+    "failed": 40
   },
   "files": {
     "epg": "output/epg.xml",
@@ -378,9 +378,20 @@
       "date": "2026-10-20",
       "source": "mitv",
       "priority": 1,
-      "success": true,
-      "programs": 25,
+      "success": false,
+      "programs": 0,
       "url": "https://mi.tv/br/canais/bandsports",
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "BandSports.br",
+      "channel_name": "BAND SPORTS",
+      "date": "2026-10-20",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": true,
+      "programs": 166,
+      "url": "https://www.guiadetv.com/canal/bandsports",
       "error": ""
     },
     {
@@ -389,9 +400,20 @@
       "date": "2026-10-21",
       "source": "mitv",
       "priority": 1,
-      "success": true,
-      "programs": 25,
+      "success": false,
+      "programs": 0,
       "url": "https://mi.tv/br/canais/bandsports",
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "BandSports.br",
+      "channel_name": "BAND SPORTS",
+      "date": "2026-10-21",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": true,
+      "programs": 166,
+      "url": "https://www.guiadetv.com/canal/bandsports",
       "error": ""
     },
     {
@@ -676,7 +698,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 162,
+      "programs": 159,
       "url": "https://www.guiadetv.com/canal/nsports",
       "error": ""
     },
@@ -698,7 +720,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 162,
+      "programs": 159,
       "url": "https://www.guiadetv.com/canal/nsports",
       "error": ""
     },
