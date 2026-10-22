@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T05:39:22.582997-03:00",
+  "generated_at": "2026-10-22T05:52:50.490215-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -49,9 +49,9 @@
     "with_programs": 61
   },
   "programs": {
-    "total": 3563,
+    "total": 3564,
     "by_source": {
-      "fallback": 3563
+      "fallback": 3564
     },
     "by_channel": {
       "Band.br": 19,
@@ -65,8 +65,8 @@
       "ESPN.br": 16,
       "ESPN2.br": 18,
       "ESPN3.br": 170,
-      "ESPN4.br": 178,
-      "ESPN5.br": 145,
+      "ESPN4.br": 179,
+      "ESPN5.br": 144,
       "ESPN6.br": 137,
       "GETV.br": 128,
       "GloboNews.br": 15,
@@ -77,7 +77,7 @@
       "MeioNorte.br": 21,
       "MeioNorteHD.br": 21,
       "Multishow.br": 44,
-      "NSports.br": 186,
+      "NSports.br": 187,
       "Playboy.br": 42,
       "PlayboyHD.br": 42,
       "Premiere2.br": 3,
@@ -500,7 +500,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 178,
+      "programs": 179,
       "url": "https://www.guiadetv.com/canal/espn-4",
       "error": ""
     },
@@ -522,7 +522,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 178,
+      "programs": 179,
       "url": "https://www.guiadetv.com/canal/espn-4",
       "error": ""
     },
@@ -544,7 +544,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 145,
+      "programs": 144,
       "url": "https://www.guiadetv.com/canal/espn-5",
       "error": ""
     },
@@ -676,7 +676,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 186,
+      "programs": 187,
       "url": "https://www.guiadetv.com/canal/nsports",
       "error": ""
     },
