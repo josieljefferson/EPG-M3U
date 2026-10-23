@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T16:10:27.054195-03:00",
+  "generated_at": "2026-10-23T16:23:26.755697-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -49,9 +49,9 @@
     "with_programs": 61
   },
   "programs": {
-    "total": 3428,
+    "total": 3426,
     "by_source": {
-      "fallback": 3428
+      "fallback": 3426
     },
     "by_channel": {
       "Band.br": 21,
@@ -65,8 +65,8 @@
       "ESPN.br": 17,
       "ESPN2.br": 17,
       "ESPN3.br": 162,
-      "ESPN4.br": 181,
-      "ESPN5.br": 137,
+      "ESPN4.br": 182,
+      "ESPN5.br": 135,
       "ESPN6.br": 128,
       "GETV.br": 106,
       "GloboNews.br": 15,
@@ -87,7 +87,7 @@
       "Premiere6.br": 5,
       "Premiere7.br": 3,
       "PremiereFC.br": 288,
-      "RecordNews.br": 88,
+      "RecordNews.br": 87,
       "RecordTV.br": 30,
       "RedeGloboTeresina.br": 24,
       "RedeTV.br": 25,
@@ -500,7 +500,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 181,
+      "programs": 182,
       "url": "https://www.guiadetv.com/canal/espn-4",
       "error": ""
     },
@@ -522,7 +522,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 181,
+      "programs": 182,
       "url": "https://www.guiadetv.com/canal/espn-4",
       "error": ""
     },
@@ -544,7 +544,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 137,
+      "programs": 135,
       "url": "https://www.guiadetv.com/canal/espn-5",
       "error": ""
     },
@@ -566,7 +566,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 137,
+      "programs": 135,
       "url": "https://www.guiadetv.com/canal/espn-5",
       "error": ""
     },
@@ -1556,7 +1556,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 88,
+      "programs": 87,
       "url": "https://www.guiadetv.com/canal/record-news",
       "error": ""
     },
@@ -1578,7 +1578,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 88,
+      "programs": 87,
       "url": "https://www.guiadetv.com/canal/record-news",
       "error": ""
     },
