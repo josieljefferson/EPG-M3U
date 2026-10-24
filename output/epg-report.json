@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T05:11:56.801757-03:00",
+  "generated_at": "2026-10-24T05:24:50.364643-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -64,7 +64,7 @@
       "DiscoveryChannel.br": 27,
       "ESPN.br": 17,
       "ESPN2.br": 17,
-      "ESPN3.br": 159,
+      "ESPN3.br": 160,
       "ESPN4.br": 185,
       "ESPN5.br": 141,
       "ESPN6.br": 141,
@@ -87,7 +87,7 @@
       "Premiere6.br": 5,
       "Premiere7.br": 3,
       "PremiereFC.br": 280,
-      "RecordNews.br": 104,
+      "RecordNews.br": 102,
       "RecordTV.br": 30,
       "RedeGloboTeresina.br": 24,
       "RedeTV.br": 25,
@@ -103,7 +103,7 @@
       "SporTV3.br": 14,
       "SportyNet.br": 216,
       "TNT.br": 30,
-      "TNTNovelas.br": 258,
+      "TNTNovelas.br": 259,
       "TVAlvoradaDoSul.br": 24,
       "TVAntena10.br": 24,
       "TVBrasil.br": 55,
@@ -456,7 +456,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 159,
+      "programs": 160,
       "url": "https://www.guiadetv.com/canal/espn-3",
       "error": ""
     },
@@ -1556,7 +1556,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 104,
+      "programs": 102,
       "url": "https://www.guiadetv.com/canal/record-news",
       "error": ""
     },
@@ -1578,7 +1578,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 104,
+      "programs": 102,
       "url": "https://www.guiadetv.com/canal/record-news",
       "error": ""
     },
@@ -1666,7 +1666,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 258,
+      "programs": 259,
       "url": "https://www.guiadetv.com/canal/tnt-novelas",
       "error": ""
     },
@@ -1688,7 +1688,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 258,
+      "programs": 259,
       "url": "https://www.guiadetv.com/canal/tnt-novelas",
       "error": ""
     },

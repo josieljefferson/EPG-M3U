@@ -626,7 +626,7 @@
     <title lang="pt-BR">Programação</title>
   </programme>
   <programme channel="TVAntena10.br" start="20261024004500 -0300" stop="20261024014500 -0300">
-    <title lang="pt-BR">Programação IURD Religious Atração é transmitida pela Igreja Universal do Reino de Deus. 1 hora restantes Sobre mi.tv A mi.tv é um guia de TV intelig</title>
+    <title lang="pt-BR">Programação IURD Religious Atração é transmitida pela Igreja Universal do Reino de Deus. 46 min restantes googletag.cmd.push(function() { googletag.d</title>
   </programme>
   <programme channel="RecordTV.br" start="20261024004500 -0300" stop="20261024020000 -0300">
     <title lang="pt-BR">Fala que Eu te Escuto Talk Pastores e bispos da Igreja Universal do Reino de Deus debatem diariamente os temas mais relevantes da atualidade a partir</title>
@@ -1321,12 +1321,6 @@
   <programme channel="ESPN4.br" start="20261024014000 -0300" stop="20261024023500 -0300">
     <title lang="pt-BR">55min Moto 3: GP da Malásia: Classificação Ao vivo Sinta a adrenalina dos pilotos que cruzam a barreira do som em provas imperdíveis na MotoGP, a pri</title>
   </programme>
-  <programme channel="RecordNews.br" start="20261024014000 -0300" stop="20261024034000 -0300">
-    <title lang="pt-BR">Programação</title>
-  </programme>
-  <programme channel="RecordNews.br" start="20261024014000 -0300" stop="20261024052000 -0300">
-    <title lang="pt-BR">–</title>
-  </programme>
   <programme channel="GETV.br" start="20261024014000 -0300" stop="20261024070000 -0300">
     <title lang="pt-BR">Giro Da Rodada - Brasileirão - 30ª Rodada Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</title>
   </programme>
@@ -1355,13 +1349,13 @@
     <title lang="pt-BR">1h Podcast Sport Insider - Lucas Barillari Sport Insider é o programa de entrevistas sobre negócios do esporte do Sport Insider, produzido em parceri</title>
   </programme>
   <programme channel="SBT.br" start="20261024014500 -0300" stop="20261024024500 -0300">
-    <title lang="pt-BR">SBT Notícias News Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia. 52 min restantes googletag.cmd.</title>
+    <title lang="pt-BR">SBT Notícias News Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia. 39 min restantes googletag.cmd.</title>
   </programme>
   <programme channel="SBTPiaui.br" start="20261024014500 -0300" stop="20261024024500 -0300">
-    <title lang="pt-BR">SBT Notícias News Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia. 48 min restantes Sobre mi.tv A</title>
+    <title lang="pt-BR">SBT Notícias News Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia. 35 min restantes googletag.cmd.</title>
   </programme>
   <programme channel="TVCidadeVerde.br" start="20261024014500 -0300" stop="20261024024500 -0300">
-    <title lang="pt-BR">SBT Notícias News Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia. 1 hora restantes googletag.cmd.</title>
+    <title lang="pt-BR">SBT Notícias News Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia. 47 min restantes googletag.cmd.</title>
   </programme>
   <programme channel="XSports.br" start="20261024014500 -0300" stop="20261024024500 -0300">
     <title lang="pt-BR">VT - Bayern De Munique x Rb Leipzig Futebol alemão: Gols, dribles e confrontos acirrados marcam cada rodada da Bundesliga.</title>
@@ -2641,6 +2635,9 @@
   <programme channel="TNTNovelas.br" start="20261024030000 -0300" stop="20261024050700 -0300">
     <title lang="pt-BR">"}],"name":"TNT Novelas"} (function () { try { var salvo = localStorage.getItem('tema'); var escuro = salvo ? salvo === 'escuro' : window.matchMedia('</title>
   </programme>
+  <programme channel="RecordNews.br" start="20261024030000 -0300" stop="20261024052000 -0300">
+    <title lang="pt-BR">"}],"name":"Record News"} (function () { try { var salvo = localStorage.getItem('tema'); var escuro = salvo ? salvo === 'escuro' : window.matchMedia('</title>
+  </programme>
   <programme channel="GETV.br" start="20261024030000 -0300" stop="20261024060000 -0300">
     <title lang="pt-BR">3h NFL: Houston Texans x Jacksonville Jaguars Houston Texans e Jacksonville Jaguars jogam pela 6ª rodada da fase Regular da NFL, no Wembley, em Londr</title>
   </programme>
@@ -3169,9 +3166,6 @@
   <programme channel="XSports.br" start="20261024030000 -0300" stop="20261025000000 -0300">
     <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-24T13:</title>
   </programme>
-  <programme channel="RecordNews.br" start="20261024030000 -0300" stop="20261025014000 -0300">
-    <title lang="pt-BR">"}],"name":"Record News"} (function () { try { var salvo = localStorage.getItem('tema'); var escuro = salvo ? salvo === 'escuro' : window.matchMedia('</title>
-  </programme>
   <programme channel="SBTRio.br" start="20261024030000 -0300" stop="20261025014500 -0300">
     <title lang="pt-BR">"}],"name":"SBT Rio de Janeiro"} (function () { try { var salvo = localStorage.getItem('tema'); var escuro = salvo ? salvo === 'escuro' : window.match</title>
   </programme>
@@ -3455,16 +3449,13 @@
     <title lang="pt-BR">","name":"Fala Brasil - Edição de Sábado","startDate":"2026-10-24T11:</title>
   </programme>
   <programme channel="RecordNews.br" start="20261024030000 -0300" stop="20261025030000 -0300">
-    <title lang="pt-BR">","name":"Link Record News","startDate":"2026-10-24T01:</title>
+    <title lang="pt-BR">","name":"Hora News - Edição de Sábado","startDate":"2026-10-24T12:</title>
   </programme>
   <programme channel="RecordNews.br" start="20261024030000 -0300" stop="20261025030000 -0300">
     <title lang="pt-BR">","name":"Manhã Melhor","startDate":"2026-10-24T09:</title>
   </programme>
   <programme channel="RecordNews.br" start="20261024030000 -0300" stop="20261025030000 -0300">
     <title lang="pt-BR">","name":"Nosso Tempo","startDate":"2026-10-24T06:</title>
-  </programme>
-  <programme channel="RecordNews.br" start="20261024030000 -0300" stop="20261025030000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-24T05:</title>
   </programme>
   <programme channel="RecordNews.br" start="20261024030000 -0300" stop="20261025030000 -0300">
     <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-24T06:</title>
@@ -3480,6 +3471,9 @@
   </programme>
   <programme channel="RecordNews.br" start="20261024030000 -0300" stop="20261025030000 -0300">
     <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-24T12:</title>
+  </programme>
+  <programme channel="RecordNews.br" start="20261024030000 -0300" stop="20261025030000 -0300">
+    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-24T13:</title>
   </programme>
   <programme channel="SBTRio.br" start="20261024030000 -0300" stop="20261025030000 -0300">
     <title lang="pt-BR">","name":"Clube do Chaves","startDate":"2026-10-24T12:</title>
@@ -3716,7 +3710,7 @@
     <title lang="pt-BR">Mundo Em Foco Sinopse não disponível. Guia de notícias do mundo do entretenimento: descubra tudo o que rola no mundo dos filmes e saiba em primeira m</title>
   </programme>
   <programme channel="ESPN.br" start="20261024033000 -0300" stop="20261024053000 -0300">
-    <title lang="pt-BR">Bolton Wanderers x Middlesbrough Campeonato Inglês - Segunda Divisão Do Toughsheet Community Stadium, em Bolton, Inglaterra. 29 min restantes</title>
+    <title lang="pt-BR">Bolton Wanderers x Middlesbrough Campeonato Inglês - Segunda Divisão Do Toughsheet Community Stadium, em Bolton, Inglaterra. 15 min restantes</title>
   </programme>
   <programme channel="ESPN3.br" start="20261024033000 -0300" stop="20261024053000 -0300">
     <title lang="pt-BR">2h VT - ATP 500: Viena É uma série de torneios profissionais do tênis masculino, logo acima do ATP 250. São 13 torneios disputados ao longo do ano, c</title>
@@ -3802,9 +3796,6 @@
   <programme channel="TNTNovelas.br" start="20261024034000 -0300" stop="20261024042800 -0300">
     <title lang="pt-BR">48min Iludida Leyla ainda está procurando por Aras, mas Derin faz de tudo para impedi-la. Ali e Demir entram em outra briga e Volkan está disposto a</title>
   </programme>
-  <programme channel="RecordNews.br" start="20261024034000 -0300" stop="20261024052000 -0300">
-    <title lang="pt-BR">Link Record News No ar As principais notícias do dia, com participação do público por meio das redes sociais.</title>
-  </programme>
   <programme channel="TNTNovelas.br" start="20261024034100 -0300" stop="20261024042700 -0300">
     <title lang="pt-BR">46min Iludida Aras pisa em sua casa e se lembra de tudo. Leyla está procurando Aras e Derin precisa impedi-la de encontrá-lo. Aras conversa com Asya</title>
   </programme>
@@ -3827,19 +3818,19 @@
     <title lang="pt-BR">Programação</title>
   </programme>
   <programme channel="SporTV3.br" start="20261024035500 -0300" stop="20261024045500 -0300">
-    <title lang="pt-BR">Etapa de Peniche, Portugal WSL Todas as emoções das etapas do Circuito Mundial de Surfe, competição de elite da modalidade. 1 hora 54 min restantes S</title>
+    <title lang="pt-BR">Etapa de Peniche, Portugal WSL Todas as emoções das etapas do Circuito Mundial de Surfe, competição de elite da modalidade. 1 hora 41 min restantes g</title>
   </programme>
   <programme channel="SporTV3.br" start="20261024035500 -0300" stop="20261024070000 -0300">
     <title lang="pt-BR">Etapa de Peniche, Portugal WSL Todas as emoções das etapas do Circuito Mundial de Surfe, competição de elite da modalidade.</title>
   </programme>
   <programme channel="Playboy.br" start="20261024035800 -0300" stop="20261024045800 -0300">
-    <title lang="pt-BR">Swing Temporada 5 Episódio 1 Uma mulher realiza suas fantasias com rapazes e meninas na sala vermelha. 48 min restantes googletag.cmd.push(function()</title>
+    <title lang="pt-BR">Swing Temporada 5 Episódio 1 Uma mulher realiza suas fantasias com rapazes e meninas na sala vermelha. 35 min restantes googletag.cmd.push(function()</title>
   </programme>
   <programme channel="PlayboyHD.br" start="20261024035800 -0300" stop="20261024045800 -0300">
-    <title lang="pt-BR">Swing Temporada 5 Episódio 1 Uma mulher realiza suas fantasias com rapazes e meninas na sala vermelha. 48 min restantes Sobre mi.tv A mi.tv é um guia</title>
+    <title lang="pt-BR">Swing Temporada 5 Episódio 1 Uma mulher realiza suas fantasias com rapazes e meninas na sala vermelha. 35 min restantes googletag.cmd.push(function()</title>
   </programme>
   <programme channel="VenusTV.br" start="20261024035800 -0300" stop="20261024045800 -0300">
-    <title lang="pt-BR">Policiais Safados Adults only / 2024 Nesta cidade, a noite é sinônimo de atos ilícitos, e até mesmo a polícia pode se envolver nessas atividades. 48</title>
+    <title lang="pt-BR">Policiais Safados Adults only / 2024 Nesta cidade, a noite é sinônimo de atos ilícitos, e até mesmo a polícia pode se envolver nessas atividades. 35</title>
   </programme>
   <programme channel="NSports.br" start="20261024040000 -0300" stop="20261024041500 -0300">
     <title lang="pt-BR">15min MTB Neste episódio de MTB, pedalamos até o famoso e deslumbrante Lago di Braies, explorando cenários paradisíacos e a cultura da região em um p</title>
@@ -3899,7 +3890,7 @@
     <title lang="pt-BR">2h Com o PREMIERE dá jogo! Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante! Guia de notícias do mundo do entretenimento: descubra tudo o</title>
   </programme>
   <programme channel="SporTV2.br" start="20261024040000 -0300" stop="20261024050000 -0300">
-    <title lang="pt-BR">Praia Clube x Pinheiros Superliga Feminina de Vôlei Todas as emoções da principal competição de vôlei feminino entre equipes brasileiras. 54 min rest</title>
+    <title lang="pt-BR">Praia Clube x Pinheiros Superliga Feminina de Vôlei Todas as emoções da principal competição de vôlei feminino entre equipes brasileiras. 41 min rest</title>
   </programme>
   <programme channel="TVBrasil.br" start="20261024040000 -0300" stop="20261024050000 -0300">
     <title lang="pt-BR">Samba na Gamboa Music Cantorias e conversas com intérpretes das novas e velhas gerações de sambistas e ícones da MPB.</title>
@@ -4007,7 +3998,7 @@
     <title lang="pt-BR">Vila Bandsports O programa acompanha a preparação de atletas olímpicos do Brasil para os Jogos de Los Angeles 2028, com um olhar aprofundado e exclus</title>
   </programme>
   <programme channel="Cancaonova.br" start="20261024041500 -0300" stop="20261024050000 -0300">
-    <title lang="pt-BR">Canção Nova Notícias News As notícias do dia e reportagens com um jornalismo a serviço da vida e da esperança. 1 min restantes</title>
+    <title lang="pt-BR">Canção Nova Notícias News As notícias do dia e reportagens com um jornalismo a serviço da vida e da esperança.</title>
   </programme>
   <programme channel="RecordNews.br" start="20261024041500 -0300" stop="20261024050000 -0300">
     <title lang="pt-BR">45min Doc Investigação A história do serial killer de Maceió, um homem que espalhou o terror pelas ruas da capital alagoana até ser preso, em 2024. A</title>
@@ -4045,8 +4036,8 @@
   <programme channel="Multishow.br" start="20261024042800 -0300" stop="20261024045800 -0300">
     <title lang="pt-BR">TVZ Music Os melhores videoclipes nacionais e internacionais das paradas musicais.</title>
   </programme>
-  <programme channel="TNTNovelas.br" start="20261024042800 -0300" stop="20261024052800 -0300">
-    <title lang="pt-BR">46min Força de Mulher Enver descobre que Sarp não está morto e reluta em compartilhar a informação com Bahar. Guia de notícias do mundo do entretenim</title>
+  <programme channel="TNTNovelas.br" start="20261024042800 -0300" stop="20261024051400 -0300">
+    <title lang="pt-BR">46min Força de Mulher Enver descobre que Sarp não está morto e reluta em compartilhar a informação com Bahar.</title>
   </programme>
   <programme channel="BandNews.br" start="20261024043000 -0300" stop="20261024050000 -0300">
     <title lang="pt-BR">30min Bandnews no Mundo Debate sobre os principais destaques do noticiário internacional. Na companhia de convidados especiais, apresenta os detalhes</title>
@@ -4079,7 +4070,7 @@
     <title lang="pt-BR">Corinthians x Vitória Campeonato Brasileiro Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</title>
   </programme>
   <programme channel="RecordTV.br" start="20261024043000 -0300" stop="20261024051000 -0300">
-    <title lang="pt-BR">Nosso Tempo Religious Depoimentos com casos verídicos de pessoas que superaram seus problemas. 2 min restantes</title>
+    <title lang="pt-BR">Nosso Tempo Religious Depoimentos com casos verídicos de pessoas que superaram seus problemas.</title>
   </programme>
   <programme channel="NSports.br" start="20261024043000 -0300" stop="20261024051500 -0300">
     <title lang="pt-BR">45min DEC Sinopse não disponível.</title>
@@ -4103,10 +4094,10 @@
     <title lang="pt-BR">1h Giro Da Rodada - Brasileirão - 31ª Rodada No ar Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</title>
   </programme>
   <programme channel="sexprive-brasileirinhas.br" start="20261024043000 -0300" stop="20261024053000 -0300">
-    <title lang="pt-BR">Safada Adults only / 2009 Revelação mais safada do pornô nacional chega fazendo tudo o que você sempre quis. 1 hora restantes googletag.cmd.push(func</title>
+    <title lang="pt-BR">Safada Adults only / 2009 Revelação mais safada do pornô nacional chega fazendo tudo o que você sempre quis. 46 min restantes googletag.cmd.push(func</title>
   </programme>
   <programme channel="SextremeBrazil.br" start="20261024043000 -0300" stop="20261024055900 -0300">
-    <title lang="pt-BR">Sexo em Público É Melhor Adults only 59 min restantes</title>
+    <title lang="pt-BR">Sexo em Público É Melhor Adults only 45 min restantes</title>
   </programme>
   <programme channel="ESPN5.br" start="20261024043000 -0300" stop="20261024063000 -0300">
     <title lang="pt-BR">2h VT - Charlton x Norwich City A segunda divisão inglesa é disputada por 24 clubes que querem conquistar uma das vagas para competir na tão sonhada</title>
@@ -4226,13 +4217,16 @@
     <title lang="pt-BR">Papo de Paddock Sports talk O jornalista Ale Speitzzer traz uma visão única e privilegiada do mundo do automobilismo, combinando análise aprofundada</title>
   </programme>
   <programme channel="CNNBrasil.br" start="20261024050000 -0300" stop="20261024060000 -0300">
-    <title lang="pt-BR">CNN Newsroom News Notícias de última hora e histórias em desenvolvimento, apresentadas por um time de repórteres, ao vivo da sede da CNN. 50 min rest</title>
+    <title lang="pt-BR">CNN Newsroom News Notícias de última hora e histórias em desenvolvimento, apresentadas por um time de repórteres, ao vivo da sede da CNN. 37 min rest</title>
   </programme>
   <programme channel="CanalUOL.br" start="20261024050000 -0300" stop="20261024060000 -0300">
     <title lang="pt-BR">1h A Hora José Roberto Toledo e Thais Bilenky, em uma hora, trazem informações e análises sobre os fatos mais importantes da semana.</title>
   </programme>
   <programme channel="Cancaonova.br" start="20261024050000 -0300" stop="20261024060000 -0300">
     <title lang="pt-BR">Canção Nova Sertaneja Religious O encontro une a rica cultura sertaneja ao carisma da Comunidade Canção Nova, com louvor, testemunhos, pregações, sho</title>
+  </programme>
+  <programme channel="ESPN3.br" start="20261024050000 -0300" stop="20261024060000 -0300">
+    <title lang="pt-BR">1h Resenha Resenha com jogadores e ex-jogadores de futebol em um ambiente descontraído e cheio de histórias imperdíveis. Guia de notícias do mundo do</title>
   </programme>
   <programme channel="ESPN4.br" start="20261024050000 -0300" stop="20261024060000 -0300">
     <title lang="pt-BR">1h Especial Rally dos Sertões: Cada Qual No Seu Tempo Apresentadores, narradores e comentaristas lembram momentos marcantes das transmissões de futeb</title>
@@ -4274,13 +4268,13 @@
     <title lang="pt-BR">1h Giro Da Rodada - Brasileirão - 32ª Rodada Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</title>
   </programme>
   <programme channel="RedeTV.br" start="20261024050000 -0300" stop="20261024060000 -0300">
-    <title lang="pt-BR">A Hora do Zap Entertainment Exibição dos vídeos mais divertidos e engraçados da internet. 52 min restantes googletag.cmd.push(function() { googletag.</title>
+    <title lang="pt-BR">A Hora do Zap Entertainment Exibição dos vídeos mais divertidos e engraçados da internet. 39 min restantes googletag.cmd.push(function() { googletag.</title>
   </programme>
   <programme channel="SporTV.br" start="20261024050000 -0300" stop="20261024060000 -0300">
-    <title lang="pt-BR">Botafogo x Palmeiras Copa do Brasil de Futebol Sub-20 54 min restantes Sobre mi.tv A mi.tv é um guia de TV inteligente, com mais de 200 canais de pro</title>
+    <title lang="pt-BR">Botafogo x Palmeiras Copa do Brasil de Futebol Sub-20 41 min restantes googletag.cmd.push(function() { googletag.display('div-gpt-ad-1570786605020-0'</title>
   </programme>
   <programme channel="TVCultura.br" start="20261024050000 -0300" stop="20261024060000 -0300">
-    <title lang="pt-BR">Jornal da Cultura News As principais notícias do Brasil e do mundo, sempre com comentários de especialistas. 1 hora 21 min restantes Sobre mi.tv A mi</title>
+    <title lang="pt-BR">Jornal da Cultura News As principais notícias do Brasil e do mundo, sempre com comentários de especialistas. 1 hora 8 min restantes googletag.cmd.pus</title>
   </programme>
   <programme channel="JovemPanNews.br" start="20261024050000 -0300" stop="20261024070000 -0300">
     <title lang="pt-BR">Jornal da Manhã - 1ª Edição News O time de comentaristas da Jovem Pan analisa os principais assuntos do dia.</title>
@@ -4307,7 +4301,7 @@
     <title lang="pt-BR">45min Será Isso Amor? Ferit faz uma proposta importante na reunião. Aydan, por sua vez, finalmente encontra alguém bonito para deixar Alptekin com ci</title>
   </programme>
   <programme channel="TNT.br" start="20261024050500 -0300" stop="20261024054000 -0300">
-    <title lang="pt-BR">Hollywood One on One Talk Entrevistas com celebridades. 33 min restantes</title>
+    <title lang="pt-BR">Hollywood One on One Talk Entrevistas com celebridades. 21 min restantes</title>
   </programme>
   <programme channel="TNTNovelas.br" start="20261024050500 -0300" stop="20261024055000 -0300">
     <title lang="pt-BR">45min Será Isso Amor? Selin, Ferit, Eda e Serkan decidem dar uma entrevista. Aydan começa a fazer preparativos para o casamento, e as notícias sobre</title>
@@ -4319,13 +4313,16 @@
     <title lang="pt-BR">43min Será Isso Amor? No ar Serkan busca formas de se desculpar com Eda. Ferit e Selin tomam uma decisão muito importante, enquanto Aytan e Eda bolam</title>
   </programme>
   <programme channel="RecordTV.br" start="20261024051000 -0300" stop="20261024054000 -0300">
-    <title lang="pt-BR">Prosperidade com Deus Religious Programa produzido pela Igreja Universal do Reino de Deus, com notícias e testemunhos de fiéis.</title>
+    <title lang="pt-BR">Prosperidade com Deus Religious Programa produzido pela Igreja Universal do Reino de Deus, com notícias e testemunhos de fiéis. 19 min restantes 05:4</title>
   </programme>
   <programme channel="SexyHot.br" start="20261024051000 -0300" stop="20261024061000 -0300">
-    <title lang="pt-BR">Carona do Amor Adults only / 2019 Marcela e Carol queriam curtir a praia e descolaram uma carona com dois belos rapazes em uma Kombi. Sobre mi.tv A m</title>
+    <title lang="pt-BR">Carona do Amor Adults only / 2019 Marcela e Carol queriam curtir a praia e descolaram uma carona com dois belos rapazes em uma Kombi. 47 min restante</title>
   </programme>
   <programme channel="TNTNovelas.br" start="20261024051300 -0300" stop="20261024060000 -0300">
     <title lang="pt-BR">47min Será Isso Amor? Serkan tira Eda de sua casa para levá-la a um lugar. Por outro lado, Eda recebe um telefonema crucial e Leyla conta a ela algo</title>
+  </programme>
+  <programme channel="TNTNovelas.br" start="20261024051400 -0300" stop="20261024061400 -0300">
+    <title lang="pt-BR">46min Será Isso Amor? Como Aydan está preocupada com Serkan, ela liga para Selin. Ayfer explica tudo para Fifi e Melek. O que Engin descobre sobre Ce</title>
   </programme>
   <programme channel="NSports.br" start="20261024051500 -0300" stop="20261024053000 -0300">
     <title lang="pt-BR">15min BJJ Cria Neste primeiro episódio da nossa série especial, visitamos a MV BJJ Academy, em Winter Garden, na Flórida, para conhecer de perto a hi</title>
@@ -4352,7 +4349,10 @@
     <title lang="pt-BR">Maria Mercedes Temporada 1 Episódio 5 Santiago planeja atingir a família e surpreende María Mercedes com uma proposta de casamento em troca de dinhei</title>
   </programme>
   <programme channel="RecordNews.br" start="20261024052000 -0300" stop="20261024053000 -0300">
-    <title lang="pt-BR">10min Jornal da Record - 24h O boletim informativo com últimas notícias do Brasil e do mundo.</title>
+    <title lang="pt-BR">–</title>
+  </programme>
+  <programme channel="RecordNews.br" start="20261024052000 -0300" stop="20261024053000 -0300">
+    <title lang="pt-BR">10min Jornal da Record - 24h No ar O boletim informativo com últimas notícias do Brasil e do mundo.</title>
   </programme>
   <programme channel="Viva.br" start="20261024052000 -0300" stop="20261024060700 -0300">
     <title lang="pt-BR">Maria Mercedes Temporada 1 Episódio 4 María Mercedes recebe a notícia de que Rosario foi inocentada. Jorge Luis a defende de Clavo, enquanto uma apos</title>
@@ -4362,9 +4362,6 @@
   </programme>
   <programme channel="GETV.br" start="20261024052000 -0300" stop="20261025014000 -0300">
     <title lang="pt-BR">Programação</title>
-  </programme>
-  <programme channel="RecordNews.br" start="20261024052000 -0300" stop="20261025014000 -0300">
-    <title lang="pt-BR">A Record News é um canal de televisão voltado para a transmissão de notícias 24 horas por dia. Com uma programação dedicada ao jornalismo, o canal of</title>
   </programme>
   <programme channel="NSports.br" start="20261024053000 -0300" stop="20261024054500 -0300">
     <title lang="pt-BR">15min Acelerados Salve, Acelerados! Need for Speed, Gran Turismo, Forza, Test Drive, com certeza, você, acelerado ou não, já jogou algum desses jogos</title>
@@ -4400,7 +4397,7 @@
     <title lang="pt-BR">30min VT - São Paulo x Vasco Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Bra</title>
   </programme>
   <programme channel="Band.br" start="20261024053000 -0300" stop="20261024063000 -0300">
-    <title lang="pt-BR">Vida na Água Fishing Cadu e Lo Mourão embarcam em uma jornada para completar o Fishing Map Brasil com as 40 principais espécies de peixes do país. So</title>
+    <title lang="pt-BR">Vida na Água Fishing Cadu e Lo Mourão embarcam em uma jornada para completar o Fishing Map Brasil com as 40 principais espécies de peixes do país. go</title>
   </programme>
   <programme channel="BandPiaui.br" start="20261024053000 -0300" stop="20261024063000 -0300">
     <title lang="pt-BR">Vida na Água Fishing Cadu e Lo Mourão embarcam em uma jornada para completar o Fishing Map Brasil com as 40 principais espécies de peixes do país. go</title>
@@ -4415,7 +4412,7 @@
     <title lang="pt-BR">Blogueirinha Entrevista Temporada 1 Episódio 4 - Milton Cunha Milton Cunha é o convidado da atração e se junta à Blogueirinha para um bate-papo que p</title>
   </programme>
   <programme channel="Premiere6.br" start="20261024053000 -0300" stop="20261024063000 -0300">
-    <title lang="pt-BR">Premiere 6 Acompanhe a programação pay-per-view. Sobre mi.tv A mi.tv é um guia de TV inteligente, com mais de 200 canais de programação, personalizáv</title>
+    <title lang="pt-BR">Premiere 6 Acompanhe a programação pay-per-view. googletag.cmd.push(function() { googletag.display('div-gpt-ad-1570786605020-0'); }); Sobre mi.tv A m</title>
   </programme>
   <programme channel="RecordNews.br" start="20261024053000 -0300" stop="20261024063000 -0300">
     <title lang="pt-BR">1h Agro Record News Kelly Godoy traz as principais notícias do agronegócio e do segmento agrícola.</title>
@@ -4443,6 +4440,9 @@
   </programme>
   <programme channel="NSports.br" start="20261024053000 -0300" stop="20261025050000 -0300">
     <title lang="pt-BR">Hoje Amanhã 26 out 27 out 28 out 29 out 30 out 31 out Sábado, 24 de outubro</title>
+  </programme>
+  <programme channel="RecordNews.br" start="20261024053000 -0300" stop="20261025052000 -0300">
+    <title lang="pt-BR">A Record News é um canal de televisão voltado para a transmissão de notícias 24 horas por dia. Com uma programação dedicada ao jornalismo, o canal of</title>
   </programme>
   <programme channel="Multishow.br" start="20261024053100 -0300" stop="20261024063100 -0300">
     <title lang="pt-BR">Tô de Graça Temporada 3 Episódio 22 - Calores Graça tem uma crise de calores, o ar condicionado está quebrado e a comunidade está em guerra. Ela sai</title>
@@ -4508,7 +4508,7 @@
     <title lang="pt-BR">SportsCenter Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião</title>
   </programme>
   <programme channel="TNT.br" start="20261024055000 -0300" stop="20261024065000 -0300">
-    <title lang="pt-BR">Hollywood One on One Talk Entrevistas com celebridades. Sobre mi.tv A mi.tv é um guia de TV inteligente, com mais de 200 canais de programação, perso</title>
+    <title lang="pt-BR">Hollywood One on One Talk Entrevistas com celebridades. googletag.cmd.push(function() { googletag.display('div-gpt-ad-1570786605020-0'); }); Sobre mi</title>
   </programme>
   <programme channel="TNTNovelas.br" start="20261024055000 -0300" stop="20261025050700 -0300">
     <title lang="pt-BR">O canal TBS (Turner Broadcasting System) é uma rede de televisão que oferece uma programação diversificada com foco em comédia e entretenimento. Com</title>
@@ -10322,7 +10322,7 @@
     <title lang="pt-BR">- Bahia x São Paulo Bahia e São Paulo jogam pela 33ª rodada do Segundo Turno do Brasileirão, na Casa de Apostas Arena Fonte Nova, em Salvador (BA). 0</title>
   </programme>
   <programme channel="Premiere6.br" start="20261024213000 -0300" stop="20261025053000 -0300">
-    <title lang="pt-BR">Premiere 6 Acompanhe a programação pay-per-view. 25 min restantes</title>
+    <title lang="pt-BR">Premiere 6 Acompanhe a programação pay-per-view. 12 min restantes</title>
   </programme>
   <programme channel="Premiere5.br" start="20261024213000 -0300" stop="20261025060000 -0300">
     <title lang="pt-BR">- Bahia x São Paulo Bahia e São Paulo jogam pela 33ª rodada do Segundo Turno do Brasileirão, na Casa de Apostas Arena Fonte Nova, em Salvador (BA). 0</title>
@@ -10445,13 +10445,13 @@
     <title lang="pt-BR">The Source With Kaitlan Collins News Kaitlan Collins vai direto à fonte para obter as melhores reportagens do dia.</title>
   </programme>
   <programme channel="Premiere2.br" start="20261024220000 -0300" stop="20261024230000 -0300">
-    <title lang="pt-BR">Premiere 2 Acompanhe a programação pay-per-view. 56 min restantes Sobre mi.tv A mi.tv é um guia de TV inteligente, com mais de 200 canais de programa</title>
+    <title lang="pt-BR">Premiere 2 Acompanhe a programação pay-per-view. 43 min restantes googletag.cmd.push(function() { googletag.display('div-gpt-ad-1570786605020-0'); })</title>
   </programme>
   <programme channel="Premiere3.br" start="20261024220000 -0300" stop="20261024230000 -0300">
-    <title lang="pt-BR">Premiere 3 Acompanhe a programação pay-per-view. 56 min restantes Sobre mi.tv A mi.tv é um guia de TV inteligente, com mais de 200 canais de programa</title>
+    <title lang="pt-BR">Premiere 3 Acompanhe a programação pay-per-view. 42 min restantes googletag.cmd.push(function() { googletag.display('div-gpt-ad-1570786605020-0'); })</title>
   </programme>
   <programme channel="Premiere7.br" start="20261024220000 -0300" stop="20261024230000 -0300">
-    <title lang="pt-BR">Premiere 7 Acompanhe a programação pay-per-view. 55 min restantes Sobre mi.tv A mi.tv é um guia de TV inteligente, com mais de 200 canais de programa</title>
+    <title lang="pt-BR">Premiere 7 Acompanhe a programação pay-per-view. 42 min restantes googletag.cmd.push(function() { googletag.display('div-gpt-ad-1570786605020-0'); })</title>
   </programme>
   <programme channel="SBTNews.br" start="20261024220000 -0300" stop="20261024230000 -0300">
     <title lang="pt-BR">1h Esquenta News - Reprise Esquenta News, dedicado à análise aprofundada dos principais acontecimentos políticos da semana.</title>
@@ -10628,7 +10628,7 @@
     <title lang="pt-BR">1h Galvão F.C. Galvão Bueno recebe convidados para debater sobre assuntos ligados ao futebol brasileiro, além da preparação da seleção brasileira par</title>
   </programme>
   <programme channel="Premiere4.br" start="20261024223000 -0300" stop="20261024233000 -0300">
-    <title lang="pt-BR">Premiere 4 Acompanhe a programação pay-per-view. 56 min restantes Sobre mi.tv A mi.tv é um guia de TV inteligente, com mais de 200 canais de programa</title>
+    <title lang="pt-BR">Premiere 4 Acompanhe a programação pay-per-view. 42 min restantes googletag.cmd.push(function() { googletag.display('div-gpt-ad-1570786605020-0'); })</title>
   </programme>
   <programme channel="RecordTV.br" start="20261024223000 -0300" stop="20261024233000 -0300">
     <title lang="pt-BR">A Fazenda Temporada 18 Episódio 40 Famosos ficam confinados em uma fazenda, onde são obrigados a dividir aposentos, comida e tarefas domésticas. A ca</title>
