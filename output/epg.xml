@@ -364,22 +364,10 @@
   <programme channel="ESPN3.br" start="20261023000000 -0300" stop="20261023030000 -0300">
     <title lang="pt-BR">-</title>
   </programme>
-  <programme channel="ESPN4.br" start="20261023000000 -0300" stop="20261023030000 -0300">
-    <title lang="pt-BR">-</title>
-  </programme>
-  <programme channel="ESPN5.br" start="20261023000000 -0300" stop="20261023030000 -0300">
-    <title lang="pt-BR">-</title>
-  </programme>
-  <programme channel="GETV.br" start="20261023000000 -0300" stop="20261023030000 -0300">
-    <title lang="pt-BR">-</title>
-  </programme>
   <programme channel="NSports.br" start="20261023000000 -0300" stop="20261023030000 -0300">
     <title lang="pt-BR">-</title>
   </programme>
   <programme channel="Premiere5.br" start="20261023000000 -0300" stop="20261023030000 -0300">
-    <title lang="pt-BR">-</title>
-  </programme>
-  <programme channel="PremiereFC.br" start="20261023000000 -0300" stop="20261023030000 -0300">
     <title lang="pt-BR">-</title>
   </programme>
   <programme channel="RecordNews.br" start="20261023000000 -0300" stop="20261023030000 -0300">
@@ -746,7 +734,7 @@
     <title lang="pt-BR">A Promessa Um milagre acontece: Salvador retorna ao palácio. Curro faz com que Simona lhe conte o que sabe sobre sua mãe, mas a verdade é difícil de</title>
   </programme>
   <programme channel="TNTNovelas.br" start="20261023010100 -0300" stop="20261023215000 -0300">
-    <title lang="pt-BR">A Promessa Lope descobre os planos de María Fernández. Por insistência de Curro, Jana lhe conta suas suspeitas sobre quem pode ser o pai dele.</title>
+    <title lang="pt-BR">A Promessa No ar Lope descobre os planos de María Fernández. Por insistência de Curro, Jana lhe conta suas suspeitas sobre quem pode ser o pai dele.</title>
   </programme>
   <programme channel="TNTNovelas.br" start="20261023010100 -0300" stop="20261023221200 -0300">
     <title lang="pt-BR">A Promessa Blanca confirma suas suspeitas de que Manuel está apaixonado por Jana. Cruz começa a suspeitar das intenções de Lorenzo e Elisa.</title>
@@ -775,6 +763,9 @@
   <programme channel="TNTNovelas.br" start="20261023010300 -0300" stop="20261023015100 -0300">
     <title lang="pt-BR">48min Reis Essa série baseada em livros bíblicos acompanha a história de Israel desde seus inícios até a queda de Jerusalém nas mãos da Babilônia. 01</title>
   </programme>
+  <programme channel="TNTNovelas.br" start="20261023010300 -0300" stop="20261023020300 -0300">
+    <title lang="pt-BR">A Promessa Jimena usa a carta de Manuel para extorqui-lo. A pedido de Jana, Gregorio leva Pía ao médico. Alonso se vê num beco sem saída. Guia de not</title>
+  </programme>
   <programme channel="TNTNovelas.br" start="20261023010300 -0300" stop="20261023140400 -0300">
     <title lang="pt-BR">A Promessa As tensões entre Cruz e Elisa atingem seu ápice, e o marquês precisa deter Cruz. Manuel toma uma decisão e conversa com Jimena e Jana. 14:</title>
   </programme>
@@ -802,11 +793,8 @@
   <programme channel="XSports.br" start="20261023010500 -0300" stop="20261023141500 -0300">
     <title lang="pt-BR">Strasbourg x Paris Saint-Germain Ao vivo Strasbourg e Paris Saint-Germain jogam pela 7ª rodada do Primeiro Turno do Campeonato Francês, no de la Mein</title>
   </programme>
-  <programme channel="GloboRio.br" start="20261023010500 -0300" stop="20261023182500 -0300">
-    <title lang="pt-BR">Vale a Pena Ver de Novo - Avenida Brasil Carminha foge com Lúcio e deixa o barco de Max afundar com ele dentro; Max é considerado morto; Jorginho fic</title>
-  </programme>
   <programme channel="SBTRio.br" start="20261023010500 -0300" stop="20261023220000 -0300">
-    <title lang="pt-BR">Amor Valente A história de amor entre Camila e Daniel, que, apesar da desconfiança, do ressentimento e da sede de vingança, saem vitoriosos e superam</title>
+    <title lang="pt-BR">Amor Valente No ar A história de amor entre Camila e Daniel, que, apesar da desconfiança, do ressentimento e da sede de vingança, saem vitoriosos e s</title>
   </programme>
   <programme channel="GloboRio.br" start="20261023010500 -0300" stop="20261023222500 -0300">
     <title lang="pt-BR">Quem Ama Cuida Adriana e família comemoram o resultado da revisão criminal. Pilar fica furiosa quando Diná lhe comunica sobre a absolvição de Adriana</title>
@@ -836,9 +824,6 @@
     <title lang="pt-BR">Sporty Show Ao vivo O programa chega como pré-jogo oficial da rodada, trazendo análises, convidados e todo o clima da decisão da Série C. Destaque pa</title>
   </programme>
   <programme channel="SportyNet.br" start="20261023010800 -0300" stop="20261023164000 -0300">
-    <title lang="pt-BR">Sporty Show Ao vivo O programa chega como pré-jogo oficial da rodada, trazendo análises, convidados e todo o clima da decisão da Série C. Destaque pa</title>
-  </programme>
-  <programme channel="SportyNet.br" start="20261023010800 -0300" stop="20261023204500 -0300">
     <title lang="pt-BR">Sporty Show Ao vivo O programa chega como pré-jogo oficial da rodada, trazendo análises, convidados e todo o clima da decisão da Série C. Destaque pa</title>
   </programme>
   <programme channel="TNTNovelas.br" start="20261023010900 -0300" stop="20261023151300 -0300">
@@ -952,9 +937,6 @@
   <programme channel="GETV.br" start="20261023011500 -0300" stop="20261023181500 -0300">
     <title lang="pt-BR">Levantou, Cortou Ao vivo Sinopse não disponível.</title>
   </programme>
-  <programme channel="SBTRio.br" start="20261023011500 -0300" stop="20261023181500 -0300">
-    <title lang="pt-BR">O que a Vida me Roubou No México, a linda Montserrat e sua mãe lidam com amores, gângsteres, falências, obsessões e assassinatos.</title>
-  </programme>
   <programme channel="RecordNews.br" start="20261023011500 -0300" stop="20261023211500 -0300">
     <title lang="pt-BR">Jornal da Record - Edição de Sábado As últimas notícias do dia e reportagens especiais sobre os mais variados temas.</title>
   </programme>
@@ -1014,9 +996,6 @@
   </programme>
   <programme channel="XSports.br" start="20261023012500 -0300" stop="20261023144500 -0300">
     <title lang="pt-BR">VT - Strasbourg x PSG Strasbourg e PSG jogam no Campeonato Francês.</title>
-  </programme>
-  <programme channel="GloboRio.br" start="20261023012500 -0300" stop="20261023170500 -0300">
-    <title lang="pt-BR">Tô Ryca! 2 No ar Uma estranha com o mesmo nome de Selminha diz ser herdeira legítima de sua fortuna. Com isso, os bens dela são congelados e sua únic</title>
   </programme>
   <programme channel="RecordNews.br" start="20261023013000 -0300" stop="20261023014000 -0300">
     <title lang="pt-BR">10min Jornal da Record - 24h O boletim informativo com últimas notícias do Brasil e do mundo.</title>
@@ -1186,20 +1165,20 @@
   <programme channel="GloboRio.br" start="20261023013000 -0300" stop="20261023170000 -0300">
     <title lang="pt-BR">Domingão com Huck Todo final de semana, Luciano Huck oferece o melhor do entretenimento, com quadros divertidos e emocionantes, muita música, a prese</title>
   </programme>
-  <programme channel="SBTRio.br" start="20261023013000 -0300" stop="20261023170000 -0300">
-    <title lang="pt-BR">Fofocalizando No ar Revista eletrônica com informação, humor e as principais fofocas do mundo dos famosos.</title>
-  </programme>
   <programme channel="ESPN3.br" start="20261023013000 -0300" stop="20261023172500 -0300">
     <title lang="pt-BR">Manchester City x Flamengo Ao vivo Sinopse não disponível.</title>
   </programme>
   <programme channel="NSports.br" start="20261023013000 -0300" stop="20261023190000 -0300">
     <title lang="pt-BR">Um Assado Para... PVC O cara dos números, das estatísticas e da informação! ele é um dos jornalistas esportivos mais respeitados do Brasil e tá de vo</title>
   </programme>
-  <programme channel="BandNews.br" start="20261023013000 -0300" stop="20261023193000 -0300">
-    <title lang="pt-BR">O É da Coisa O jornalista Reinaldo Azevedo comenta principais notícias do momento com opiniões, polêmica e motivação para o pensamento a respeito de</title>
-  </programme>
   <programme channel="RecordNews.br" start="20261023013000 -0300" stop="20261023200000 -0300">
     <title lang="pt-BR">Zapping : Melhores Momentos Revista eletrônica dinâmica e com conteúdo diversificado, que traz reportagens sobre cultura, bastidores da televisão, ce</title>
+  </programme>
+  <programme channel="ESPN3.br" start="20261023013000 -0300" stop="20261023203000 -0300">
+    <title lang="pt-BR">VT - Palmeiras x Newell's Old Boys Sinopse não disponível.</title>
+  </programme>
+  <programme channel="GETV.br" start="20261023013000 -0300" stop="20261023203000 -0300">
+    <title lang="pt-BR">Hoje Amanhã 25 out 26 out 27 out 28 out 29 out 30 out Sexta-feira, 23 de outubro</title>
   </programme>
   <programme channel="XSports.br" start="20261023013000 -0300" stop="20261023203000 -0300">
     <title lang="pt-BR">Central Xsports Ao vivo Sinopse não disponível.</title>
@@ -1319,10 +1298,10 @@
     <title lang="pt-BR">SBT Notícias News Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia. googletag.cmd.push(function() {</title>
   </programme>
   <programme channel="SBTPiaui.br" start="20261023014500 -0300" stop="20261023024500 -0300">
-    <title lang="pt-BR">SBT Notícias News Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia. googletag.cmd.push(function() {</title>
+    <title lang="pt-BR">SBT Notícias News Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia. Sobre mi.tv A mi.tv é um guia d</title>
   </programme>
   <programme channel="TVCidadeVerde.br" start="20261023014500 -0300" stop="20261023024500 -0300">
-    <title lang="pt-BR">SBT Notícias News Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia. googletag.cmd.push(function() {</title>
+    <title lang="pt-BR">SBT Notícias News Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia. Sobre mi.tv A mi.tv é um guia d</title>
   </programme>
   <programme channel="XSports.br" start="20261023014500 -0300" stop="20261023024500 -0300">
     <title lang="pt-BR">VT - Bayern De Munique x Rb Leipzig Futebol alemão: Gols, dribles e confrontos acirrados marcam cada rodada da Bundesliga.</title>
@@ -1453,9 +1432,6 @@
   <programme channel="XSports.br" start="20261023015000 -0300" stop="20261023150000 -0300">
     <title lang="pt-BR">Programação do Canal Sinopse não Disponível.</title>
   </programme>
-  <programme channel="RecordNews.br" start="20261023015000 -0300" stop="20261023180000 -0300">
-    <title lang="pt-BR">Link Record News No ar As principais notícias do dia, com participação do público por meio das redes sociais.</title>
-  </programme>
   <programme channel="GloboRio.br" start="20261023015000 -0300" stop="20261024001500 -0300">
     <title lang="pt-BR">Altas Horas O "Altas Horas" reúne Roupa Nova e Sorriso Maroto em um encontro entre gerações da música romântica. O Roupa Nova celebra a longevidade d</title>
   </programme>
@@ -1467,9 +1443,6 @@
   </programme>
   <programme channel="SextremeBrazil.br" start="20261023015200 -0300" stop="20261023030000 -0300">
     <title lang="pt-BR">Asiáticas Amadoras Adults only / 2022 Mulheres sensuais se masturbam e filmam-se ao mesmo tempo. Elas compartilham os vídeos para que todos as vejam</title>
-  </programme>
-  <programme channel="SportyNet.br" start="20261023015200 -0300" stop="20261023193700 -0300">
-    <title lang="pt-BR">VT - Atlas x América-MEX Uma das ligas mais importantes das Américas agora é da SportyNet! São 18 clubes na disputa do Campeonato Mexicano, uma compe</title>
   </programme>
   <programme channel="TNTNovelas.br" start="20261023015400 -0300" stop="20261023023900 -0300">
     <title lang="pt-BR">45min Será Isso Amor? Quando Engin e Piril saem para jantar, alguém inesperado aparece. Selin escuta às escondidas uma ligação e Serkan dá a ela uma</title>
@@ -1816,14 +1789,14 @@
   <programme channel="ESPN4.br" start="20261023020500 -0300" stop="20261023171500 -0300">
     <title lang="pt-BR">Al-Nassr x Al-Wasl Ao vivo É o torneio internacional de maior prestígio da Confederação Asiática de Futebol, com 32 times competindo pela título. 17:</title>
   </programme>
-  <programme channel="ESPN4.br" start="20261023020500 -0300" stop="20261023180000 -0300">
-    <title lang="pt-BR">Bolton x Middlesbrough No ar Ao vivo A segunda divisão inglesa é disputada por 24 clubes que querem conquistar uma das vagas para competir na tão son</title>
-  </programme>
   <programme channel="SportyNet.br" start="20261023020500 -0300" stop="20261023180000 -0300">
     <title lang="pt-BR">VT - Borussia Mönchengladbach x Hoffenheim Acompanhe os melhores jogos e os craques da Bundesliga, o principal torneio da liga de futebol profissiona</title>
   </programme>
   <programme channel="XSports.br" start="20261023020500 -0300" stop="20261023190000 -0300">
     <title lang="pt-BR">Programação do Canal Sinopse não Disponível.</title>
+  </programme>
+  <programme channel="ESPN4.br" start="20261023020500 -0300" stop="20261023191500 -0300">
+    <title lang="pt-BR">Campeonato Português Ao vivo É a divisão de elite do futebol português e um dos maiores campeonatos da Europa. Acompanhe 18 clubes na luta pelo títul</title>
   </programme>
   <programme channel="SportyNet.br" start="20261023020500 -0300" stop="20261023200000 -0300">
     <title lang="pt-BR">VT - Osasuna x Racing La Liga: Clubes tradicionais e estrelas internacionais em busca da taça do Campeonato Espanhol.</title>
@@ -1849,9 +1822,6 @@
   <programme channel="PremiereFC.br" start="20261023021000 -0300" stop="20261023024000 -0300">
     <title lang="pt-BR">30min VT - São Paulo x Santos Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Br</title>
   </programme>
-  <programme channel="XSports.br" start="20261023021000 -0300" stop="20261023031000 -0300">
-    <title lang="pt-BR">Programação do Canal Sinopse não Disponível. Guia de notícias do mundo do entretenimento: descubra tudo o que rola no mundo dos filmes e saiba em pri</title>
-  </programme>
   <programme channel="ESPN4.br" start="20261023021000 -0300" stop="20261023103500 -0300">
     <title lang="pt-BR">Charlton x Norwich City Ao vivo A segunda divisão inglesa é disputada por 24 clubes que querem conquistar uma das vagas para competir na tão sonhada</title>
   </programme>
@@ -1874,7 +1844,7 @@
     <title lang="pt-BR">Milan x Bologna Ao vivo Histórias de heróis, anjos caídos e semideuses. Partidas lendárias disputadas até o último minuto em busca do título de melho</title>
   </programme>
   <programme channel="XSports.br" start="20261023021000 -0300" stop="20261023170000 -0300">
-    <title lang="pt-BR">Al Qadisiyah x Al Hilal No ar Ao vivo Al Qadisiyah e Al Hilal jogam pela 11ª rodada do Primeiro Turno da Liga Saudita, no Prince Saud bin Jalawi Stad</title>
+    <title lang="pt-BR">Programação do Canal Sinopse não Disponível.</title>
   </programme>
   <programme channel="XSports.br" start="20261023021000 -0300" stop="20261023180000 -0300">
     <title lang="pt-BR">Programação do Canal Sinopse não Disponível.</title>
@@ -1889,7 +1859,7 @@
     <title lang="pt-BR">Palmeiras x Bragantino Ao vivo Palmeiras e Bragantino jogam pela 32ª rodada do Segundo Turno do Brasileirão, na Arena Barueri, em Barueri (SP). Acess</title>
   </programme>
   <programme channel="ESPN3.br" start="20261023021000 -0300" stop="20261023213000 -0300">
-    <title lang="pt-BR">NBB: Bauru x Mogi Ao vivo O NBB é o nosso basquete! De norte a sul, toda semana, veja os melhores jogadores e as equipes de elite do Brasil em ação.</title>
+    <title lang="pt-BR">NBB: Bauru x Mogi No ar Ao vivo O NBB é o nosso basquete! De norte a sul, toda semana, veja os melhores jogadores e as equipes de elite do Brasil em</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261023021000 -0300" stop="20261023221000 -0300">
     <title lang="pt-BR">Flamengo x Atlético-MG Ao vivo Flamengo e Atlético-MG jogam pela 32ª rodada do Segundo Turno do Brasileirão, no Maracanã, no Rio de Janeiro (RJ). Ace</title>
@@ -1899,6 +1869,9 @@
   </programme>
   <programme channel="NSports.br" start="20261023021500 -0300" stop="20261023023000 -0300">
     <title lang="pt-BR">15min MTB Finalmente chegou a hora de colocar a Trek Checkpoint+ SL 6 AXS na estrada e descobrir, na prática, como é pedalar uma gravel elétrica. 02:</title>
+  </programme>
+  <programme channel="ESPN4.br" start="20261023021500 -0300" stop="20261023031500 -0300">
+    <title lang="pt-BR">NBB: Paulistano x Bauru Ao vivo O NBB é o nosso basquete! De Norte ao Sul, veja todas as semanas os melhores jogadores e as equipes de elite do Brasi</title>
   </programme>
   <programme channel="XSports.br" start="20261023021500 -0300" stop="20261023031500 -0300">
     <title lang="pt-BR">1h VT - São Paulo x Desportivo Brasil São Paulo e Desportivo Brasil jogam no Campeonato Paulista Sub-20.</title>
@@ -1981,6 +1954,9 @@
   <programme channel="GETV.br" start="20261023022000 -0300" stop="20261023032000 -0300">
     <title lang="pt-BR">VT - Osasco x Sesi-Bauru Não perca a Supercopa Feminina de Vôlei! As melhores equipes em uma disputa emocionante.</title>
   </programme>
+  <programme channel="XSports.br" start="20261023022000 -0300" stop="20261023032000 -0300">
+    <title lang="pt-BR">Programação do Canal Sinopse não Disponível. Guia de notícias do mundo do entretenimento: descubra tudo o que rola no mundo dos filmes e saiba em pri</title>
+  </programme>
   <programme channel="GloboRio.br" start="20261023022000 -0300" stop="20261023183500 -0300">
     <title lang="pt-BR">Internacional x Botafogo - Campeonato Brasileiro : Internacional x Botafogo Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do fut</title>
   </programme>
@@ -1988,7 +1964,7 @@
     <title lang="pt-BR">Programação do Canal Sinopse não Disponível.</title>
   </programme>
   <programme channel="XSports.br" start="20261023022000 -0300" stop="20261023230000 -0300">
-    <title lang="pt-BR">Sport x Criciúma Ao vivo Sport e Criciúma jogam pela 35ª rodada do Segundo Turno do Campeonato Brasileiro, Série B, no Ilha do Retiró, em Recife (PE)</title>
+    <title lang="pt-BR">Sport x Criciúma No ar Ao vivo Sport e Criciúma jogam pela 35ª rodada do Segundo Turno do Campeonato Brasileiro, Série B, no Ilha do Retiró, em Recif</title>
   </programme>
   <programme channel="Playboy.br" start="20261023022200 -0300" stop="20261023024600 -0300">
     <title lang="pt-BR">Playboy Au Naturel Temporada 1 Episódio 6 Modelos desinibidas se deleitam em paisagens espetaculares, onde natureza e nudez estão em harmonia.</title>
@@ -2043,9 +2019,6 @@
   </programme>
   <programme channel="ESPN6.br" start="20261023023000 -0300" stop="20261023033000 -0300">
     <title lang="pt-BR">1h VT - NFL: Dallas Cowboys x Philadelphia Eagles Touchdowns, viradas espetaculares, jogadas que entram para a história e os melhores atletas em camp</title>
-  </programme>
-  <programme channel="ESPN6.br" start="20261023023000 -0300" stop="20261023033000 -0300">
-    <title lang="pt-BR">VT - Nascar Cup Series: Play-offs: GP de Phoenix A categoria mais importante e famosa do automobilismo americano é pura adrenalina. Circuitos ovais,</title>
   </programme>
   <programme channel="SBTRio.br" start="20261023023000 -0300" stop="20261023033000 -0300">
     <title lang="pt-BR">Programação</title>
@@ -2197,17 +2170,14 @@
   <programme channel="ESPN5.br" start="20261023023000 -0300" stop="20261023160000 -0300">
     <title lang="pt-BR">VT - MLB World Series, Jogo 1 Os melhores jogadores do mundo estão na MLB, a maior liga profissional de beisebol do planeta. Da desafiadora temporada</title>
   </programme>
-  <programme channel="ESPN3.br" start="20261023023000 -0300" stop="20261023163000 -0300">
-    <title lang="pt-BR">VT - NBA: Cleveland Cavaliers x Philadelphia 76ers No ar As estrelas do basquete mostram suas habilidades na melhor liga do mundo. Jogos incríveis co</title>
-  </programme>
   <programme channel="Premiere5.br" start="20261023023000 -0300" stop="20261023163000 -0300">
     <title lang="pt-BR">Hoje a partir das</title>
   </programme>
+  <programme channel="ESPN6.br" start="20261023023000 -0300" stop="20261023173000 -0300">
+    <title lang="pt-BR">VT - Nascar Cup Series: Play-offs: GP de Phoenix A categoria mais importante e famosa do automobilismo americano é pura adrenalina. Circuitos ovais,</title>
+  </programme>
   <programme channel="ESPN6.br" start="20261023023000 -0300" stop="20261023180000 -0300">
     <title lang="pt-BR">VT - NBA: Philadelphia 76ers x Indiana Pacers As estrelas do basquete mostram suas habilidades na melhor liga do mundo. Jogos incríveis com emoção ga</title>
-  </programme>
-  <programme channel="SBTNews.br" start="20261023023000 -0300" stop="20261023183000 -0300">
-    <title lang="pt-BR">Poder Expresso No ar Raquel Landim apresenta o Poder Expresso, no horário em que Brasília ferve. Um telejornal quente, com bastidores das decisões qu</title>
   </programme>
   <programme channel="ESPN6.br" start="20261023023000 -0300" stop="20261023190000 -0300">
     <title lang="pt-BR">VT - NFL: Dallas Cowboys x Philadelphia Eagles Touchdowns, viradas espetaculares, jogadas que entram para a história e os melhores atletas em campo.</title>
@@ -2229,9 +2199,6 @@
   </programme>
   <programme channel="ESPN4.br" start="20261023023000 -0300" stop="20261023203000 -0300">
     <title lang="pt-BR">NFL Redzone Ao vivo Programa com mais de 6 horas de transmissão ao vivo aos domingos da temporada regular da NFL, cobrindo todas as oportunidades de</title>
-  </programme>
-  <programme channel="ESPN5.br" start="20261023023000 -0300" stop="20261023203000 -0300">
-    <title lang="pt-BR">VT - Nascar Cup Series: Play-offs: GP de Phoenix A categoria mais importante e famosa do automobilismo americano é pura adrenalina. Circuitos ovais,</title>
   </programme>
   <programme channel="ESPN6.br" start="20261023023000 -0300" stop="20261023203000 -0300">
     <title lang="pt-BR">VT - NBA: Oklahoma City Thunder x Dallas Mavericks As estrelas do basquete mostram suas habilidades na melhor liga do mundo. Jogos incríveis com emoç</title>
@@ -2255,7 +2222,7 @@
     <title lang="pt-BR">Programação do Canal A Libertadores Feminina você acompanha aqui na N Sports</title>
   </programme>
   <programme channel="SBTNews.br" start="20261023023000 -0300" stop="20261023230000 -0300">
-    <title lang="pt-BR">News Noite Leandro Magalhães apresenta o News Noite, um telejornal com análises sobre os temas mais importantes da política e da economia.</title>
+    <title lang="pt-BR">News Noite No ar Leandro Magalhães apresenta o News Noite, um telejornal com análises sobre os temas mais importantes da política e da economia. 23:0</title>
   </programme>
   <programme channel="ESPN3.br" start="20261023023000 -0300" stop="20261023233000 -0300">
     <title lang="pt-BR">NHL: Boston Bruins x Carolina Hurricanes Ao vivo A NHL é o principal campeonato de hóquei no gelo do mundo. Grandes equipes americanas e canadenses,</title>
@@ -2461,9 +2428,6 @@
   <programme channel="ESPN4.br" start="20261023030000 -0300" stop="20261023050000 -0300">
     <title lang="pt-BR">2h VT - Santa Clara x Benfica É a divisão de elite do futebol português e um dos maiores campeonatos da Europa. Acompanhe 18 clubes na luta pelo títu</title>
   </programme>
-  <programme channel="GloboRio.br" start="20261023030000 -0300" stop="20261023050000 -0300">
-    <title lang="pt-BR">","name":"Boletim RJ2","startDate":"2026-10-23T17:</title>
-  </programme>
   <programme channel="RedeTV.br" start="20261023030000 -0300" stop="20261023050000 -0300">
     <title lang="pt-BR">Igreja da Graça no Seu Lar Religious Cultos realizados com ensinamentos bíblicos, louvor e adoração.</title>
   </programme>
@@ -2476,15 +2440,6 @@
   <programme channel="TNTNovelas.br" start="20261023030000 -0300" stop="20261023060000 -0300">
     <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-24T00:</title>
   </programme>
-  <programme channel="TNTNovelas.br" start="20261023030000 -0300" stop="20261023070000 -0300">
-    <title lang="pt-BR">","name":"Iludida","startDate":"2026-10-23T16:</title>
-  </programme>
-  <programme channel="GloboRio.br" start="20261023030000 -0300" stop="20261023100000 -0300">
-    <title lang="pt-BR">","name":"RJ2","startDate":"2026-10-23T19:</title>
-  </programme>
-  <programme channel="GloboRio.br" start="20261023030000 -0300" stop="20261023100000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T19:</title>
-  </programme>
   <programme channel="PremiereFC.br" start="20261023030000 -0300" stop="20261023100000 -0300">
     <title lang="pt-BR">","name":"Premiere Retrô","startDate":"2026-10-23T22:</title>
   </programme>
@@ -2492,115 +2447,34 @@
     <title lang="pt-BR">","name":"VT - São Paulo x Internacional","startDate":"2026-10-23T23:</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261023030000 -0300" stop="20261023100000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T22:</title>
-  </programme>
-  <programme channel="PremiereFC.br" start="20261023030000 -0300" stop="20261023100000 -0300">
     <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T23:</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261023030000 -0300" stop="20261023100000 -0300">
     <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-24T00:</title>
-  </programme>
-  <programme channel="RecordNews.br" start="20261023030000 -0300" stop="20261023100000 -0300">
-    <title lang="pt-BR">","name":"Jornal da Record","startDate":"2026-10-23T20:</title>
-  </programme>
-  <programme channel="RecordNews.br" start="20261023030000 -0300" stop="20261023100000 -0300">
-    <title lang="pt-BR">","name":"Link Record News","startDate":"2026-10-23T16:</title>
-  </programme>
-  <programme channel="RecordNews.br" start="20261023030000 -0300" stop="20261023100000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T20:</title>
-  </programme>
-  <programme channel="BandNews.br" start="20261023030000 -0300" stop="20261023140000 -0300">
-    <title lang="pt-BR">"}],"name":"Bandnews"} (function () { try { var salvo = localStorage.getItem('tema'); var escuro = salvo ? salvo === 'escuro' : window.matchMedia('(pr</title>
-  </programme>
-  <programme channel="ESPN3.br" start="20261023030000 -0300" stop="20261023140000 -0300">
-    <title lang="pt-BR">"}],"name":"ESPN 3"} (function () { try { var salvo = localStorage.getItem('tema'); var escuro = salvo ? salvo === 'escuro' : window.matchMedia('(pref</title>
-  </programme>
-  <programme channel="TNTNovelas.br" start="20261023030000 -0300" stop="20261023140000 -0300">
-    <title lang="pt-BR">","name":"Iludida","startDate":"2026-10-23T19:</title>
-  </programme>
-  <programme channel="TNTNovelas.br" start="20261023030000 -0300" stop="20261023140000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T19:</title>
-  </programme>
-  <programme channel="ESPN6.br" start="20261023030000 -0300" stop="20261023143000 -0300">
-    <title lang="pt-BR">"}],"name":"ESPN 6"} (function () { try { var salvo = localStorage.getItem('tema'); var escuro = salvo ? salvo === 'escuro' : window.matchMedia('(pref</title>
-  </programme>
-  <programme channel="XSports.br" start="20261023030000 -0300" stop="20261023145000 -0300">
-    <title lang="pt-BR">"}],"name":"Xsports"} (function () { try { var salvo = localStorage.getItem('tema'); var escuro = salvo ? salvo === 'escuro' : window.matchMedia('(pre</title>
-  </programme>
-  <programme channel="NSports.br" start="20261023030000 -0300" stop="20261023150000 -0300">
-    <title lang="pt-BR">","name":"Futebol Pelo Mundo","startDate":"2026-10-23T16:</title>
   </programme>
   <programme channel="SBTRio.br" start="20261023030000 -0300" stop="20261023150000 -0300">
     <title lang="pt-BR">","name":"Aeroporto - Área Restrita","startDate":"2026-10-23T23:</title>
   </programme>
   <programme channel="SBTRio.br" start="20261023030000 -0300" stop="20261023150000 -0300">
-    <title lang="pt-BR">","name":"SBT Cidades","startDate":"2026-10-23T19:</title>
-  </programme>
-  <programme channel="SBTRio.br" start="20261023030000 -0300" stop="20261023150000 -0300">
-    <title lang="pt-BR">","name":"SBT Rio - 2ª Edição","startDate":"2026-10-23T18:</title>
-  </programme>
-  <programme channel="SBTRio.br" start="20261023030000 -0300" stop="20261023150000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T18:</title>
-  </programme>
-  <programme channel="SBTRio.br" start="20261023030000 -0300" stop="20261023150000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T19:</title>
-  </programme>
-  <programme channel="SBTRio.br" start="20261023030000 -0300" stop="20261023150000 -0300">
     <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T23:</title>
   </programme>
   <programme channel="SBTRio.br" start="20261023030000 -0300" stop="20261023150000 -0300">
     <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-24T00:</title>
   </programme>
-  <programme channel="SBTRio.br" start="20261023030000 -0300" stop="20261023153000 -0300">
-    <title lang="pt-BR">"}],"name":"SBT Rio de Janeiro"} (function () { try { var salvo = localStorage.getItem('tema'); var escuro = salvo ? salvo === 'escuro' : window.match</title>
-  </programme>
-  <programme channel="GloboRio.br" start="20261023030000 -0300" stop="20261023154000 -0300">
-    <title lang="pt-BR">"}],"name":"Globo Rio de Janeiro"} (function () { try { var salvo = localStorage.getItem('tema'); var escuro = salvo ? salvo === 'escuro' : window.mat</title>
-  </programme>
-  <programme channel="SportyNet.br" start="20261023030000 -0300" stop="20261023154500 -0300">
-    <title lang="pt-BR">"}],"name":"SportyNet"} (function () { try { var salvo = localStorage.getItem('tema'); var escuro = salvo ? salvo === 'escuro' : window.matchMedia('(p</title>
-  </programme>
-  <programme channel="ESPN4.br" start="20261023030000 -0300" stop="20261023155500 -0300">
-    <title lang="pt-BR">"}],"name":"ESPN 4"} (function () { try { var salvo = localStorage.getItem('tema'); var escuro = salvo ? salvo === 'escuro' : window.matchMedia('(pref</title>
-  </programme>
-  <programme channel="CanalUOL.br" start="20261023030000 -0300" stop="20261023160000 -0300">
-    <title lang="pt-BR">"}],"name":"Canal Uol"} (function () { try { var salvo = localStorage.getItem('tema'); var escuro = salvo ? salvo === 'escuro' : window.matchMedia('(p</title>
-  </programme>
-  <programme channel="ESPN5.br" start="20261023030000 -0300" stop="20261023160000 -0300">
-    <title lang="pt-BR">"}],"name":"ESPN 5"} (function () { try { var salvo = localStorage.getItem('tema'); var escuro = salvo ? salvo === 'escuro' : window.matchMedia('(pref</title>
-  </programme>
-  <programme channel="GETV.br" start="20261023030000 -0300" stop="20261023160000 -0300">
-    <title lang="pt-BR">"}],"name":"GE TV"} (function () { try { var salvo = localStorage.getItem('tema'); var escuro = salvo ? salvo === 'escuro' : window.matchMedia('(prefe</title>
-  </programme>
-  <programme channel="Premiere5.br" start="20261023030000 -0300" stop="20261023160000 -0300">
-    <title lang="pt-BR">"}],"name":"Premiere 5"} (function () { try { var salvo = localStorage.getItem('tema'); var escuro = salvo ? salvo === 'escuro' : window.matchMedia('(</title>
-  </programme>
-  <programme channel="PremiereFC.br" start="20261023030000 -0300" stop="20261023160000 -0300">
+  <programme channel="PremiereFC.br" start="20261023030000 -0300" stop="20261023183000 -0300">
     <title lang="pt-BR">"}],"name":"Premiere FC"} (function () { try { var salvo = localStorage.getItem('tema'); var escuro = salvo ? salvo === 'escuro' : window.matchMedia('</title>
   </programme>
-  <programme channel="SBTNews.br" start="20261023030000 -0300" stop="20261023160000 -0300">
-    <title lang="pt-BR">"}],"name":"SBT News"} (function () { try { var salvo = localStorage.getItem('tema'); var escuro = salvo ? salvo === 'escuro' : window.matchMedia('(pr</title>
+  <programme channel="ESPN3.br" start="20261023030000 -0300" stop="20261023192000 -0300">
+    <title lang="pt-BR">"}],"name":"ESPN 3"} (function () { try { var salvo = localStorage.getItem('tema'); var escuro = salvo ? salvo === 'escuro' : window.matchMedia('(pref</title>
   </programme>
-  <programme channel="TNTNovelas.br" start="20261023030000 -0300" stop="20261023160700 -0300">
-    <title lang="pt-BR">"}],"name":"TNT Novelas"} (function () { try { var salvo = localStorage.getItem('tema'); var escuro = salvo ? salvo === 'escuro' : window.matchMedia('</title>
-  </programme>
-  <programme channel="RecordNews.br" start="20261023030000 -0300" stop="20261023161000 -0300">
-    <title lang="pt-BR">"}],"name":"Record News"} (function () { try { var salvo = localStorage.getItem('tema'); var escuro = salvo ? salvo === 'escuro' : window.matchMedia('</title>
-  </programme>
-  <programme channel="NSports.br" start="20261023030000 -0300" stop="20261023161500 -0300">
-    <title lang="pt-BR">"}],"name":"Nsports"} (function () { try { var salvo = localStorage.getItem('tema'); var escuro = salvo ? salvo === 'escuro' : window.matchMedia('(pre</title>
+  <programme channel="CanalUOL.br" start="20261023030000 -0300" stop="20261023200000 -0300">
+    <title lang="pt-BR">"}],"name":"Canal Uol"} (function () { try { var salvo = localStorage.getItem('tema'); var escuro = salvo ? salvo === 'escuro' : window.matchMedia('(p</title>
   </programme>
   <programme channel="ESPN3.br" start="20261023030000 -0300" stop="20261023200000 -0300">
     <title lang="pt-BR">","name":"NBB: Bauru x Mogi","startDate":"2026-10-23T19:</title>
   </programme>
-  <programme channel="ESPN3.br" start="20261023030000 -0300" stop="20261023200000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T19:</title>
-  </programme>
-  <programme channel="GloboRio.br" start="20261023030000 -0300" stop="20261023200000 -0300">
-    <title lang="pt-BR">","name":"Vale a Pena Ver de Novo - Avenida Brasil","startDate":"2026-10-23T17:</title>
-  </programme>
-  <programme channel="GloboRio.br" start="20261023030000 -0300" stop="20261023200000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T17:</title>
+  <programme channel="Premiere5.br" start="20261023030000 -0300" stop="20261023200000 -0300">
+    <title lang="pt-BR">"}],"name":"Premiere 5"} (function () { try { var salvo = localStorage.getItem('tema'); var escuro = salvo ? salvo === 'escuro' : window.matchMedia('(</title>
   </programme>
   <programme channel="TNTNovelas.br" start="20261023030000 -0300" stop="20261023200000 -0300">
     <title lang="pt-BR">","name":"Força de Mulher","startDate":"2026-10-23T23:</title>
@@ -2608,23 +2482,47 @@
   <programme channel="TNTNovelas.br" start="20261023030000 -0300" stop="20261023200000 -0300">
     <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T23:</title>
   </programme>
-  <programme channel="BandNews.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">","name":"Expresso BandNews","startDate":"2026-10-23T17:</title>
+  <programme channel="BandNews.br" start="20261023030000 -0300" stop="20261023203000 -0300">
+    <title lang="pt-BR">"}],"name":"Bandnews"} (function () { try { var salvo = localStorage.getItem('tema'); var escuro = salvo ? salvo === 'escuro' : window.matchMedia('(pr</title>
   </programme>
-  <programme channel="BandNews.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">","name":"O É da Coisa","startDate":"2026-10-23T18:</title>
+  <programme channel="ESPN5.br" start="20261023030000 -0300" stop="20261023203000 -0300">
+    <title lang="pt-BR">"}],"name":"ESPN 5"} (function () { try { var salvo = localStorage.getItem('tema'); var escuro = salvo ? salvo === 'escuro' : window.matchMedia('(pref</title>
   </programme>
-  <programme channel="BandNews.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">","name":"Tarde BandNews","startDate":"2026-10-23T14:</title>
+  <programme channel="ESPN6.br" start="20261023030000 -0300" stop="20261023203000 -0300">
+    <title lang="pt-BR">"}],"name":"ESPN 6"} (function () { try { var salvo = localStorage.getItem('tema'); var escuro = salvo ? salvo === 'escuro' : window.matchMedia('(pref</title>
   </programme>
-  <programme channel="BandNews.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T18:</title>
+  <programme channel="GETV.br" start="20261023030000 -0300" stop="20261023203000 -0300">
+    <title lang="pt-BR">"}],"name":"GE TV"} (function () { try { var salvo = localStorage.getItem('tema'); var escuro = salvo ? salvo === 'escuro' : window.matchMedia('(prefe</title>
+  </programme>
+  <programme channel="NSports.br" start="20261023030000 -0300" stop="20261023203000 -0300">
+    <title lang="pt-BR">"}],"name":"Nsports"} (function () { try { var salvo = localStorage.getItem('tema'); var escuro = salvo ? salvo === 'escuro' : window.matchMedia('(pre</title>
+  </programme>
+  <programme channel="SBTNews.br" start="20261023030000 -0300" stop="20261023203000 -0300">
+    <title lang="pt-BR">"}],"name":"SBT News"} (function () { try { var salvo = localStorage.getItem('tema'); var escuro = salvo ? salvo === 'escuro' : window.matchMedia('(pr</title>
+  </programme>
+  <programme channel="GloboRio.br" start="20261023030000 -0300" stop="20261023204000 -0300">
+    <title lang="pt-BR">"}],"name":"Globo Rio de Janeiro"} (function () { try { var salvo = localStorage.getItem('tema'); var escuro = salvo ? salvo === 'escuro' : window.mat</title>
+  </programme>
+  <programme channel="RecordNews.br" start="20261023030000 -0300" stop="20261023204000 -0300">
+    <title lang="pt-BR">"}],"name":"Record News"} (function () { try { var salvo = localStorage.getItem('tema'); var escuro = salvo ? salvo === 'escuro' : window.matchMedia('</title>
+  </programme>
+  <programme channel="XSports.br" start="20261023030000 -0300" stop="20261023204000 -0300">
+    <title lang="pt-BR">"}],"name":"Xsports"} (function () { try { var salvo = localStorage.getItem('tema'); var escuro = salvo ? salvo === 'escuro' : window.matchMedia('(pre</title>
+  </programme>
+  <programme channel="ESPN4.br" start="20261023030000 -0300" stop="20261023204500 -0300">
+    <title lang="pt-BR">"}],"name":"ESPN 4"} (function () { try { var salvo = localStorage.getItem('tema'); var escuro = salvo ? salvo === 'escuro' : window.matchMedia('(pref</title>
+  </programme>
+  <programme channel="SportyNet.br" start="20261023030000 -0300" stop="20261023204500 -0300">
+    <title lang="pt-BR">"}],"name":"SportyNet"} (function () { try { var salvo = localStorage.getItem('tema'); var escuro = salvo ? salvo === 'escuro' : window.matchMedia('(p</title>
+  </programme>
+  <programme channel="TNTNovelas.br" start="20261023030000 -0300" stop="20261023204900 -0300">
+    <title lang="pt-BR">"}],"name":"TNT Novelas"} (function () { try { var salvo = localStorage.getItem('tema'); var escuro = salvo ? salvo === 'escuro' : window.matchMedia('</title>
+  </programme>
+  <programme channel="SBTRio.br" start="20261023030000 -0300" stop="20261023205500 -0300">
+    <title lang="pt-BR">"}],"name":"SBT Rio de Janeiro"} (function () { try { var salvo = localStorage.getItem('tema'); var escuro = salvo ? salvo === 'escuro' : window.match</title>
   </programme>
   <programme channel="BandNews.br" start="20261023030000 -0300" stop="20261024000000 -0300">
     <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-24T00:</title>
-  </programme>
-  <programme channel="CanalUOL.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">","name":"A Hora","startDate":"2026-10-23T19:</title>
   </programme>
   <programme channel="CanalUOL.br" start="20261023030000 -0300" stop="20261024000000 -0300">
     <title lang="pt-BR">","name":"Bastidores da Memória","startDate":"2026-10-23T22:</title>
@@ -2633,22 +2531,7 @@
     <title lang="pt-BR">","name":"Central Splash","startDate":"2026-10-23T20:</title>
   </programme>
   <programme channel="CanalUOL.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">","name":"Live Dos Clubes - Corinthians","startDate":"2026-10-23T18:</title>
-  </programme>
-  <programme channel="CanalUOL.br" start="20261023030000 -0300" stop="20261024000000 -0300">
     <title lang="pt-BR">","name":"Splash Show","startDate":"2026-10-23T21:</title>
-  </programme>
-  <programme channel="CanalUOL.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">","name":"UOL News - 2° Edição","startDate":"2026-10-23T16:</title>
-  </programme>
-  <programme channel="CanalUOL.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T19:</title>
-  </programme>
-  <programme channel="CanalUOL.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T20:</title>
-  </programme>
-  <programme channel="CanalUOL.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T21:</title>
   </programme>
   <programme channel="CanalUOL.br" start="20261023030000 -0300" stop="20261024000000 -0300">
     <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T22:</title>
@@ -2657,49 +2540,10 @@
     <title lang="pt-BR">","name":"ESPN Knockout: Legacy Fighting Alliance: LFA 244","startDate":"2026-10-23T22:</title>
   </programme>
   <programme channel="ESPN3.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">","name":"VT - NBA: Cleveland Cavaliers x Philadelphia 76ers","startDate":"2026-10-23T14:</title>
-  </programme>
-  <programme channel="ESPN3.br" start="20261023030000 -0300" stop="20261024000000 -0300">
     <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T22:</title>
   </programme>
   <programme channel="ESPN3.br" start="20261023030000 -0300" stop="20261024000000 -0300">
     <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-24T01:</title>
-  </programme>
-  <programme channel="ESPN4.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">","name":"MotoGP: GP da Austrália: Treino Livre","startDate":"2026-10-23T19:</title>
-  </programme>
-  <programme channel="ESPN4.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">","name":"MotoGP: GP da Austrália: Treino Livre","startDate":"2026-10-23T20:</title>
-  </programme>
-  <programme channel="ESPN4.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">","name":"Premier League Stories","startDate":"2026-10-23T18:</title>
-  </programme>
-  <programme channel="ESPN4.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T19:</title>
-  </programme>
-  <programme channel="ESPN4.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T20:</title>
-  </programme>
-  <programme channel="ESPN5.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">","name":"ESPN FIlmes: Saban","startDate":"2026-10-23T16:</title>
-  </programme>
-  <programme channel="ESPN5.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">","name":"VT - Nascar Cup Series: Play-offs: GP de Phoenix","startDate":"2026-10-23T17:</title>
-  </programme>
-  <programme channel="ESPN5.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">","name":"VT - Nascar Cup Series: Play-offs: GP de Phoenix","startDate":"2026-10-23T18:</title>
-  </programme>
-  <programme channel="ESPN5.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T18:</title>
-  </programme>
-  <programme channel="GETV.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">","name":"Pré-Jogo: Fluminense x Vôlei Maringá","startDate":"2026-10-23T18:</title>
-  </programme>
-  <programme channel="GETV.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">","name":"VT - Brasília Vôlei x Osasco São Cristovão Saúde","startDate":"2026-10-23T16:</title>
-  </programme>
-  <programme channel="NSports.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">","name":"Desimpedidos","startDate":"2026-10-23T20:</title>
   </programme>
   <programme channel="NSports.br" start="20261023030000 -0300" stop="20261024000000 -0300">
     <title lang="pt-BR">","name":"Podcast Sport Insider - Isabela e Mia","startDate":"2026-10-23T23:</title>
@@ -2708,19 +2552,7 @@
     <title lang="pt-BR">","name":"Programação do Canal","startDate":"2026-10-23T21:</title>
   </programme>
   <programme channel="NSports.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T20:</title>
-  </programme>
-  <programme channel="NSports.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T21:</title>
-  </programme>
-  <programme channel="NSports.br" start="20261023030000 -0300" stop="20261024000000 -0300">
     <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T23:</title>
-  </programme>
-  <programme channel="Premiere5.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">","name":"Dia 24/10 - Mirassol x São Paulo","startDate":"2026-10-23T16:</title>
-  </programme>
-  <programme channel="Premiere5.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">","name":"Dia 24/10 - Mirassol x São Paulo","startDate":"2026-10-23T18:</title>
   </programme>
   <programme channel="Premiere5.br" start="20261023030000 -0300" stop="20261024000000 -0300">
     <title lang="pt-BR">","name":"Dia 24/10 - Mirassol x São Paulo","startDate":"2026-10-23T20:</title>
@@ -2729,94 +2561,40 @@
     <title lang="pt-BR">","name":"Dia 24/10 - Mirassol x São Paulo","startDate":"2026-10-23T22:</title>
   </programme>
   <programme channel="Premiere5.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T20:</title>
-  </programme>
-  <programme channel="Premiere5.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T22:</title>
-  </programme>
-  <programme channel="Premiere5.br" start="20261023030000 -0300" stop="20261024000000 -0300">
     <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-24T00:</title>
   </programme>
-  <programme channel="PremiereFC.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">","name":"VT - Corinthians x Fluminense","startDate":"2026-10-23T16:</title>
-  </programme>
-  <programme channel="PremiereFC.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">","name":"VT - Grêmio x Palmeiras","startDate":"2026-10-23T17:</title>
-  </programme>
-  <programme channel="PremiereFC.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T17:</title>
+  <programme channel="RecordNews.br" start="20261023030000 -0300" stop="20261024000000 -0300">
+    <title lang="pt-BR">","name":"Joga nas 11","startDate":"2026-10-23T23:</title>
   </programme>
   <programme channel="RecordNews.br" start="20261023030000 -0300" stop="20261024000000 -0300">
     <title lang="pt-BR">","name":"Jornal da Record News","startDate":"2026-10-23T21:</title>
   </programme>
   <programme channel="RecordNews.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">","name":"Link Record News","startDate":"2026-10-23T18:</title>
-  </programme>
-  <programme channel="RecordNews.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">","name":"News 19 Horas","startDate":"2026-10-23T19:</title>
-  </programme>
-  <programme channel="RecordNews.br" start="20261023030000 -0300" stop="20261024000000 -0300">
     <title lang="pt-BR">","name":"News das 10","startDate":"2026-10-23T22:</title>
-  </programme>
-  <programme channel="RecordNews.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T19:</title>
-  </programme>
-  <programme channel="RecordNews.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T21:</title>
   </programme>
   <programme channel="RecordNews.br" start="20261023030000 -0300" stop="20261024000000 -0300">
     <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T22:</title>
   </programme>
-  <programme channel="SBTNews.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">","name":"Poder Expresso","startDate":"2026-10-23T16:</title>
+  <programme channel="RecordNews.br" start="20261023030000 -0300" stop="20261024000000 -0300">
+    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T23:</title>
   </programme>
   <programme channel="SBTNews.br" start="20261023030000 -0300" stop="20261024000000 -0300">
     <title lang="pt-BR">","name":"Tribuna do Voto","startDate":"2026-10-23T23:</title>
   </programme>
   <programme channel="SBTNews.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T23:</title>
-  </programme>
-  <programme channel="SBTNews.br" start="20261023030000 -0300" stop="20261024000000 -0300">
     <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-24T00:</title>
   </programme>
   <programme channel="SBTRio.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">","name":"O que a Vida me Roubou","startDate":"2026-10-23T17:</title>
-  </programme>
-  <programme channel="SBTRio.br" start="20261023030000 -0300" stop="20261024000000 -0300">
     <title lang="pt-BR">","name":"Programa do Ratinho","startDate":"2026-10-23T22:</title>
-  </programme>
-  <programme channel="SBTRio.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T22:</title>
   </programme>
   <programme channel="SportyNet.br" start="20261023030000 -0300" stop="20261024000000 -0300">
     <title lang="pt-BR">","name":"Sport x Criciúma","startDate":"2026-10-23T21:</title>
   </programme>
   <programme channel="SportyNet.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T21:</title>
-  </programme>
-  <programme channel="SportyNet.br" start="20261023030000 -0300" stop="20261024000000 -0300">
     <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-24T00:</title>
   </programme>
   <programme channel="XSports.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">","name":"Central Xsports","startDate":"2026-10-23T17:</title>
-  </programme>
-  <programme channel="XSports.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">","name":"Mundo Futsal","startDate":"2026-10-23T20:</title>
-  </programme>
-  <programme channel="XSports.br" start="20261023030000 -0300" stop="20261024000000 -0300">
     <title lang="pt-BR">","name":"Rodada Xsports","startDate":"2026-10-23T23:</title>
-  </programme>
-  <programme channel="XSports.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">","name":"Vasco x Joaçaba","startDate":"2026-10-23T18:</title>
-  </programme>
-  <programme channel="XSports.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T18:</title>
-  </programme>
-  <programme channel="XSports.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T20:</title>
-  </programme>
-  <programme channel="XSports.br" start="20261023030000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T23:</title>
   </programme>
   <programme channel="BandNews.br" start="20261023030000 -0300" stop="20261024030000 -0300">
     <title lang="pt-BR">","name":"Edição da Noite","startDate":"2026-10-23T21:</title>
@@ -2825,19 +2603,7 @@
     <title lang="pt-BR">","name":"Jornal da Band","startDate":"2026-10-23T20:</title>
   </programme>
   <programme channel="BandNews.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">","name":"Panorama Bandnews","startDate":"2026-10-23T19:</title>
-  </programme>
-  <programme channel="BandNews.br" start="20261023030000 -0300" stop="20261024030000 -0300">
     <title lang="pt-BR">","name":"Questão de Regra","startDate":"2026-10-23T23:</title>
-  </programme>
-  <programme channel="BandNews.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T19:</title>
-  </programme>
-  <programme channel="BandNews.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T20:</title>
-  </programme>
-  <programme channel="BandNews.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T21:</title>
   </programme>
   <programme channel="BandNews.br" start="20261023030000 -0300" stop="20261024030000 -0300">
     <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T23:</title>
@@ -2852,28 +2618,7 @@
     <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-24T01:</title>
   </programme>
   <programme channel="ESPN3.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">","name":"ATP Tour: This Week","startDate":"2026-10-23T18:</title>
-  </programme>
-  <programme channel="ESPN3.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">","name":"Momento ESPN","startDate":"2026-10-23T18:</title>
-  </programme>
-  <programme channel="ESPN3.br" start="20261023030000 -0300" stop="20261024030000 -0300">
     <title lang="pt-BR">","name":"Premier League Stories","startDate":"2026-10-23T21:</title>
-  </programme>
-  <programme channel="ESPN3.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">","name":"VT - Bologna x Inter de Milão","startDate":"2026-10-23T16:</title>
-  </programme>
-  <programme channel="ESPN3.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T18:</title>
-  </programme>
-  <programme channel="ESPN3.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T21:</title>
-  </programme>
-  <programme channel="ESPN4.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">","name":"Bolton x Middlesbrough","startDate":"2026-10-23T15:</title>
-  </programme>
-  <programme channel="ESPN4.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">","name":"Inside Serie A","startDate":"2026-10-23T18:</title>
   </programme>
   <programme channel="ESPN4.br" start="20261023030000 -0300" stop="20261024030000 -0300">
     <title lang="pt-BR">","name":"Momento ESPN","startDate":"2026-10-23T22:</title>
@@ -2891,15 +2636,6 @@
     <title lang="pt-BR">","name":"VT - NFL: Washington Commanders x San Francisco 49ers","startDate":"2026-10-23T21:</title>
   </programme>
   <programme channel="ESPN4.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T18:</title>
-  </programme>
-  <programme channel="ESPN4.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T20:</title>
-  </programme>
-  <programme channel="ESPN4.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T21:</title>
-  </programme>
-  <programme channel="ESPN4.br" start="20261023030000 -0300" stop="20261024030000 -0300">
     <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T22:</title>
   </programme>
   <programme channel="ESPN4.br" start="20261023030000 -0300" stop="20261024030000 -0300">
@@ -2915,58 +2651,19 @@
     <title lang="pt-BR">","name":"VT - Trabzonspor x Besiktas","startDate":"2026-10-23T20:</title>
   </programme>
   <programme channel="ESPN5.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T20:</title>
-  </programme>
-  <programme channel="ESPN5.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T22:</title>
-  </programme>
-  <programme channel="ESPN5.br" start="20261023030000 -0300" stop="20261024030000 -0300">
     <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-24T00:</title>
   </programme>
   <programme channel="ESPN6.br" start="20261023030000 -0300" stop="20261024030000 -0300">
     <title lang="pt-BR">","name":"VT - Avaí x Athletic","startDate":"2026-10-23T20:</title>
   </programme>
   <programme channel="ESPN6.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">","name":"VT - Ceará x Juventude","startDate":"2026-10-23T14:</title>
-  </programme>
-  <programme channel="ESPN6.br" start="20261023030000 -0300" stop="20261024030000 -0300">
     <title lang="pt-BR">","name":"VT - Londrina x Cuiabá","startDate":"2026-10-23T22:</title>
-  </programme>
-  <programme channel="ESPN6.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">","name":"VT - Ponte Preta x Atlético-GO","startDate":"2026-10-23T16:</title>
-  </programme>
-  <programme channel="ESPN6.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">","name":"VT - Vila Nova x Novorizontino","startDate":"2026-10-23T18:</title>
-  </programme>
-  <programme channel="ESPN6.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T18:</title>
-  </programme>
-  <programme channel="ESPN6.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T20:</title>
-  </programme>
-  <programme channel="ESPN6.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T22:</title>
   </programme>
   <programme channel="ESPN6.br" start="20261023030000 -0300" stop="20261024030000 -0300">
     <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-24T00:</title>
   </programme>
   <programme channel="GETV.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">","name":"Fluminense x Vôlei Maringá","startDate":"2026-10-23T18:</title>
-  </programme>
-  <programme channel="GETV.br" start="20261023030000 -0300" stop="20261024030000 -0300">
     <title lang="pt-BR">","name":"NFL: Houston Texans x Jacksonville Jaguars","startDate":"2026-10-23T20:</title>
-  </programme>
-  <programme channel="GETV.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T18:</title>
-  </programme>
-  <programme channel="GETV.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T20:</title>
-  </programme>
-  <programme channel="GETV.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-24T01:</title>
-  </programme>
-  <programme channel="GloboRio.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">","name":"A Nobreza do Amor","startDate":"2026-10-23T18:</title>
   </programme>
   <programme channel="GloboRio.br" start="20261023030000 -0300" stop="20261024030000 -0300">
     <title lang="pt-BR">","name":"Eleições 2026: Debate dos Candidatos à Presidência da República - 2º Turno","startDate":"2026-10-23T21:</title>
@@ -2978,52 +2675,13 @@
     <title lang="pt-BR">","name":"Jornal Nacional","startDate":"2026-10-23T20:</title>
   </programme>
   <programme channel="GloboRio.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">","name":"Por Você","startDate":"2026-10-23T19:</title>
-  </programme>
-  <programme channel="GloboRio.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">","name":"Propaganda Eleitoral","startDate":"2026-10-23T20:</title>
-  </programme>
-  <programme channel="GloboRio.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">","name":"Tô Ryca! 2","startDate":"2026-10-23T15:</title>
-  </programme>
-  <programme channel="GloboRio.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T18:</title>
-  </programme>
-  <programme channel="GloboRio.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T19:</title>
-  </programme>
-  <programme channel="GloboRio.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T20:</title>
-  </programme>
-  <programme channel="GloboRio.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T21:</title>
-  </programme>
-  <programme channel="GloboRio.br" start="20261023030000 -0300" stop="20261024030000 -0300">
     <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T23:</title>
   </programme>
   <programme channel="GloboRio.br" start="20261023030000 -0300" stop="20261024030000 -0300">
     <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-24T00:</title>
   </programme>
   <programme channel="NSports.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">","name":"DEC","startDate":"2026-10-23T15:</title>
-  </programme>
-  <programme channel="NSports.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">","name":"Deu Jogo","startDate":"2026-10-23T16:</title>
-  </programme>
-  <programme channel="NSports.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">","name":"Estádio 97","startDate":"2026-10-23T17:</title>
-  </programme>
-  <programme channel="NSports.br" start="20261023030000 -0300" stop="20261024030000 -0300">
     <title lang="pt-BR">","name":"Joga com Elas Entrevista","startDate":"2026-10-23T20:</title>
-  </programme>
-  <programme channel="NSports.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T16:</title>
-  </programme>
-  <programme channel="NSports.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T17:</title>
-  </programme>
-  <programme channel="NSports.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T20:</title>
   </programme>
   <programme channel="NSports.br" start="20261023030000 -0300" stop="20261024030000 -0300">
     <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-24T00:</title>
@@ -3032,76 +2690,28 @@
     <title lang="pt-BR">","name":"Cruzeiro x Remo","startDate":"2026-10-23T18:</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">","name":"Premiere Retrô","startDate":"2026-10-23T17:</title>
-  </programme>
-  <programme channel="PremiereFC.br" start="20261023030000 -0300" stop="20261024030000 -0300">
     <title lang="pt-BR">","name":"VT - Flamengo x Bragantino","startDate":"2026-10-23T23:</title>
-  </programme>
-  <programme channel="PremiereFC.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">","name":"VT - Vitória x Cruzeiro","startDate":"2026-10-23T16:</title>
-  </programme>
-  <programme channel="PremiereFC.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T17:</title>
-  </programme>
-  <programme channel="PremiereFC.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T18:</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261023030000 -0300" stop="20261024030000 -0300">
     <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T23:</title>
   </programme>
   <programme channel="RecordNews.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">","name":"Elas com a Bola","startDate":"2026-10-23T19:</title>
-  </programme>
-  <programme channel="RecordNews.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">","name":"Esporte Record News","startDate":"2026-10-23T18:</title>
+    <title lang="pt-BR">","name":"Geek Record News","startDate":"2026-10-23T22:</title>
   </programme>
   <programme channel="RecordNews.br" start="20261023030000 -0300" stop="20261024030000 -0300">
     <title lang="pt-BR">","name":"Jornal da Record","startDate":"2026-10-23T20:</title>
   </programme>
   <programme channel="RecordNews.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">","name":"Propaganda Eleitoral","startDate":"2026-10-23T20:</title>
-  </programme>
-  <programme channel="RecordNews.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T18:</title>
-  </programme>
-  <programme channel="RecordNews.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T19:</title>
-  </programme>
-  <programme channel="RecordNews.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T20:</title>
-  </programme>
-  <programme channel="RecordNews.br" start="20261023030000 -0300" stop="20261024030000 -0300">
     <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T22:</title>
   </programme>
-  <programme channel="SBTNews.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">","name":"Jornal do SBT News","startDate":"2026-10-23T18:</title>
+  <programme channel="RecordNews.br" start="20261023030000 -0300" stop="20261024030000 -0300">
+    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-24T00:</title>
   </programme>
   <programme channel="SBTNews.br" start="20261023030000 -0300" stop="20261024030000 -0300">
     <title lang="pt-BR">","name":"News Noite","startDate":"2026-10-23T20:</title>
   </programme>
-  <programme channel="SBTNews.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T20:</title>
-  </programme>
   <programme channel="SBTRio.br" start="20261023030000 -0300" stop="20261024030000 -0300">
     <title lang="pt-BR">","name":"Amor Valente","startDate":"2026-10-23T20:</title>
-  </programme>
-  <programme channel="SBTRio.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">","name":"Fofocalizando","startDate":"2026-10-23T15:</title>
-  </programme>
-  <programme channel="SBTRio.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">","name":"Propaganda Eleitoral","startDate":"2026-10-23T20:</title>
-  </programme>
-  <programme channel="SBTRio.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">","name":"SBT Brasil","startDate":"2026-10-23T19:</title>
-  </programme>
-  <programme channel="SBTRio.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">","name":"SBT Brasil","startDate":"2026-10-23T20:</title>
-  </programme>
-  <programme channel="SBTRio.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T19:</title>
-  </programme>
-  <programme channel="SBTRio.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T20:</title>
   </programme>
   <programme channel="SportyNet.br" start="20261023030000 -0300" stop="20261024030000 -0300">
     <title lang="pt-BR">","name":"Minuto 91","startDate":"2026-10-23T22:</title>
@@ -3110,37 +2720,10 @@
     <title lang="pt-BR">","name":"Pré-Jogo","startDate":"2026-10-23T20:</title>
   </programme>
   <programme channel="SportyNet.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">","name":"Sporty Show","startDate":"2026-10-23T19:</title>
-  </programme>
-  <programme channel="SportyNet.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">","name":"Torino x Monza","startDate":"2026-10-23T15:</title>
-  </programme>
-  <programme channel="SportyNet.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">","name":"VT - Atlas x América-MEX","startDate":"2026-10-23T17:</title>
-  </programme>
-  <programme channel="SportyNet.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T19:</title>
-  </programme>
-  <programme channel="SportyNet.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T20:</title>
-  </programme>
-  <programme channel="SportyNet.br" start="20261023030000 -0300" stop="20261024030000 -0300">
     <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T22:</title>
   </programme>
   <programme channel="TNTNovelas.br" start="20261023030000 -0300" stop="20261024030000 -0300">
     <title lang="pt-BR">","name":"A Promessa","startDate":"2026-10-23T20:</title>
-  </programme>
-  <programme channel="TNTNovelas.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">","name":"Força de Mulher","startDate":"2026-10-23T18:</title>
-  </programme>
-  <programme channel="TNTNovelas.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">","name":"Reis","startDate":"2026-10-23T19:</title>
-  </programme>
-  <programme channel="TNTNovelas.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">","name":"Será Isso Amor?","startDate":"2026-10-23T16:</title>
-  </programme>
-  <programme channel="TNTNovelas.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">","name":"Será Isso Amor?","startDate":"2026-10-23T17:</title>
   </programme>
   <programme channel="TNTNovelas.br" start="20261023030000 -0300" stop="20261024030000 -0300">
     <title lang="pt-BR">","name":"Será Isso Amor?","startDate":"2026-10-23T21:</title>
@@ -3149,34 +2732,10 @@
     <title lang="pt-BR">","name":"Será Isso Amor?","startDate":"2026-10-23T22:</title>
   </programme>
   <programme channel="TNTNovelas.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T17:</title>
-  </programme>
-  <programme channel="TNTNovelas.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T18:</title>
-  </programme>
-  <programme channel="TNTNovelas.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T19:</title>
-  </programme>
-  <programme channel="TNTNovelas.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T20:</title>
-  </programme>
-  <programme channel="TNTNovelas.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T21:</title>
-  </programme>
-  <programme channel="TNTNovelas.br" start="20261023030000 -0300" stop="20261024030000 -0300">
     <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T22:</title>
   </programme>
   <programme channel="XSports.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">","name":"Al Qadisiyah x Al Hilal","startDate":"2026-10-23T14:</title>
-  </programme>
-  <programme channel="XSports.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">","name":"Horário Político Obrigatório","startDate":"2026-10-23T20:</title>
-  </programme>
-  <programme channel="XSports.br" start="20261023030000 -0300" stop="20261024030000 -0300">
     <title lang="pt-BR">","name":"Sport x Criciúma","startDate":"2026-10-23T20:</title>
-  </programme>
-  <programme channel="XSports.br" start="20261023030000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-23T20:</title>
   </programme>
   <programme channel="XSports.br" start="20261023030000 -0300" stop="20261024030000 -0300">
     <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-24T00:</title>
@@ -3382,11 +2941,14 @@
   <programme channel="PremiereFC.br" start="20261023034000 -0300" stop="20261023043000 -0300">
     <title lang="pt-BR">50min Giro Da Rodada - Brasileirão - 28ª Rodada Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</title>
   </programme>
+  <programme channel="PremiereFC.br" start="20261023034000 -0300" stop="20261023044000 -0300">
+    <title lang="pt-BR">Aquecimento sportv Ao vivo É hora de analisar. Você confere as últimas informações, escalações, análises táticas, destaques individuais e o clima den</title>
+  </programme>
   <programme channel="RecordNews.br" start="20261023034000 -0300" stop="20261023052000 -0300">
     <title lang="pt-BR">Link Record News As principais notícias do dia, com participação do público por meio das redes sociais.</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261023034000 -0300" stop="20261023221000 -0300">
-    <title lang="pt-BR">Cruzeiro x Remo Ao vivo Cruzeiro e Remo jogam pela 32ª rodada do Segundo Turno do Brasileirão, no Mineirão, em Belo Horizonte (MG). Acesse o canal 25</title>
+    <title lang="pt-BR">Cruzeiro x Remo No ar Ao vivo Cruzeiro e Remo jogam pela 32ª rodada do Segundo Turno do Brasileirão, no Mineirão, em Belo Horizonte (MG). Acesse o ca</title>
   </programme>
   <programme channel="TNTNovelas.br" start="20261023034100 -0300" stop="20261023042700 -0300">
     <title lang="pt-BR">46min Iludida Aras pisa em sua casa e se lembra de tudo. Leyla está procurando Aras e Derin precisa impedi-la de encontrá-lo. Aras conversa com Asya</title>
@@ -3758,7 +3320,7 @@
     <title lang="pt-BR">Papo de Paddock Sports talk O jornalista Ale Speitzzer traz uma visão única e privilegiada do mundo do automobilismo, combinando análise aprofundada</title>
   </programme>
   <programme channel="CNNBrasil.br" start="20261023050000 -0300" stop="20261023060000 -0300">
-    <title lang="pt-BR">CNN Newsroom News Notícias de última hora e histórias em desenvolvimento, apresentadas por um time de repórteres, ao vivo da sede da CNN. googletag.c</title>
+    <title lang="pt-BR">CNN Newsroom News Notícias de última hora e histórias em desenvolvimento, apresentadas por um time de repórteres, ao vivo da sede da CNN. Sobre mi.tv</title>
   </programme>
   <programme channel="CanalUOL.br" start="20261023050000 -0300" stop="20261023060000 -0300">
     <title lang="pt-BR">1h A Hora José Roberto Toledo e Thais Bilenky, em uma hora, trazem informações e análises sobre os fatos mais importantes da semana.</title>
@@ -3804,9 +3366,6 @@
   </programme>
   <programme channel="ESPN5.br" start="20261023050000 -0300" stop="20261024023000 -0300">
     <title lang="pt-BR">Programação</title>
-  </programme>
-  <programme channel="GloboRio.br" start="20261023050000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">-</title>
   </programme>
   <programme channel="TNTNovelas.br" start="20261023050400 -0300" stop="20261023054900 -0300">
     <title lang="pt-BR">45min Será Isso Amor? Ferit faz uma proposta importante na reunião. Aydan, por sua vez, finalmente encontra alguém bonito para deixar Alptekin com ci</title>
@@ -4569,9 +4128,6 @@
   </programme>
   <programme channel="XSports.br" start="20261023070000 -0300" stop="20261024013000 -0300">
     <title lang="pt-BR">Programação</title>
-  </programme>
-  <programme channel="TNTNovelas.br" start="20261023070000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">-</title>
   </programme>
   <programme channel="GETV.br" start="20261023070000 -0300" stop="20261024033000 -0300">
     <title lang="pt-BR">Programação</title>
@@ -5536,13 +5092,7 @@
   <programme channel="ESPN6.br" start="20261023100000 -0300" stop="20261024023000 -0300">
     <title lang="pt-BR">Programação</title>
   </programme>
-  <programme channel="GloboRio.br" start="20261023100000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">-</title>
-  </programme>
   <programme channel="PremiereFC.br" start="20261023100000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">-</title>
-  </programme>
-  <programme channel="RecordNews.br" start="20261023100000 -0300" stop="20261024030000 -0300">
     <title lang="pt-BR">-</title>
   </programme>
   <programme channel="GETV.br" start="20261023100000 -0300" stop="20261024033000 -0300">
@@ -6301,9 +5851,6 @@
   <programme channel="SporTV2.br" start="20261023123000 -0300" stop="20261023132500 -0300">
     <title lang="pt-BR">Paris, França - Final Feminina SLS - Mundial de Skate Street Todas as emoções da Street League Skateboarding, circuito mundial de skate street com os</title>
   </programme>
-  <programme channel="CanalUOL.br" start="20261023123000 -0300" stop="20261023133000 -0300">
-    <title lang="pt-BR">4h Programação Canal UOL Sinopse não disponível. Guia de notícias do mundo do entretenimento: descubra tudo o que rola no mundo dos filmes e saiba em</title>
-  </programme>
   <programme channel="ESPN5.br" start="20261023123000 -0300" stop="20261023133000 -0300">
     <title lang="pt-BR">1h VT - NFL: Los Angeles Rams x Las Vegas Raiders Touchdowns, viradas espetaculares, jogadas que entram para a história e os melhores atletas em camp</title>
   </programme>
@@ -6898,9 +6445,6 @@
   <programme channel="SBTNews.br" start="20261023140000 -0300" stop="20261023150000 -0300">
     <title lang="pt-BR">1h True Crime O True Crime é um podcast jornalístico, apresentado por Fabio Diamante e Robinson Cerantula, que analisa crimes de grande repercussão n</title>
   </programme>
-  <programme channel="SBTNews.br" start="20261023140000 -0300" stop="20261023150000 -0300">
-    <title lang="pt-BR">4h Programação SBT News Programação SBT News. Guia de notícias do mundo do entretenimento: descubra tudo o que rola no mundo dos filmes e saiba em pr</title>
-  </programme>
   <programme channel="SBTRio.br" start="20261023140000 -0300" stop="20261023150000 -0300">
     <title lang="pt-BR">1h Eita Lucas! Lucas Guimarães viaja por todo o Brasil conhecendo pessoas e contando suas histórias de vida e distribuindo prêmios por onde passa. El</title>
   </programme>
@@ -6931,41 +6475,26 @@
   <programme channel="Premiere5.br" start="20261023140000 -0300" stop="20261023160000 -0300">
     <title lang="pt-BR">2h Com o PREMIERE dá jogo! Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</title>
   </programme>
-  <programme channel="ESPN3.br" start="20261023140000 -0300" stop="20261023163000 -0300">
-    <title lang="pt-BR">–</title>
-  </programme>
-  <programme channel="BandNews.br" start="20261023140000 -0300" stop="20261023170000 -0300">
-    <title lang="pt-BR">–</title>
-  </programme>
-  <programme channel="BandNews.br" start="20261023140000 -0300" stop="20261023170000 -0300">
-    <title lang="pt-BR">3h Tarde BandNews No ar As principais notícias do Brasil e do mundo. Coberturas ao vivo e a participação de repórteres espalhados por todo o país e p</title>
-  </programme>
   <programme channel="Premiere6.br" start="20261023140000 -0300" stop="20261023174000 -0300">
-    <title lang="pt-BR">Premiere 6 Acompanhe a programação pay-per-view. 1 hora 23 min restantes</title>
+    <title lang="pt-BR">Premiere 6 Acompanhe a programação pay-per-view.</title>
   </programme>
   <programme channel="SBTNews.br" start="20261023140000 -0300" stop="20261023180000 -0300">
     <title lang="pt-BR">4h Programação SBT News Programação SBT News.</title>
   </programme>
   <programme channel="Premiere2.br" start="20261023140000 -0300" stop="20261023220000 -0300">
-    <title lang="pt-BR">Premiere 2 Acompanhe a programação pay-per-view. 5 horas 44 min restantes</title>
+    <title lang="pt-BR">Premiere 2 Acompanhe a programação pay-per-view. 1 hora 7 min restantes</title>
   </programme>
   <programme channel="Premiere3.br" start="20261023140000 -0300" stop="20261023220000 -0300">
-    <title lang="pt-BR">Premiere 3 Acompanhe a programação pay-per-view. 5 horas 44 min restantes</title>
+    <title lang="pt-BR">Premiere 3 Acompanhe a programação pay-per-view. 1 hora 7 min restantes</title>
   </programme>
   <programme channel="Premiere7.br" start="20261023140000 -0300" stop="20261023220000 -0300">
-    <title lang="pt-BR">Premiere 7 Acompanhe a programação pay-per-view. 5 horas 43 min restantes</title>
+    <title lang="pt-BR">Premiere 7 Acompanhe a programação pay-per-view. 1 hora 6 min restantes</title>
   </programme>
   <programme channel="SportyNet.br" start="20261023140000 -0300" stop="20261024015500 -0300">
     <title lang="pt-BR">Programação</title>
   </programme>
-  <programme channel="ESPN3.br" start="20261023140000 -0300" stop="20261024023000 -0300">
-    <title lang="pt-BR">Programação</title>
-  </programme>
   <programme channel="Premiere5.br" start="20261023140000 -0300" stop="20261024023000 -0300">
     <title lang="pt-BR">Programação</title>
-  </programme>
-  <programme channel="TNTNovelas.br" start="20261023140000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">-</title>
   </programme>
   <programme channel="Multishow.br" start="20261023140100 -0300" stop="20261023143700 -0300">
     <title lang="pt-BR">Tapas &amp; Beijos Temporada 5 Episódio 19 - Um Outdoor para Sueli Jorge prepara um outdoor para o aniversário de Sueli; Cleo diz para Armane que está gr</title>
@@ -7118,12 +6647,6 @@
     <title lang="pt-BR">2h VT - Bolton Wanderers x Middlesbrough A segunda divisão inglesa é disputada por 24 clubes que querem conquistar uma das vagas para competir na tão</title>
   </programme>
   <programme channel="ESPN6.br" start="20261023143000 -0300" stop="20261023163000 -0300">
-    <title lang="pt-BR">–</title>
-  </programme>
-  <programme channel="ESPN6.br" start="20261023143000 -0300" stop="20261023163000 -0300">
-    <title lang="pt-BR">2h VT - Ceará x Juventude No ar Emoção até a última rodada! Acompanhe a disputa de 20 clubes para chegar à elite do futebol brasileiro! A melhor cobe</title>
-  </programme>
-  <programme channel="ESPN6.br" start="20261023143000 -0300" stop="20261023163000 -0300">
     <title lang="pt-BR">2h VT - Galatasaray x Fenerbahce Torcidas apaixonadas e estádios vibrantes. O futebol turco é famoso pela garra, os grandes duelos e jogadores que dã</title>
   </programme>
   <programme channel="GETV.br" start="20261023143000 -0300" stop="20261024013000 -0300">
@@ -7191,9 +6714,6 @@
   </programme>
   <programme channel="XSports.br" start="20261023145000 -0300" stop="20261023165000 -0300">
     <title lang="pt-BR">2h Programação do Canal Sinopse não Disponível.</title>
-  </programme>
-  <programme channel="XSports.br" start="20261023145000 -0300" stop="20261023170000 -0300">
-    <title lang="pt-BR">–</title>
   </programme>
   <programme channel="ESPN4.br" start="20261023145000 -0300" stop="20261024013000 -0300">
     <title lang="pt-BR">Programação</title>
@@ -7293,9 +6813,6 @@
   </programme>
   <programme channel="SBTRio.br" start="20261023150000 -0300" stop="20261024024500 -0300">
     <title lang="pt-BR">Programação</title>
-  </programme>
-  <programme channel="NSports.br" start="20261023150000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">-</title>
   </programme>
   <programme channel="SBTRio.br" start="20261023150000 -0300" stop="20261024030000 -0300">
     <title lang="pt-BR">-</title>
@@ -7430,16 +6947,13 @@
     <title lang="pt-BR">Jesus Temporada 1 Episódio 129 Laila implora para Asisa ajudá-la. Nicodemos avisa que ela será levada até Jesus; Satanás aparece ao lado de Caifás, q</title>
   </programme>
   <programme channel="SBT.br" start="20261023153000 -0300" stop="20261023170000 -0300">
-    <title lang="pt-BR">Fofocalizando Newsmagazine Revista eletrônica com informação, humor e as principais fofocas do mundo dos famosos. 40 min restantes</title>
+    <title lang="pt-BR">Fofocalizando Newsmagazine Revista eletrônica com informação, humor e as principais fofocas do mundo dos famosos.</title>
   </programme>
   <programme channel="SBTPiaui.br" start="20261023153000 -0300" stop="20261023170000 -0300">
-    <title lang="pt-BR">Fofocalizando Newsmagazine Revista eletrônica com informação, humor e as principais fofocas do mundo dos famosos. 36 min restantes</title>
-  </programme>
-  <programme channel="SBTRio.br" start="20261023153000 -0300" stop="20261023170000 -0300">
-    <title lang="pt-BR">–</title>
+    <title lang="pt-BR">Fofocalizando Newsmagazine Revista eletrônica com informação, humor e as principais fofocas do mundo dos famosos.</title>
   </programme>
   <programme channel="TVCidadeVerde.br" start="20261023153000 -0300" stop="20261023170000 -0300">
-    <title lang="pt-BR">Fofocalizando Newsmagazine Revista eletrônica com informação, humor e as principais fofocas do mundo dos famosos. 48 min restantes</title>
+    <title lang="pt-BR">Fofocalizando Newsmagazine Revista eletrônica com informação, humor e as principais fofocas do mundo dos famosos.</title>
   </programme>
   <programme channel="tv.assembleia.piaui.br" start="20261023153000 -0300" stop="20261023171000 -0300">
     <title lang="pt-BR">- ESTÚDIO INTERATIVO – AO VIVO</title>
@@ -7463,13 +6977,13 @@
     <title lang="pt-BR">A Tarde É Sua Entertainment As novidades do mundo das celebridades com comentários e trocas de ideias sobre as últimas notícias de comportamento, art</title>
   </programme>
   <programme channel="SporTV3.br" start="20261023153000 -0300" stop="20261023173000 -0300">
-    <title lang="pt-BR">GP de Singapura Fórmula 1 Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1. 1 hora 13 min restantes</title>
+    <title lang="pt-BR">GP de Singapura Fórmula 1 Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</title>
   </programme>
   <programme channel="tv.assembleia.piaui.br" start="20261023153000 -0300" stop="20261023174500 -0300">
     <title lang="pt-BR">- ESTÚDIO INTERATIVO - REPRISE</title>
   </programme>
   <programme channel="ESPN2.br" start="20261023153000 -0300" stop="20261023180000 -0300">
-    <title lang="pt-BR">Oklahoma City Thunder x Denver Nuggets NBA Trinta equipes dos Estados Unidos e Canadá se enfrentam na principal liga de basquete do mundo. 1 hora 46</title>
+    <title lang="pt-BR">Oklahoma City Thunder x Denver Nuggets NBA Trinta equipes dos Estados Unidos e Canadá se enfrentam na principal liga de basquete do mundo.</title>
   </programme>
   <programme channel="Premiere4.br" start="20261023153000 -0300" stop="20261023223000 -0300">
     <title lang="pt-BR">Liga Nacional de Futevôlei Liga Nacional de Futevôlei Todas as emoções da competição de futevôlei disputada por equipes que representam clubes do Bra</title>
@@ -7478,9 +6992,6 @@
     <title lang="pt-BR">Programação</title>
   </programme>
   <programme channel="GloboRio.br" start="20261023153000 -0300" stop="20261024013000 -0300">
-    <title lang="pt-BR">Programação</title>
-  </programme>
-  <programme channel="SBTRio.br" start="20261023153000 -0300" stop="20261024013000 -0300">
     <title lang="pt-BR">Programação</title>
   </programme>
   <programme channel="XSports.br" start="20261023153000 -0300" stop="20261024021500 -0300">
@@ -7498,9 +7009,6 @@
   <programme channel="SportyNet.br" start="20261023153600 -0300" stop="20261023155100 -0300">
     <title lang="pt-BR">15min Programação SportyNet Sinopse não disponível.</title>
   </programme>
-  <programme channel="GloboRio.br" start="20261023154000 -0300" stop="20261023170500 -0300">
-    <title lang="pt-BR">–</title>
-  </programme>
   <programme channel="GloboSP.br" start="20261023154000 -0300" stop="20261023170500 -0300">
     <title lang="pt-BR">Tô Ryca! 2 Comedy / 2020 Uma estranha com o mesmo nome de Selminha diz ser herdeira legítima de sua fortuna. Com isso, os bens dela são congelados e</title>
   </programme>
@@ -7513,14 +7021,11 @@
   <programme channel="TVClube.br" start="20261023154000 -0300" stop="20261023172000 -0300">
     <title lang="pt-BR">Tô Ryca! 2 Comedy / 2020 Uma estranha com o mesmo nome de Selminha diz ser herdeira legítima de sua fortuna. Com isso, os bens dela são congelados e</title>
   </programme>
-  <programme channel="GloboRio.br" start="20261023154000 -0300" stop="20261024012500 -0300">
-    <title lang="pt-BR">Programação</title>
-  </programme>
   <programme channel="SportyNet.br" start="20261023154400 -0300" stop="20261023155900 -0300">
     <title lang="pt-BR">15min Filler Sinopse não disponível.</title>
   </programme>
   <programme channel="SexyHot.br" start="20261023154400 -0300" stop="20261023161600 -0300">
-    <title lang="pt-BR">Madeleine Adults only / 2025 Madeleine é uma artista do sexo e atende seus maiores fãs nos bastidores de seu show. 4 min restantes</title>
+    <title lang="pt-BR">Madeleine Adults only / 2025 Madeleine é uma artista do sexo e atende seus maiores fãs nos bastidores de seu show.</title>
   </programme>
   <programme channel="NSports.br" start="20261023154500 -0300" stop="20261023160000 -0300">
     <title lang="pt-BR">15min Acelerados Salve, Acelerados! Need for Speed, Gran Turismo, Forza, Test Drive, com certeza, você, acelerado ou não, já jogou algum desses jogos</title>
@@ -7533,15 +7038,6 @@
   </programme>
   <programme channel="ESPN3.br" start="20261023154500 -0300" stop="20261023164500 -0300">
     <title lang="pt-BR">1h Nascar Cup Series: Play-offs: GP de Talladega Ao vivo A categoria mais importante e famosa do automobilismo americano é pura adrenalina. Circuitos</title>
-  </programme>
-  <programme channel="NSports.br" start="20261023154500 -0300" stop="20261023164500 -0300">
-    <title lang="pt-BR">30min DEC Novo programa na área! O Sala de Clubismo está no ar. Dessa a Cabine Low Profile tem a missão de adivinhar os times dos convidados, será qu</title>
-  </programme>
-  <programme channel="SportyNet.br" start="20261023154500 -0300" stop="20261023174500 -0300">
-    <title lang="pt-BR">–</title>
-  </programme>
-  <programme channel="SportyNet.br" start="20261023154500 -0300" stop="20261023174500 -0300">
-    <title lang="pt-BR">2h Torino x Monza No ar Ao vivo Torino e Monza jogam pela 8ª rodada do Primeiro Turno do Campeonato Italiano, no Olimpico Grande Torino, em Turim, It</title>
   </programme>
   <programme channel="NSports.br" start="20261023154500 -0300" stop="20261024014500 -0300">
     <title lang="pt-BR">Programação</title>
@@ -7576,23 +7072,17 @@
   <programme channel="InvestigacaoDiscovery.br" start="20261023155400 -0300" stop="20261023163800 -0300">
     <title lang="pt-BR">Vivendo com o Inimigo - Sombras da Morte Temporada 1 Episódio 4 - Sonhos Enterrados Em 2007, uma jovem grávida desaparece. Reconstituindo seus último</title>
   </programme>
-  <programme channel="ESPN4.br" start="20261023155500 -0300" stop="20261023180000 -0300">
-    <title lang="pt-BR">–</title>
-  </programme>
   <programme channel="ESPN3.br" start="20261023155500 -0300" stop="20261024013000 -0300">
-    <title lang="pt-BR">Programação</title>
-  </programme>
-  <programme channel="ESPN4.br" start="20261023155500 -0300" stop="20261024020500 -0300">
     <title lang="pt-BR">Programação</title>
   </programme>
   <programme channel="SportyNet.br" start="20261023155500 -0300" stop="20261024020500 -0300">
     <title lang="pt-BR">Programação</title>
   </programme>
-  <programme channel="SportyNet.br" start="20261023155900 -0300" stop="20261023165900 -0300">
-    <title lang="pt-BR">2h Programação SportyNet Sinopse não disponível. Guia de notícias do mundo do entretenimento: descubra tudo o que rola no mundo dos filmes e saiba em</title>
-  </programme>
   <programme channel="SextremeBrazil.br" start="20261023155900 -0300" stop="20261023172900 -0300">
-    <title lang="pt-BR">Deixa Eu G...r Dentro de Você! Adults only / 2025 Alexis Fawx, uma britânica infiel, uma universitária e uma dona de casa transam até cansarem. 1 hor</title>
+    <title lang="pt-BR">Deixa Eu G...r Dentro de Você! Adults only / 2025 Alexis Fawx, uma britânica infiel, uma universitária e uma dona de casa transam até cansarem.</title>
+  </programme>
+  <programme channel="SportyNet.br" start="20261023155900 -0300" stop="20261023175900 -0300">
+    <title lang="pt-BR">2h Programação SportyNet Sinopse não disponível.</title>
   </programme>
   <programme channel="GloboRio.br" start="20261023160000 -0300" stop="20261023161500 -0300">
     <title lang="pt-BR">15min Bora Pro Jogo Os principais acontecimentos do Brasileirão, com notícias de clubes e atletas antes das partidas.</title>
@@ -7613,10 +7103,7 @@
     <title lang="pt-BR">30min Destaques da Conmebol Libertadores Todos os destaques, os melhores lances, os melhores gols, um resumo completo sobre a Libertadores.</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261023160000 -0300" stop="20261023163000 -0300">
-    <title lang="pt-BR">–</title>
-  </programme>
-  <programme channel="PremiereFC.br" start="20261023160000 -0300" stop="20261023163000 -0300">
-    <title lang="pt-BR">30min VT - Corinthians x Fluminense No ar Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e te</title>
+    <title lang="pt-BR">30min VT - Corinthians x Fluminense Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Su</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261023160000 -0300" stop="20261023163000 -0300">
     <title lang="pt-BR">30min VT - Fluminense x Coritiba Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super</title>
@@ -7631,13 +7118,16 @@
     <title lang="pt-BR">30min Velocidade e Motor O melhor do automobilismo e motociclismo, as novidades, os bastidores, as histórias e emoções.</title>
   </programme>
   <programme channel="sexprive-brasileirinhas.br" start="20261023160000 -0300" stop="20261023163000 -0300">
-    <title lang="pt-BR">Celebridades Adults only Saiba tudo sobre os famosos que decidiram se aventurar no universo pornô. 18 min restantes</title>
+    <title lang="pt-BR">Celebridades Adults only Saiba tudo sobre os famosos que decidiram se aventurar no universo pornô.</title>
   </programme>
   <programme channel="BandSports.br" start="20261023160000 -0300" stop="20261023164500 -0300">
-    <title lang="pt-BR">Expedicionário do Brasil Adventure Renato Castanho visita e explora caminhos históricos do Brasil. 32 min restantes</title>
+    <title lang="pt-BR">Expedicionário do Brasil Adventure Renato Castanho visita e explora caminhos históricos do Brasil.</title>
   </programme>
   <programme channel="XSports.br" start="20261023160000 -0300" stop="20261023164500 -0300">
     <title lang="pt-BR">45min VT - Bayer Leverkusen x Freiburg Acompanhe os melhores jogos e os craques da Bundesliga, o principal torneio da liga de futebol profissional da</title>
+  </programme>
+  <programme channel="TNTNovelas.br" start="20261023160000 -0300" stop="20261023164700 -0300">
+    <title lang="pt-BR">47min Iludida Aras pisa em sua casa e se lembra de tudo. Leyla está procurando Aras e Derin precisa impedi-la de encontrá-lo. Aras conversa com Asya</title>
   </programme>
   <programme channel="BandNews.br" start="20261023160000 -0300" stop="20261023170000 -0300">
     <title lang="pt-BR">1h Tarde BandNews As principais notícias do Brasil e do mundo. Coberturas ao vivo e a participação de repórteres espalhados por todo o país e pelo ex</title>
@@ -7648,50 +7138,20 @@
   <programme channel="CanalUOL.br" start="20261023160000 -0300" stop="20261023170000 -0300">
     <title lang="pt-BR">1h UOL News Especial Ao vivo Os principais acontecimentos do Brasil e do mundo, com análises e entrevistas exclusivas, no momento em que os fatos aco</title>
   </programme>
-  <programme channel="ESPN3.br" start="20261023160000 -0300" stop="20261023170000 -0300">
-    <title lang="pt-BR">3h ESPN KnockOut: Adam Azim x Gabriel Gollaz Ao vivo Boxeadores de elite, jovens promessas e os melhores cards, tudo em um só lugar. Guia de notícias</title>
-  </programme>
   <programme channel="ESPN4.br" start="20261023160000 -0300" stop="20261023170000 -0300">
     <title lang="pt-BR">1h NFL Redzone Ao vivo Programa com mais de 6 horas de transmissão ao vivo aos domingos da temporada regular da NFL, cobrindo todas as oportunidades</title>
-  </programme>
-  <programme channel="ESPN4.br" start="20261023160000 -0300" stop="20261023170000 -0300">
-    <title lang="pt-BR">30min Destaques da Conmebol Libertadores Todos os destaques, os melhores lances, os melhores gols, um resumo completo sobre a Libertadores. Guia de n</title>
-  </programme>
-  <programme channel="ESPN5.br" start="20261023160000 -0300" stop="20261023170000 -0300">
-    <title lang="pt-BR">–</title>
-  </programme>
-  <programme channel="ESPN5.br" start="20261023160000 -0300" stop="20261023170000 -0300">
-    <title lang="pt-BR">1h ESPN FIlmes: Saban No ar A faixa dedicada a documentários produzidos pela ESPN em parceria com grandes produtoras nacionais e internacionais. Um m</title>
   </programme>
   <programme channel="ESPN5.br" start="20261023160000 -0300" stop="20261023170000 -0300">
     <title lang="pt-BR">1h VT - NFL: Washington Commanders x San Francisco 49ers O futebol americano é o esporte mais popular dos Estados Unidos. A NFL reúne as grandes estr</title>
   </programme>
-  <programme channel="ESPN5.br" start="20261023160000 -0300" stop="20261023170000 -0300">
-    <title lang="pt-BR">2h VT - Hamburgo x Eintracht Frankfurt A Copa da Alemanha é o principal torneio mata-mata do futebol alemão. Sessenta e quatro clubes das principais</title>
-  </programme>
-  <programme channel="GETV.br" start="20261023160000 -0300" stop="20261023170000 -0300">
-    <title lang="pt-BR">2h VT - Brasília Vôlei x Osasco São Cristovão Saúde Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aque</title>
-  </programme>
   <programme channel="NSports.br" start="20261023160000 -0300" stop="20261023170000 -0300">
     <title lang="pt-BR">1h Deu Jogo Deu Jogo é o programa diário e ao vivo da N Sports que transforma as principais notícias do esporte em informação, debate e muita resenha</title>
   </programme>
-  <programme channel="Premiere5.br" start="20261023160000 -0300" stop="20261023170000 -0300">
-    <title lang="pt-BR">2h Com o PREMIERE dá jogo! Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante! Guia de notícias do mundo do entretenimento: descubra tudo o</title>
-  </programme>
-  <programme channel="PremiereFC.br" start="20261023160000 -0300" stop="20261023170000 -0300">
-    <title lang="pt-BR">30min VT - Corinthians x Fluminense Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Su</title>
-  </programme>
-  <programme channel="TNTNovelas.br" start="20261023160000 -0300" stop="20261023170000 -0300">
-    <title lang="pt-BR">47min Iludida Aras pisa em sua casa e se lembra de tudo. Leyla está procurando Aras e Derin precisa impedi-la de encontrá-lo. Aras conversa com Asya</title>
-  </programme>
   <programme channel="BandPiaui.br" start="20261023160000 -0300" stop="20261023173000 -0300">
-    <title lang="pt-BR">Brasil Urgente News Acompanhe os principais acontecimentos do dia no Piauí, com foco em temas do cotidiano. 1 hora 18 min restantes</title>
+    <title lang="pt-BR">Brasil Urgente News Acompanhe os principais acontecimentos do dia no Piauí, com foco em temas do cotidiano.</title>
   </programme>
-  <programme channel="CanalUOL.br" start="20261023160000 -0300" stop="20261023180000 -0300">
-    <title lang="pt-BR">–</title>
-  </programme>
-  <programme channel="CanalUOL.br" start="20261023160000 -0300" stop="20261023180000 -0300">
-    <title lang="pt-BR">2h UOL News - 2° Edição No ar Ao vivo As principais notícias do Brasil e do mundo em tempo real, com análises que explicam os acontecimentos de forma</title>
+  <programme channel="ESPN5.br" start="20261023160000 -0300" stop="20261023180000 -0300">
+    <title lang="pt-BR">2h VT - Hamburgo x Eintracht Frankfurt A Copa da Alemanha é o principal torneio mata-mata do futebol alemão. Sessenta e quatro clubes das principais</title>
   </programme>
   <programme channel="ESPN5.br" start="20261023160000 -0300" stop="20261023180000 -0300">
     <title lang="pt-BR">2h VT - Ponte Preta x Fortaleza Emoção até a última rodada! Acompanhe a disputa de 20 clubes para chegar à elite do futebol brasileiro! A melhor cobe</title>
@@ -7700,31 +7160,19 @@
     <title lang="pt-BR">2h VT - Independiente x Boca Juniors Com muita paixão nas arquibancadas e disputas emocionantes dentro de campo, o futebol argentino reúne a combinaç</title>
   </programme>
   <programme channel="GETV.br" start="20261023160000 -0300" stop="20261023180000 -0300">
-    <title lang="pt-BR">–</title>
-  </programme>
-  <programme channel="GETV.br" start="20261023160000 -0300" stop="20261023180000 -0300">
     <title lang="pt-BR">2h Programação do Canal Sinopse não Disponível.</title>
   </programme>
   <programme channel="GETV.br" start="20261023160000 -0300" stop="20261023180000 -0300">
     <title lang="pt-BR">2h VT - Brasília Vôlei x Osasco São Cristovão Saúde Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aque</title>
   </programme>
-  <programme channel="GETV.br" start="20261023160000 -0300" stop="20261023180000 -0300">
-    <title lang="pt-BR">2h VT - Brasília Vôlei x Osasco São Cristovão Saúde No ar Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas co</title>
-  </programme>
   <programme channel="GloboNews.br" start="20261023160000 -0300" stop="20261023180000 -0300">
     <title lang="pt-BR">GloboNews Mais News Julia Duailibi apresenta as principais notícias do dia e a repercussão dos acontecimentos mais importantes do momento. Tudo com a</title>
   </programme>
   <programme channel="JovemPanNews.br" start="20261023160000 -0300" stop="20261023180000 -0300">
-    <title lang="pt-BR">3 em 1 News Diferentes pontos de vista de um mesmo assunto. Cobertura e análise do cenário político brasileiro. 1 hora 38 min restantes</title>
-  </programme>
-  <programme channel="Premiere5.br" start="20261023160000 -0300" stop="20261023180000 -0300">
-    <title lang="pt-BR">–</title>
+    <title lang="pt-BR">3 em 1 News Diferentes pontos de vista de um mesmo assunto. Cobertura e análise do cenário político brasileiro.</title>
   </programme>
   <programme channel="Premiere5.br" start="20261023160000 -0300" stop="20261023180000 -0300">
     <title lang="pt-BR">2h Com o PREMIERE dá jogo! Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</title>
-  </programme>
-  <programme channel="Premiere5.br" start="20261023160000 -0300" stop="20261023180000 -0300">
-    <title lang="pt-BR">2h Dia 24/10 - Mirassol x São Paulo No ar Mirassol e São Paulo jogam pela 32ª rodada do Segundo Turno do Brasileirão, no Maião, em Mirassol (SP). 18:</title>
   </programme>
   <programme channel="SBTNews.br" start="20261023160000 -0300" stop="20261023180000 -0300">
     <title lang="pt-BR">2h News Sábado O News Sábado reforça o compromisso com a credibilidade e a informação factual, acompanhando os principais acontecimentos do Brasil e</title>
@@ -7732,19 +7180,16 @@
   <programme channel="TVBrasil.br" start="20261023160000 -0300" stop="20261023180000 -0300">
     <title lang="pt-BR">Sem Censura Newsmagazine Informações sobre o que acontece no Brasil e no mundo, em diferentes áreas da atividade humana. Entrevistados e debatedores</title>
   </programme>
-  <programme channel="SBTNews.br" start="20261023160000 -0300" stop="20261023183000 -0300">
-    <title lang="pt-BR">–</title>
+  <programme channel="ESPN3.br" start="20261023160000 -0300" stop="20261023190000 -0300">
+    <title lang="pt-BR">3h ESPN KnockOut: Adam Azim x Gabriel Gollaz Ao vivo Boxeadores de elite, jovens promessas e os melhores cards, tudo em um só lugar.</title>
   </programme>
   <programme channel="Band.br" start="20261023160000 -0300" stop="20261023192000 -0300">
-    <title lang="pt-BR">Brasil Urgente News Acompanhe os principais acontecimentos do dia no Piauí, com foco em temas do cotidiano. 3 horas 1 min restantes</title>
+    <title lang="pt-BR">Brasil Urgente News Acompanhe os principais acontecimentos do dia no Piauí, com foco em temas do cotidiano.</title>
   </programme>
   <programme channel="tv.assembleia.piaui.br" start="20261023160000 -0300" stop="20261023200000 -0300">
     <title lang="pt-BR">- SOB OUTRO OLHAR – REPRISE</title>
   </programme>
   <programme channel="SportyNet.br" start="20261023160000 -0300" stop="20261024015500 -0300">
-    <title lang="pt-BR">Programação</title>
-  </programme>
-  <programme channel="SBTNews.br" start="20261023160000 -0300" stop="20261024023000 -0300">
     <title lang="pt-BR">Programação</title>
   </programme>
   <programme channel="TNTNovelas.br" start="20261023160300 -0300" stop="20261023164600 -0300">
@@ -7753,18 +7198,6 @@
   <programme channel="TNTNovelas.br" start="20261023160300 -0300" stop="20261023165000 -0300">
     <title lang="pt-BR">47min Iludida Engin está furioso porque Bahar contou a verdade para Volkan. Asya não quer que Volkan minta para Ali sobre Aras. O amigo londrino de D</title>
   </programme>
-  <programme channel="TNTNovelas.br" start="20261023160700 -0300" stop="20261023165600 -0300">
-    <title lang="pt-BR">–</title>
-  </programme>
-  <programme channel="TNTNovelas.br" start="20261023160700 -0300" stop="20261023165600 -0300">
-    <title lang="pt-BR">49min Iludida No ar Bahar conta a Asya sobre o segredo de Derin. Enquanto Volkan fala sobre sua decisão de divorciar-se de Derin para Asya, Derin pen</title>
-  </programme>
-  <programme channel="RecordNews.br" start="20261023161000 -0300" stop="20261023180000 -0300">
-    <title lang="pt-BR">–</title>
-  </programme>
-  <programme channel="RecordNews.br" start="20261023161000 -0300" stop="20261024015000 -0300">
-    <title lang="pt-BR">Programação</title>
-  </programme>
   <programme channel="TNTNovelas.br" start="20261023161300 -0300" stop="20261023165800 -0300">
     <title lang="pt-BR">45min Iludida Asya finalmente toma uma decisão sobre sua relação com Aras. Derin faz um anúncio surpreendente na festa de Bahar e Volkan também tem a</title>
   </programme>
@@ -7772,19 +7205,16 @@
     <title lang="pt-BR">Amor à Vida Soap Aline consegue enganar Ciça; Paloma questiona Eron e Rafael sobre o que pode ser feito para denunciar Aline; Aline transfere algumas</title>
   </programme>
   <programme channel="Playboy.br" start="20261023161400 -0300" stop="20261023163800 -0300">
-    <title lang="pt-BR">Pleasure Parlour Temporada 2 Episódio 5 O menu oferece serviços eróticos. 15 min restantes</title>
+    <title lang="pt-BR">Pleasure Parlour Temporada 2 Episódio 5 O menu oferece serviços eróticos.</title>
   </programme>
   <programme channel="PlayboyHD.br" start="20261023161400 -0300" stop="20261023163800 -0300">
-    <title lang="pt-BR">Pleasure Parlour Temporada 2 Episódio 5 O menu oferece serviços eróticos. 15 min restantes</title>
-  </programme>
-  <programme channel="NSports.br" start="20261023161500 -0300" stop="20261023163000 -0300">
-    <title lang="pt-BR">–</title>
+    <title lang="pt-BR">Pleasure Parlour Temporada 2 Episódio 5 O menu oferece serviços eróticos.</title>
   </programme>
   <programme channel="NSports.br" start="20261023161500 -0300" stop="20261023163000 -0300">
     <title lang="pt-BR">15min Desimpedidos Mais um episódio do 1:1 no ar e, dessa vez, nossa dupla favorita comenta sobre as piores entradas que sofreram em suas carreiras.</title>
   </programme>
   <programme channel="NSports.br" start="20261023161500 -0300" stop="20261023163000 -0300">
-    <title lang="pt-BR">15min Futebol Pelo Mundo No ar Fui no jogo Flamengo 1 x 1 Independiente Del Valle pelas quartas de final da Libertadores no estádio do Maracanã no Ri</title>
+    <title lang="pt-BR">15min Futebol Pelo Mundo Fui no jogo Flamengo 1 x 1 Independiente Del Valle pelas quartas de final da Libertadores no estádio do Maracanã no Rio de J</title>
   </programme>
   <programme channel="VenusTV.br" start="20261023161500 -0300" stop="20261023174500 -0300">
     <title lang="pt-BR">Treinos Intensos Adults only Prepare-se para suar, prepare-se para o orgasmo e prepare-se para levar seus treinos para o próximo nível. A vlogueira f</title>
@@ -7812,6 +7242,9 @@
   </programme>
   <programme channel="Cancaonova.br" start="20261023163000 -0300" stop="20261023170000 -0300">
     <title lang="pt-BR">Circulando Variety Cobertura de eventos, feiras, lançamentos e inaugurações, entre outras comemorações, além de matérias com novidades circulando por</title>
+  </programme>
+  <programme channel="ESPN4.br" start="20261023163000 -0300" stop="20261023170000 -0300">
+    <title lang="pt-BR">30min Show da Rodada da EFL Assista a todos os destaques de todas as partidas da rodada da 2ª Divisão do futebol da Inglaterra.</title>
   </programme>
   <programme channel="ESPN5.br" start="20261023163000 -0300" stop="20261023170000 -0300">
     <title lang="pt-BR">30min NBA Action Notícias e destaques da liga de basquete mais importante do planeta. Os jogadores, as partidas e tudo o que você precisa saber sobre</title>
@@ -7852,12 +7285,6 @@
   <programme channel="TVAntena10.br" start="20261023163000 -0300" stop="20261023174000 -0300">
     <title lang="pt-BR">Cidade Alerta News Programa jornalístico que transmite informações com agilidade e credibilidade, oferecendo ao público uma visão diferente da notíci</title>
   </programme>
-  <programme channel="ESPN3.br" start="20261023163000 -0300" stop="20261023183000 -0300">
-    <title lang="pt-BR">2h VT - Bologna x Inter de Milão Histórias de heróis, anjos caídos e semideuses. Partidas lendárias disputadas até o último minuto em busca do título</title>
-  </programme>
-  <programme channel="ESPN6.br" start="20261023163000 -0300" stop="20261023183000 -0300">
-    <title lang="pt-BR">2h VT - Ponte Preta x Atlético-GO Emoção até a última rodada! Acompanhe a disputa de 20 clubes para chegar à elite do futebol brasileiro! Todos os jo</title>
-  </programme>
   <programme channel="RecordNews.br" start="20261023163000 -0300" stop="20261023183000 -0300">
     <title lang="pt-BR">2h Hora News - Edição de Sábado As principais notícias do Brasil e do mundo para começar a semana bem informado.</title>
   </programme>
@@ -7897,20 +7324,8 @@
   <programme channel="Premiere5.br" start="20261023163000 -0300" stop="20261024120000 -0300">
     <title lang="pt-BR">- Mirassol x São Paulo Mirassol e São Paulo jogam pela 32ª rodada do Segundo Turno do Brasileirão, no Maião, em Mirassol (SP).</title>
   </programme>
-  <programme channel="ESPN3.br" start="20261023163000 -0300" stop="20261024140000 -0300">
-    <title lang="pt-BR">A ESPN 3 é um canal de televisão dedicado a esportes e transmissões ao vivo. Com uma programação abrangente, o canal oferece cobertura de uma ampla v</title>
-  </programme>
   <programme channel="Premiere5.br" start="20261023163000 -0300" stop="20261024140000 -0300">
     <title lang="pt-BR">- Mirassol x São Paulo Mirassol e São Paulo jogam pela 32ª rodada do Segundo Turno do Brasileirão, no Maião, em Mirassol (SP).</title>
-  </programme>
-  <programme channel="ESPN6.br" start="20261023163000 -0300" stop="20261024143000 -0300">
-    <title lang="pt-BR">A ESPN 6 antigo ESPN Extra é um canal de televisão dedicado a esportes e transmissões ao vivo. Com uma programação abrangente, o canal oferece cobert</title>
-  </programme>
-  <programme channel="NSports.br" start="20261023163000 -0300" stop="20261024154500 -0300">
-    <title lang="pt-BR">Hoje Amanhã 25 out 26 out 27 out 28 out 29 out 30 out Sexta-feira, 23 de outubro</title>
-  </programme>
-  <programme channel="PremiereFC.br" start="20261023163000 -0300" stop="20261024160000 -0300">
-    <title lang="pt-BR">O canal Premiere FC é uma rede de televisão brasileira dedicada à transmissão de jogos de futebol ao vivo. Como parte do serviço de pay-per-view do G</title>
   </programme>
   <programme channel="Premiere5.br" start="20261023163000 -0300" stop="20261024163000 -0300">
     <title lang="pt-BR">- Mirassol x São Paulo Mirassol e São Paulo jogam pela 32ª rodada do Segundo Turno do Brasileirão, no Maião, em Mirassol (SP).</title>
@@ -7960,6 +7375,9 @@
   <programme channel="TNTNovelas.br" start="20261023164600 -0300" stop="20261023173100 -0300">
     <title lang="pt-BR">45min Será Isso Amor? Serkan busca formas de se desculpar com Eda. Ferit e Selin tomam uma decisão muito importante, enquanto Aytan e Eda bolam um no</title>
   </programme>
+  <programme channel="TNTNovelas.br" start="20261023164700 -0300" stop="20261023173600 -0300">
+    <title lang="pt-BR">49min Será Isso Amor? Serkan tira Eda de sua casa para levá-la a um lugar. Por outro lado, Eda recebe um telefonema crucial e Leyla conta a ela algo</title>
+  </programme>
   <programme channel="TNTNovelas.br" start="20261023165000 -0300" stop="20261023173700 -0300">
     <title lang="pt-BR">47min Será Isso Amor? Ferit faz uma proposta importante na reunião. Aydan, por sua vez, finalmente encontra alguém bonito para deixar Alptekin com ci</title>
   </programme>
@@ -7972,14 +7390,11 @@
   <programme channel="XSports.br" start="20261023165500 -0300" stop="20261024020500 -0300">
     <title lang="pt-BR">Programação</title>
   </programme>
-  <programme channel="TNTNovelas.br" start="20261023165600 -0300" stop="20261023174100 -0300">
-    <title lang="pt-BR">45min Será Isso Amor? Serkan tem uma conversa muito importante com sua mãe. Aydan tenta encontrar uma secretária adequada para Alptekin, e Engin deci</title>
-  </programme>
-  <programme channel="TNTNovelas.br" start="20261023165600 -0300" stop="20261024160700 -0300">
-    <title lang="pt-BR">O canal TBS (Turner Broadcasting System) é uma rede de televisão que oferece uma programação diversificada com foco em comédia e entretenimento. Com</title>
-  </programme>
   <programme channel="TNTNovelas.br" start="20261023165800 -0300" stop="20261023174200 -0300">
     <title lang="pt-BR">44min Será Isso Amor? Serkan busca formas de se desculpar com Eda. Ferit e Selin tomam uma decisão muito importante, enquanto Aytan e Eda bolam um no</title>
+  </programme>
+  <programme channel="ESPN4.br" start="20261023170000 -0300" stop="20261023171000 -0300">
+    <title lang="pt-BR">10min Momento ESPN Programas especiais com o melhor conteúdo dos canais ESPN. Entrevistas e matérias especiais feitas pelo melhor time do canal que m</title>
   </programme>
   <programme channel="TVCultura.br" start="20261023170000 -0300" stop="20261023171500 -0300">
     <title lang="pt-BR">Irmão do Jorel Temporada 3 Episódio 24 - #Art Irmão do Jorel é acusado injustamente de pichar o banheiro da escola e recebe a tão temida cartinha par</title>
@@ -8011,17 +7426,11 @@
   <programme channel="BandNews.br" start="20261023170000 -0300" stop="20261023180000 -0300">
     <title lang="pt-BR">1h Bandnews Entrevistas O programa traz as notícias da semana e reúne acontecimentos de todo o mundo.</title>
   </programme>
-  <programme channel="BandNews.br" start="20261023170000 -0300" stop="20261023180000 -0300">
-    <title lang="pt-BR">1h Expresso BandNews As principais notícias do dia de forma rápida e dinâmica com a credibilidade da BandNews TV.</title>
-  </programme>
   <programme channel="BandSports.br" start="20261023170000 -0300" stop="20261023180000 -0300">
     <title lang="pt-BR">Os Donos da Bola Sports talk Acompanhe as principais notícias do esporte do Mato Grosso do Sul e de todo o país.</title>
   </programme>
   <programme channel="ESPN4.br" start="20261023170000 -0300" stop="20261023180000 -0300">
     <title lang="pt-BR">1h NFL Redzone Ao vivo Programa com mais de 6 horas de transmissão ao vivo aos domingos da temporada regular da NFL, cobrindo todas as oportunidades</title>
-  </programme>
-  <programme channel="ESPN5.br" start="20261023170000 -0300" stop="20261023180000 -0300">
-    <title lang="pt-BR">1h VT - Nascar Cup Series: Play-offs: GP de Phoenix A categoria mais importante e famosa do automobilismo americano é pura adrenalina. Circuitos ovai</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261023170000 -0300" stop="20261023180000 -0300">
     <title lang="pt-BR">1h Giro Da Rodada - Brasileirão - 29ª Rodada Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</title>
@@ -8056,9 +7465,6 @@
   <programme channel="GETV.br" start="20261023170000 -0300" stop="20261024011500 -0300">
     <title lang="pt-BR">Programação</title>
   </programme>
-  <programme channel="SBTRio.br" start="20261023170000 -0300" stop="20261024011500 -0300">
-    <title lang="pt-BR">Programação</title>
-  </programme>
   <programme channel="ESPN5.br" start="20261023170000 -0300" stop="20261024023000 -0300">
     <title lang="pt-BR">Programação</title>
   </programme>
@@ -8071,26 +7477,11 @@
   <programme channel="GloboRio.br" start="20261023170000 -0300" stop="20261024063500 -0300">
     <title lang="pt-BR">Programação</title>
   </programme>
-  <programme channel="BandNews.br" start="20261023170000 -0300" stop="20261024140000 -0300">
-    <title lang="pt-BR">A Band News é um canal de televisão dedicado à transmissão de notícias 24 horas por dia. Com uma programação focada no jornalismo, o canal oferece um</title>
-  </programme>
-  <programme channel="XSports.br" start="20261023170000 -0300" stop="20261024145000 -0300">
-    <title lang="pt-BR">Hoje Amanhã 25 out 26 out 27 out 28 out 29 out 30 out Sexta-feira, 23 de outubro</title>
-  </programme>
-  <programme channel="SBTRio.br" start="20261023170000 -0300" stop="20261024153000 -0300">
-    <title lang="pt-BR">Hoje Amanhã 25 out Sexta-feira, 23 de outubro</title>
-  </programme>
-  <programme channel="ESPN5.br" start="20261023170000 -0300" stop="20261024160000 -0300">
-    <title lang="pt-BR">A ESPN 5 antigo Fox Sports 2 é um canal de televisão dedicado à transmissão de eventos esportivos ao vivo e à cobertura de notícias esportivas. Com u</title>
-  </programme>
   <programme channel="Playboy.br" start="20261023170200 -0300" stop="20261023172600 -0300">
     <title lang="pt-BR">Playboy Au Naturel Temporada 1 Episódio 6 Modelos desinibidas se deleitam em paisagens espetaculares, onde natureza e nudez estão em harmonia.</title>
   </programme>
   <programme channel="PlayboyHD.br" start="20261023170200 -0300" stop="20261023172600 -0300">
     <title lang="pt-BR">Playboy Au Naturel Temporada 1 Episódio 6 Modelos desinibidas se deleitam em paisagens espetaculares, onde natureza e nudez estão em harmonia.</title>
-  </programme>
-  <programme channel="GloboRio.br" start="20261023170500 -0300" stop="20261023172000 -0300">
-    <title lang="pt-BR">15min Boletim RJ2 Boletim com as principais notícias do Rio de Janeiro.</title>
   </programme>
   <programme channel="GloboSP.br" start="20261023170500 -0300" stop="20261023172000 -0300">
     <title lang="pt-BR">Boletim SP2 News Boletim com as principais notícias de São Paulo.</title>
@@ -8098,11 +7489,11 @@
   <programme channel="Multishow.br" start="20261023170500 -0300" stop="20261023180000 -0300">
     <title lang="pt-BR">Tapas &amp; Beijos Temporada 5 Episódio 22 - O Final Feliz de Fátima e Sueli Anos de amizade, convivência e cumplicidade. Fátima e Sueli compartilharam m</title>
   </programme>
-  <programme channel="GloboRio.br" start="20261023170500 -0300" stop="20261024154000 -0300">
-    <title lang="pt-BR">Globo é globo Hoje Amanhã 25 out Sexta-feira, 23 de outubro</title>
-  </programme>
   <programme channel="tv.assembleia.piaui.br" start="20261023171000 -0300" stop="20261023172000 -0300">
     <title lang="pt-BR">- ESPORTE NA ÁREA – AO VIVO</title>
+  </programme>
+  <programme channel="ESPN4.br" start="20261023171000 -0300" stop="20261024020500 -0300">
+    <title lang="pt-BR">Programação</title>
   </programme>
   <programme channel="DiscoveryChannel.br" start="20261023171100 -0300" stop="20261023180000 -0300">
     <title lang="pt-BR">Ed Stafford, o Sobrevivente Temporada 4 Episódio 1 - Rio Orinoco - Reserva Bojonawi Cercado por incêndios florestais devastadores, Ed Stafford tenta</title>
@@ -8145,9 +7536,6 @@
   </programme>
   <programme channel="TVClube.br" start="20261023172000 -0300" stop="20261023182500 -0300">
     <title lang="pt-BR">Vale a Pena Ver de Novo - Avenida Brasil Soap Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade d</title>
-  </programme>
-  <programme channel="GloboRio.br" start="20261023172000 -0300" stop="20261024010500 -0300">
-    <title lang="pt-BR">Programação</title>
   </programme>
   <programme channel="InvestigacaoDiscovery.br" start="20261023172100 -0300" stop="20261023180500 -0300">
     <title lang="pt-BR">Vivendo com o Inimigo - Sombras da Morte Temporada 1 Episódio 6 - Encontramos a Bonnie Em 1993, uma família é dilacerada com o desaparecimento da mãe</title>
@@ -8215,6 +7603,9 @@
   <programme channel="SporTV2.br" start="20261023173000 -0300" stop="20261023181000 -0300">
     <title lang="pt-BR">Fome de Medalha Temporada 1 Episódio 5 - Ginástica Artística, com Flavia Saraiva Thiago Castanho conhece Flavia Saraiva, a "pequena gigante" da ginás</title>
   </programme>
+  <programme channel="ESPN6.br" start="20261023173000 -0300" stop="20261023183000 -0300">
+    <title lang="pt-BR">1h VT - NFL: Los Angeles Rams x Las Vegas Raiders Touchdowns, viradas espetaculares, jogadas que entram para a história e os melhores atletas em camp</title>
+  </programme>
   <programme channel="NSports.br" start="20261023173000 -0300" stop="20261023183000 -0300">
     <title lang="pt-BR">1h Estádio 97 Ao vivo O estádio 97 é mais que um programa de futebol. É uma resenha que te faz sentir em uma mesa de bar.</title>
   </programme>
@@ -8263,6 +7654,9 @@
   <programme channel="TNTNovelas.br" start="20261023173100 -0300" stop="20261023181600 -0300">
     <title lang="pt-BR">45min Será Isso Amor? Selin, Ferit, Eda e Serkan decidem dar uma entrevista. Aydan começa a fazer preparativos para o casamento, e as notícias sobre</title>
   </programme>
+  <programme channel="TNTNovelas.br" start="20261023173600 -0300" stop="20261023182200 -0300">
+    <title lang="pt-BR">46min Será Isso Amor? Como Aydan está preocupada com Serkan, ela liga para Selin. Ayfer explica tudo para Fifi e Melek. O que Engin descobre sobre Ce</title>
+  </programme>
   <programme channel="TNTNovelas.br" start="20261023173700 -0300" stop="20261023182300 -0300">
     <title lang="pt-BR">46min Será Isso Amor? Quando Engin e Piril saem para jantar, alguém inesperado aparece. Selin escuta às escondidas uma ligação e Serkan dá a ela uma</title>
   </programme>
@@ -8276,10 +7670,7 @@
     <title lang="pt-BR">- MPTV</title>
   </programme>
   <programme channel="Premiere6.br" start="20261023174000 -0300" stop="20261023213000 -0300">
-    <title lang="pt-BR">Brasília x Sesc-RJ Flamengo Superliga Feminina de Vôlei Todas as emoções da principal competição de vôlei feminino entre equipes brasileiras.</title>
-  </programme>
-  <programme channel="TNTNovelas.br" start="20261023174100 -0300" stop="20261023182600 -0300">
-    <title lang="pt-BR">45min Será Isso Amor? Serkan busca formas de se desculpar com Eda. Ferit e Selin tomam uma decisão muito importante, enquanto Aytan e Eda bolam um no</title>
+    <title lang="pt-BR">Brasília x Sesc-RJ Flamengo Superliga Feminina de Vôlei Todas as emoções da principal competição de vôlei feminino entre equipes brasileiras. 36 min</title>
   </programme>
   <programme channel="TNTNovelas.br" start="20261023174200 -0300" stop="20261023182800 -0300">
     <title lang="pt-BR">46min Será Isso Amor? Selin, Ferit, Eda e Serkan decidem dar uma entrevista. Aydan começa a fazer preparativos para o casamento, e as notícias sobre</title>
@@ -8302,14 +7693,8 @@
   <programme channel="SBTRio.br" start="20261023174500 -0300" stop="20261024013500 -0300">
     <title lang="pt-BR">Programação</title>
   </programme>
-  <programme channel="SportyNet.br" start="20261023174500 -0300" stop="20261024015200 -0300">
-    <title lang="pt-BR">Programação</title>
-  </programme>
   <programme channel="XSports.br" start="20261023174500 -0300" stop="20261024021500 -0300">
     <title lang="pt-BR">Programação</title>
-  </programme>
-  <programme channel="SportyNet.br" start="20261023174500 -0300" stop="20261024154500 -0300">
-    <title lang="pt-BR">Hoje Amanhã 25 out 26 out 27 out 28 out 29 out 30 out Sexta-feira, 23 de outubro</title>
   </programme>
   <programme channel="Cancaonova.br" start="20261023174800 -0300" stop="20261023175000 -0300">
     <title lang="pt-BR">Boletim de Notícia News Acompanhe as últimas notícias que abrangem o Brasil e o mundo, com destaques sendo apresentados de forma sucinta, objetiva e</title>
@@ -8341,17 +7726,14 @@
   <programme channel="SportyNet.br" start="20261023175500 -0300" stop="20261024020500 -0300">
     <title lang="pt-BR">Programação</title>
   </programme>
+  <programme channel="SportyNet.br" start="20261023175900 -0300" stop="20261023195900 -0300">
+    <title lang="pt-BR">2h VT - Atlas x América-MEX Uma das ligas mais importantes das Américas agora é da SportyNet! São 18 clubes na disputa do Campeonato Mexicano, uma co</title>
+  </programme>
   <programme channel="TVCultura.br" start="20261023180000 -0300" stop="20261023181000 -0300">
     <title lang="pt-BR">Shaun, o Carneiro Temporada 4 Episódio 24 - A Partida de Pingpong Animais da fazenda assistem Shaun contra Bitzer, maior jogo de tênis de mesa de tod</title>
   </programme>
   <programme channel="CanalUOL.br" start="20261023180000 -0300" stop="20261023183000 -0300">
     <title lang="pt-BR">30min Desculpa Alguma Coisa O influenciador, roteirista e ator foi o convidado de Tati Bernardi esta semana. Mais conhecido como "Esse Menino", viral</title>
-  </programme>
-  <programme channel="ESPN4.br" start="20261023180000 -0300" stop="20261023183000 -0300">
-    <title lang="pt-BR">30min Premier League Stories Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e história</title>
-  </programme>
-  <programme channel="GETV.br" start="20261023180000 -0300" stop="20261023183000 -0300">
-    <title lang="pt-BR">30min Pré-Jogo: Fluminense x Vôlei Maringá Ao vivo Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquel</title>
   </programme>
   <programme channel="GETV.br" start="20261023180000 -0300" stop="20261023183000 -0300">
     <title lang="pt-BR">30min Programação do Canal Sinopse não Disponível.</title>
@@ -8377,9 +7759,6 @@
   <programme channel="tv.assembleia.piaui.br" start="20261023180000 -0300" stop="20261023183000 -0300">
     <title lang="pt-BR">– JORNAL ALEPI 2ª EDIÇÃO - AO VIVO</title>
   </programme>
-  <programme channel="RecordNews.br" start="20261023180000 -0300" stop="20261023184500 -0300">
-    <title lang="pt-BR">45min Link Record News As principais notícias do dia, com participação do público por meio das redes sociais.</title>
-  </programme>
   <programme channel="DiscoveryChannel.br" start="20261023180000 -0300" stop="20261023184900 -0300">
     <title lang="pt-BR">Ed Stafford, o Sobrevivente Temporada 4 Episódio 2 - Montanha Changbai Preso em neve fofa, Ed Stafford precisa sobreviver e descer a Montanha Changba</title>
   </programme>
@@ -8388,9 +7767,6 @@
   </programme>
   <programme channel="XSports.br" start="20261023180000 -0300" stop="20261023185000 -0300">
     <title lang="pt-BR">50min Programação do Canal Sinopse não Disponível.</title>
-  </programme>
-  <programme channel="CanalUOL.br" start="20261023180000 -0300" stop="20261023190000 -0300">
-    <title lang="pt-BR">1h Live Dos Clubes - Corinthians Ao vivo Programa dedicado ao universo do futebol brasileiro, com foco nos bastidores, nas principais notícias e na a</title>
   </programme>
   <programme channel="ESPN2.br" start="20261023180000 -0300" stop="20261023190000 -0300">
     <title lang="pt-BR">San Francisco 49ers x Washington Commanders NFL Todas as emoções da National Football League, a liga profissional de futebol americano dos EUA.</title>
@@ -8413,6 +7789,9 @@
   <programme channel="SBTNews.br" start="20261023180000 -0300" stop="20261023190000 -0300">
     <title lang="pt-BR">1h Mapa Mundi - Reprise O Mapa Mundi traz as principais notícias do cenário internacional. Os correspondentes Patrícia Vasconcellos, nos Estados Unid</title>
   </programme>
+  <programme channel="SBTNews.br" start="20261023180000 -0300" stop="20261023190000 -0300">
+    <title lang="pt-BR">4h Programação SBT News Programação SBT News. Guia de notícias do mundo do entretenimento: descubra tudo o que rola no mundo dos filmes e saiba em pr</title>
+  </programme>
   <programme channel="SBTRio.br" start="20261023180000 -0300" stop="20261023190000 -0300">
     <title lang="pt-BR">1h The Voice Brasil Quatro grandes nomes da música brasileira treinam vozes promissoras e competem em equipes para revelar novos talentos. Ao final d</title>
   </programme>
@@ -8428,6 +7807,9 @@
   <programme channel="ESPN5.br" start="20261023180000 -0300" stop="20261023200000 -0300">
     <title lang="pt-BR">2h Mundial de Motovelocidade: GP da Austrália: Moto GP Sinta a adrenalina dos pilotos que cruzam a barreira do som em provas imperdíveis na MotoGP, a</title>
   </programme>
+  <programme channel="ESPN5.br" start="20261023180000 -0300" stop="20261023200000 -0300">
+    <title lang="pt-BR">2h VT - Borussia Dortmund x Werder Bremen A Copa da Alemanha é o principal torneio mata-mata do futebol alemão. Sessenta e quatro clubes das principa</title>
+  </programme>
   <programme channel="ESPN6.br" start="20261023180000 -0300" stop="20261023200000 -0300">
     <title lang="pt-BR">2h VT - River Plate x Racing Com muita paixão nas arquibancadas e disputas emocionantes dentro de campo, o futebol argentino reúne a combinação ideal</title>
   </programme>
@@ -8440,11 +7822,8 @@
   <programme channel="Premiere5.br" start="20261023180000 -0300" stop="20261023200000 -0300">
     <title lang="pt-BR">2h Com o PREMIERE dá jogo! Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</title>
   </programme>
-  <programme channel="Premiere5.br" start="20261023180000 -0300" stop="20261023200000 -0300">
-    <title lang="pt-BR">2h Dia 24/10 - Mirassol x São Paulo Mirassol e São Paulo jogam pela 32ª rodada do Segundo Turno do Brasileirão, no Maião, em Mirassol (SP).</title>
-  </programme>
   <programme channel="XSports.br" start="20261023180000 -0300" stop="20261023200000 -0300">
-    <title lang="pt-BR">2h Vasco x Joaçaba Ao vivo Vasco e Joaçaba jogam pela Quartas de Final da fase Silver da Liga Nacional de Futsal.</title>
+    <title lang="pt-BR">2h Programação do Canal Sinopse não Disponível.</title>
   </programme>
   <programme channel="JovemPanNews.br" start="20261023180000 -0300" stop="20261023201500 -0300">
     <title lang="pt-BR">Os Pingos nos Is News O programa aborda temas de política e economia em formato de bate-papo e discussão aberta.</title>
@@ -8455,9 +7834,6 @@
   <programme channel="SBTNews.br" start="20261023180000 -0300" stop="20261023220000 -0300">
     <title lang="pt-BR">4h Programação SBT News Programação SBT News.</title>
   </programme>
-  <programme channel="BandNews.br" start="20261023180000 -0300" stop="20261024013000 -0300">
-    <title lang="pt-BR">Programação</title>
-  </programme>
   <programme channel="SportyNet.br" start="20261023180000 -0300" stop="20261024015500 -0300">
     <title lang="pt-BR">Programação</title>
   </programme>
@@ -8467,26 +7843,8 @@
   <programme channel="ESPN4.br" start="20261023180000 -0300" stop="20261024023000 -0300">
     <title lang="pt-BR">Programação</title>
   </programme>
-  <programme channel="ESPN5.br" start="20261023180000 -0300" stop="20261024023000 -0300">
-    <title lang="pt-BR">Programação</title>
-  </programme>
   <programme channel="ESPN6.br" start="20261023180000 -0300" stop="20261024023000 -0300">
     <title lang="pt-BR">Programação</title>
-  </programme>
-  <programme channel="ESPN4.br" start="20261023180000 -0300" stop="20261024155500 -0300">
-    <title lang="pt-BR">ESPN é uma rede de canais de televisão por assinatura brasileira, franquia local do canal homônimo dos Estados Unidos, sendo controlada diretamente p</title>
-  </programme>
-  <programme channel="CanalUOL.br" start="20261023180000 -0300" stop="20261024160000 -0300">
-    <title lang="pt-BR">Hoje Amanhã 25 out 26 out 27 out 28 out 29 out 30 out Sexta-feira, 23 de outubro</title>
-  </programme>
-  <programme channel="GETV.br" start="20261023180000 -0300" stop="20261024160000 -0300">
-    <title lang="pt-BR">Hoje Amanhã 25 out 26 out 27 out 28 out 29 out 30 out Sexta-feira, 23 de outubro</title>
-  </programme>
-  <programme channel="Premiere5.br" start="20261023180000 -0300" stop="20261024160000 -0300">
-    <title lang="pt-BR">O canal Premiere é uma rede de televisão brasileira dedicada à transmissão de jogos de futebol ao vivo. Como parte do serviço de pay-per-view do Grup</title>
-  </programme>
-  <programme channel="RecordNews.br" start="20261023180000 -0300" stop="20261024161000 -0300">
-    <title lang="pt-BR">A Record News é um canal de televisão voltado para a transmissão de notícias 24 horas por dia. Com uma programação dedicada ao jornalismo, o canal of</title>
   </programme>
   <programme channel="SportyNet.br" start="20261023180200 -0300" stop="20261024015800 -0300">
     <title lang="pt-BR">Programação</title>
@@ -8530,9 +7888,6 @@
   <programme channel="TNTNovelas.br" start="20261023181500 -0300" stop="20261023190300 -0300">
     <title lang="pt-BR">48min Força de Mulher Enver descobre uma verdade difícil de engolir através do celular de Bahar.</title>
   </programme>
-  <programme channel="SBTRio.br" start="20261023181500 -0300" stop="20261023191500 -0300">
-    <title lang="pt-BR">1h SBT Rio - 2ª Edição Veja informações importantes e notícias do dia, do Rio de Janeiro e do Brasil.</title>
-  </programme>
   <programme channel="SBT.br" start="20261023181500 -0300" stop="20261023194500 -0300">
     <title lang="pt-BR">SBT Cidades News Notícias com foco em prestação de serviços, defesa do cidadão e participação popular.</title>
   </programme>
@@ -8542,14 +7897,14 @@
   <programme channel="TVCultura.br" start="20261023182000 -0300" stop="20261023183000 -0300">
     <title lang="pt-BR">Shaun, o Carneiro Temporada 4 Episódio 30 - Novos Amigos Cansado de comer grama, Shaun decide comer as maçãs da fazenda, mas todos os seus esforços p</title>
   </programme>
+  <programme channel="TNTNovelas.br" start="20261023182200 -0300" stop="20261023190800 -0300">
+    <title lang="pt-BR">46min Força de Mulher Enver descobre que Sarp não está morto e reluta em compartilhar a informação com Bahar.</title>
+  </programme>
   <programme channel="TNTNovelas.br" start="20261023182300 -0300" stop="20261023190900 -0300">
     <title lang="pt-BR">46min Força de Mulher Bahar recebe alta do hospital, mas sua necessidade por um transplante é cada vez mais urgente.</title>
   </programme>
   <programme channel="ESPN4.br" start="20261023182500 -0300" stop="20261023185500 -0300">
     <title lang="pt-BR">30min Destaques da Conmebol Sulamericana Todos os destaques, os melhores lances, os melhores gols, um resumo completo sobre a Libertadores.</title>
-  </programme>
-  <programme channel="GloboRio.br" start="20261023182500 -0300" stop="20261023191000 -0300">
-    <title lang="pt-BR">45min A Nobreza do Amor Caetana descobre que promissórias de Tonho foram roubadas de casa e Jendal ironiza a carta de amor que Alika escreve para Ton</title>
   </programme>
   <programme channel="GloboSP.br" start="20261023182500 -0300" stop="20261023191000 -0300">
     <title lang="pt-BR">A Nobreza do Amor Soap O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa</title>
@@ -8563,9 +7918,6 @@
   <programme channel="TVClube.br" start="20261023182500 -0300" stop="20261023191000 -0300">
     <title lang="pt-BR">A Nobreza do Amor Soap O universo de reis e rainhas africanas, batalhas, disputa de poder, luta por justiça e o despertar do amor entre uma princesa</title>
   </programme>
-  <programme channel="TNTNovelas.br" start="20261023182600 -0300" stop="20261023191400 -0300">
-    <title lang="pt-BR">48min Força de Mulher Enquanto Ümran faz uma visita à Ceyda, Bahar pode estar correndo o risco de perde sua casa.</title>
-  </programme>
   <programme channel="InvestigacaoDiscovery.br" start="20261023182800 -0300" stop="20261023185100 -0300">
     <title lang="pt-BR">Olhos da Lei Temporada 2 Episódio 3 - Polícia no Ar No COPOM, três casos desafiam os agentes despachadores; o Águia e policiais buscam suspeitos em u</title>
   </programme>
@@ -8575,17 +7927,11 @@
   <programme channel="Cancaonova.br" start="20261023183000 -0300" stop="20261023184500 -0300">
     <title lang="pt-BR">Vitrine CN Religious Este programa visa mostrar os produtos como CDs, livros, que contêm conteúdo de evangelização.</title>
   </programme>
-  <programme channel="ESPN3.br" start="20261023183000 -0300" stop="20261023185000 -0300">
-    <title lang="pt-BR">20min Momento ESPN Programas especiais com o melhor conteúdo dos canais ESPN. Entrevistas e matérias especiais feitas pelo melhor time do canal que m</title>
-  </programme>
   <programme channel="RedeTV.br" start="20261023183000 -0300" stop="20261023185000 -0300">
     <title lang="pt-BR">RedeTV! Notícias - 2ª Edição News Telejornal traz as principais notícias do Brasil e do mundo em tempo real.</title>
   </programme>
   <programme channel="CNNBrasil.br" start="20261023183000 -0300" stop="20261023190000 -0300">
     <title lang="pt-BR">World Sport Uma análise abrangente das notícias esportivas de todo o mundo, incluindo todos os principais destaques, perfis e entrevistas com os reda</title>
-  </programme>
-  <programme channel="ESPN4.br" start="20261023183000 -0300" stop="20261023190000 -0300">
-    <title lang="pt-BR">30min Inside Serie A Um programa para conhecer a fundo a primeira divisão do futebol italiano e saber tudo sobre cada rodada: histórias, entrevistas,</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261023183000 -0300" stop="20261023190000 -0300">
     <title lang="pt-BR">30min VT - Cruzeiro x São Paulo Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super</title>
@@ -8611,6 +7957,9 @@
   <programme channel="CanalUOL.br" start="20261023183000 -0300" stop="20261023193000 -0300">
     <title lang="pt-BR">1h Chefs do Brasil Perfil dos grandes chefs e da força da gastronomia brasileira</title>
   </programme>
+  <programme channel="ESPN6.br" start="20261023183000 -0300" stop="20261023193000 -0300">
+    <title lang="pt-BR">1h Especial Rally dos Sertões: Cada Qual No Seu Tempo Apresentadores, narradores e comentaristas lembram momentos marcantes das transmissões de futeb</title>
+  </programme>
   <programme channel="TVCultura.br" start="20261023183000 -0300" stop="20261023193000 -0300">
     <title lang="pt-BR">Antimatéria - Energia Geek Temporada 1 Episódio 341 Cultura pop, animes, games, filmes e séries tokusatsu.</title>
   </programme>
@@ -8620,17 +7969,11 @@
   <programme channel="ESPN4.br" start="20261023183000 -0300" stop="20261023203000 -0300">
     <title lang="pt-BR">2h VT - Arsenal x Everton Grandes craques, técnicos de renome, torcedores e muitos outros personagens reunidos: é impossível caminhar sozinho. Sinta</title>
   </programme>
-  <programme channel="ESPN6.br" start="20261023183000 -0300" stop="20261023203000 -0300">
-    <title lang="pt-BR">2h VT - Vila Nova x Novorizontino Emoção até a última rodada! Acompanhe a disputa de 20 clubes para chegar à elite do futebol brasileiro! Todos os jo</title>
-  </programme>
-  <programme channel="GETV.br" start="20261023183000 -0300" stop="20261023203000 -0300">
-    <title lang="pt-BR">2h Fluminense x Vôlei Maringá Ao vivo Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão</title>
-  </programme>
   <programme channel="GETV.br" start="20261023183000 -0300" stop="20261023203000 -0300">
     <title lang="pt-BR">2h Programação do Canal Sinopse não Disponível.</title>
   </programme>
-  <programme channel="SBTNews.br" start="20261023183000 -0300" stop="20261023203000 -0300">
-    <title lang="pt-BR">2h Jornal do SBT News ..</title>
+  <programme channel="PremiereFC.br" start="20261023183000 -0300" stop="20261023221000 -0300">
+    <title lang="pt-BR">–</title>
   </programme>
   <programme channel="RecordNews.br" start="20261023183000 -0300" stop="20261024013000 -0300">
     <title lang="pt-BR">Programação</title>
@@ -8643,9 +7986,6 @@
   </programme>
   <programme channel="PremiereFC.br" start="20261023183000 -0300" stop="20261024034000 -0300">
     <title lang="pt-BR">Programação</title>
-  </programme>
-  <programme channel="SBTNews.br" start="20261023183000 -0300" stop="20261024160000 -0300">
-    <title lang="pt-BR">Hoje Amanhã 25 out 26 out 27 out 28 out 29 out 30 out Sexta-feira, 23 de outubro</title>
   </programme>
   <programme channel="GloboRio.br" start="20261023183500 -0300" stop="20261023192000 -0300">
     <title lang="pt-BR">45min A Nobreza do Amor Aderbal nega a Ana Maria que Casemiro tenha feito um testamento em seu cartório, a fim de chantagear Mirinho. Severino ameaça</title>
@@ -8661,9 +8001,6 @@
   </programme>
   <programme channel="TNTNovelas.br" start="20261023184500 -0300" stop="20261023185800 -0300">
     <title lang="pt-BR">13min Buzum Buzum é uma série de ficção inspirada nas incríveis histórias (sur)reais que ocorrem constantemente nos surpreendentes transportes públic</title>
-  </programme>
-  <programme channel="RecordNews.br" start="20261023184500 -0300" stop="20261023190000 -0300">
-    <title lang="pt-BR">15min Esporte Record News Acompanhe as principais notícias do dia sobre diversas modalidades esportivas no Brasil e no mundo.</title>
   </programme>
   <programme channel="ESPN4.br" start="20261023184500 -0300" stop="20261023191500 -0300">
     <title lang="pt-BR">30min Show da Rodada da Premier League Fique por dentro de tudo o que aconteceu na última rodada da Premier League, o Campeonato Inglês de futebol. T</title>
@@ -8685,9 +8022,6 @@
   </programme>
   <programme channel="BandPiaui.br" start="20261023185000 -0300" stop="20261023192000 -0300">
     <title lang="pt-BR">Band Cidade News Acompanhe as notícias diárias mais importantes do estado do Piauí.</title>
-  </programme>
-  <programme channel="ESPN3.br" start="20261023185000 -0300" stop="20261023192000 -0300">
-    <title lang="pt-BR">30min ATP Tour: This Week O ATP Uncovered apresenta em profundidade os perfis de diferentes tenistas, os melhores momentos dos torneios, entrevistas</title>
   </programme>
   <programme channel="RedeTV.br" start="20261023185000 -0300" stop="20261023194500 -0300">
     <title lang="pt-BR">Brasil do Povo News Uma ampla cobertura dos principais acontecimentos tanto no Brasil quanto no cenário internacional. Destaca-se por suas pautas vol</title>
@@ -8743,9 +8077,6 @@
   <programme channel="tv.assembleia.piaui.br" start="20261023190000 -0300" stop="20261023193000 -0300">
     <title lang="pt-BR">- JORNAL ALEPI 2ª EDIÇÃO- REPRISE</title>
   </programme>
-  <programme channel="RecordNews.br" start="20261023190000 -0300" stop="20261023194500 -0300">
-    <title lang="pt-BR">45min News 19 Horas Cobertura completa de tudo que foi destaque ao longo do dia no Brasil e no mundo.</title>
-  </programme>
   <programme channel="SBTPiaui.br" start="20261023190000 -0300" stop="20261023194500 -0300">
     <title lang="pt-BR">Jornal Cidade Verde News Acompanhe os principais assuntos do dia e as últimas notícias em reportagens especiais.</title>
   </programme>
@@ -8758,17 +8089,11 @@
   <programme channel="CNNBrasil.br" start="20261023190000 -0300" stop="20261023200000 -0300">
     <title lang="pt-BR">The Brief With Jim Sciutto News O melhor da cobertura da CNN com correspondentes de todo o mundo, para guiar o público global através do ciclo de not</title>
   </programme>
-  <programme channel="CanalUOL.br" start="20261023190000 -0300" stop="20261023200000 -0300">
-    <title lang="pt-BR">1h A Hora José Roberto Toledo e Thais Bilenky, em uma hora, trazem informações e análises sobre os fatos mais importantes da semana.</title>
-  </programme>
   <programme channel="ESPN3.br" start="20261023190000 -0300" stop="20261023200000 -0300">
     <title lang="pt-BR">1h NBA Tip-Off Ao vivo Sinopse não disponível.</title>
   </programme>
   <programme channel="ESPN4.br" start="20261023190000 -0300" stop="20261023200000 -0300">
     <title lang="pt-BR">1h Bola da Vez O principal programa de entrevistas dos canais ESPN recebe grandes nomes do esporte nacional e internacional, que respondem às pergunt</title>
-  </programme>
-  <programme channel="ESPN4.br" start="20261023190000 -0300" stop="20261023200000 -0300">
-    <title lang="pt-BR">1h MotoGP: GP da Austrália: Treino Livre Sinta a adrenalina dos pilotos que cruzam a barreira do som em provas imperdíveis na MotoGP, a principal cat</title>
   </programme>
   <programme channel="ESPN5.br" start="20261023190000 -0300" stop="20261023200000 -0300">
     <title lang="pt-BR">1h Especial Rally dos Sertões: Cada Qual No Seu Tempo Apresentadores, narradores e comentaristas lembram momentos marcantes das transmissões de futeb</title>
@@ -8812,6 +8137,9 @@
   <programme channel="TNT.br" start="20261023190000 -0300" stop="20261023212000 -0300">
     <title lang="pt-BR">Um Sonho Possível Drama / 2009 Michael Oher é um jovem negro, filho de uma mãe viciada e que não tem onde morar. Com boa vocação para os esportes, um</title>
   </programme>
+  <programme channel="ESPN3.br" start="20261023190000 -0300" stop="20261024013000 -0300">
+    <title lang="pt-BR">Programação</title>
+  </programme>
   <programme channel="XSports.br" start="20261023190000 -0300" stop="20261024013000 -0300">
     <title lang="pt-BR">Programação</title>
   </programme>
@@ -8833,11 +8161,11 @@
   <programme channel="Multishow.br" start="20261023190500 -0300" stop="20261023200000 -0300">
     <title lang="pt-BR">Toma Lá, Dá Cá Temporada 2 Episódio 3 - Quem Canta Seus Males Espanta Arnaldo ganha um karaokê; Bozena faz almoço especial para comemorar seu anivers</title>
   </programme>
+  <programme channel="TNTNovelas.br" start="20261023190800 -0300" stop="20261023195600 -0300">
+    <title lang="pt-BR">48min Iludida Leyla ainda está procurando por Aras, mas Derin faz de tudo para impedi-la. Ali e Demir entram em outra briga e Volkan está disposto a</title>
+  </programme>
   <programme channel="TNTNovelas.br" start="20261023190900 -0300" stop="20261023195700 -0300">
     <title lang="pt-BR">48min Iludida Aras finalmente começa a recuperar sua memória e percebe que estava sendo enganado por Kadir. Volkan e Asya se chateiam com Ali por beb</title>
-  </programme>
-  <programme channel="GloboRio.br" start="20261023191000 -0300" stop="20261023194000 -0300">
-    <title lang="pt-BR">30min RJ2 O telejornal mostra os acontecimentos do dia a dia, explora os debates entre a população e as autoridades. Promove campanhas e discussões,</title>
   </programme>
   <programme channel="GloboSP.br" start="20261023191000 -0300" stop="20261023194000 -0300">
     <title lang="pt-BR">SP2 News Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos paulistanos, como</title>
@@ -8860,20 +8188,17 @@
   <programme channel="InvestigacaoDiscovery.br" start="20261023191300 -0300" stop="20261023193500 -0300">
     <title lang="pt-BR">Crimes que Viralizaram Temporada 1 Episódio 14 - Fora de Controle Um passageiro bêbado agarra o volante do Uber, arriscando um acidente mortal na est</title>
   </programme>
-  <programme channel="TNTNovelas.br" start="20261023191400 -0300" stop="20261023195900 -0300">
-    <title lang="pt-BR">45min Iludida Asya finalmente toma uma decisão sobre sua relação com Aras. Derin faz um anúncio surpreendente na festa de Bahar e Volkan também tem a</title>
-  </programme>
   <programme channel="ESPN4.br" start="20261023191500 -0300" stop="20261023194500 -0300">
     <title lang="pt-BR">30min Show da Rodada da EFL Assista a todos os destaques de todas as partidas da rodada da 2ª Divisão do futebol da Inglaterra.</title>
-  </programme>
-  <programme channel="SBTRio.br" start="20261023191500 -0300" stop="20261023194500 -0300">
-    <title lang="pt-BR">30min SBT Cidades Notícias com foco em prestação de serviços, defesa do cidadão e participação popular.</title>
   </programme>
   <programme channel="ESPN4.br" start="20261023191500 -0300" stop="20261023201500 -0300">
     <title lang="pt-BR">1h Bola da Vez O principal programa de entrevistas dos canais ESPN recebe grandes nomes do esporte nacional e internacional, que respondem às pergunt</title>
   </programme>
   <programme channel="VenusTV.br" start="20261023191500 -0300" stop="20261023204500 -0300">
     <title lang="pt-BR">G..a Dentro de Mim - Preciso Sentir Adults only Mulheres incrivelmente sensuais que anseiam por algo especial: a sensação de um orgasmo quente e espe</title>
+  </programme>
+  <programme channel="ESPN4.br" start="20261023191500 -0300" stop="20261024021500 -0300">
+    <title lang="pt-BR">Programação</title>
   </programme>
   <programme channel="GloboRio.br" start="20261023192000 -0300" stop="20261023194500 -0300">
     <title lang="pt-BR">25min RJ2 O telejornal mostra os acontecimentos do dia a dia, explora os debates entre a população e as autoridades. Promove campanhas e discussões,</title>
@@ -8889,6 +8214,9 @@
   </programme>
   <programme channel="BandPiaui.br" start="20261023192000 -0300" stop="20261023203000 -0300">
     <title lang="pt-BR">Jornal da Band News Os principais fatos do Brasil e do mundo relatados com imparcialidade e profundidade.</title>
+  </programme>
+  <programme channel="ESPN3.br" start="20261023192000 -0300" stop="20261023213000 -0300">
+    <title lang="pt-BR">–</title>
   </programme>
   <programme channel="ESPN3.br" start="20261023192000 -0300" stop="20261024021000 -0300">
     <title lang="pt-BR">Programação</title>
@@ -8929,9 +8257,6 @@
   <programme channel="TVCultura.br" start="20261023193000 -0300" stop="20261023200000 -0300">
     <title lang="pt-BR">De Olho no Voto News As principais atualizações políticas para ajudar o eleitor a escolher seu candidato e acompanhar o cenário eleitoral.</title>
   </programme>
-  <programme channel="BandNews.br" start="20261023193000 -0300" stop="20261023203000 -0300">
-    <title lang="pt-BR">1h Panorama Bandnews Thais Dias e Veruska Donato apresentam o "Panorama BandNews", com os bastidores da notícia, análise dos principais acontecimento</title>
-  </programme>
   <programme channel="CanalUOL.br" start="20261023193000 -0300" stop="20261023203000 -0300">
     <title lang="pt-BR">1h O Povo Quer Saber Chico Barney desvenda mistérios das redes, da TV e da cultura pop brasileira.</title>
   </programme>
@@ -8940,6 +8265,9 @@
   </programme>
   <programme channel="ESPN2.br" start="20261023193000 -0300" stop="20261023203000 -0300">
     <title lang="pt-BR">ESPN League Notícias, análises e curiosidades sobre tudo o que rola com a bola: redonda, oval ou achatada.</title>
+  </programme>
+  <programme channel="ESPN6.br" start="20261023193000 -0300" stop="20261023203000 -0300">
+    <title lang="pt-BR">1h VT - Extreme H: Copa do Mundo de Extreme H: Dia 1 A FIA Extreme H World Cup representa um passo ousado e pioneiro na transição para a energia limp</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261023193000 -0300" stop="20261023203000 -0300">
     <title lang="pt-BR">1h Giro Da Rodada - Brasileirão - 29ª Rodada Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</title>
@@ -8963,7 +8291,7 @@
     <title lang="pt-BR">- CINE ALEPI - FAROESTE</title>
   </programme>
   <programme channel="SporTV.br" start="20261023193000 -0300" stop="20261023220000 -0300">
-    <title lang="pt-BR">Cruzeiro x Remo Campeonato Brasileiro Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</title>
+    <title lang="pt-BR">Cruzeiro x Remo Campeonato Brasileiro Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro. 1 hora 6 mi</title>
   </programme>
   <programme channel="ESPN6.br" start="20261023193000 -0300" stop="20261024013000 -0300">
     <title lang="pt-BR">Programação</title>
@@ -8976,12 +8304,6 @@
   </programme>
   <programme channel="DiscoveryChannel.br" start="20261023193700 -0300" stop="20261023202500 -0300">
     <title lang="pt-BR">Largados e Pelados Temporada 6 Episódio 8 - Custe o que Custar Um militar de elite se junta a uma mãe solteira e os dois enfrentam chuvas torrenciais</title>
-  </programme>
-  <programme channel="SportyNet.br" start="20261023193700 -0300" stop="20261024010800 -0300">
-    <title lang="pt-BR">Programação</title>
-  </programme>
-  <programme channel="GloboRio.br" start="20261023194000 -0300" stop="20261023203000 -0300">
-    <title lang="pt-BR">50min Por Você Gabriel deduz que Junqueira esteja envolvido em esquemas ilegais. Lucas aconselha Peixe. Betinho percebe inconsistências nas planilhas</title>
   </programme>
   <programme channel="GloboSP.br" start="20261023194000 -0300" stop="20261023203000 -0300">
     <title lang="pt-BR">Por Você Soap Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a úl</title>
@@ -9004,9 +8326,6 @@
   <programme channel="ESPN4.br" start="20261023194500 -0300" stop="20261023200000 -0300">
     <title lang="pt-BR">15min Momento ESPN Programas especiais com o melhor conteúdo dos canais ESPN. Entrevistas e matérias especiais feitas pelo melhor time do canal que m</title>
   </programme>
-  <programme channel="RecordNews.br" start="20261023194500 -0300" stop="20261023201000 -0300">
-    <title lang="pt-BR">25min Elas com a Bola Coberturas esportivas dos principais campeonatos femininos de futebol, destacando partidas, análises e entrevistas exclusivas.</title>
-  </programme>
   <programme channel="GloboRio.br" start="20261023194500 -0300" stop="20261023203000 -0300">
     <title lang="pt-BR">45min Por Você Junqueira provoca Bela e Gabriel, que disfarçam. Dalila e Suelen convocam Glorinha a ser modelo de sua marca. Giovana apresenta Peixe</title>
   </programme>
@@ -9018,9 +8337,6 @@
   </programme>
   <programme channel="SBTPiaui.br" start="20261023194500 -0300" stop="20261023203000 -0300">
     <title lang="pt-BR">SBT Brasil News As principais notícias do Brasil e do mundo com análise profunda dos fatos.</title>
-  </programme>
-  <programme channel="SBTRio.br" start="20261023194500 -0300" stop="20261023203000 -0300">
-    <title lang="pt-BR">45min SBT Brasil As principais notícias do Brasil e do mundo com análise profunda dos fatos.</title>
   </programme>
   <programme channel="TVCidadeVerde.br" start="20261023194500 -0300" stop="20261023203000 -0300">
     <title lang="pt-BR">SBT Brasil News As principais notícias do Brasil e do mundo com análise profunda dos fatos.</title>
@@ -9053,16 +8369,19 @@
     <title lang="pt-BR">Programação</title>
   </programme>
   <programme channel="SexyHot.br" start="20261023195400 -0300" stop="20261023205400 -0300">
-    <title lang="pt-BR">Metaverso do Sexo Anal Adults only / 2023 Ágatha Ludovino e Amanda Borges entram em uma realidade virtual para se masturbarem com brinquedos.</title>
+    <title lang="pt-BR">Metaverso do Sexo Anal Adults only / 2023 Ágatha Ludovino e Amanda Borges entram em uma realidade virtual para se masturbarem com brinquedos. 5 min r</title>
   </programme>
   <programme channel="SportyNet.br" start="20261023195500 -0300" stop="20261024020500 -0300">
     <title lang="pt-BR">Programação</title>
   </programme>
+  <programme channel="TNTNovelas.br" start="20261023195600 -0300" stop="20261023204500 -0300">
+    <title lang="pt-BR">49min Reis Darim implora para que Abner se case com ela. Saul volta da batalha, é surpreendido com um beijo de Adelina e deixa Ainoã decepcionada. Ka</title>
+  </programme>
   <programme channel="TNTNovelas.br" start="20261023195700 -0300" stop="20261023204700 -0300">
     <title lang="pt-BR">50min Reis Darim flagra Abner e Kayla juntos. Filisteus tentam estabelecer nova guarnição na entrada de Gibeá. Para desespero de Ainoã, Saul aceita A</title>
   </programme>
-  <programme channel="TNTNovelas.br" start="20261023195900 -0300" stop="20261023204900 -0300">
-    <title lang="pt-BR">50min Reis Essa série baseada em livros bíblicos acompanha a história de Israel desde seus inícios até a queda de Jerusalém nas mãos da Babilônia. 20</title>
+  <programme channel="SportyNet.br" start="20261023195900 -0300" stop="20261023205900 -0300">
+    <title lang="pt-BR">1h Sporty Show Ao vivo O programa chega como pré-jogo oficial da rodada, trazendo análises, convidados e todo o clima da decisão da Série C. Destaque</title>
   </programme>
   <programme channel="MeioNorte.br" start="20261023200000 -0300" stop="20261023200500 -0300">
     <title lang="pt-BR">Informe Meio Norte News Boletim de notícias dinâmico, direto e de temas variados, que aborda desde pautas culturais à política, passando por policial</title>
@@ -9109,14 +8428,14 @@
   <programme channel="SportyNet.br" start="20261023200000 -0300" stop="20261023203200 -0300">
     <title lang="pt-BR">32min Filler Sinopse não disponível.</title>
   </programme>
-  <programme channel="ESPN4.br" start="20261023200000 -0300" stop="20261023204500 -0300">
-    <title lang="pt-BR">45min MotoGP: GP da Austrália: Treino Livre Ao vivo Sinta a adrenalina dos pilotos que cruzam a barreira do som em provas imperdíveis na MotoGP, a pr</title>
-  </programme>
   <programme channel="CNNBrasil.br" start="20261023200000 -0300" stop="20261023210000 -0300">
     <title lang="pt-BR">Erin Burnett OutFront News O programa cobre os acontecimentos mais importantes do dia. Imagens gravadas por equipes de correspondentes da CNN são apr</title>
   </programme>
   <programme channel="CanalUOL.br" start="20261023200000 -0300" stop="20261023210000 -0300">
-    <title lang="pt-BR">1h Central Splash No Central Splash Chico Barney e colunistas comentam as últimas notícias dos famosos ao vivo</title>
+    <title lang="pt-BR">–</title>
+  </programme>
+  <programme channel="CanalUOL.br" start="20261023200000 -0300" stop="20261023210000 -0300">
+    <title lang="pt-BR">1h Central Splash No ar No Central Splash Chico Barney e colunistas comentam as últimas notícias dos famosos ao vivo</title>
   </programme>
   <programme channel="ESPN3.br" start="20261023200000 -0300" stop="20261023210000 -0300">
     <title lang="pt-BR">1h ESPN FIlmes: Saban A faixa dedicada a documentários produzidos pela ESPN em parceria com grandes produtoras nacionais e internacionais. Um mergulh</title>
@@ -9130,6 +8449,9 @@
   <programme channel="ESPN5.br" start="20261023200000 -0300" stop="20261023210000 -0300">
     <title lang="pt-BR">1h Especial Rally dos Sertões: Cada Qual No Seu Tempo Apresentadores, narradores e comentaristas lembram momentos marcantes das transmissões de futeb</title>
   </programme>
+  <programme channel="ESPN5.br" start="20261023200000 -0300" stop="20261023210000 -0300">
+    <title lang="pt-BR">2h Campeonato Turco Torcidas apaixonadas e estádios vibrantes. O futebol turco é famoso pela garra, os grandes duelos e jogadores que dão tudo de si.</title>
+  </programme>
   <programme channel="ESPN6.br" start="20261023200000 -0300" stop="20261023210000 -0300">
     <title lang="pt-BR">1h Bola da Vez O principal programa de entrevistas dos canais ESPN recebe grandes nomes do esporte nacional e internacional, que respondem às pergunt</title>
   </programme>
@@ -9139,8 +8461,11 @@
   <programme channel="Premiere5.br" start="20261023200000 -0300" stop="20261023210000 -0300">
     <title lang="pt-BR">1h Hoje a partir das</title>
   </programme>
+  <programme channel="Premiere5.br" start="20261023200000 -0300" stop="20261023210000 -0300">
+    <title lang="pt-BR">2h Com o PREMIERE dá jogo! Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante! Guia de notícias do mundo do entretenimento: descubra tudo o</title>
+  </programme>
   <programme channel="SextremeBrazil.br" start="20261023200000 -0300" stop="20261023212900 -0300">
-    <title lang="pt-BR">Sexo em Público É Melhor Adults only</title>
+    <title lang="pt-BR">Sexo em Público É Melhor Adults only 40 min restantes</title>
   </programme>
   <programme channel="BandSports.br" start="20261023200000 -0300" stop="20261023220000 -0300">
     <title lang="pt-BR">Final, Jogo 5: Franca x Mogi Campeonato Paulista de Basquete Toda a disputa da principal competição de basquete masculino entre clubes do estado de S</title>
@@ -9152,10 +8477,13 @@
     <title lang="pt-BR">Em Pauta News O time de comentaristas analisa e debate os grandes temas políticos, econômicos, culturais e internacionais do dia, aprofundando os ass</title>
   </programme>
   <programme channel="Premiere5.br" start="20261023200000 -0300" stop="20261023220000 -0300">
+    <title lang="pt-BR">–</title>
+  </programme>
+  <programme channel="Premiere5.br" start="20261023200000 -0300" stop="20261023220000 -0300">
     <title lang="pt-BR">2h Com o PREMIERE dá jogo! Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</title>
   </programme>
   <programme channel="Premiere5.br" start="20261023200000 -0300" stop="20261023220000 -0300">
-    <title lang="pt-BR">2h Dia 24/10 - Mirassol x São Paulo Mirassol e São Paulo jogam pela 32ª rodada do Segundo Turno do Brasileirão, no Maião, em Mirassol (SP).</title>
+    <title lang="pt-BR">2h Dia 24/10 - Mirassol x São Paulo No ar Mirassol e São Paulo jogam pela 32ª rodada do Segundo Turno do Brasileirão, no Maião, em Mirassol (SP). 22:</title>
   </programme>
   <programme channel="tv.assembleia.piaui.br" start="20261023200000 -0300" stop="20261023220000 -0300">
     <title lang="pt-BR">- CINE ALEPI</title>
@@ -9184,9 +8512,6 @@
   <programme channel="ESPN3.br" start="20261023200000 -0300" stop="20261024030000 -0300">
     <title lang="pt-BR">-</title>
   </programme>
-  <programme channel="GloboRio.br" start="20261023200000 -0300" stop="20261024030000 -0300">
-    <title lang="pt-BR">-</title>
-  </programme>
   <programme channel="TNTNovelas.br" start="20261023200000 -0300" stop="20261024030000 -0300">
     <title lang="pt-BR">-</title>
   </programme>
@@ -9201,9 +8526,6 @@
   </programme>
   <programme channel="TNTNovelas.br" start="20261023200900 -0300" stop="20261024010200 -0300">
     <title lang="pt-BR">Programação</title>
-  </programme>
-  <programme channel="RecordNews.br" start="20261023201000 -0300" stop="20261023203000 -0300">
-    <title lang="pt-BR">20min Jornal da Record Reportagens e séries especiais sobre os mais variados assuntos de interesse da população.</title>
   </programme>
   <programme channel="Playboy.br" start="20261023201200 -0300" stop="20261023203500 -0300">
     <title lang="pt-BR">Racing Curves Temporada 1 Episódio 6 Candy e Sara são duas fugitivas muito sensuais. Após realizarem um roubo milionário, essas duas beldades vão de</title>
@@ -9232,14 +8554,8 @@
   <programme channel="BandPiaui.br" start="20261023203000 -0300" stop="20261023204000 -0300">
     <title lang="pt-BR">Propaganda Eleitoral Politics Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</title>
   </programme>
-  <programme channel="GloboRio.br" start="20261023203000 -0300" stop="20261023204000 -0300">
-    <title lang="pt-BR">10min Propaganda Eleitoral Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</title>
-  </programme>
   <programme channel="GloboSP.br" start="20261023203000 -0300" stop="20261023204000 -0300">
     <title lang="pt-BR">Propaganda Eleitoral Politics Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</title>
-  </programme>
-  <programme channel="RecordNews.br" start="20261023203000 -0300" stop="20261023204000 -0300">
-    <title lang="pt-BR">10min Propaganda Eleitoral Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</title>
   </programme>
   <programme channel="RecordTV.br" start="20261023203000 -0300" stop="20261023204000 -0300">
     <title lang="pt-BR">Propaganda Eleitoral Politics Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</title>
@@ -9252,9 +8568,6 @@
   </programme>
   <programme channel="SBTPiaui.br" start="20261023203000 -0300" stop="20261023204000 -0300">
     <title lang="pt-BR">Propaganda Eleitoral Politics Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</title>
-  </programme>
-  <programme channel="SBTRio.br" start="20261023203000 -0300" stop="20261023204000 -0300">
-    <title lang="pt-BR">10min Propaganda Eleitoral Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</title>
   </programme>
   <programme channel="TVAntena10.br" start="20261023203000 -0300" stop="20261023204000 -0300">
     <title lang="pt-BR">Propaganda Eleitoral Politics Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</title>
@@ -9281,7 +8594,7 @@
     <title lang="pt-BR">Propaganda Eleitoral Politics Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</title>
   </programme>
   <programme channel="TVClube.br" start="20261023203000 -0300" stop="20261023205000 -0300">
-    <title lang="pt-BR">Propaganda Eleitoral Politics Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</title>
+    <title lang="pt-BR">Propaganda Eleitoral Politics Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho. 2 min restantes 20:</title>
   </programme>
   <programme channel="TVCultura.br" start="20261023203000 -0300" stop="20261023205000 -0300">
     <title lang="pt-BR">Propaganda Eleitoral Politics Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</title>
@@ -9293,7 +8606,10 @@
     <title lang="pt-BR">30min Destaques da Conmebol Sulamericana Todos os destaques, os melhores lances, os melhores gols, um resumo completo sobre a Libertadores.</title>
   </programme>
   <programme channel="NSports.br" start="20261023203000 -0300" stop="20261023210000 -0300">
-    <title lang="pt-BR">30min Joga com Elas Entrevista Série especial de entrevistas com as jogadoras que vão participar das quartas de final da Copa do Brasil aqui na N Spo</title>
+    <title lang="pt-BR">–</title>
+  </programme>
+  <programme channel="NSports.br" start="20261023203000 -0300" stop="20261023210000 -0300">
+    <title lang="pt-BR">30min Joga com Elas Entrevista No ar Série especial de entrevistas com as jogadoras que vão participar das quartas de final da Copa do Brasil aqui na</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261023203000 -0300" stop="20261023210000 -0300">
     <title lang="pt-BR">30min VT - Corinthians x Fluminense Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Su</title>
@@ -9308,7 +8624,7 @@
     <title lang="pt-BR">30min VT - São Paulo x Internacional Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o S</title>
   </programme>
   <programme channel="sexprive-brasileirinhas.br" start="20261023203000 -0300" stop="20261023210000 -0300">
-    <title lang="pt-BR">Celebridades Adults only Saiba tudo sobre os famosos que decidiram se aventurar no universo pornô.</title>
+    <title lang="pt-BR">Celebridades Adults only Saiba tudo sobre os famosos que decidiram se aventurar no universo pornô. 11 min restantes</title>
   </programme>
   <programme channel="Multishow.br" start="20261023203000 -0300" stop="20261023210600 -0300">
     <title lang="pt-BR">A Grande Família Temporada 7 Episódio 7 - Será que Ela É? Marilda passa por decepção com Paulão e acaba tendo uma experiência inusitada com nova amig</title>
@@ -9317,10 +8633,31 @@
     <title lang="pt-BR">50min Jornal Nacional As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejorn</title>
   </programme>
   <programme channel="BandNews.br" start="20261023203000 -0300" stop="20261023213000 -0300">
+    <title lang="pt-BR">–</title>
+  </programme>
+  <programme channel="BandNews.br" start="20261023203000 -0300" stop="20261023213000 -0300">
+    <title lang="pt-BR">1h Jornal da Band No ar Os principais fatos do Brasil e do mundo relatados com imparcialidade e profundidade.</title>
+  </programme>
+  <programme channel="BandNews.br" start="20261023203000 -0300" stop="20261023213000 -0300">
     <title lang="pt-BR">1h Jornal da Band Os principais fatos do Brasil e do mundo relatados com imparcialidade e profundidade.</title>
+  </programme>
+  <programme channel="CanalUOL.br" start="20261023203000 -0300" stop="20261023213000 -0300">
+    <title lang="pt-BR">4h Programação Canal UOL Sinopse não disponível. Guia de notícias do mundo do entretenimento: descubra tudo o que rola no mundo dos filmes e saiba em</title>
+  </programme>
+  <programme channel="ESPN3.br" start="20261023203000 -0300" stop="20261023213000 -0300">
+    <title lang="pt-BR">30min ATP Tour: This Week O ATP Uncovered apresenta em profundidade os perfis de diferentes tenistas, os melhores momentos dos torneios, entrevistas</title>
   </programme>
   <programme channel="ESPN4.br" start="20261023203000 -0300" stop="20261023213000 -0300">
     <title lang="pt-BR">1h MLB: World Series Ao vivo Os melhores jogadores do mundo estão na MLB, a maior liga profissional de beisebol do planeta. Da desafiadora temporada</title>
+  </programme>
+  <programme channel="ESPN6.br" start="20261023203000 -0300" stop="20261023213000 -0300">
+    <title lang="pt-BR">1h VT - Extreme H: Copa do Mundo de Extreme H: Dia 2 A FIA Extreme H World Cup representa um passo ousado e pioneiro na transição para a energia limp</title>
+  </programme>
+  <programme channel="GETV.br" start="20261023203000 -0300" stop="20261023213000 -0300">
+    <title lang="pt-BR">5h NFL: Houston Texans x Jacksonville Jaguars Houston Texans e Jacksonville Jaguars jogam pela 6ª rodada da fase Regular da NFL, no Wembley, em Londr</title>
+  </programme>
+  <programme channel="NSports.br" start="20261023203000 -0300" stop="20261023213000 -0300">
+    <title lang="pt-BR">30min Joga com Elas Entrevista Série especial de entrevistas com as jogadoras que vão participar das quartas de final da Copa do Brasil aqui na N Spo</title>
   </programme>
   <programme channel="RecordNews.br" start="20261023203000 -0300" stop="20261023213000 -0300">
     <title lang="pt-BR">1h Record News Repórter : QI Animal; Como Dormir Melhor Grandes reportagens de temas diversos com uma abordagem aprofundada. Guia de notícias do mund</title>
@@ -9329,13 +8666,19 @@
     <title lang="pt-BR">2h VT - Liverpool x Brighton &amp; Hove Albion Grandes craques, técnicos de renome, torcedores e muitos outros personagens reunidos: é impossível caminha</title>
   </programme>
   <programme channel="ESPN5.br" start="20261023203000 -0300" stop="20261023223000 -0300">
-    <title lang="pt-BR">2h VT - Trabzonspor x Besiktas Torcidas apaixonadas e estádios vibrantes. O futebol turco é famoso pela garra, os grandes duelos e jogadores que dão</title>
+    <title lang="pt-BR">–</title>
+  </programme>
+  <programme channel="ESPN5.br" start="20261023203000 -0300" stop="20261023223000 -0300">
+    <title lang="pt-BR">2h VT - Trabzonspor x Besiktas No ar Torcidas apaixonadas e estádios vibrantes. O futebol turco é famoso pela garra, os grandes duelos e jogadores qu</title>
+  </programme>
+  <programme channel="ESPN6.br" start="20261023203000 -0300" stop="20261023223000 -0300">
+    <title lang="pt-BR">–</title>
   </programme>
   <programme channel="ESPN6.br" start="20261023203000 -0300" stop="20261023223000 -0300">
     <title lang="pt-BR">2h Mundial de Motovelocidade: GP da Austrália: Moto GP Sinta a adrenalina dos pilotos que cruzam a barreira do som em provas imperdíveis na MotoGP, a</title>
   </programme>
   <programme channel="ESPN6.br" start="20261023203000 -0300" stop="20261023223000 -0300">
-    <title lang="pt-BR">2h VT - Avaí x Athletic Emoção até a última rodada! Acompanhe a disputa de 20 clubes para chegar à elite do futebol brasileiro! Todos os jogos com a</title>
+    <title lang="pt-BR">2h VT - Avaí x Athletic No ar Emoção até a última rodada! Acompanhe a disputa de 20 clubes para chegar à elite do futebol brasileiro! Todos os jogos</title>
   </programme>
   <programme channel="GETV.br" start="20261023203000 -0300" stop="20261023223000 -0300">
     <title lang="pt-BR">2h Panela sportv Ao vivo Toda segunda-feira, Fred Bruno apresenta o Panela sportv de uma forma descontraída sobre a rodada do Brasileirão. Com André</title>
@@ -9344,13 +8687,16 @@
     <title lang="pt-BR">2h VT - Belgrano x Palmeiras A Libertadores Feminina você acompanha aqui na N Sports</title>
   </programme>
   <programme channel="SporTV3.br" start="20261023203000 -0300" stop="20261023223000 -0300">
-    <title lang="pt-BR">GP do Bahrein Fórmula 1 Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</title>
+    <title lang="pt-BR">GP do Bahrein Fórmula 1 Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1. 1 hora 36 min restantes</title>
+  </programme>
+  <programme channel="SBTNews.br" start="20261023203000 -0300" stop="20261023230000 -0300">
+    <title lang="pt-BR">–</title>
   </programme>
   <programme channel="SporTV2.br" start="20261023203000 -0300" stop="20261023230000 -0300">
-    <title lang="pt-BR">Supercopa Masculina de Vôlei, Final: Campinas x Cruzeiro Vôlei Todas as emoções de partidas de voleibol disputadas ao redor do planeta.</title>
+    <title lang="pt-BR">Supercopa Masculina de Vôlei, Final: Campinas x Cruzeiro Vôlei Todas as emoções de partidas de voleibol disputadas ao redor do planeta. 2 horas 6 min</title>
   </programme>
   <programme channel="ESPN2.br" start="20261023203000 -0300" stop="20261024000000 -0300">
-    <title lang="pt-BR">MLB MLB As emoções da principal liga de beisebol do mundo, composta por equipes dos Estados Unidos e Canadá.</title>
+    <title lang="pt-BR">MLB MLB As emoções da principal liga de beisebol do mundo, composta por equipes dos Estados Unidos e Canadá. 3 horas 10 min restantes</title>
   </programme>
   <programme channel="CanalUOL.br" start="20261023203000 -0300" stop="20261024003000 -0300">
     <title lang="pt-BR">4h Programação Canal UOL Sinopse não disponível. Quarta-feira, 28 de outubro</title>
@@ -9368,7 +8714,10 @@
     <title lang="pt-BR">Programação</title>
   </programme>
   <programme channel="GETV.br" start="20261023203000 -0300" stop="20261024013000 -0300">
-    <title lang="pt-BR">5h NFL: Houston Texans x Jacksonville Jaguars Houston Texans e Jacksonville Jaguars jogam pela 6ª rodada da fase Regular da NFL, no Wembley, em Londr</title>
+    <title lang="pt-BR">–</title>
+  </programme>
+  <programme channel="GETV.br" start="20261023203000 -0300" stop="20261024013000 -0300">
+    <title lang="pt-BR">5h NFL: Houston Texans x Jacksonville Jaguars No ar Houston Texans e Jacksonville Jaguars jogam pela 6ª rodada da fase Regular da NFL, no Wembley, em</title>
   </programme>
   <programme channel="NSports.br" start="20261023203000 -0300" stop="20261024023000 -0300">
     <title lang="pt-BR">Programação</title>
@@ -9412,20 +8761,20 @@
   <programme channel="SBTPiaui.br" start="20261023204000 -0300" stop="20261023205500 -0300">
     <title lang="pt-BR">SBT Brasil News As principais notícias do Brasil e do mundo com análise profunda dos fatos.</title>
   </programme>
-  <programme channel="SBTRio.br" start="20261023204000 -0300" stop="20261023205500 -0300">
-    <title lang="pt-BR">15min SBT Brasil As principais notícias do Brasil e do mundo com análise profunda dos fatos.</title>
-  </programme>
   <programme channel="TVCidadeVerde.br" start="20261023204000 -0300" stop="20261023205500 -0300">
-    <title lang="pt-BR">SBT Brasil News As principais notícias do Brasil e do mundo com análise profunda dos fatos.</title>
+    <title lang="pt-BR">SBT Brasil News As principais notícias do Brasil e do mundo com análise profunda dos fatos. 6 min restantes</title>
   </programme>
   <programme channel="RecordNews.br" start="20261023204000 -0300" stop="20261023210000 -0300">
-    <title lang="pt-BR">20min Jornal da Record Reportagens e séries especiais sobre os mais variados assuntos de interesse da população.</title>
+    <title lang="pt-BR">–</title>
+  </programme>
+  <programme channel="RecordNews.br" start="20261023204000 -0300" stop="20261023210000 -0300">
+    <title lang="pt-BR">20min Jornal da Record No ar Reportagens e séries especiais sobre os mais variados assuntos de interesse da população.</title>
   </programme>
   <programme channel="RecordTV.br" start="20261023204000 -0300" stop="20261023210000 -0300">
-    <title lang="pt-BR">Jornal da Record News Reportagens e séries especiais sobre os mais variados assuntos de interesse da população.</title>
+    <title lang="pt-BR">Jornal da Record News Reportagens e séries especiais sobre os mais variados assuntos de interesse da população. 4 min restantes</title>
   </programme>
   <programme channel="TVAntena10.br" start="20261023204000 -0300" stop="20261023210000 -0300">
-    <title lang="pt-BR">Jornal da Record News Reportagens e séries especiais sobre os mais variados assuntos de interesse da população.</title>
+    <title lang="pt-BR">Jornal da Record News Reportagens e séries especiais sobre os mais variados assuntos de interesse da população. 11 min restantes</title>
   </programme>
   <programme channel="TVBrasil.br" start="20261023204000 -0300" stop="20261023210000 -0300">
     <title lang="pt-BR">Rotas Criativas do Brasil Travel Uma viagem pelas cidades brasileiras reconhecidas internacionalmente. O objetivo é valorizar a economia criativa de</title>
@@ -9437,7 +8786,10 @@
     <title lang="pt-BR">30min VT - Bragantino x Mirassol Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super</title>
   </programme>
   <programme channel="GloboRio.br" start="20261023204000 -0300" stop="20261023213000 -0300">
-    <title lang="pt-BR">50min Jornal Nacional As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejorn</title>
+    <title lang="pt-BR">–</title>
+  </programme>
+  <programme channel="GloboRio.br" start="20261023204000 -0300" stop="20261023213000 -0300">
+    <title lang="pt-BR">50min Jornal Nacional No ar As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O te</title>
   </programme>
   <programme channel="GloboSP.br" start="20261023204000 -0300" stop="20261023213000 -0300">
     <title lang="pt-BR">Jornal Nacional News As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejorna</title>
@@ -9448,29 +8800,38 @@
   <programme channel="BandPiaui.br" start="20261023204000 -0300" stop="20261023213500 -0300">
     <title lang="pt-BR">Guerra das Rosas Temporada 1 Episódio 159 Desde criança, Gülru sonha em ser como Gülfem, a dona da mansão em que seu pai trabalha. Desejosa de se tor</title>
   </programme>
+  <programme channel="XSports.br" start="20261023204000 -0300" stop="20261023230000 -0300">
+    <title lang="pt-BR">–</title>
+  </programme>
   <programme channel="XSports.br" start="20261023204000 -0300" stop="20261024022000 -0300">
     <title lang="pt-BR">Programação</title>
   </programme>
   <programme channel="Cancaonova.br" start="20261023204300 -0300" stop="20261023213000 -0300">
-    <title lang="pt-BR">Shows Canção Nova Religious Momento de louvor, oração e animação com canções ministradas por músicos católicos.</title>
+    <title lang="pt-BR">Shows Canção Nova Religious Momento de louvor, oração e animação com canções ministradas por músicos católicos. 42 min restantes</title>
   </programme>
   <programme channel="NSports.br" start="20261023204500 -0300" stop="20261023210000 -0300">
     <title lang="pt-BR">15min Joga com Elas Entrevista Série especial de entrevistas com as jogadoras que vão participar das quartas de final da Copa do Brasil aqui na N Spo</title>
   </programme>
   <programme channel="SportyNet.br" start="20261023204500 -0300" stop="20261023210000 -0300">
-    <title lang="pt-BR">15min Pré-Jogo Ao vivo Sinopse não disponível.</title>
+    <title lang="pt-BR">–</title>
+  </programme>
+  <programme channel="SportyNet.br" start="20261023204500 -0300" stop="20261023210000 -0300">
+    <title lang="pt-BR">15min Pré-Jogo No ar Ao vivo Sinopse não disponível.</title>
   </programme>
   <programme channel="SBTRio.br" start="20261023204500 -0300" stop="20261023211500 -0300">
     <title lang="pt-BR">30min Sessão +SBT Para celebrar os 45 anos da emissora, o programa resgata momentos históricos do acervo do canal.</title>
   </programme>
   <programme channel="ESPN4.br" start="20261023204500 -0300" stop="20261023213000 -0300">
-    <title lang="pt-BR">45min MotoGP: GP da Austrália: Classificação Ao vivo Sinta a adrenalina dos pilotos que cruzam a barreira do som em provas imperdíveis na MotoGP, a p</title>
+    <title lang="pt-BR">–</title>
+  </programme>
+  <programme channel="ESPN4.br" start="20261023204500 -0300" stop="20261023213000 -0300">
+    <title lang="pt-BR">45min MotoGP: GP da Austrália: Classificação No ar Ao vivo Sinta a adrenalina dos pilotos que cruzam a barreira do som em provas imperdíveis na MotoG</title>
   </programme>
   <programme channel="VenusTV.br" start="20261023204500 -0300" stop="20261023220700 -0300">
-    <title lang="pt-BR">Síntese Law Os destaques do Plenário do STF da semana.</title>
+    <title lang="pt-BR">Síntese Law Os destaques do Plenário do STF da semana. 1 hora 7 min restantes</title>
   </programme>
   <programme channel="ESPN.br" start="20261023204500 -0300" stop="20261023230000 -0300">
-    <title lang="pt-BR">Sport x Criciúma Campeonato Brasileiro - Série B Vinte equipes disputam, em turno e returno, a segunda divisão do futebol brasileiro masculino.</title>
+    <title lang="pt-BR">Sport x Criciúma Campeonato Brasileiro - Série B Vinte equipes disputam, em turno e returno, a segunda divisão do futebol brasileiro masculino. 2 hor</title>
   </programme>
   <programme channel="TNTNovelas.br" start="20261023204500 -0300" stop="20261024010300 -0300">
     <title lang="pt-BR">Programação</title>
@@ -9486,6 +8847,9 @@
   </programme>
   <programme channel="TNTNovelas.br" start="20261023204900 -0300" stop="20261023214900 -0300">
     <title lang="pt-BR">1h A Promessa Blanca decide deixar o palácio, mas não sem antes conversar com Manuel e Jana. Para ganhar o respeito de todos, Catalina decide se mant</title>
+  </programme>
+  <programme channel="TNTNovelas.br" start="20261023204900 -0300" stop="20261023215000 -0300">
+    <title lang="pt-BR">–</title>
   </programme>
   <programme channel="TNTNovelas.br" start="20261023204900 -0300" stop="20261024010100 -0300">
     <title lang="pt-BR">Programação</title>
@@ -9506,7 +8870,7 @@
     <title lang="pt-BR">40min VT - Strasbourg x PSG Strasbourg e PSG jogam no Campeonato Francês.</title>
   </programme>
   <programme channel="TVCultura.br" start="20261023205000 -0300" stop="20261023220000 -0300">
-    <title lang="pt-BR">Jornal da Cultura News As principais notícias do Brasil e do mundo, sempre com comentários de especialistas.</title>
+    <title lang="pt-BR">Jornal da Cultura News As principais notícias do Brasil e do mundo, sempre com comentários de especialistas. 1 hora 3 min restantes</title>
   </programme>
   <programme channel="XSports.br" start="20261023205000 -0300" stop="20261024014500 -0300">
     <title lang="pt-BR">Programação</title>
@@ -9524,7 +8888,10 @@
     <title lang="pt-BR">Amor Valente Soap A história de amor entre Camila e Daniel, que, apesar da desconfiança, do ressentimento e da sede de vingança, saem vitoriosos e su</title>
   </programme>
   <programme channel="RedeTV.br" start="20261023205500 -0300" stop="20261023220000 -0300">
-    <title lang="pt-BR">Igreja Internacional da Graça de Deus Religious Acompanhe a programação da Igreja Universal da Graça de Deus.</title>
+    <title lang="pt-BR">Igreja Internacional da Graça de Deus Religious Acompanhe a programação da Igreja Universal da Graça de Deus. 1 hora 4 min restantes</title>
+  </programme>
+  <programme channel="SBTRio.br" start="20261023205500 -0300" stop="20261023220000 -0300">
+    <title lang="pt-BR">–</title>
   </programme>
   <programme channel="SBTRio.br" start="20261023205500 -0300" stop="20261024010500 -0300">
     <title lang="pt-BR">Programação</title>
@@ -9533,10 +8900,10 @@
     <title lang="pt-BR">Desmascarando um Monstro - Aileen Wuornos Temporada 1 Episódio 3 - O Mundo Ficará Sabendo Wuornos arrisca a vida ao contar ao júri sua história com s</title>
   </programme>
   <programme channel="Playboy.br" start="20261023205900 -0300" stop="20261023212300 -0300">
-    <title lang="pt-BR">Playboy Girlfriends Temporada 1 Episódio 6 Acompanhe as modelos mais lindas em uma travessia por lugares maravilhosos e momentos divertidos.</title>
+    <title lang="pt-BR">Playboy Girlfriends Temporada 1 Episódio 6 Acompanhe as modelos mais lindas em uma travessia por lugares maravilhosos e momentos divertidos. 23 min r</title>
   </programme>
   <programme channel="PlayboyHD.br" start="20261023205900 -0300" stop="20261023212300 -0300">
-    <title lang="pt-BR">Playboy Girlfriends Temporada 1 Episódio 6 Acompanhe as modelos mais lindas em uma travessia por lugares maravilhosos e momentos divertidos.</title>
+    <title lang="pt-BR">Playboy Girlfriends Temporada 1 Episódio 6 Acompanhe as modelos mais lindas em uma travessia por lugares maravilhosos e momentos divertidos. 23 min r</title>
   </programme>
   <programme channel="ESPN3.br" start="20261023210000 -0300" stop="20261023211500 -0300">
     <title lang="pt-BR">15min NFL Ao vivo Abertura das transmissões do futebol americano. Confira as últimas notícias e as análises do jogo que vem a seguir.</title>
@@ -9640,8 +9007,20 @@
   <programme channel="GETV.br" start="20261023210000 -0300" stop="20261024031500 -0300">
     <title lang="pt-BR">Programação</title>
   </programme>
+  <programme channel="CanalUOL.br" start="20261023210000 -0300" stop="20261024200000 -0300">
+    <title lang="pt-BR">Hoje Amanhã 25 out 26 out 27 out 28 out 29 out 30 out Sexta-feira, 23 de outubro</title>
+  </programme>
   <programme channel="Premiere5.br" start="20261023210000 -0300" stop="20261024200000 -0300">
     <title lang="pt-BR">- Santos x Bahia Santos e Bahia jogam pela 32ª rodada do Segundo Turno do Brasileirão, na Vila Belmiro, em Santos (SP).</title>
+  </programme>
+  <programme channel="NSports.br" start="20261023210000 -0300" stop="20261024203000 -0300">
+    <title lang="pt-BR">Hoje Amanhã 25 out 26 out 27 out 28 out 29 out 30 out Sexta-feira, 23 de outubro</title>
+  </programme>
+  <programme channel="RecordNews.br" start="20261023210000 -0300" stop="20261024204000 -0300">
+    <title lang="pt-BR">A Record News é um canal de televisão voltado para a transmissão de notícias 24 horas por dia. Com uma programação dedicada ao jornalismo, o canal of</title>
+  </programme>
+  <programme channel="SportyNet.br" start="20261023210000 -0300" stop="20261024204500 -0300">
+    <title lang="pt-BR">Hoje Amanhã 25 out 26 out 27 out 28 out 29 out 30 out Sexta-feira, 23 de outubro</title>
   </programme>
   <programme channel="Premiere5.br" start="20261023210000 -0300" stop="20261024210000 -0300">
     <title lang="pt-BR">- Santos x Bahia Santos e Bahia jogam pela 32ª rodada do Segundo Turno do Brasileirão, na Vila Belmiro, em Santos (SP).</title>
@@ -9793,6 +9172,18 @@
   <programme channel="Premiere6.br" start="20261023213000 -0300" stop="20261024053000 -0300">
     <title lang="pt-BR">Premiere 6 Acompanhe a programação pay-per-view.</title>
   </programme>
+  <programme channel="ESPN3.br" start="20261023213000 -0300" stop="20261024192000 -0300">
+    <title lang="pt-BR">A ESPN 3 é um canal de televisão dedicado a esportes e transmissões ao vivo. Com uma programação abrangente, o canal oferece cobertura de uma ampla v</title>
+  </programme>
+  <programme channel="BandNews.br" start="20261023213000 -0300" stop="20261024203000 -0300">
+    <title lang="pt-BR">A Band News é um canal de televisão dedicado à transmissão de notícias 24 horas por dia. Com uma programação focada no jornalismo, o canal oferece um</title>
+  </programme>
+  <programme channel="GloboRio.br" start="20261023213000 -0300" stop="20261024204000 -0300">
+    <title lang="pt-BR">Globo é globo Hoje Amanhã 25 out Sexta-feira, 23 de outubro</title>
+  </programme>
+  <programme channel="ESPN4.br" start="20261023213000 -0300" stop="20261024204500 -0300">
+    <title lang="pt-BR">ESPN é uma rede de canais de televisão por assinatura brasileira, franquia local do canal homônimo dos Estados Unidos, sendo controlada diretamente p</title>
+  </programme>
   <programme channel="Band.br" start="20261023213500 -0300" stop="20261023223000 -0300">
     <title lang="pt-BR">Show da Fé Religious Acompanhe depoimentos, testemunhos e histórias surpreendentes de amor e de superação. Com uma ótica cristã, o programa leva o Ev</title>
   </programme>
@@ -9831,6 +9222,9 @@
   </programme>
   <programme channel="TNTNovelas.br" start="20261023215000 -0300" stop="20261023223600 -0300">
     <title lang="pt-BR">46min Será Isso Amor? Serkan busca formas de se desculpar com Eda. Ferit e Selin tomam uma decisão muito importante, enquanto Aytan e Eda bolam um no</title>
+  </programme>
+  <programme channel="TNTNovelas.br" start="20261023215000 -0300" stop="20261024204900 -0300">
+    <title lang="pt-BR">O canal TBS (Turner Broadcasting System) é uma rede de televisão que oferece uma programação diversificada com foco em comédia e entretenimento. Com</title>
   </programme>
   <programme channel="SportyNet.br" start="20261023215300 -0300" stop="20261024020700 -0300">
     <title lang="pt-BR">Programação</title>
@@ -9991,6 +9385,12 @@
   <programme channel="tv.assembleia.piaui.br" start="20261023220000 -0300" stop="20261024060000 -0300">
     <title lang="pt-BR">ÁS</title>
   </programme>
+  <programme channel="Premiere5.br" start="20261023220000 -0300" stop="20261024200000 -0300">
+    <title lang="pt-BR">O canal Premiere é uma rede de televisão brasileira dedicada à transmissão de jogos de futebol ao vivo. Como parte do serviço de pay-per-view do Grup</title>
+  </programme>
+  <programme channel="SBTRio.br" start="20261023220000 -0300" stop="20261024205500 -0300">
+    <title lang="pt-BR">Hoje Amanhã 25 out Sexta-feira, 23 de outubro</title>
+  </programme>
   <programme channel="DiscoveryChannel.br" start="20261023220100 -0300" stop="20261023234000 -0300">
     <title lang="pt-BR">Vida Remota Temporada 14 Episódio 6 - Ajude-me, Obi Wan Adobe A casa adobe dos sonhos de um jovem casal no Novo México está morrendo. Os Raneys assum</title>
   </programme>
@@ -10014,6 +9414,9 @@
   </programme>
   <programme channel="RedeTV.br" start="20261023221000 -0300" stop="20261023231500 -0300">
     <title lang="pt-BR">TV Fama Variety Tudo o que acontece no mundo das celebridades. As festas mais badaladas, os bastidores dos eventos exclusivos e as casas dos mais ric</title>
+  </programme>
+  <programme channel="PremiereFC.br" start="20261023221000 -0300" stop="20261024183000 -0300">
+    <title lang="pt-BR">O canal Premiere FC é uma rede de televisão brasileira dedicada à transmissão de jogos de futebol ao vivo. Como parte do serviço de pay-per-view do G</title>
   </programme>
   <programme channel="Playboy.br" start="20261023221100 -0300" stop="20261023223500 -0300">
     <title lang="pt-BR">Amateur Temporada 1 Episódio 15 Esteban madruga no trabalho e alivia o estresse ao encontrar a ex-namorada na webcam. Ela vai se casar e está despert</title>
@@ -10122,6 +9525,12 @@
   </programme>
   <programme channel="tv.assembleia.piaui.br" start="20261023223000 -0300" stop="20261024060000 -0300">
     <title lang="pt-BR">ÀS</title>
+  </programme>
+  <programme channel="ESPN5.br" start="20261023223000 -0300" stop="20261024203000 -0300">
+    <title lang="pt-BR">A ESPN 5 antigo Fox Sports 2 é um canal de televisão dedicado à transmissão de eventos esportivos ao vivo e à cobertura de notícias esportivas. Com u</title>
+  </programme>
+  <programme channel="ESPN6.br" start="20261023223000 -0300" stop="20261024203000 -0300">
+    <title lang="pt-BR">A ESPN 6 antigo ESPN Extra é um canal de televisão dedicado a esportes e transmissões ao vivo. Com uma programação abrangente, o canal oferece cobert</title>
   </programme>
   <programme channel="TNTNovelas.br" start="20261023223400 -0300" stop="20261023232100 -0300">
     <title lang="pt-BR">47min Será Isso Amor? Serkan tira Eda de sua casa para levá-la a um lugar. Por outro lado, Eda recebe um telefonema crucial e Leyla conta a ela algo</title>
@@ -10284,6 +9693,12 @@
   </programme>
   <programme channel="tv.assembleia.piaui.br" start="20261023230000 -0300" stop="20261024060000 -0300">
     <title lang="pt-BR">ÀS</title>
+  </programme>
+  <programme channel="SBTNews.br" start="20261023230000 -0300" stop="20261024203000 -0300">
+    <title lang="pt-BR">Hoje Amanhã 25 out 26 out 27 out 28 out 29 out 30 out Sexta-feira, 23 de outubro</title>
+  </programme>
+  <programme channel="XSports.br" start="20261023230000 -0300" stop="20261024204000 -0300">
+    <title lang="pt-BR">Hoje Amanhã 25 out 26 out 27 out 28 out 29 out 30 out Sexta-feira, 23 de outubro</title>
   </programme>
   <programme channel="SexyHot.br" start="20261023230100 -0300" stop="20261023231700 -0300">
     <title lang="pt-BR">Foodporn Adults only O chef Capoeira resolve utilizar todos os seus truques gastronômicos para deixar Agatha Ludovico com água na boca. Enquanto a co</title>
