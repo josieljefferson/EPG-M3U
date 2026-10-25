@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T15:28:42.564939-03:00",
+  "generated_at": "2026-10-25T15:41:38.259626-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -49,9 +49,9 @@
     "with_programs": 61
   },
   "programs": {
-    "total": 3157,
+    "total": 3149,
     "by_source": {
-      "fallback": 3157
+      "fallback": 3149
     },
     "by_channel": {
       "Band.br": 17,
@@ -66,11 +66,11 @@
       "ESPN2.br": 16,
       "ESPN3.br": 151,
       "ESPN4.br": 176,
-      "ESPN5.br": 137,
+      "ESPN5.br": 134,
       "ESPN6.br": 129,
       "GETV.br": 100,
       "GloboNews.br": 10,
-      "GloboRio.br": 65,
+      "GloboRio.br": 61,
       "GloboSP.br": 19,
       "InvestigacaoDiscovery.br": 33,
       "JovemPanNews.br": 10,
@@ -86,7 +86,7 @@
       "Premiere5.br": 68,
       "Premiere6.br": 3,
       "Premiere7.br": 3,
-      "PremiereFC.br": 280,
+      "PremiereFC.br": 281,
       "RecordNews.br": 67,
       "RecordTV.br": 20,
       "RedeGloboTeresina.br": 19,
@@ -101,7 +101,7 @@
       "SporTV.br": 24,
       "SporTV2.br": 10,
       "SporTV3.br": 17,
-      "SportyNet.br": 207,
+      "SportyNet.br": 205,
       "TNT.br": 24,
       "TNTNovelas.br": 256,
       "TVAlvoradaDoSul.br": 19,
@@ -544,7 +544,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 137,
+      "programs": 134,
       "url": "https://www.guiadetv.com/canal/espn-5",
       "error": ""
     },
@@ -566,7 +566,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 137,
+      "programs": 134,
       "url": "https://www.guiadetv.com/canal/espn-5",
       "error": ""
     },
@@ -874,7 +874,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 280,
+      "programs": 281,
       "url": "https://www.guiadetv.com/canal/premiere-fc",
       "error": ""
     },
@@ -896,7 +896,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 280,
+      "programs": 281,
       "url": "https://www.guiadetv.com/canal/premiere-fc",
       "error": ""
     },
@@ -984,7 +984,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 207,
+      "programs": 205,
       "url": "https://www.guiadetv.com/canal/sportynet",
       "error": ""
     },
@@ -1006,7 +1006,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 207,
+      "programs": 205,
       "url": "https://www.guiadetv.com/canal/sportynet",
       "error": ""
     },
@@ -1182,7 +1182,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 65,
+      "programs": 61,
       "url": "https://www.guiadetv.com/canal/globo-rio-de-janeiro",
       "error": ""
     },
@@ -1204,7 +1204,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 65,
+      "programs": 61,
       "url": "https://www.guiadetv.com/canal/globo-rio-de-janeiro",
       "error": ""
     },
