@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T06:23:29.096464-03:00",
+  "generated_at": "2026-10-27T12:29:57.981578-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -49,13 +49,13 @@
     "with_programs": 44
   },
   "programs": {
-    "total": 1060,
+    "total": 1064,
     "by_source": {
-      "fallback": 1060
+      "fallback": 1064
     },
     "by_channel": {
       "Band.br": 18,
-      "BandPiaui.br": 20,
+      "BandPiaui.br": 21,
       "BandSports.br": 23,
       "CNNBrasil.br": 25,
       "Cancaonova.br": 38,
@@ -93,7 +93,7 @@
       "TVBrasil.br": 54,
       "TVCidadeVerde.br": 18,
       "TVClube.br": 23,
-      "TVCultura.br": 64,
+      "TVCultura.br": 67,
       "VenusTV.br": 17,
       "Viva.br": 31,
       "sexprive-brasileirinhas.br": 35,
@@ -164,7 +164,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 20,
+      "programs": 21,
       "url": "https://mi.tv/br/canais/band-piaui-hd",
       "error": ""
     },
@@ -175,7 +175,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 20,
+      "programs": 21,
       "url": "https://mi.tv/br/canais/band-piaui-hd",
       "error": ""
     },
@@ -1352,7 +1352,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 64,
+      "programs": 67,
       "url": "https://mi.tv/br/canais/cultura-hd",
       "error": ""
     },
@@ -1363,7 +1363,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 64,
+      "programs": 67,
       "url": "https://mi.tv/br/canais/cultura-hd",
       "error": ""
     },
