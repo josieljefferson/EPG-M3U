@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T06:44:27.324486-03:00",
+  "generated_at": "2026-10-28T07:01:01.730549-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -46,12 +46,12 @@
   ],
   "channels": {
     "configured": 61,
-    "with_programs": 44
+    "with_programs": 45
   },
   "programs": {
-    "total": 1084,
+    "total": 1085,
     "by_source": {
-      "fallback": 1084
+      "fallback": 1085
     },
     "by_channel": {
       "Band.br": 17,
@@ -74,6 +74,7 @@
       "Premiere2.br": 3,
       "Premiere3.br": 3,
       "Premiere4.br": 3,
+      "Premiere5.br": 1,
       "Premiere6.br": 3,
       "Premiere7.br": 3,
       "RecordTV.br": 25,
@@ -102,8 +103,8 @@
   },
   "attempts": {
     "total": 160,
-    "successful": 88,
-    "failed": 72
+    "successful": 89,
+    "failed": 71
   },
   "files": {
     "epg": "output/epg.xml",
@@ -768,10 +769,10 @@
       "date": "2026-10-28",
       "source": "guiadetv",
       "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/premiere-5: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+      "success": true,
+      "programs": 1,
+      "url": "https://www.guiadetv.com",
+      "error": ""
     },
     {
       "channel_id": "Premiere5.br",
