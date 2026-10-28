@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T17:17:31.769630-03:00",
+  "generated_at": "2026-10-27T21:37:37.282061-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -46,12 +46,12 @@
   ],
   "channels": {
     "configured": 61,
-    "with_programs": 40
+    "with_programs": 43
   },
   "programs": {
-    "total": 1031,
+    "total": 1027,
     "by_source": {
-      "fallback": 1031
+      "fallback": 1027
     },
     "by_channel": {
       "Band.br": 18,
@@ -70,9 +70,11 @@
       "MeioNorteHD.br": 19,
       "Multishow.br": 44,
       "Playboy.br": 41,
-      "PlayboyHD.br": 41,
+      "Premiere2.br": 3,
       "Premiere3.br": 3,
+      "Premiere4.br": 3,
       "Premiere6.br": 5,
+      "Premiere7.br": 3,
       "RecordTV.br": 25,
       "RedeGloboTeresina.br": 23,
       "RedeTV.br": 20,
@@ -80,6 +82,7 @@
       "SBTPiaui.br": 18,
       "SextremeBrazil.br": 18,
       "SexyHot.br": 34,
+      "Space.br": 28,
       "SporTV.br": 8,
       "SporTV2.br": 14,
       "SporTV3.br": 15,
@@ -97,9 +100,9 @@
     }
   },
   "attempts": {
-    "total": 168,
-    "successful": 80,
-    "failed": 88
+    "total": 162,
+    "successful": 86,
+    "failed": 76
   },
   "files": {
     "epg": "output/epg.xml",
@@ -687,21 +690,10 @@
       "date": "2026-10-27",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 3,
       "url": "https://mi.tv/br/canais/premiere-2",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "Premiere2.br",
-      "channel_name": "PREMIERE 2",
-      "date": "2026-10-27",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/premiere-2: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "Premiere2.br",
@@ -709,21 +701,10 @@
       "date": "2026-10-28",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 3,
       "url": "https://mi.tv/br/canais/premiere-2",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "Premiere2.br",
-      "channel_name": "PREMIERE 2",
-      "date": "2026-10-28",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/premiere-2: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "Premiere3.br",
@@ -753,21 +734,10 @@
       "date": "2026-10-27",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 3,
       "url": "https://mi.tv/br/canais/premiere-4",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "Premiere4.br",
-      "channel_name": "PREMIERE 4",
-      "date": "2026-10-27",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/premiere-4: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "Premiere4.br",
@@ -775,21 +745,10 @@
       "date": "2026-10-28",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 3,
       "url": "https://mi.tv/br/canais/premiere-4",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "Premiere4.br",
-      "channel_name": "PREMIERE 4",
-      "date": "2026-10-28",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/premiere-4: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "Premiere5.br",
@@ -863,21 +822,10 @@
       "date": "2026-10-27",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 3,
       "url": "https://mi.tv/br/canais/premiere-7",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "Premiere7.br",
-      "channel_name": "PREMIERE 7",
-      "date": "2026-10-27",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/premiere-7: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "Premiere7.br",
@@ -885,21 +833,10 @@
       "date": "2026-10-28",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 3,
       "url": "https://mi.tv/br/canais/premiere-7",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "Premiere7.br",
-      "channel_name": "PREMIERE 7",
-      "date": "2026-10-28",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/premiere-7: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "PremiereFC.br",
@@ -1105,21 +1042,10 @@
       "date": "2026-10-27",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 28,
       "url": "https://mi.tv/br/canais/space",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "Space.br",
-      "channel_name": "SPACE",
-      "date": "2026-10-27",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/space: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "Space.br",
@@ -1127,21 +1053,10 @@
       "date": "2026-10-28",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 28,
       "url": "https://mi.tv/br/canais/space",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "Space.br",
-      "channel_name": "SPACE",
-      "date": "2026-10-28",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/space: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "TNT.br",
@@ -1875,10 +1790,21 @@
       "date": "2026-10-27",
       "source": "mitv",
       "priority": 1,
-      "success": true,
-      "programs": 41,
+      "success": false,
+      "programs": 0,
       "url": "https://mi.tv/br/canais/playboy-hd",
-      "error": ""
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "PlayboyHD.br",
+      "channel_name": "PLAYBOY HD",
+      "date": "2026-10-27",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/playboy-hd: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
     },
     {
       "channel_id": "PlayboyHD.br",
@@ -1886,10 +1812,21 @@
       "date": "2026-10-28",
       "source": "mitv",
       "priority": 1,
-      "success": true,
-      "programs": 41,
+      "success": false,
+      "programs": 0,
       "url": "https://mi.tv/br/canais/playboy-hd",
-      "error": ""
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "PlayboyHD.br",
+      "channel_name": "PLAYBOY HD",
+      "date": "2026-10-28",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/playboy-hd: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
     },
     {
       "channel_id": "VenusTV.br",
