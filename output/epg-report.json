@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T07:12:39.099191-03:00",
+  "generated_at": "2026-10-29T17:23:15.941920-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -49,9 +49,9 @@
     "with_programs": 44
   },
   "programs": {
-    "total": 1088,
+    "total": 1098,
     "by_source": {
-      "fallback": 1088
+      "fallback": 1098
     },
     "by_channel": {
       "Band.br": 17,
@@ -61,7 +61,7 @@
       "Cancaonova.br": 36,
       "DiscoveryChannel.br": 32,
       "ESPN.br": 16,
-      "ESPN2.br": 17,
+      "ESPN2.br": 21,
       "GloboNews.br": 13,
       "GloboSP.br": 25,
       "InvestigacaoDiscovery.br": 37,
@@ -87,13 +87,13 @@
       "SporTV.br": 21,
       "SporTV2.br": 13,
       "SporTV3.br": 22,
-      "TNT.br": 27,
+      "TNT.br": 30,
       "TVAlvoradaDoSul.br": 24,
       "TVAntena10.br": 17,
       "TVBrasil.br": 54,
       "TVCidadeVerde.br": 18,
       "TVClube.br": 24,
-      "TVCultura.br": 64,
+      "TVCultura.br": 67,
       "VenusTV.br": 17,
       "Viva.br": 30,
       "sexprive-brasileirinhas.br": 35,
@@ -406,7 +406,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 17,
+      "programs": 21,
       "url": "https://mi.tv/br/canais/espn-2",
       "error": ""
     },
@@ -417,7 +417,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 17,
+      "programs": 21,
       "url": "https://mi.tv/br/canais/espn-2",
       "error": ""
     },
@@ -1066,7 +1066,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 27,
+      "programs": 30,
       "url": "https://mi.tv/br/canais/tnt",
       "error": ""
     },
@@ -1077,7 +1077,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 27,
+      "programs": 30,
       "url": "https://mi.tv/br/canais/tnt",
       "error": ""
     },
@@ -1352,7 +1352,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 64,
+      "programs": 67,
       "url": "https://mi.tv/br/canais/cultura-hd",
       "error": ""
     },
@@ -1363,7 +1363,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 64,
+      "programs": 67,
       "url": "https://mi.tv/br/canais/cultura-hd",
       "error": ""
     },
