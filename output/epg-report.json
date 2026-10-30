@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T07:19:14.460959-03:00",
+  "generated_at": "2026-10-30T17:09:05.136078-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -49,14 +49,14 @@
     "with_programs": 44
   },
   "programs": {
-    "total": 1086,
+    "total": 1091,
     "by_source": {
-      "fallback": 1086
+      "fallback": 1091
     },
     "by_channel": {
       "Band.br": 19,
       "BandPiaui.br": 22,
-      "BandSports.br": 25,
+      "BandSports.br": 26,
       "CNNBrasil.br": 25,
       "Cancaonova.br": 35,
       "DiscoveryChannel.br": 28,
@@ -66,8 +66,8 @@
       "GloboSP.br": 24,
       "InvestigacaoDiscovery.br": 35,
       "JovemPanNews.br": 14,
-      "MeioNorte.br": 16,
-      "MeioNorteHD.br": 16,
+      "MeioNorte.br": 18,
+      "MeioNorteHD.br": 18,
       "Multishow.br": 40,
       "Playboy.br": 43,
       "PlayboyHD.br": 43,
@@ -362,7 +362,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 25,
+      "programs": 26,
       "url": "https://mi.tv/br/canais/bandsports",
       "error": ""
     },
@@ -373,7 +373,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 25,
+      "programs": 26,
       "url": "https://mi.tv/br/canais/bandsports",
       "error": ""
     },
@@ -1726,7 +1726,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 16,
+      "programs": 18,
       "url": "https://mi.tv/br/canais/meio-norte",
       "error": ""
     },
@@ -1737,7 +1737,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 16,
+      "programs": 18,
       "url": "https://mi.tv/br/canais/meio-norte",
       "error": ""
     },
@@ -1748,7 +1748,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 16,
+      "programs": 18,
       "url": "https://mi.tv/br/canais/meio-norte-hd",
       "error": ""
     },
@@ -1759,7 +1759,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 16,
+      "programs": 18,
       "url": "https://mi.tv/br/canais/meio-norte-hd",
       "error": ""
     },
