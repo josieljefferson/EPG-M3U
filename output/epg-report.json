@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T16:59:01.019503-03:00",
+  "generated_at": "2026-11-01T21:42:40.419561-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -49,9 +49,9 @@
     "with_programs": 44
   },
   "programs": {
-    "total": 960,
+    "total": 961,
     "by_source": {
-      "fallback": 960
+      "fallback": 961
     },
     "by_channel": {
       "Band.br": 19,
@@ -86,7 +86,7 @@
       "Space.br": 24,
       "SporTV.br": 26,
       "SporTV2.br": 13,
-      "SporTV3.br": 17,
+      "SporTV3.br": 18,
       "TNT.br": 27,
       "TVAlvoradaDoSul.br": 18,
       "TVAntena10.br": 12,
@@ -934,7 +934,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 17,
+      "programs": 18,
       "url": "https://mi.tv/br/canais/sportv-3",
       "error": ""
     },
@@ -945,7 +945,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 17,
+      "programs": 18,
       "url": "https://mi.tv/br/canais/sportv-3",
       "error": ""
     },
