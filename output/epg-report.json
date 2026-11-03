@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T18:08:10.638576-03:00",
+  "generated_at": "2026-11-03T18:25:36.760467-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -46,12 +46,12 @@
   ],
   "channels": {
     "configured": 61,
-    "with_programs": 43
+    "with_programs": 44
   },
   "programs": {
-    "total": 1097,
+    "total": 1101,
     "by_source": {
-      "fallback": 1097
+      "fallback": 1101
     },
     "by_channel": {
       "Band.br": 18,
@@ -71,6 +71,7 @@
       "Multishow.br": 44,
       "Playboy.br": 40,
       "PlayboyHD.br": 40,
+      "Premiere2.br": 4,
       "Premiere3.br": 3,
       "Premiere4.br": 3,
       "Premiere6.br": 5,
@@ -100,9 +101,9 @@
     }
   },
   "attempts": {
-    "total": 162,
-    "successful": 86,
-    "failed": 76
+    "total": 160,
+    "successful": 88,
+    "failed": 72
   },
   "files": {
     "epg": "output/epg.xml",
@@ -690,21 +691,10 @@
       "date": "2026-11-03",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 4,
       "url": "https://mi.tv/br/canais/premiere-2",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "Premiere2.br",
-      "channel_name": "PREMIERE 2",
-      "date": "2026-11-03",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/premiere-2: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "Premiere2.br",
@@ -712,21 +702,10 @@
       "date": "2026-11-04",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 4,
       "url": "https://mi.tv/br/canais/premiere-2",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "Premiere2.br",
-      "channel_name": "PREMIERE 2",
-      "date": "2026-11-04",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/premiere-2: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "Premiere3.br",
