@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T07:56:29.427855-03:00",
+  "generated_at": "2026-11-04T08:13:44.836620-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -46,12 +46,12 @@
   ],
   "channels": {
     "configured": 61,
-    "with_programs": 44
+    "with_programs": 43
   },
   "programs": {
-    "total": 1087,
+    "total": 1061,
     "by_source": {
-      "fallback": 1087
+      "fallback": 1061
     },
     "by_channel": {
       "Band.br": 17,
@@ -83,7 +83,6 @@
       "SBTPiaui.br": 17,
       "SextremeBrazil.br": 18,
       "SexyHot.br": 31,
-      "Space.br": 26,
       "SporTV.br": 25,
       "SporTV2.br": 16,
       "SporTV3.br": 14,
@@ -101,9 +100,9 @@
     }
   },
   "attempts": {
-    "total": 160,
-    "successful": 88,
-    "failed": 72
+    "total": 162,
+    "successful": 86,
+    "failed": 76
   },
   "files": {
     "epg": "output/epg.xml",
@@ -1043,10 +1042,21 @@
       "date": "2026-11-04",
       "source": "mitv",
       "priority": 1,
-      "success": true,
-      "programs": 26,
+      "success": false,
+      "programs": 0,
       "url": "https://mi.tv/br/canais/space",
-      "error": ""
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "Space.br",
+      "channel_name": "SPACE",
+      "date": "2026-11-04",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/space: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
     },
     {
       "channel_id": "Space.br",
@@ -1054,10 +1064,21 @@
       "date": "2026-11-05",
       "source": "mitv",
       "priority": 1,
-      "success": true,
-      "programs": 26,
+      "success": false,
+      "programs": 0,
       "url": "https://mi.tv/br/canais/space",
-      "error": ""
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "Space.br",
+      "channel_name": "SPACE",
+      "date": "2026-11-05",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/space: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
     },
     {
       "channel_id": "TNT.br",
