@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T18:24:34.393084-03:00",
+  "generated_at": "2026-11-04T18:40:55.069376-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -1607,7 +1607,7 @@
       "success": false,
       "programs": 0,
       "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/sbt-news: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+      "error": "https://www.guiadetv.com/canal/sbt-news: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: Page.goto: net::ERR_CONNECTION_RESET at https://www.guiadetv.com/busca\nCall log:\n  - navigating to \"https://www.guiadetv.com/busca\", waiting until \"domcontentloaded\"\n"
     },
     {
       "channel_id": "Multishow.br",
