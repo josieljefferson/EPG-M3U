@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T08:13:44.836620-03:00",
+  "generated_at": "2026-11-04T18:24:34.393084-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -46,12 +46,12 @@
   ],
   "channels": {
     "configured": 61,
-    "with_programs": 43
+    "with_programs": 44
   },
   "programs": {
-    "total": 1061,
+    "total": 1091,
     "by_source": {
-      "fallback": 1061
+      "fallback": 1091
     },
     "by_channel": {
       "Band.br": 17,
@@ -83,6 +83,7 @@
       "SBTPiaui.br": 17,
       "SextremeBrazil.br": 18,
       "SexyHot.br": 31,
+      "Space.br": 26,
       "SporTV.br": 25,
       "SporTV2.br": 16,
       "SporTV3.br": 14,
@@ -92,7 +93,7 @@
       "TVBrasil.br": 57,
       "TVCidadeVerde.br": 17,
       "TVClube.br": 23,
-      "TVCultura.br": 64,
+      "TVCultura.br": 68,
       "VenusTV.br": 16,
       "Viva.br": 30,
       "sexprive-brasileirinhas.br": 35,
@@ -100,9 +101,9 @@
     }
   },
   "attempts": {
-    "total": 162,
-    "successful": 86,
-    "failed": 76
+    "total": 160,
+    "successful": 88,
+    "failed": 72
   },
   "files": {
     "epg": "output/epg.xml",
@@ -1042,21 +1043,10 @@
       "date": "2026-11-04",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 26,
       "url": "https://mi.tv/br/canais/space",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "Space.br",
-      "channel_name": "SPACE",
-      "date": "2026-11-04",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/space: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "Space.br",
@@ -1064,21 +1054,10 @@
       "date": "2026-11-05",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 26,
       "url": "https://mi.tv/br/canais/space",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "Space.br",
-      "channel_name": "SPACE",
-      "date": "2026-11-05",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/space: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "TNT.br",
@@ -1373,7 +1352,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 64,
+      "programs": 68,
       "url": "https://mi.tv/br/canais/cultura-hd",
       "error": ""
     },
@@ -1384,7 +1363,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 64,
+      "programs": 68,
       "url": "https://mi.tv/br/canais/cultura-hd",
       "error": ""
     },
