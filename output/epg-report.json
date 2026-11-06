@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T08:09:28.823979-03:00",
+  "generated_at": "2026-11-06T18:01:40.071808-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -49,9 +49,9 @@
     "with_programs": 44
   },
   "programs": {
-    "total": 1111,
+    "total": 1117,
     "by_source": {
-      "fallback": 1111
+      "fallback": 1117
     },
     "by_channel": {
       "Band.br": 19,
@@ -61,13 +61,13 @@
       "Cancaonova.br": 40,
       "DiscoveryChannel.br": 29,
       "ESPN.br": 18,
-      "ESPN2.br": 17,
+      "ESPN2.br": 21,
       "GloboNews.br": 13,
       "GloboSP.br": 26,
       "InvestigacaoDiscovery.br": 38,
       "JovemPanNews.br": 14,
       "MeioNorte.br": 17,
-      "MeioNorteHD.br": 17,
+      "MeioNorteHD.br": 19,
       "Multishow.br": 46,
       "Playboy.br": 43,
       "PlayboyHD.br": 43,
@@ -406,7 +406,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 17,
+      "programs": 21,
       "url": "https://mi.tv/br/canais/espn-2",
       "error": ""
     },
@@ -417,7 +417,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 17,
+      "programs": 21,
       "url": "https://mi.tv/br/canais/espn-2",
       "error": ""
     },
@@ -1748,7 +1748,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 17,
+      "programs": 19,
       "url": "https://mi.tv/br/canais/meio-norte-hd",
       "error": ""
     },
@@ -1759,7 +1759,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 17,
+      "programs": 19,
       "url": "https://mi.tv/br/canais/meio-norte-hd",
       "error": ""
     },
