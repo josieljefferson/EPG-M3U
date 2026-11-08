@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T16:43:22.355881-03:00",
+  "generated_at": "2026-11-08T16:59:56.454182-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -46,12 +46,12 @@
   ],
   "channels": {
     "configured": 61,
-    "with_programs": 42
+    "with_programs": 44
   },
   "programs": {
-    "total": 911,
+    "total": 958,
     "by_source": {
-      "fallback": 911
+      "fallback": 958
     },
     "by_channel": {
       "Band.br": 18,
@@ -87,6 +87,8 @@
       "SporTV.br": 23,
       "SporTV2.br": 11,
       "SporTV3.br": 18,
+      "TNT.br": 30,
+      "TVAlvoradaDoSul.br": 17,
       "TVAntena10.br": 12,
       "TVBrasil.br": 28,
       "TVCidadeVerde.br": 12,
@@ -99,9 +101,9 @@
     }
   },
   "attempts": {
-    "total": 164,
-    "successful": 84,
-    "failed": 80
+    "total": 160,
+    "successful": 88,
+    "failed": 72
   },
   "files": {
     "epg": "output/epg.xml",
@@ -1063,21 +1065,10 @@
       "date": "2026-11-08",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 30,
       "url": "https://mi.tv/br/canais/tnt",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "TNT.br",
-      "channel_name": "TNT",
-      "date": "2026-11-08",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/tnt: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "TNT.br",
@@ -1085,21 +1076,10 @@
       "date": "2026-11-09",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 30,
       "url": "https://mi.tv/br/canais/tnt",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "TNT.br",
-      "channel_name": "TNT",
-      "date": "2026-11-09",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/tnt: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "DiscoveryChannel.br",
@@ -1723,21 +1703,10 @@
       "date": "2026-11-08",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 17,
       "url": "https://mi.tv/br/canais/tv-alvorada-do-sul-hd",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "TVAlvoradaDoSul.br",
-      "channel_name": "TV ALVORADA DO SUL",
-      "date": "2026-11-08",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/tv-alvorada-do-sul-hd: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "TVAlvoradaDoSul.br",
@@ -1745,21 +1714,10 @@
       "date": "2026-11-09",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 17,
       "url": "https://mi.tv/br/canais/tv-alvorada-do-sul-hd",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "TVAlvoradaDoSul.br",
-      "channel_name": "TV ALVORADA DO SUL",
-      "date": "2026-11-09",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/tv-alvorada-do-sul-hd: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "MeioNorte.br",
