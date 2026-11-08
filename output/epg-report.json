@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T16:50:37.625142-03:00",
+  "generated_at": "2026-11-07T21:34:16.094623-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -46,12 +46,12 @@
   ],
   "channels": {
     "configured": 61,
-    "with_programs": 44
+    "with_programs": 43
   },
   "programs": {
-    "total": 1031,
+    "total": 1009,
     "by_source": {
-      "fallback": 1031
+      "fallback": 1009
     },
     "by_channel": {
       "Band.br": 23,
@@ -88,7 +88,6 @@
       "SporTV2.br": 13,
       "SporTV3.br": 18,
       "TNT.br": 24,
-      "TVAlvoradaDoSul.br": 22,
       "TVAntena10.br": 13,
       "TVBrasil.br": 57,
       "TVCidadeVerde.br": 6,
@@ -101,9 +100,9 @@
     }
   },
   "attempts": {
-    "total": 160,
-    "successful": 88,
-    "failed": 72
+    "total": 162,
+    "successful": 86,
+    "failed": 76
   },
   "files": {
     "epg": "output/epg.xml",
@@ -1703,10 +1702,21 @@
       "date": "2026-11-07",
       "source": "mitv",
       "priority": 1,
-      "success": true,
-      "programs": 22,
+      "success": false,
+      "programs": 0,
       "url": "https://mi.tv/br/canais/tv-alvorada-do-sul-hd",
-      "error": ""
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "TVAlvoradaDoSul.br",
+      "channel_name": "TV ALVORADA DO SUL",
+      "date": "2026-11-07",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/tv-alvorada-do-sul-hd: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
     },
     {
       "channel_id": "TVAlvoradaDoSul.br",
@@ -1714,10 +1724,21 @@
       "date": "2026-11-08",
       "source": "mitv",
       "priority": 1,
-      "success": true,
-      "programs": 22,
+      "success": false,
+      "programs": 0,
       "url": "https://mi.tv/br/canais/tv-alvorada-do-sul-hd",
-      "error": ""
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "TVAlvoradaDoSul.br",
+      "channel_name": "TV ALVORADA DO SUL",
+      "date": "2026-11-08",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/tv-alvorada-do-sul-hd: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
     },
     {
       "channel_id": "MeioNorte.br",
