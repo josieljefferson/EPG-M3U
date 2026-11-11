@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T08:06:00.705267-03:00",
+  "generated_at": "2026-11-11T19:04:27.455581-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -49,9 +49,9 @@
     "with_programs": 44
   },
   "programs": {
-    "total": 1087,
+    "total": 1092,
     "by_source": {
-      "fallback": 1087
+      "fallback": 1092
     },
     "by_channel": {
       "Band.br": 18,
@@ -93,7 +93,7 @@
       "TVBrasil.br": 57,
       "TVCidadeVerde.br": 17,
       "TVClube.br": 23,
-      "TVCultura.br": 64,
+      "TVCultura.br": 69,
       "VenusTV.br": 17,
       "Viva.br": 30,
       "sexprive-brasileirinhas.br": 35,
@@ -1352,7 +1352,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 64,
+      "programs": 69,
       "url": "https://mi.tv/br/canais/cultura-hd",
       "error": ""
     },
@@ -1363,7 +1363,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 64,
+      "programs": 69,
       "url": "https://mi.tv/br/canais/cultura-hd",
       "error": ""
     },
