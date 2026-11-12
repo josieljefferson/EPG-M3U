@@ -253,6 +253,9 @@
   <programme channel="Band.br" start="20261112000000 -0300" stop="20261112010000 -0300">
     <title lang="pt-BR">Jornal da Noite News Acompanhe diariamente notícias do país e do mundo.</title>
   </programme>
+  <programme channel="BandPiaui.br" start="20261112000000 -0300" stop="20261112010000 -0300">
+    <title lang="pt-BR">Jornal da Noite News Acompanhe diariamente notícias do país e do mundo.</title>
+  </programme>
   <programme channel="CNNBrasil.br" start="20261112000000 -0300" stop="20261112010000 -0300">
     <title lang="pt-BR">CNN NewsNight With Abby Phillip News Abby Phillip adota uma abordagem inteligente e perspicaz para as maiores histórias do dia.</title>
   </programme>
@@ -282,6 +285,9 @@
   </programme>
   <programme channel="PlayboyHD.br" start="20261112001900 -0300" stop="20261112004300 -0300">
     <title lang="pt-BR">Praia Brava Temporada 1 Episódio 1 Selena conhece André, cuja casa ela, Renata e Ana alugaram. Ela não resiste ao charme dele, que mora provisoriamen</title>
+  </programme>
+  <programme channel="GloboSP.br" start="20261112002000 -0300" stop="20261112011000 -0300">
+    <title lang="pt-BR">Jornal da Globo News O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia</title>
   </programme>
   <programme channel="RedeGloboTeresina.br" start="20261112002000 -0300" stop="20261112011000 -0300">
     <title lang="pt-BR">Jornal da Globo News O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia</title>
@@ -344,7 +350,7 @@
     <title lang="pt-BR">The Noite com Danilo Gentili Talk Talk show com alto índice de piadas por minuto, que, com muita irreverência, aborda os fatos relevantes do dia. 01:</title>
   </programme>
   <programme channel="TVAntena10.br" start="20261112004500 -0300" stop="20261112014500 -0300">
-    <title lang="pt-BR">Programação IURD Religious Atração é transmitida pela Igreja Universal do Reino de Deus. Sobre mi.tv A mi.tv é um guia de TV inteligente, com mais de</title>
+    <title lang="pt-BR">Programação IURD Religious Atração é transmitida pela Igreja Universal do Reino de Deus. googletag.cmd.push(function() { googletag.display('div-gpt-a</title>
   </programme>
   <programme channel="TVCidadeVerde.br" start="20261112004500 -0300" stop="20261112014500 -0300">
     <title lang="pt-BR">The Noite com Danilo Gentili Talk Talk show com alto índice de piadas por minuto, que, com muita irreverência, aborda os fatos relevantes do dia. 01:</title>
@@ -362,6 +368,9 @@
     <title lang="pt-BR">Cultura Livre Music Com foco na nova música brasileira, o programa recebe cantores e bandas em seu estúdio. Além das apresentações, os artistas falam</title>
   </programme>
   <programme channel="Band.br" start="20261112010000 -0300" stop="20261112020000 -0300">
+    <title lang="pt-BR">Esporte Total Confira as notícias locais do mundo esportivo e os destaques do futebol goiano.</title>
+  </programme>
+  <programme channel="BandPiaui.br" start="20261112010000 -0300" stop="20261112020000 -0300">
     <title lang="pt-BR">Esporte Total Confira as notícias locais do mundo esportivo e os destaques do futebol goiano.</title>
   </programme>
   <programme channel="CNNBrasil.br" start="20261112010000 -0300" stop="20261112020000 -0300">
@@ -388,6 +397,9 @@
   <programme channel="PlayboyHD.br" start="20261112010400 -0300" stop="20261112012600 -0300">
     <title lang="pt-BR">Dream Dates Temporada 1 Episódio 5 Garotas sensuais falam sobre amor e intimidade.</title>
   </programme>
+  <programme channel="GloboSP.br" start="20261112011000 -0300" stop="20261112011500 -0300">
+    <title lang="pt-BR">Radar NFL Football Destaques das principais rodadas da maior liga de futebol americano do mundo.</title>
+  </programme>
   <programme channel="RedeGloboTeresina.br" start="20261112011000 -0300" stop="20261112011500 -0300">
     <title lang="pt-BR">Radar NFL Football Destaques das principais rodadas da maior liga de futebol americano do mundo.</title>
   </programme>
@@ -399,6 +411,9 @@
   </programme>
   <programme channel="VenusTV.br" start="20261112011300 -0300" stop="20261112024300 -0300">
     <title lang="pt-BR">Amantes G...s Adults only No tempo livre, August Taylor se reúne com a melhor amiga e, depois de um aperitivo, decidem fazer um trio. Elas amam fazer</title>
+  </programme>
+  <programme channel="GloboSP.br" start="20261112011500 -0300" stop="20261112015500 -0300">
+    <title lang="pt-BR">Lá na Minha Terra Soap Entre o interior do Nordeste e a metrópole de São Paulo, dois mundos aparentemente distantes se conectam em uma história sobre</title>
   </programme>
   <programme channel="RedeGloboTeresina.br" start="20261112011500 -0300" stop="20261112015500 -0300">
     <title lang="pt-BR">Lá na Minha Terra Soap Entre o interior do Nordeste e a metrópole de São Paulo, dois mundos aparentemente distantes se conectam em uma história sobre</title>
@@ -472,6 +487,9 @@
   <programme channel="TNT.br" start="20261112015500 -0300" stop="20261112021700 -0300">
     <title lang="pt-BR">Um Maluco no Pedaço Temporada 2 Episódio 2 - A Mãe de Todas as Batalhas Ashley pede ajuda a Will e Carlton quando começa a ser perseguida por uma gar</title>
   </programme>
+  <programme channel="GloboSP.br" start="20261112015500 -0300" stop="20261112024000 -0300">
+    <title lang="pt-BR">Por Você Soap Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a úl</title>
+  </programme>
   <programme channel="RedeGloboTeresina.br" start="20261112015500 -0300" stop="20261112024000 -0300">
     <title lang="pt-BR">Por Você Soap Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a úl</title>
   </programme>
@@ -499,6 +517,9 @@
   <programme channel="Band.br" start="20261112020000 -0300" stop="20261112040000 -0300">
     <title lang="pt-BR">Igreja Universal do Reino de Deus Religious Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</title>
   </programme>
+  <programme channel="BandPiaui.br" start="20261112020000 -0300" stop="20261112040000 -0300">
+    <title lang="pt-BR">Igreja Universal do Reino de Deus Religious Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</title>
+  </programme>
   <programme channel="CNNBrasil.br" start="20261112020000 -0300" stop="20261112040000 -0300">
     <title lang="pt-BR">The Story Is With Elex Michaelson News Elex Michaelson apresenta as últimas notícias e atualizações sobre questões políticas, apresentando entrevista</title>
   </programme>
@@ -524,7 +545,7 @@
     <title lang="pt-BR">SBT Notícias News Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia. googletag.cmd.push(function() {</title>
   </programme>
   <programme channel="SBTPiaui.br" start="20261112021500 -0300" stop="20261112031500 -0300">
-    <title lang="pt-BR">SBT Notícias News Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia. Sobre mi.tv A mi.tv é um guia d</title>
+    <title lang="pt-BR">SBT Notícias News Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia. googletag.cmd.push(function() {</title>
   </programme>
   <programme channel="TVCidadeVerde.br" start="20261112021500 -0300" stop="20261112031500 -0300">
     <title lang="pt-BR">SBT Notícias News Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia. googletag.cmd.push(function() {</title>
@@ -570,6 +591,9 @@
   </programme>
   <programme channel="TNT.br" start="20261112024000 -0300" stop="20261112030300 -0300">
     <title lang="pt-BR">Um Maluco no Pedaço Temporada 2 Episódio 4 - Média Quando Will supera Carlton num teste de inteligência, Carlton fica tão desesperado para provar sua</title>
+  </programme>
+  <programme channel="GloboSP.br" start="20261112024000 -0300" stop="20261112032500 -0300">
+    <title lang="pt-BR">Vai que Cola Comedy Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária d</title>
   </programme>
   <programme channel="RedeGloboTeresina.br" start="20261112024000 -0300" stop="20261112032500 -0300">
     <title lang="pt-BR">Vai que Cola Comedy Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária d</title>
@@ -646,6 +670,9 @@
   <programme channel="DiscoveryChannel.br" start="20261112031800 -0300" stop="20261112034200 -0300">
     <title lang="pt-BR">Operação Fronteira - Brasil Temporada 3 Episódio 4 - Motorista em Fuga Tráfico de maconha, fuga de fiscalização e arma ilegal na fronteira.</title>
   </programme>
+  <programme channel="GloboSP.br" start="20261112032500 -0300" stop="20261112040000 -0300">
+    <title lang="pt-BR">Vai que Cola Comedy Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária d</title>
+  </programme>
   <programme channel="RedeGloboTeresina.br" start="20261112032500 -0300" stop="20261112040000 -0300">
     <title lang="pt-BR">Vai que Cola Comedy Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária d</title>
   </programme>
@@ -707,16 +734,22 @@
     <title lang="pt-BR">Porn Stars Adults only Acompanhe filmes para lá de salientes com as maiores estrelas da pornografia.</title>
   </programme>
   <programme channel="Band.br" start="20261112040000 -0300" stop="20261112050000 -0300">
-    <title lang="pt-BR">Igreja Universal do Reino de Deus Religious Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus. Sobre mi.tv A mi.tv é um</title>
+    <title lang="pt-BR">Igreja Universal do Reino de Deus Religious Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus. googletag.cmd.push(functi</title>
+  </programme>
+  <programme channel="BandPiaui.br" start="20261112040000 -0300" stop="20261112050000 -0300">
+    <title lang="pt-BR">Igreja Universal do Reino de Deus Religious Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus. googletag.cmd.push(functi</title>
   </programme>
   <programme channel="CNNBrasil.br" start="20261112040000 -0300" stop="20261112050000 -0300">
     <title lang="pt-BR">CNN Newsroom News Notícias de última hora e histórias em desenvolvimento, apresentadas por um time de repórteres, ao vivo da sede da CNN.</title>
   </programme>
   <programme channel="Cancaonova.br" start="20261112040000 -0300" stop="20261112050000 -0300">
-    <title lang="pt-BR">Rosário da Madrugada Religious Momento de oração e preces dedicado à Virgem Maria. Sobre mi.tv A mi.tv é um guia de TV inteligente, com mais de 200 c</title>
+    <title lang="pt-BR">Rosário da Madrugada Religious Momento de oração e preces dedicado à Virgem Maria. googletag.cmd.push(function() { googletag.display('div-gpt-ad-1570</title>
   </programme>
   <programme channel="ESPN2.br" start="20261112040000 -0300" stop="20261112050000 -0300">
     <title lang="pt-BR">Leeds United x Tottenham Hotspur Campeonato Inglês Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterr</title>
+  </programme>
+  <programme channel="GloboSP.br" start="20261112040000 -0300" stop="20261112050000 -0300">
+    <title lang="pt-BR">Hora 1 News Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejorn</title>
   </programme>
   <programme channel="RedeGloboTeresina.br" start="20261112040000 -0300" stop="20261112050000 -0300">
     <title lang="pt-BR">Hora 1 News Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejorn</title>
@@ -740,7 +773,10 @@
     <title lang="pt-BR">Voz do Povo News Informativo com notícias nacionais e internacionais. Os apresentadores também revelam fatos em destaque na sociedade, além de contar</title>
   </programme>
   <programme channel="Band.br" start="20261112040000 -0300" stop="20261112080000 -0300">
-    <title lang="pt-BR">Igreja Universal do Reino de Deus Religious Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus. 2 min restantes</title>
+    <title lang="pt-BR">Igreja Universal do Reino de Deus Religious Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</title>
+  </programme>
+  <programme channel="BandPiaui.br" start="20261112040000 -0300" stop="20261112080000 -0300">
+    <title lang="pt-BR">Igreja Universal do Reino de Deus Religious Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</title>
   </programme>
   <programme channel="Multishow.br" start="20261112040500 -0300" stop="20261112042900 -0300">
     <title lang="pt-BR">Chapolin Temporada 1 Episódio 113 - O Ventrilouco Chapolin quebrou o boneco de um ventríloquo e, agora, tem que fazer de conta que é o boneco.</title>
@@ -797,7 +833,7 @@
     <title lang="pt-BR">Desapega! Comedy / 2022 Após controlar o seu vício em compras, Rita assume a liderança de um grupo de apoio a compradores compulsivos para ajudar out</title>
   </programme>
   <programme channel="SporTV3.br" start="20261112044500 -0300" stop="20261112085500 -0300">
-    <title lang="pt-BR">Jungle Fight 156 Jungle Fight 156 Decisão da fight do milhão masculina e feminina. Do Ginásio Mauro Pinheiro, em São Paulo, SP. 58 min restantes 08:5</title>
+    <title lang="pt-BR">Jungle Fight 156 Jungle Fight 156 Decisão da fight do milhão masculina e feminina. Do Ginásio Mauro Pinheiro, em São Paulo, SP. 41 min restantes 08:5</title>
   </programme>
   <programme channel="Playboy.br" start="20261112045300 -0300" stop="20261112055300 -0300">
     <title lang="pt-BR">Swing Temporada 5 Episódio 5 Um casal tímido fica impressionado com a paixão que a sala vermelha desperta. googletag.cmd.push(function() { googletag.</title>
@@ -821,7 +857,7 @@
     <title lang="pt-BR">CNN Newsroom News Notícias de última hora e histórias em desenvolvimento, apresentadas por um time de repórteres, ao vivo da sede da CNN. Sobre mi.tv</title>
   </programme>
   <programme channel="GloboNews.br" start="20261112050000 -0300" stop="20261112060000 -0300">
-    <title lang="pt-BR">Jornal GloboNews - Edição das 5 Horas News Os principais fatos que acontecem no Brasil e no mundo. Sobre mi.tv A mi.tv é um guia de TV inteligente, c</title>
+    <title lang="pt-BR">Jornal GloboNews - Edição das 5 Horas News Os principais fatos que acontecem no Brasil e no mundo. googletag.cmd.push(function() { googletag.display(</title>
   </programme>
   <programme channel="JovemPanNews.br" start="20261112050000 -0300" stop="20261112060000 -0300">
     <title lang="pt-BR">Jornal da Manhã - 1ª Edição News O time de comentaristas da Jovem Pan analisa os principais assuntos do dia. googletag.cmd.push(function() { googleta</title>
@@ -830,7 +866,7 @@
     <title lang="pt-BR">Balanço Geral Manhã News O programa apresenta reportagens exclusivas, denúncias e prestação de serviços. googletag.cmd.push(function() { googletag.di</title>
   </programme>
   <programme channel="RedeTV.br" start="20261112050000 -0300" stop="20261112060000 -0300">
-    <title lang="pt-BR">Igreja Internacional da Graça de Deus Religious Acompanhe a programação da Igreja Universal da Graça de Deus. Sobre mi.tv A mi.tv é um guia de TV int</title>
+    <title lang="pt-BR">Igreja Internacional da Graça de Deus Religious Acompanhe a programação da Igreja Universal da Graça de Deus. googletag.cmd.push(function() { googlet</title>
   </programme>
   <programme channel="SporTV2.br" start="20261112050000 -0300" stop="20261112060000 -0300">
     <title lang="pt-BR">Suzano x Guarulhos Superliga Masculina de Vôlei Todas as emoções da principal competição de vôlei masculino entre equipes brasileiras. googletag.cmd.</title>
@@ -854,7 +890,7 @@
     <title lang="pt-BR">Décima Terceira Etapa - Silésia, Polônia Diamond League Os principais nomes do atletismo mundial se reúnem em uma série anual de competições disputad</title>
   </programme>
   <programme channel="RedeTV.br" start="20261112050000 -0300" stop="20261112083000 -0300">
-    <title lang="pt-BR">Igreja Internacional da Graça de Deus Religious Acompanhe a programação da Igreja Universal da Graça de Deus. 30 min restantes</title>
+    <title lang="pt-BR">Igreja Internacional da Graça de Deus Religious Acompanhe a programação da Igreja Universal da Graça de Deus. 13 min restantes</title>
   </programme>
   <programme channel="InvestigacaoDiscovery.br" start="20261112051400 -0300" stop="20261112053700 -0300">
     <title lang="pt-BR">Sinais de um Psicopata Temporada 2 Episódio 6 - Só se Eu Ganhar Alguma Coisa Enquanto é interrogado sobre o sequestro de uma barista de Anchorage, um</title>
@@ -884,7 +920,7 @@
     <title lang="pt-BR">Show da Rodada do Inglês O programa traz todos os pormenores da rodada do campeonato inglês com as pontuações dos clubes, gols e lances mais bonitos.</title>
   </programme>
   <programme channel="SporTV.br" start="20261112053000 -0300" stop="20261112063000 -0300">
-    <title lang="pt-BR">Tchéquia x Espanha Liga das Nações da UEFA Acompanhe as emoções da competição que reúne seleções masculinas de futebol da Europa. Sobre mi.tv A mi.tv</title>
+    <title lang="pt-BR">Tchéquia x Espanha Liga das Nações da UEFA Acompanhe as emoções da competição que reúne seleções masculinas de futebol da Europa. googletag.cmd.push(</title>
   </programme>
   <programme channel="TVBrasil.br" start="20261112053000 -0300" stop="20261112063000 -0300">
     <title lang="pt-BR">Brasil Sobre Duas Rodas Documentary Vamos viajar pelo Vale do Café, no sul do estado do Rio de Janeiro. Nesse percurso, que respira cultura, visitamo</title>
@@ -893,13 +929,13 @@
     <title lang="pt-BR">Sinais de um Psicopata Temporada 2 Episódio 5 - Tenho uma Surpresa para Você Uma mulher chega à casa dos pais e encontra eles no chão, feridos. Seu i</title>
   </programme>
   <programme channel="MeioNorte.br" start="20261112054000 -0300" stop="20261112064000 -0300">
-    <title lang="pt-BR">Meio Norte News Special Resumo das principais notícias do estado do Piauí. Sobre mi.tv A mi.tv é um guia de TV inteligente, com mais de 200 canais de</title>
+    <title lang="pt-BR">Meio Norte News Special Resumo das principais notícias do estado do Piauí. googletag.cmd.push(function() { googletag.display('div-gpt-ad-157078660502</title>
   </programme>
   <programme channel="MeioNorteHD.br" start="20261112054000 -0300" stop="20261112064000 -0300">
-    <title lang="pt-BR">Meio Norte News Special Resumo das principais notícias do estado do Piauí. Sobre mi.tv A mi.tv é um guia de TV inteligente, com mais de 200 canais de</title>
+    <title lang="pt-BR">Meio Norte News Special Resumo das principais notícias do estado do Piauí. googletag.cmd.push(function() { googletag.display('div-gpt-ad-157078660502</title>
   </programme>
   <programme channel="Space.br" start="20261112054000 -0300" stop="20261112064000 -0300">
-    <title lang="pt-BR">Olhos da Lei Temporada 1 Episódio 11 - Ameaças Urbanas COPOM aciona GATE, ROCAM e viaturas em patrulhamento para três emergências. Sobre mi.tv A mi.t</title>
+    <title lang="pt-BR">Olhos da Lei Temporada 1 Episódio 11 - Ameaças Urbanas COPOM aciona GATE, ROCAM e viaturas em patrulhamento para três emergências. googletag.cmd.push</title>
   </programme>
   <programme channel="VenusTV.br" start="20261112054100 -0300" stop="20261112064100 -0300">
     <title lang="pt-BR">Justiceiro - A Paródia Adults only Nem tudo é vingança na vida de Frank Castle. Sempre há tempo para o sexo. googletag.cmd.push(function() { googleta</title>
@@ -994,38 +1030,41 @@
   <programme channel="MeioNorteHD.br" start="20261112060000 -0300" stop="20261112080000 -0300">
     <title lang="pt-BR">Bom Dia Meio Norte News Acompanhe notícias sobre política, economia, negócios, esportes e muito mais.</title>
   </programme>
+  <programme channel="GloboSP.br" start="20261112060000 -0300" stop="20261112083000 -0300">
+    <title lang="pt-BR">Bom Dia SP News As primeiras notícias do estado nas manhãs com informações sobre os fatos mais importantes do dia, entrevistas, acontecimentos, previ</title>
+  </programme>
   <programme channel="RedeGloboTeresina.br" start="20261112060000 -0300" stop="20261112083000 -0300">
-    <title lang="pt-BR">Bom Dia PI News As últimas notícias de Teresina e de todo o estado do Piauí. 25 min restantes</title>
+    <title lang="pt-BR">Bom Dia PI News As últimas notícias de Teresina e de todo o estado do Piauí. 8 min restantes</title>
   </programme>
   <programme channel="SBT.br" start="20261112060000 -0300" stop="20261112083000 -0300">
-    <title lang="pt-BR">Se Liga Brasil News Um telejornal que traz as principais notícias do Brasil, notícias policiais e os temas que repercutem nas redes sociais. 30 min r</title>
+    <title lang="pt-BR">Se Liga Brasil News Um telejornal que traz as principais notícias do Brasil, notícias policiais e os temas que repercutem nas redes sociais. 13 min r</title>
   </programme>
   <programme channel="SBTPiaui.br" start="20261112060000 -0300" stop="20261112083000 -0300">
-    <title lang="pt-BR">Se Liga Brasil News Um telejornal que traz as principais notícias do Brasil, notícias policiais e os temas que repercutem nas redes sociais. 25 min r</title>
+    <title lang="pt-BR">Se Liga Brasil News Um telejornal que traz as principais notícias do Brasil, notícias policiais e os temas que repercutem nas redes sociais. 8 min re</title>
   </programme>
   <programme channel="TVAlvoradaDoSul.br" start="20261112060000 -0300" stop="20261112083000 -0300">
-    <title lang="pt-BR">Bom Dia PI News As últimas notícias de Teresina e de todo o estado do Piauí. 25 min restantes</title>
+    <title lang="pt-BR">Bom Dia PI News As últimas notícias de Teresina e de todo o estado do Piauí. 9 min restantes</title>
   </programme>
   <programme channel="TVCidadeVerde.br" start="20261112060000 -0300" stop="20261112083000 -0300">
-    <title lang="pt-BR">Se Liga Brasil News Um telejornal que traz as principais notícias do Brasil, notícias policiais e os temas que repercutem nas redes sociais. 41 min r</title>
+    <title lang="pt-BR">Se Liga Brasil News Um telejornal que traz as principais notícias do Brasil, notícias policiais e os temas que repercutem nas redes sociais. 23 min r</title>
   </programme>
   <programme channel="TVClube.br" start="20261112060000 -0300" stop="20261112083000 -0300">
-    <title lang="pt-BR">Bom Dia PI News As últimas notícias de Teresina e de todo o estado do Piauí. 41 min restantes</title>
+    <title lang="pt-BR">Bom Dia PI News As últimas notícias de Teresina e de todo o estado do Piauí. 24 min restantes</title>
   </programme>
   <programme channel="Premiere2.br" start="20261112060000 -0300" stop="20261112140000 -0300">
-    <title lang="pt-BR">Premiere 2 Acompanhe a programação pay-per-view. 6 horas 5 min restantes</title>
+    <title lang="pt-BR">Premiere 2 Acompanhe a programação pay-per-view. 5 horas 48 min restantes</title>
   </programme>
   <programme channel="Premiere3.br" start="20261112060000 -0300" stop="20261112140000 -0300">
-    <title lang="pt-BR">Premiere 3 Acompanhe a programação pay-per-view. 6 horas 5 min restantes</title>
+    <title lang="pt-BR">Premiere 3 Acompanhe a programação pay-per-view. 5 horas 48 min restantes</title>
   </programme>
   <programme channel="Premiere4.br" start="20261112060000 -0300" stop="20261112140000 -0300">
-    <title lang="pt-BR">Premiere 4 Acompanhe a programação pay-per-view. 6 horas 5 min restantes</title>
+    <title lang="pt-BR">Premiere 4 Acompanhe a programação pay-per-view. 5 horas 48 min restantes</title>
   </programme>
   <programme channel="Premiere6.br" start="20261112060000 -0300" stop="20261112140000 -0300">
-    <title lang="pt-BR">Premiere 6 Acompanhe a programação pay-per-view. 6 horas 4 min restantes</title>
+    <title lang="pt-BR">Premiere 6 Acompanhe a programação pay-per-view. 5 horas 47 min restantes</title>
   </programme>
   <programme channel="Premiere7.br" start="20261112060000 -0300" stop="20261112140000 -0300">
-    <title lang="pt-BR">Premiere 7 Acompanhe a programação pay-per-view. 6 horas 4 min restantes</title>
+    <title lang="pt-BR">Premiere 7 Acompanhe a programação pay-per-view. 5 horas 47 min restantes</title>
   </programme>
   <programme channel="tv.assembleia.piaui.br" start="20261112060000 -0300" stop="20261113060000 -0300">
     <title lang="pt-BR">– PROGRAMAÇÃO LIVRE DOMINGO</title>
@@ -1076,7 +1115,7 @@
     <title lang="pt-BR">Chama no Privé Erotic Aborda os desafios dos relacionamentos e da sexualidade. Com bom humor e respeito, o programa reúne personalidades para compart</title>
   </programme>
   <programme channel="GloboNews.br" start="20261112063000 -0300" stop="20261112082500 -0300">
-    <title lang="pt-BR">GloboNews em Ponto News Mônica Waldvogel e Nilson Klava apresentam as principais notícias e informações da manhã. 23 min restantes</title>
+    <title lang="pt-BR">GloboNews em Ponto News Mônica Waldvogel e Nilson Klava apresentam as principais notícias e informações da manhã. 6 min restantes</title>
   </programme>
   <programme channel="Multishow.br" start="20261112063100 -0300" stop="20261112070000 -0300">
     <title lang="pt-BR">Tô de Graça Temporada 7 Episódio 2 - Retrato Falado Um retrato falado agita o bairro e Vilso se vê no olho do furacão. Enquanto a polícia investiga,</title>
@@ -1121,16 +1160,16 @@
     <title lang="pt-BR">- JORNAL BOM DIA ASSEMBLEIA - AO VIVO</title>
   </programme>
   <programme channel="SexyHot.br" start="20261112070000 -0300" stop="20261112082500 -0300">
-    <title lang="pt-BR">Aniversário de Namoro Adults only 35 min restantes</title>
+    <title lang="pt-BR">Aniversário de Namoro Adults only 19 min restantes</title>
   </programme>
   <programme channel="SporTV.br" start="20261112070000 -0300" stop="20261112083000 -0300">
-    <title lang="pt-BR">Troca de Passes O dia a dia do esporte e as principais notícias pelo país. 33 min restantes</title>
+    <title lang="pt-BR">Troca de Passes O dia a dia do esporte e as principais notícias pelo país. 16 min restantes</title>
   </programme>
   <programme channel="SporTV2.br" start="20261112070000 -0300" stop="20261112090000 -0300">
     <title lang="pt-BR">Décima Quarta Etapa: Zurique, Suíça Diamond League Os principais nomes do atletismo mundial se reúnem em uma série anual de competições disputada em</title>
   </programme>
   <programme channel="JovemPanNews.br" start="20261112070000 -0300" stop="20261112100000 -0300">
-    <title lang="pt-BR">Jornal da Manhã - 2ª Edição News O time de comentaristas da Jovem Pan analisa os principais assuntos do dia. 1 hora 58 min restantes</title>
+    <title lang="pt-BR">Jornal da Manhã - 2ª Edição News O time de comentaristas da Jovem Pan analisa os principais assuntos do dia. 1 hora 41 min restantes</title>
   </programme>
   <programme channel="tv.assembleia.piaui.br" start="20261112070000 -0300" stop="20261112103000 -0300">
     <title lang="pt-BR">- CINE KIDS</title>
@@ -1139,7 +1178,7 @@
     <title lang="pt-BR">Balanço Geral Manhã News O programa apresenta reportagens exclusivas, denúncias e prestação de serviços.</title>
   </programme>
   <programme channel="TVAntena10.br" start="20261112070500 -0300" stop="20261112080000 -0300">
-    <title lang="pt-BR">Piauí no Ar News Denúncias da comunidade, operações policiais e as últimas notícias do estado do Piauí. 10 min restantes</title>
+    <title lang="pt-BR">Piauí no Ar News Denúncias da comunidade, operações policiais e as últimas notícias do estado do Piauí.</title>
   </programme>
   <programme channel="TVBrasil.br" start="20261112070600 -0300" stop="20261112071400 -0300">
     <title lang="pt-BR">Lia, Pedro e o Minimundo Temporada 1 Episódio 5 Lia é uma menina curiosa que mora no coração do Pantanal brasileiro. Pedro, primo de Lia, vem da cida</title>
@@ -1184,13 +1223,13 @@
     <title lang="pt-BR">- MATUTANDO - REPRISE</title>
   </programme>
   <programme channel="BandSports.br" start="20261112073000 -0300" stop="20261112083000 -0300">
-    <title lang="pt-BR">Depois do Jogo Gols da rodada, análise dos resultados e discussões das polêmicas do mundo da bola. 39 min restantes</title>
+    <title lang="pt-BR">Depois do Jogo Gols da rodada, análise dos resultados e discussões das polêmicas do mundo da bola. 22 min restantes</title>
   </programme>
   <programme channel="RecordTV.br" start="20261112073000 -0300" stop="20261112084000 -0300">
-    <title lang="pt-BR">Balanço Geral SP Manhã News Acompanhe as notícias mais importantes da região de São Paulo. 40 min restantes</title>
+    <title lang="pt-BR">Balanço Geral SP Manhã News Acompanhe as notícias mais importantes da região de São Paulo. 24 min restantes</title>
   </programme>
   <programme channel="VenusTV.br" start="20261112073000 -0300" stop="20261112085300 -0300">
-    <title lang="pt-BR">Síntese Law Os destaques do Plenário do STF da semana. 48 min restantes</title>
+    <title lang="pt-BR">Síntese Law Os destaques do Plenário do STF da semana. 31 min restantes</title>
   </programme>
   <programme channel="SextremeBrazil.br" start="20261112073000 -0300" stop="20261112090000 -0300">
     <title lang="pt-BR">Sou Travessa para o meu Homem 2 Adults only / 2024 Namoradas sensuais sabem exatamente onde beijar e causar prazer para deixar um homem louco. E ela</title>
@@ -1220,10 +1259,10 @@
     <title lang="pt-BR">Vivendo com o Inimigo Temporada 16 Episódio 4 - O Seu Ídolo Era Ted Bundy Debra vê o mal nos olhos do seu irmão mais novo, mas ela ainda não sabe que</title>
   </programme>
   <programme channel="Playboy.br" start="20261112075400 -0300" stop="20261112081900 -0300">
-    <title lang="pt-BR">Playboy Trip: Patagonia Temporada 1 Episódio 9 - Horsing Around Montando a cavalo nu. 14 min restantes</title>
+    <title lang="pt-BR">Playboy Trip: Patagonia Temporada 1 Episódio 9 - Horsing Around Montando a cavalo nu.</title>
   </programme>
   <programme channel="PlayboyHD.br" start="20261112075400 -0300" stop="20261112081900 -0300">
-    <title lang="pt-BR">Playboy Trip: Patagonia Temporada 1 Episódio 9 - Horsing Around Montando a cavalo nu. 14 min restantes</title>
+    <title lang="pt-BR">Playboy Trip: Patagonia Temporada 1 Episódio 9 - Horsing Around Montando a cavalo nu.</title>
   </programme>
   <programme channel="TVCultura.br" start="20261112075500 -0300" stop="20261112080000 -0300">
     <title lang="pt-BR">Parquinho Jurássico Children Ágata, Enzo, Helena e Kauê são dinossauros que viveram no Brasil há mais de 70 milhões de anos. Juntos, os quatro vivem</title>
@@ -1240,14 +1279,17 @@
   <programme channel="Band.br" start="20261112080000 -0300" stop="20261112083000 -0300">
     <title lang="pt-BR">AgroBand Agriculture Acompanhe todas as informações sobre agricultura, pecuária, produção, cooperativismo, agroindústria, reflorestamento, economia a</title>
   </programme>
+  <programme channel="BandPiaui.br" start="20261112080000 -0300" stop="20261112083000 -0300">
+    <title lang="pt-BR">AgroBand Agriculture Acompanhe todas as informações sobre agricultura, pecuária, produção, cooperativismo, agroindústria, reflorestamento, economia a</title>
+  </programme>
   <programme channel="Multishow.br" start="20261112080000 -0300" stop="20261112083000 -0300">
     <title lang="pt-BR">Top TVZ Music Confira os videoclipes mais votados da semana pelos internautas no site do Multishow. Veja os 20 melhores clipes, legendados em portugu</title>
   </programme>
   <programme channel="sexprive-brasileirinhas.br" start="20261112080000 -0300" stop="20261112083000 -0300">
-    <title lang="pt-BR">HB Erotic</title>
+    <title lang="pt-BR">HB Erotic 23 min restantes</title>
   </programme>
   <programme channel="CNNBrasil.br" start="20261112080000 -0300" stop="20261112090000 -0300">
-    <title lang="pt-BR">CNN This Morning News Acompanhe a repercussão dos principais acontecimentos notícia em todo o planeta. 58 min restantes</title>
+    <title lang="pt-BR">CNN This Morning News Acompanhe a repercussão dos principais acontecimentos notícia em todo o planeta. 41 min restantes</title>
   </programme>
   <programme channel="ESPN.br" start="20261112080000 -0300" stop="20261112090000 -0300">
     <title lang="pt-BR">SportsCenter Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião</title>
@@ -1262,16 +1304,16 @@
     <title lang="pt-BR">- JORNAL BOM DIA ASSEMBLEIA – REPRISE</title>
   </programme>
   <programme channel="Cancaonova.br" start="20261112080000 -0300" stop="20261112091500 -0300">
-    <title lang="pt-BR">Sorrindo pra Vida Religious Junte-se a um grupo diário de oração, música e meditação da palavra de Deus.</title>
+    <title lang="pt-BR">Sorrindo pra Vida Religious Junte-se a um grupo diário de oração, música e meditação da palavra de Deus. 1 hora 9 min restantes</title>
   </programme>
   <programme channel="TVAntena10.br" start="20261112080000 -0300" stop="20261112095000 -0300">
-    <title lang="pt-BR">Piauí no Ar News Denúncias da comunidade, operações policiais e as últimas notícias do estado do Piauí.</title>
+    <title lang="pt-BR">Piauí no Ar News Denúncias da comunidade, operações policiais e as últimas notícias do estado do Piauí. 1 hora 43 min restantes</title>
   </programme>
   <programme channel="MeioNorte.br" start="20261112080000 -0300" stop="20261112100000 -0300">
-    <title lang="pt-BR">Central Meio Norte News Programa traz análises da política piauiense e nacional, com participação de comentaristas. 1 hora 55 min restantes</title>
+    <title lang="pt-BR">Central Meio Norte News Programa traz análises da política piauiense e nacional, com participação de comentaristas. 1 hora 38 min restantes</title>
   </programme>
   <programme channel="MeioNorteHD.br" start="20261112080000 -0300" stop="20261112100000 -0300">
-    <title lang="pt-BR">Central Meio Norte News Programa traz análises da política piauiense e nacional, com participação de comentaristas. 1 hora 55 min restantes</title>
+    <title lang="pt-BR">Central Meio Norte News Programa traz análises da política piauiense e nacional, com participação de comentaristas. 1 hora 38 min restantes</title>
   </programme>
   <programme channel="TVBrasil.br" start="20261112080800 -0300" stop="20261112082000 -0300">
     <title lang="pt-BR">Massinhas Temporada 1 Episódio 4 - Na Cozinha Tem uma Colher As massinhas de modelar Lila, Bel e Max escapam da mochila de uma criança de cinco anos</title>
@@ -1283,10 +1325,10 @@
     <title lang="pt-BR">Batman &amp; Robin Action / 1997 / 3.7 A dupla dinâmica enfrenta os supervilões Mr. Freeze e sedutora ecoterrorista Hera Venenosa. Mas, para poder livrar</title>
   </programme>
   <programme channel="Playboy.br" start="20261112081900 -0300" stop="20261112084400 -0300">
-    <title lang="pt-BR">Playboy Trip: Patagonia Temporada 1 Episódio 10 - Just For Kicks Despindo-se no campo de futebol.</title>
+    <title lang="pt-BR">Playboy Trip: Patagonia Temporada 1 Episódio 10 - Just For Kicks Despindo-se no campo de futebol. 22 min restantes</title>
   </programme>
   <programme channel="PlayboyHD.br" start="20261112081900 -0300" stop="20261112084400 -0300">
-    <title lang="pt-BR">Playboy Trip: Patagonia Temporada 1 Episódio 10 - Just For Kicks Despindo-se no campo de futebol.</title>
+    <title lang="pt-BR">Playboy Trip: Patagonia Temporada 1 Episódio 10 - Just For Kicks Despindo-se no campo de futebol. 22 min restantes</title>
   </programme>
   <programme channel="TVBrasil.br" start="20261112082000 -0300" stop="20261112082500 -0300">
     <title lang="pt-BR">Mundo Bita - Bita e o Nosso Mundo Temporada 1 Episódio 4 - Tô Dodói Confira 12 clipes musicais que trazem um pouquinho do que está ao redor da crianç</title>
@@ -1315,11 +1357,17 @@
   <programme channel="Band.br" start="20261112083000 -0300" stop="20261112090000 -0300">
     <title lang="pt-BR">BandSports News As notícias esportivas mais relevantes do Brasil e do mundo.</title>
   </programme>
+  <programme channel="BandPiaui.br" start="20261112083000 -0300" stop="20261112090000 -0300">
+    <title lang="pt-BR">BandSports News As notícias esportivas mais relevantes do Brasil e do mundo.</title>
+  </programme>
   <programme channel="BandSports.br" start="20261112083000 -0300" stop="20261112090000 -0300">
     <title lang="pt-BR">BandSports News As notícias esportivas mais relevantes do Brasil e do mundo.</title>
   </programme>
   <programme channel="sexprive-brasileirinhas.br" start="20261112083000 -0300" stop="20261112090000 -0300">
     <title lang="pt-BR">Porn Stars Adults only Acompanhe filmes para lá de salientes com as maiores estrelas da pornografia.</title>
+  </programme>
+  <programme channel="GloboSP.br" start="20261112083000 -0300" stop="20261112093000 -0300">
+    <title lang="pt-BR">Bom Dia Brasil News A cobertura de notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.</title>
   </programme>
   <programme channel="RedeGloboTeresina.br" start="20261112083000 -0300" stop="20261112093000 -0300">
     <title lang="pt-BR">Bom Dia Brasil News A cobertura de notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.</title>
@@ -1408,6 +1456,9 @@
   <programme channel="Band.br" start="20261112090000 -0300" stop="20261112110000 -0300">
     <title lang="pt-BR">Bora Brasil News Acompanhe as principais informações do Brasil e do mundo com leveza, interatividade e credibilidade.</title>
   </programme>
+  <programme channel="BandPiaui.br" start="20261112090000 -0300" stop="20261112110000 -0300">
+    <title lang="pt-BR">Bora Brasil News Acompanhe as principais informações do Brasil e do mundo com leveza, interatividade e credibilidade.</title>
+  </programme>
   <programme channel="ESPN.br" start="20261112090000 -0300" stop="20261112110000 -0300">
     <title lang="pt-BR">Leeds United x Tottenham Hotspur Campeonato Inglês Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterr</title>
   </programme>
@@ -1464,6 +1515,9 @@
   </programme>
   <programme channel="tv.assembleia.piaui.br" start="20261112093000 -0300" stop="20261112100000 -0300">
     <title lang="pt-BR">- CINE KIDS</title>
+  </programme>
+  <programme channel="GloboSP.br" start="20261112093000 -0300" stop="20261112103500 -0300">
+    <title lang="pt-BR">Encontro com Patrícia Poeta Entertainment O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jo</title>
   </programme>
   <programme channel="RedeGloboTeresina.br" start="20261112093000 -0300" stop="20261112103500 -0300">
     <title lang="pt-BR">Encontro com Patrícia Poeta Entertainment O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jo</title>
@@ -1612,6 +1666,9 @@
   <programme channel="SexyHot.br" start="20261112103400 -0300" stop="20261112111700 -0300">
     <title lang="pt-BR">Flashback Adults only / 2022 / 5.4 Dez anos após terminarem o relacionamento, Augusta e Zé se esbarram em uma cafeteria e acionam gatilhos do passado</title>
   </programme>
+  <programme channel="GloboSP.br" start="20261112103500 -0300" stop="20261112114500 -0300">
+    <title lang="pt-BR">Mais Você Talk Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia</title>
+  </programme>
   <programme channel="RedeGloboTeresina.br" start="20261112103500 -0300" stop="20261112114500 -0300">
     <title lang="pt-BR">Mais Você Talk Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia</title>
   </programme>
@@ -1661,6 +1718,9 @@
     <title lang="pt-BR">Connect the World News O programa leva o telespectador a uma jornada que atravessa continentes e vai além das manchetes, incluindo histórias que estã</title>
   </programme>
   <programme channel="Band.br" start="20261112110000 -0300" stop="20261112120000 -0300">
+    <title lang="pt-BR">Jogo Aberto As principais notícias do esporte no estado do Maranhão e no Brasil.</title>
+  </programme>
+  <programme channel="BandPiaui.br" start="20261112110000 -0300" stop="20261112120000 -0300">
     <title lang="pt-BR">Jogo Aberto As principais notícias do esporte no estado do Maranhão e no Brasil.</title>
   </programme>
   <programme channel="tv.assembleia.piaui.br" start="20261112110000 -0300" stop="20261112120000 -0300">
@@ -1750,6 +1810,9 @@
   <programme channel="TVCultura.br" start="20261112114500 -0300" stop="20261112120000 -0300">
     <title lang="pt-BR">Quintal da Cultura Children Os irmãos Ludovico e Doroteia, o amigo Osório e sua tia Ofélia brincam e se divertem aprendendo coisas novas ao lado de u</title>
   </programme>
+  <programme channel="GloboSP.br" start="20261112114500 -0300" stop="20261112130000 -0300">
+    <title lang="pt-BR">SP1 News Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos paulistanos, como</title>
+  </programme>
   <programme channel="RedeGloboTeresina.br" start="20261112114500 -0300" stop="20261112130000 -0300">
     <title lang="pt-BR">PI1 News Denúncias, investigação, problemas das comunidades, defesa do consumidor, saúde, educação, economia doméstica, política, cultura e previsão</title>
   </programme>
@@ -1788,6 +1851,9 @@
   </programme>
   <programme channel="Cancaonova.br" start="20261112120000 -0300" stop="20261112121000 -0300">
     <title lang="pt-BR">Âncora do Jornalismo Religious Os destaques do dia de forma sucinta e objetiva. Seguindo a linha editorial do Jornalismo "Canção Nova - A serviço da</title>
+  </programme>
+  <programme channel="BandPiaui.br" start="20261112120000 -0300" stop="20261112123000 -0300">
+    <title lang="pt-BR">Jogo Aberto - Piauí Sports talk Acompanhe as principais notícias do esporte no estado do Piauí e no Brasil.</title>
   </programme>
   <programme channel="sexprive-brasileirinhas.br" start="20261112120000 -0300" stop="20261112123000 -0300">
     <title lang="pt-BR">Carona do Ted Adults only Se tudo pode acontecer entre quatro paredes, também pode sobre quatro rodas. Seguindo a onda das startups de mobilidade urb</title>
@@ -1861,6 +1927,9 @@
   <programme channel="sexprive-brasileirinhas.br" start="20261112123000 -0300" stop="20261112130000 -0300">
     <title lang="pt-BR">HB Erotic</title>
   </programme>
+  <programme channel="BandPiaui.br" start="20261112123000 -0300" stop="20261112135000 -0300">
+    <title lang="pt-BR">Boa Tarde Piauí News Acompanhe o jornal da tarde com notícias e reportagens do cotidiano do Piauí.</title>
+  </programme>
   <programme channel="tv.assembleia.piaui.br" start="20261112123000 -0300" stop="20261112143000 -0300">
     <title lang="pt-BR">- BOM GOSTO</title>
   </programme>
@@ -1881,6 +1950,9 @@
   </programme>
   <programme channel="TVCultura.br" start="20261112130000 -0300" stop="20261112131500 -0300">
     <title lang="pt-BR">Cocoricó Children Júlio é um menino de cidade grande que adora tocar gaita. Nas férias, ele vai para a casa dos seus avós e fica encantado com a Faze</title>
+  </programme>
+  <programme channel="GloboSP.br" start="20261112130000 -0300" stop="20261112132500 -0300">
+    <title lang="pt-BR">Globo Esporte SP As últimas notícias dos principais eventos do mundo esportivo com destaque para os times do estado.</title>
   </programme>
   <programme channel="RedeGloboTeresina.br" start="20261112130000 -0300" stop="20261112132500 -0300">
     <title lang="pt-BR">Globo Esporte PI As últimas notícias dos principais eventos do mundo esportivo com foco nos times do estado.</title>
@@ -1963,6 +2035,9 @@
   <programme channel="SexyHot.br" start="20261112132500 -0300" stop="20261112134900 -0300">
     <title lang="pt-BR">Batalha das Sex Influencers Adults only Quatro criadoras de conteúdo adulto dividem uma casa cheia de tensão, desejo e estratégia. Entre desafios cri</title>
   </programme>
+  <programme channel="GloboSP.br" start="20261112132500 -0300" stop="20261112144500 -0300">
+    <title lang="pt-BR">Jornal Hoje News As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.</title>
+  </programme>
   <programme channel="RedeGloboTeresina.br" start="20261112132500 -0300" stop="20261112144500 -0300">
     <title lang="pt-BR">Jornal Hoje News As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.</title>
   </programme>
@@ -2028,6 +2103,9 @@
   </programme>
   <programme channel="TVCultura.br" start="20261112135000 -0300" stop="20261112140000 -0300">
     <title lang="pt-BR">Milo Children Milo é um gatinho curioso que vive grandes aventuras com seus melhores amigos. De explorar galáxias e mundos fantásticos, a cozinhar, c</title>
+  </programme>
+  <programme channel="BandPiaui.br" start="20261112135000 -0300" stop="20261112143000 -0300">
+    <title lang="pt-BR">Vem com a Gente Entertainment Programa leve, divertido e informativo para suas tardes com conteúdo recheado de boas histórias.</title>
   </programme>
   <programme channel="Viva.br" start="20261112135000 -0300" stop="20261112143700 -0300">
     <title lang="pt-BR">Final Feliz Soap Dona Sinhá se coloca em apuros e Olegário tenta uma maneira de ajudá-la. Suzy perde a paciência em uma discussão com Débora e acaba</title>
@@ -2137,6 +2215,9 @@
   <programme channel="Band.br" start="20261112143000 -0300" stop="20261112160000 -0300">
     <title lang="pt-BR">Melhor da Tarde Entertainment Programa promove dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um</title>
   </programme>
+  <programme channel="BandPiaui.br" start="20261112143000 -0300" stop="20261112160000 -0300">
+    <title lang="pt-BR">Melhor da Tarde Entertainment Programa promove dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um</title>
+  </programme>
   <programme channel="SextremeBrazil.br" start="20261112143100 -0300" stop="20261112160000 -0300">
     <title lang="pt-BR">Clientes Satisfeitos Adults only / 2022 Belas mulheres de negócios sabem que a melhor maneira de manter um cliente é deixá-lo satisfeito.</title>
   </programme>
@@ -2151,6 +2232,9 @@
   </programme>
   <programme channel="TVCultura.br" start="20261112144500 -0300" stop="20261112150000 -0300">
     <title lang="pt-BR">Quintal TV Educational Com uma linguagem lúdica e leve, temas contemporâneos são abordados pelo olhar diverso de crianças.</title>
+  </programme>
+  <programme channel="GloboSP.br" start="20261112144500 -0300" stop="20261112152500 -0300">
+    <title lang="pt-BR">Roque Santeiro - Edição Especial Soap Em Asa Branca, moradores vivem em função dos supostos milagres de Roque Santeiro, que teria morrido como mártir</title>
   </programme>
   <programme channel="RedeGloboTeresina.br" start="20261112144500 -0300" stop="20261112152500 -0300">
     <title lang="pt-BR">Roque Santeiro - Edição Especial Soap Em Asa Branca, moradores vivem em função dos supostos milagres de Roque Santeiro, que teria morrido como mártir</title>
@@ -2217,6 +2301,9 @@
   </programme>
   <programme channel="Viva.br" start="20261112152500 -0300" stop="20261112161500 -0300">
     <title lang="pt-BR">Rock Story Soap Gui acredita que Diana levou Chiara para arruinar sua festa; Gordo encontra Chiara e avisa a Diana que levará a neta ao casório; Léo</title>
+  </programme>
+  <programme channel="GloboSP.br" start="20261112152500 -0300" stop="20261112165500 -0300">
+    <title lang="pt-BR">Shooting Stars - A Vida de LeBron James Biography / 2023 Sonhando em viver de basquete, LeBron James começa sua trajetória com time da escola. Com am</title>
   </programme>
   <programme channel="RedeGloboTeresina.br" start="20261112152500 -0300" stop="20261112171000 -0300">
     <title lang="pt-BR">Shooting Stars - A Vida de LeBron James Biography / 2023 Sonhando em viver de basquete, LeBron James começa sua trajetória com time da escola. Com am</title>
@@ -2317,6 +2404,9 @@
   <programme channel="Cancaonova.br" start="20261112160000 -0300" stop="20261112172800 -0300">
     <title lang="pt-BR">Quinta-Feira de Adoração Religious Acompanhe evento repleto de atividades voltadas para o diálogo com Deus, incluindo momentos de louvor, oração, pre</title>
   </programme>
+  <programme channel="BandPiaui.br" start="20261112160000 -0300" stop="20261112173000 -0300">
+    <title lang="pt-BR">Brasil Urgente News Acompanhe os principais acontecimentos do dia no Piauí, com foco em temas do cotidiano.</title>
+  </programme>
   <programme channel="SextremeBrazil.br" start="20261112160000 -0300" stop="20261112173000 -0300">
     <title lang="pt-BR">Ninfomaníacas, P...s e B...s Adults only / 2025 Jovens lindas têm traseiros redondos e suculentos que imploram para serem apertados. Do bumbum enorme</title>
   </programme>
@@ -2407,6 +2497,9 @@
   <programme channel="Space.br" start="20261112165100 -0300" stop="20261112173500 -0300">
     <title lang="pt-BR">CSI: Miami Temporada 4 Episódio 16 - Deviant A convicted child molester is found murdered in Alex's neighborhood.</title>
   </programme>
+  <programme channel="GloboSP.br" start="20261112165500 -0300" stop="20261112171000 -0300">
+    <title lang="pt-BR">Boletim SP2 News Boletim com as principais notícias de São Paulo.</title>
+  </programme>
   <programme channel="SporTV3.br" start="20261112165500 -0300" stop="20261112173500 -0300">
     <title lang="pt-BR">Programação SporTV3 Acompanhe a programação do canal.</title>
   </programme>
@@ -2436,6 +2529,9 @@
   </programme>
   <programme channel="tv.assembleia.piaui.br" start="20261112171000 -0300" stop="20261112172000 -0300">
     <title lang="pt-BR">- ESPORTE NA ÁREA – AO VIVO</title>
+  </programme>
+  <programme channel="GloboSP.br" start="20261112171000 -0300" stop="20261112182500 -0300">
+    <title lang="pt-BR">Vale a Pena Ver de Novo - Avenida Brasil Soap Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade d</title>
   </programme>
   <programme channel="RedeGloboTeresina.br" start="20261112171000 -0300" stop="20261112182500 -0300">
     <title lang="pt-BR">Vale a Pena Ver de Novo - Avenida Brasil Soap Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade d</title>
@@ -2487,6 +2583,9 @@
   </programme>
   <programme channel="sexprive-brasileirinhas.br" start="20261112173000 -0300" stop="20261112180000 -0300">
     <title lang="pt-BR">Porn Stars Adults only Acompanhe filmes para lá de salientes com as maiores estrelas da pornografia.</title>
+  </programme>
+  <programme channel="BandPiaui.br" start="20261112173000 -0300" stop="20261112185000 -0300">
+    <title lang="pt-BR">Brasil Urgente News Acompanhe os principais acontecimentos do dia no Piauí, com foco em temas do cotidiano.</title>
   </programme>
   <programme channel="SextremeBrazil.br" start="20261112173000 -0300" stop="20261112190100 -0300">
     <title lang="pt-BR">Papai C... a Babá Adults only / 2019 Em cenários quentes, homens transam com mulheres lindas e sensuais da vizinhança.</title>
@@ -2611,6 +2710,9 @@
   <programme channel="Space.br" start="20261112182100 -0300" stop="20261112190600 -0300">
     <title lang="pt-BR">CSI Investigação Criminal Temporada 10 Episódio 15 - Neverland Um menino é assassinado e a equipe descobre uma evidência que poderia conectar sua mor</title>
   </programme>
+  <programme channel="GloboSP.br" start="20261112182500 -0300" stop="20261112191000 -0300">
+    <title lang="pt-BR">Lá na Minha Terra Soap Entre o interior do Nordeste e a metrópole de São Paulo, dois mundos aparentemente distantes se conectam em uma história sobre</title>
+  </programme>
   <programme channel="RedeGloboTeresina.br" start="20261112182500 -0300" stop="20261112191000 -0300">
     <title lang="pt-BR">Lá na Minha Terra Soap Entre o interior do Nordeste e a metrópole de São Paulo, dois mundos aparentemente distantes se conectam em uma história sobre</title>
   </programme>
@@ -2671,6 +2773,9 @@
   <programme channel="SexyHot.br" start="20261112184600 -0300" stop="20261112191700 -0300">
     <title lang="pt-BR">Noite de Namoro Adults only Lara chega em casa e é recebida por Catra do jeito que ela gosta, com uma noite de muito sexo.</title>
   </programme>
+  <programme channel="BandPiaui.br" start="20261112185000 -0300" stop="20261112192000 -0300">
+    <title lang="pt-BR">Band Cidade News Acompanhe as notícias diárias mais importantes do estado do Piauí.</title>
+  </programme>
   <programme channel="RecordTV.br" start="20261112185000 -0300" stop="20261112195500 -0300">
     <title lang="pt-BR">Cidade Alerta News Programa jornalístico que transmite informações com agilidade e credibilidade, oferecendo ao público uma visão diferente da notíci</title>
   </programme>
@@ -2716,6 +2821,9 @@
   <programme channel="PlayboyHD.br" start="20261112190700 -0300" stop="20261112193100 -0300">
     <title lang="pt-BR">Praia Brava Temporada 1 Episódio 2 No segundo dia no paraíso de Praia Brava, as três amigas seduzem os "ratos de praia" André, João e Marcio, cada um</title>
   </programme>
+  <programme channel="GloboSP.br" start="20261112191000 -0300" stop="20261112194000 -0300">
+    <title lang="pt-BR">SP2 News Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos paulistanos, como</title>
+  </programme>
   <programme channel="RedeGloboTeresina.br" start="20261112191000 -0300" stop="20261112194000 -0300">
     <title lang="pt-BR">PI2 News Acompanhe denúncias, investigação, problemas das comunidades, defesa do consumidor, saúde, educação, economia doméstica, política, cultura e</title>
   </programme>
@@ -2738,6 +2846,9 @@
     <title lang="pt-BR">O Cravo e a Rosa Soap Catarina provoca Petruchio; Fábio tenta se aproximar de Lourdes; Catarina conhece Fátima; Edmundo faz uma promessa a Heitor; Co</title>
   </programme>
   <programme channel="Band.br" start="20261112192000 -0300" stop="20261112203000 -0300">
+    <title lang="pt-BR">Jornal da Band News Os principais fatos do Brasil e do mundo relatados com imparcialidade e profundidade.</title>
+  </programme>
+  <programme channel="BandPiaui.br" start="20261112192000 -0300" stop="20261112203000 -0300">
     <title lang="pt-BR">Jornal da Band News Os principais fatos do Brasil e do mundo relatados com imparcialidade e profundidade.</title>
   </programme>
   <programme channel="TNT.br" start="20261112192800 -0300" stop="20261112211300 -0300">
@@ -2769,6 +2880,9 @@
   </programme>
   <programme channel="PlayboyHD.br" start="20261112193100 -0300" stop="20261112210100 -0300">
     <title lang="pt-BR">College Busty Babysitters Adults only / 2016 Rapazes muito pervertidos e com muito tempo livre se dedicam a espiar as colegas. Elas têm seios gostoso</title>
+  </programme>
+  <programme channel="GloboSP.br" start="20261112194000 -0300" stop="20261112203000 -0300">
+    <title lang="pt-BR">Por Você Soap Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a úl</title>
   </programme>
   <programme channel="RedeGloboTeresina.br" start="20261112194000 -0300" stop="20261112203000 -0300">
     <title lang="pt-BR">Por Você Soap Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a úl</title>
@@ -2893,6 +3007,9 @@
   <programme channel="Band.br" start="20261112203000 -0300" stop="20261112205500 -0300">
     <title lang="pt-BR">A Traição Temporada 2026 Episódio 4 Güzide é uma dedicada juíza de vara de família que acredita ter um casamento e uma vida exemplares. No entanto, u</title>
   </programme>
+  <programme channel="BandPiaui.br" start="20261112203000 -0300" stop="20261112205500 -0300">
+    <title lang="pt-BR">A Traição Temporada 2026 Episódio 4 Güzide é uma dedicada juíza de vara de família que acredita ter um casamento e uma vida exemplares. No entanto, u</title>
+  </programme>
   <programme channel="ESPN2.br" start="20261112203000 -0300" stop="20261112210000 -0300">
     <title lang="pt-BR">Show da Rodada do Italiano Os principais destaques das partidas da Lega Serie A, primeira divisão do Campeonato Italiano de futebol masculino, com os</title>
   </programme>
@@ -2901,6 +3018,9 @@
   </programme>
   <programme channel="sexprive-brasileirinhas.br" start="20261112203000 -0300" stop="20261112210000 -0300">
     <title lang="pt-BR">Celebridades Adults only Saiba tudo sobre os famosos que decidiram se aventurar no universo pornô.</title>
+  </programme>
+  <programme channel="GloboSP.br" start="20261112203000 -0300" stop="20261112213000 -0300">
+    <title lang="pt-BR">Jornal Nacional News As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejorna</title>
   </programme>
   <programme channel="RedeGloboTeresina.br" start="20261112203000 -0300" stop="20261112213000 -0300">
     <title lang="pt-BR">Jornal Nacional News As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejorna</title>
@@ -2957,6 +3077,9 @@
     <title lang="pt-BR">Espaço Gourmet Cooking Lia Formiga recebe renomados chefes de cozinha e convidados, que desvendam os mistérios da culinária com receitas simples e rá</title>
   </programme>
   <programme channel="Band.br" start="20261112205500 -0300" stop="20261112212500 -0300">
+    <title lang="pt-BR">Guerra das Rosas Temporada 1 Episódio 173 Desde criança, Gülru sonha em ser como Gülfem, a dona da mansão em que seu pai trabalha. Desejosa de se tor</title>
+  </programme>
+  <programme channel="BandPiaui.br" start="20261112205500 -0300" stop="20261112212500 -0300">
     <title lang="pt-BR">Guerra das Rosas Temporada 1 Episódio 173 Desde criança, Gülru sonha em ser como Gülfem, a dona da mansão em que seu pai trabalha. Desejosa de se tor</title>
   </programme>
   <programme channel="Multishow.br" start="20261112205700 -0300" stop="20261112210000 -0300">
@@ -3034,6 +3157,9 @@
   <programme channel="Band.br" start="20261112212500 -0300" stop="20261112222000 -0300">
     <title lang="pt-BR">Show da Fé Special Momentos de comunhão, louvor e edificação para aqueles que desejam estar diante da presença de Deus e crescer em graça e conhecime</title>
   </programme>
+  <programme channel="BandPiaui.br" start="20261112212500 -0300" stop="20261112222000 -0300">
+    <title lang="pt-BR">Show da Fé Special Momentos de comunhão, louvor e edificação para aqueles que desejam estar diante da presença de Deus e crescer em graça e conhecime</title>
+  </programme>
   <programme channel="Space.br" start="20261112212700 -0300" stop="20261112221500 -0300">
     <title lang="pt-BR">CSI: Miami Temporada 5 Episódio 23 - Kill Switch After a suspected carjacker is killed, the team learns that he may have been involved in drug smuggl</title>
   </programme>
@@ -3057,6 +3183,9 @@
   </programme>
   <programme channel="Cancaonova.br" start="20261112213000 -0300" stop="20261112223000 -0300">
     <title lang="pt-BR">Escola da Fé Religious O teólogo e professor Felipe Aquino aborda temas semanais com base nos ensinamentos de Jesus Cristo, em um estudo sobre as dou</title>
+  </programme>
+  <programme channel="GloboSP.br" start="20261112213000 -0300" stop="20261112224000 -0300">
+    <title lang="pt-BR">Quem Ama Cuida Soap Após ser demitida, Adriana tem sua casa destruída por uma enchente que também leva seu marido. Ainda sem entender como seguir, el</title>
   </programme>
   <programme channel="RedeGloboTeresina.br" start="20261112213000 -0300" stop="20261112224000 -0300">
     <title lang="pt-BR">Quem Ama Cuida Soap Após ser demitida, Adriana tem sua casa destruída por uma enchente que também leva seu marido. Ainda sem entender como seguir, el</title>
@@ -3116,13 +3245,13 @@
     <title lang="pt-BR">SportsCenter Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião</title>
   </programme>
   <programme channel="Premiere2.br" start="20261112220000 -0300" stop="20261112230000 -0300">
-    <title lang="pt-BR">Premiere 2 Acompanhe a programação pay-per-view. googletag.cmd.push(function() { googletag.display('div-gpt-ad-1570786605020-0'); }); Sobre mi.tv A m</title>
+    <title lang="pt-BR">Premiere 2 Acompanhe a programação pay-per-view. Sobre mi.tv A mi.tv é um guia de TV inteligente, com mais de 200 canais de programação, personalizáv</title>
   </programme>
   <programme channel="Premiere3.br" start="20261112220000 -0300" stop="20261112230000 -0300">
     <title lang="pt-BR">Premiere 3 Acompanhe a programação pay-per-view. googletag.cmd.push(function() { googletag.display('div-gpt-ad-1570786605020-0'); }); Sobre mi.tv A m</title>
   </programme>
   <programme channel="Premiere4.br" start="20261112220000 -0300" stop="20261112230000 -0300">
-    <title lang="pt-BR">Premiere 4 Acompanhe a programação pay-per-view. Sobre mi.tv A mi.tv é um guia de TV inteligente, com mais de 200 canais de programação, personalizáv</title>
+    <title lang="pt-BR">Premiere 4 Acompanhe a programação pay-per-view. googletag.cmd.push(function() { googletag.display('div-gpt-ad-1570786605020-0'); }); Sobre mi.tv A m</title>
   </programme>
   <programme channel="Premiere7.br" start="20261112220000 -0300" stop="20261112230000 -0300">
     <title lang="pt-BR">Premiere 7 Acompanhe a programação pay-per-view. googletag.cmd.push(function() { googletag.display('div-gpt-ad-1570786605020-0'); }); Sobre mi.tv A m</title>
@@ -3187,6 +3316,9 @@
   <programme channel="Band.br" start="20261112222000 -0300" stop="20261112223000 -0300">
     <title lang="pt-BR">Linha de Combate Medical A rotina dos homens e mulheres que escolheram dedicar e arriscar suas vidas para defender os direitos da população, lutando</title>
   </programme>
+  <programme channel="BandPiaui.br" start="20261112222000 -0300" stop="20261112223000 -0300">
+    <title lang="pt-BR">Linha de Combate Medical A rotina dos homens e mulheres que escolheram dedicar e arriscar suas vidas para defender os direitos da população, lutando</title>
+  </programme>
   <programme channel="Playboy.br" start="20261112222900 -0300" stop="20261112235400 -0300">
     <title lang="pt-BR">2 MILFs Pumping My Rod Adults only / 2015 Lisa Ann e suas amigas se reúnem para participar dos trios mais ousados. Deixe que elas assumam o controle</title>
   </programme>
@@ -3206,7 +3338,7 @@
     <title lang="pt-BR">O Tempo É Breve Religious O monsenhor Jonas Abib compartilha ensinamentos e meditações sobre a palavra divina.</title>
   </programme>
   <programme channel="Premiere6.br" start="20261112223000 -0300" stop="20261112233000 -0300">
-    <title lang="pt-BR">Premiere 6 Acompanhe a programação pay-per-view. Sobre mi.tv A mi.tv é um guia de TV inteligente, com mais de 200 canais de programação, personalizáv</title>
+    <title lang="pt-BR">Premiere 6 Acompanhe a programação pay-per-view. googletag.cmd.push(function() { googletag.display('div-gpt-ad-1570786605020-0'); }); Sobre mi.tv A m</title>
   </programme>
   <programme channel="TVCultura.br" start="20261112223000 -0300" stop="20261112233000 -0300">
     <title lang="pt-BR">Linhas Cruzadas News Análises aprofundadas sobre fatos do noticiário recente. A dupla de apresentadores discute um tema central, que é desbravado, de</title>
@@ -3215,6 +3347,9 @@
     <title lang="pt-BR">Sou Travessa para o meu Homem 2 Adults only / 2024 Namoradas sensuais sabem exatamente onde beijar e causar prazer para deixar um homem louco. E ela</title>
   </programme>
   <programme channel="Band.br" start="20261112223000 -0300" stop="20261113000000 -0300">
+    <title lang="pt-BR">Linha de Combate Medical A rotina dos homens e mulheres que escolheram dedicar e arriscar suas vidas para defender os direitos da população, lutando</title>
+  </programme>
+  <programme channel="BandPiaui.br" start="20261112223000 -0300" stop="20261113000000 -0300">
     <title lang="pt-BR">Linha de Combate Medical A rotina dos homens e mulheres que escolheram dedicar e arriscar suas vidas para defender os direitos da população, lutando</title>
   </programme>
   <programme channel="RecordTV.br" start="20261112223000 -0300" stop="20261113001500 -0300">
@@ -3231,6 +3366,9 @@
   </programme>
   <programme channel="InvestigacaoDiscovery.br" start="20261112223700 -0300" stop="20261112232100 -0300">
     <title lang="pt-BR">Cidade Pacata, Crime Cruel Temporada 5 Episódio 1 - Avisos Sussurrados A comunidade de Kankakee, no Illinois, se une para ajudar a polícia a descobri</title>
+  </programme>
+  <programme channel="GloboSP.br" start="20261112224000 -0300" stop="20261112233500 -0300">
+    <title lang="pt-BR">Chef de Alto Nível Temporada 2 Episódio 9 A versão brasileira do programa "Next Level Chef", de Gordon Ramsay, seleciona participantes entre chefs pr</title>
   </programme>
   <programme channel="RedeGloboTeresina.br" start="20261112224000 -0300" stop="20261112233500 -0300">
     <title lang="pt-BR">Chef de Alto Nível Temporada 2 Episódio 9 A versão brasileira do programa "Next Level Chef", de Gordon Ramsay, seleciona participantes entre chefs pr</title>
@@ -3315,6 +3453,9 @@
   </programme>
   <programme channel="Multishow.br" start="20261112233300 -0300" stop="20261113000500 -0300">
     <title lang="pt-BR">A Vila Temporada 2 Episódio 5 - Halloween O Halloween chegou e é a única que festa que realmente anima Seu Lupércio. Ele resolve aproveitar que esse</title>
+  </programme>
+  <programme channel="GloboSP.br" start="20261112233500 -0300" stop="20261113002000 -0300">
+    <title lang="pt-BR">Que História É Essa, Porchat? Talk Fábio Porchat explora as boas histórias que as pessoas têm para contar. Em um cenário intimista e com artistas no</title>
   </programme>
   <programme channel="RedeGloboTeresina.br" start="20261112233500 -0300" stop="20261113002000 -0300">
     <title lang="pt-BR">Que História É Essa, Porchat? Talk Fábio Porchat explora as boas histórias que as pessoas têm para contar. Em um cenário intimista e com artistas no</title>

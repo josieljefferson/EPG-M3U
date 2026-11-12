@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T08:05:00.360817-03:00",
+  "generated_at": "2026-11-12T08:21:55.423826-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -46,15 +46,16 @@
   ],
   "channels": {
     "configured": 61,
-    "with_programs": 42
+    "with_programs": 44
   },
   "programs": {
-    "total": 1037,
+    "total": 1084,
     "by_source": {
-      "fallback": 1037
+      "fallback": 1084
     },
     "by_channel": {
       "Band.br": 19,
+      "BandPiaui.br": 22,
       "BandSports.br": 27,
       "CNNBrasil.br": 24,
       "Cancaonova.br": 39,
@@ -62,6 +63,7 @@
       "ESPN.br": 15,
       "ESPN2.br": 14,
       "GloboNews.br": 13,
+      "GloboSP.br": 25,
       "InvestigacaoDiscovery.br": 38,
       "JovemPanNews.br": 13,
       "MeioNorte.br": 20,
@@ -99,9 +101,9 @@
     }
   },
   "attempts": {
-    "total": 164,
-    "successful": 84,
-    "failed": 80
+    "total": 160,
+    "successful": 88,
+    "failed": 72
   },
   "files": {
     "epg": "output/epg.xml",
@@ -161,21 +163,10 @@
       "date": "2026-11-12",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 22,
       "url": "https://mi.tv/br/canais/band-piaui-hd",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "BandPiaui.br",
-      "channel_name": "BAND PIAUÍ",
-      "date": "2026-11-12",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/band-piaui-hd: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "BandPiaui.br",
@@ -183,21 +174,10 @@
       "date": "2026-11-13",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 22,
       "url": "https://mi.tv/br/canais/band-piaui-hd",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "BandPiaui.br",
-      "channel_name": "BAND PIAUÍ",
-      "date": "2026-11-13",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/band-piaui-hd: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "TVCidadeVerde.br",
@@ -1217,21 +1197,10 @@
       "date": "2026-11-12",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 25,
       "url": "https://mi.tv/br/canais/globo-sp",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "GloboSP.br",
-      "channel_name": "GLOBO SP",
-      "date": "2026-11-12",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/globo-sp: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "GloboSP.br",
@@ -1239,21 +1208,10 @@
       "date": "2026-11-13",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 25,
       "url": "https://mi.tv/br/canais/globo-sp",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "GloboSP.br",
-      "channel_name": "GLOBO SP",
-      "date": "2026-11-13",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/globo-sp: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "RecordTV.br",
