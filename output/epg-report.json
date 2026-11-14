@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T07:30:17.767084-03:00",
+  "generated_at": "2026-11-14T17:04:32.848145-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -46,12 +46,12 @@
   ],
   "channels": {
     "configured": 61,
-    "with_programs": 44
+    "with_programs": 46
   },
   "programs": {
-    "total": 1062,
+    "total": 1088,
     "by_source": {
-      "fallback": 1062
+      "fallback": 1088
     },
     "by_channel": {
       "Band.br": 22,
@@ -62,10 +62,11 @@
       "DiscoveryChannel.br": 34,
       "ESPN.br": 19,
       "ESPN2.br": 19,
+      "GETV.br": 6,
       "GloboNews.br": 20,
       "GloboSP.br": 23,
       "InvestigacaoDiscovery.br": 35,
-      "JovemPanNews.br": 14,
+      "JovemPanNews.br": 13,
       "MeioNorte.br": 16,
       "MeioNorteHD.br": 16,
       "Multishow.br": 41,
@@ -80,6 +81,7 @@
       "RedeGloboTeresina.br": 22,
       "RedeTV.br": 24,
       "SBT.br": 15,
+      "SBTNews.br": 18,
       "SBTPiaui.br": 17,
       "SextremeBrazil.br": 19,
       "SexyHot.br": 33,
@@ -93,7 +95,7 @@
       "TVBrasil.br": 57,
       "TVCidadeVerde.br": 17,
       "TVClube.br": 22,
-      "TVCultura.br": 63,
+      "TVCultura.br": 66,
       "VenusTV.br": 17,
       "Viva.br": 30,
       "sexprive-brasileirinhas.br": 25,
@@ -101,9 +103,9 @@
     }
   },
   "attempts": {
-    "total": 160,
-    "successful": 88,
-    "failed": 72
+    "total": 156,
+    "successful": 92,
+    "failed": 64
   },
   "files": {
     "epg": "output/epg.xml",
@@ -603,21 +605,10 @@
       "date": "2026-11-14",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 6,
       "url": "https://mi.tv/br/canais/ge-tv",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "GETV.br",
-      "channel_name": "GE TV",
-      "date": "2026-11-14",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/ge-tv: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "GETV.br",
@@ -625,21 +616,10 @@
       "date": "2026-11-15",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 6,
       "url": "https://mi.tv/br/canais/ge-tv",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "GETV.br",
-      "channel_name": "GE TV",
-      "date": "2026-11-15",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/ge-tv: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "NSports.br",
@@ -1352,7 +1332,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 63,
+      "programs": 66,
       "url": "https://mi.tv/br/canais/cultura-hd",
       "error": ""
     },
@@ -1363,7 +1343,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 63,
+      "programs": 66,
       "url": "https://mi.tv/br/canais/cultura-hd",
       "error": ""
     },
@@ -1506,7 +1486,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 14,
+      "programs": 13,
       "url": "https://mi.tv/br/canais/jovem-pan-news",
       "error": ""
     },
@@ -1517,7 +1497,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 14,
+      "programs": 13,
       "url": "https://mi.tv/br/canais/jovem-pan-news",
       "error": ""
     },
@@ -1571,21 +1551,10 @@
       "date": "2026-11-14",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 18,
       "url": "https://mi.tv/br/canais/sbt-news",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "SBTNews.br",
-      "channel_name": "SBT NEWS",
-      "date": "2026-11-14",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/sbt-news: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "SBTNews.br",
@@ -1593,21 +1562,10 @@
       "date": "2026-11-15",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 18,
       "url": "https://mi.tv/br/canais/sbt-news",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "SBTNews.br",
-      "channel_name": "SBT NEWS",
-      "date": "2026-11-15",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/sbt-news: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "Multishow.br",
