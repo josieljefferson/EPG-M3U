@@ -346,11 +346,11 @@
   <programme channel="SexyHot.br" start="20261114003800 -0300" stop="20261114014500 -0300">
     <title lang="pt-BR">Conectados Adults only / 2025 Mila e Mario formam um casal animado e já acordam prontos para uma transa matinal daquelas.</title>
   </programme>
+  <programme channel="RedeTV.br" start="20261114004000 -0300" stop="20261114030000 -0300">
+    <title lang="pt-BR">Madrugada Animada Comedy João Kleber comanda uma atração cheia de humor, pegadinhas e esquetes divertidas.</title>
+  </programme>
   <programme channel="Viva.br" start="20261114004500 -0300" stop="20261114012900 -0300">
     <title lang="pt-BR">O Profeta Soap Abigail entrega a pista do paradeiro do pai de Analu a Filomena; Clóvis e Carola descobrem que a casa de Piragibe vai a leilão; Teresa</title>
-  </programme>
-  <programme channel="RedeTV.br" start="20261114004500 -0300" stop="20261114030000 -0300">
-    <title lang="pt-BR">Madrugada Animada Comedy João Kleber comanda uma atração cheia de humor, pegadinhas e esquetes divertidas.</title>
   </programme>
   <programme channel="InvestigacaoDiscovery.br" start="20261114004600 -0300" stop="20261114013400 -0300">
     <title lang="pt-BR">Jamie vs. Britney - O Julgamento da Família Spears Temporada 1 Episódio 1 - A Versão de Jamie Pela primeira vez, pessoas próximas discutem se Jamie S</title>
@@ -488,7 +488,7 @@
     <title lang="pt-BR">Vigília Canção Nova</title>
   </programme>
   <programme channel="GETV.br" start="20261114020000 -0300" stop="20261114030000 -0300">
-    <title lang="pt-BR">GE TV Special googletag.cmd.push(function() { googletag.display('div-gpt-ad-1570786605020-0'); }); Sobre mi.tv A mi.tv é um guia de TV inteligente, c</title>
+    <title lang="pt-BR">GE TV Special Sobre mi.tv A mi.tv é um guia de TV inteligente, com mais de 200 canais de programação, personalizável para que você nunca mais perca q</title>
   </programme>
   <programme channel="RecordTV.br" start="20261114020000 -0300" stop="20261114030000 -0300">
     <title lang="pt-BR">Palavra Amiga Religious O bispo Edir Macedo leva uma mensagem de fé para as pessoas que precisam de ajuda.</title>
@@ -539,7 +539,7 @@
     <title lang="pt-BR">Aeroporto - Área Restrita Temporada 5 Episódio 7 - Três É Demais Um passageiro é retirado de seu voo quando suas malas chamam a atenção da Receita Fe</title>
   </programme>
   <programme channel="GloboSP.br" start="20261114022000 -0300" stop="20261114030000 -0300">
-    <title lang="pt-BR">Lá na Minha Terra Soap Brícia e Maria Lina conversam sobre Rosenda, elas lembram que o pai achou Brícia bebê, abandonada. Rosenda entra no avião para</title>
+    <title lang="pt-BR">Lá na Minha Terra Soap Entre o interior do Nordeste e a metrópole de São Paulo, dois mundos aparentemente distantes se conectam em uma história sobre</title>
   </programme>
   <programme channel="RedeGloboTeresina.br" start="20261114022000 -0300" stop="20261114030000 -0300">
     <title lang="pt-BR">Lá na Minha Terra Soap Entre o interior do Nordeste e a metrópole de São Paulo, dois mundos aparentemente distantes se conectam em uma história sobre</title>
@@ -611,7 +611,7 @@
     <title lang="pt-BR">Porn Stars Adults only Acompanhe filmes para lá de salientes com as maiores estrelas da pornografia.</title>
   </programme>
   <programme channel="GloboSP.br" start="20261114030000 -0300" stop="20261114034000 -0300">
-    <title lang="pt-BR">Por Você Soap Peixe reconhece Osvaldo e ajuda Lucas a cercá-lo. Vanessa se irrita ao tomar conhecimento do projeto de medicina conduzido por Vitor. B</title>
+    <title lang="pt-BR">Por Você Soap Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a úl</title>
   </programme>
   <programme channel="RecordTV.br" start="20261114030000 -0300" stop="20261114034000 -0300">
     <title lang="pt-BR">Vigília da Alma Religious Um encontro marcado por uma verdadeira renovação espiritual.</title>
@@ -905,7 +905,7 @@
     <title lang="pt-BR">Voz da Consciência Temporada 3 Episódio 2 - Seu Jorge e Carlos Dafé Péricles recebe Seu Jorge e Carlos Dafé para celebrar a trajetória e a obra de Em</title>
   </programme>
   <programme channel="Band.br" start="20261114053000 -0300" stop="20261114063000 -0300">
-    <title lang="pt-BR">+ Info Newsmagazine Reportagens especiais sobre assuntos variados do Brasil e do mundo. googletag.cmd.push(function() { googletag.display('div-gpt-ad</title>
+    <title lang="pt-BR">+ Info Newsmagazine Reportagens especiais sobre assuntos variados do Brasil e do mundo. Sobre mi.tv A mi.tv é um guia de TV inteligente, com mais de</title>
   </programme>
   <programme channel="BandPiaui.br" start="20261114053000 -0300" stop="20261114063000 -0300">
     <title lang="pt-BR">+ Info Newsmagazine Reportagens especiais sobre assuntos variados do Brasil e do mundo. googletag.cmd.push(function() { googletag.display('div-gpt-ad</title>
@@ -953,10 +953,10 @@
     <title lang="pt-BR">Hollywood One on One Talk Entrevistas com celebridades. googletag.cmd.push(function() { googletag.display('div-gpt-ad-1570786605020-0'); }); Sobre mi</title>
   </programme>
   <programme channel="TVAlvoradaDoSul.br" start="20261114055000 -0300" stop="20261114065000 -0300">
-    <title lang="pt-BR">Santa Missa Religious Acompanhe a celebração da santa missa em João Pessoa. Sobre mi.tv A mi.tv é um guia de TV inteligente, com mais de 200 canais d</title>
+    <title lang="pt-BR">Santa Missa Religious Acompanhe a celebração da santa missa em João Pessoa. googletag.cmd.push(function() { googletag.display('div-gpt-ad-15707866050</title>
   </programme>
   <programme channel="TVClube.br" start="20261114055000 -0300" stop="20261114065000 -0300">
-    <title lang="pt-BR">Santa Missa Religious Acompanhe a celebração da santa missa em João Pessoa. googletag.cmd.push(function() { googletag.display('div-gpt-ad-15707866050</title>
+    <title lang="pt-BR">Santa Missa Religious Acompanhe a celebração da santa missa em João Pessoa. Sobre mi.tv A mi.tv é um guia de TV inteligente, com mais de 200 canais d</title>
   </programme>
   <programme channel="Multishow.br" start="20261114055400 -0300" stop="20261114065400 -0300">
     <title lang="pt-BR">Chaves Sitcom Um balão de Quico fica preso em um lugar muito alto no segundo pátio. Ele então precisa pedir ajuda para Chaves e Chiquinha para tirá-l</title>
@@ -2101,9 +2101,6 @@
   <programme channel="CNNBrasil.br" start="20261114130000 -0300" stop="20261114140000 -0300">
     <title lang="pt-BR">Broad View - CNNI News Ladrões invadiram o Louvre em plena luz do dia, roubando as joias da coroa francesa em uma operação de sete minutos. Jornalist</title>
   </programme>
-  <programme channel="RedeTV.br" start="20261114130000 -0300" stop="20261114140000 -0300">
-    <title lang="pt-BR">A Hora do Zap Entertainment Exibição dos vídeos mais divertidos e engraçados da internet.</title>
-  </programme>
   <programme channel="SBTNews.br" start="20261114130000 -0300" stop="20261114140000 -0300">
     <title lang="pt-BR">Sala de Imprensa Interview Entrevistas com nomes importantes da política nacional. A cada programa, dois jornalistas do SBT e do SBT News também part</title>
   </programme>
@@ -2115,6 +2112,9 @@
   </programme>
   <programme channel="TVCidadeVerde.br" start="20261114130000 -0300" stop="20261114140000 -0300">
     <title lang="pt-BR">Viva Educação Educational Os desafios da aprendizagem e as inovações que impactam a educação.</title>
+  </programme>
+  <programme channel="RedeTV.br" start="20261114130000 -0300" stop="20261114143000 -0300">
+    <title lang="pt-BR">A Hora do Zap Entertainment Exibição dos vídeos mais divertidos e engraçados da internet.</title>
   </programme>
   <programme channel="tv.assembleia.piaui.br" start="20261114130000 -0300" stop="20261114143000 -0300">
     <title lang="pt-BR">- JORNAL ALEPI 1ª EDIÇÃO – REPRISE</title>
@@ -2263,9 +2263,6 @@
   <programme channel="TVCidadeVerde.br" start="20261114140000 -0300" stop="20261114150000 -0300">
     <title lang="pt-BR">Eita Lucas! Travel Lucas Guimarães viaja por todo o Brasil conhecendo pessoas e contando suas histórias de vida e distribuindo prêmios por onde passa</title>
   </programme>
-  <programme channel="RedeTV.br" start="20261114140000 -0300" stop="20261114153000 -0300">
-    <title lang="pt-BR">Show da Saúde Pillowmed Consumer Espaço publicitário destinado à divulgação de produtos e serviços.</title>
-  </programme>
   <programme channel="sexprive-brasileirinhas.br" start="20261114140000 -0300" stop="20261114153000 -0300">
     <title lang="pt-BR">Tomando no C.. Adults only / 2008 Elas adoram tudo com muita força e até mais de um por vez.</title>
   </programme>
@@ -2279,22 +2276,22 @@
     <title lang="pt-BR">Paradão Sertanejo Special Programa nordestino com música gospel, música sertaneja e muito mais.</title>
   </programme>
   <programme channel="GETV.br" start="20261114140000 -0300" stop="20261114180000 -0300">
-    <title lang="pt-BR">GE TV Special 50 min restantes</title>
+    <title lang="pt-BR">GE TV Special</title>
   </programme>
   <programme channel="Premiere2.br" start="20261114140000 -0300" stop="20261114220000 -0300">
-    <title lang="pt-BR">Premiere 2 Acompanhe a programação pay-per-view. 4 horas 49 min restantes</title>
+    <title lang="pt-BR">Premiere 2 Acompanhe a programação pay-per-view. 1 min restantes</title>
   </programme>
   <programme channel="Premiere3.br" start="20261114140000 -0300" stop="20261114220000 -0300">
-    <title lang="pt-BR">Premiere 3 Acompanhe a programação pay-per-view. 4 horas 49 min restantes</title>
+    <title lang="pt-BR">Premiere 3 Acompanhe a programação pay-per-view. restantes</title>
   </programme>
   <programme channel="Premiere4.br" start="20261114140000 -0300" stop="20261114220000 -0300">
-    <title lang="pt-BR">Premiere 4 Acompanhe a programação pay-per-view. 4 horas 49 min restantes</title>
+    <title lang="pt-BR">Premiere 4 Acompanhe a programação pay-per-view. restantes</title>
   </programme>
   <programme channel="Premiere6.br" start="20261114140000 -0300" stop="20261114220000 -0300">
-    <title lang="pt-BR">Premiere 6 Acompanhe a programação pay-per-view. 4 horas 48 min restantes</title>
+    <title lang="pt-BR">Premiere 6 Acompanhe a programação pay-per-view. restantes</title>
   </programme>
   <programme channel="Premiere7.br" start="20261114140000 -0300" stop="20261114220000 -0300">
-    <title lang="pt-BR">Premiere 7 Acompanhe a programação pay-per-view. 4 horas 48 min restantes</title>
+    <title lang="pt-BR">Premiere 7 Acompanhe a programação pay-per-view. restantes</title>
   </programme>
   <programme channel="Multishow.br" start="20261114140100 -0300" stop="20261114143100 -0300">
     <title lang="pt-BR">Tô de Graça Temporada 4 Episódio 10 - Eu Nasci Assim Maico quer participar de uma festa com os amigos sarados de Sonaira. O rapaz tenta se encaixar n</title>
@@ -2358,6 +2355,9 @@
   </programme>
   <programme channel="tv.assembleia.piaui.br" start="20261114143000 -0300" stop="20261114153000 -0300">
     <title lang="pt-BR">- PALAVRA ABERTA - REPRISE</title>
+  </programme>
+  <programme channel="RedeTV.br" start="20261114143000 -0300" stop="20261114160000 -0300">
+    <title lang="pt-BR">Show da Saúde Pillowmed Consumer Espaço publicitário destinado à divulgação de produtos e serviços.</title>
   </programme>
   <programme channel="SextremeBrazil.br" start="20261114143000 -0300" stop="20261114160000 -0300">
     <title lang="pt-BR">Pronta para Anal Adults only / 2025 Mulheres cheias de tesão se entregam a uma ação anal molhada e suja. Muito sexo oral à beira da piscina e lambida</title>
@@ -2444,7 +2444,7 @@
     <title lang="pt-BR">Sessão +SBT Show Entertainment Programa relembra momentos marcantes da história do SBT, com interação com o público, reunindo plateia, brincadeiras n</title>
   </programme>
   <programme channel="GloboNews.br" start="20261114150000 -0300" stop="20261114180000 -0300">
-    <title lang="pt-BR">Jornal GloboNews - Edição das 15 Horas News Acompanhe os principais fatos que acontecem no Brasil e no mundo. 42 min restantes</title>
+    <title lang="pt-BR">Jornal GloboNews - Edição das 15 Horas News Acompanhe os principais fatos que acontecem no Brasil e no mundo.</title>
   </programme>
   <programme channel="JovemPanNews.br" start="20261114150000 -0300" stop="20261114180000 -0300">
     <title lang="pt-BR">Fast News - 2ª Edição News Veja as últimas notícias e a atualização dos principais fatos do dia do Brasil e do mundo, além da análise contundente do</title>
@@ -2481,9 +2481,6 @@
   </programme>
   <programme channel="ESPN2.br" start="20261114153000 -0300" stop="20261114160000 -0300">
     <title lang="pt-BR">Premier League Stories Sports talk Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e hi</title>
-  </programme>
-  <programme channel="RedeTV.br" start="20261114153000 -0300" stop="20261114160000 -0300">
-    <title lang="pt-BR">A Hora do Zap Entertainment Exibição dos vídeos mais divertidos e engraçados da internet.</title>
   </programme>
   <programme channel="sexprive-brasileirinhas.br" start="20261114153000 -0300" stop="20261114160000 -0300">
     <title lang="pt-BR">Luccy Joplin - Melhores Cenas Adults only</title>
@@ -2549,7 +2546,7 @@
     <title lang="pt-BR">Triângulos Amorosos Da Família Adotiva Adults only / 2026 Mulheres maduras, gostosas e voluptuosas se juntam a casais mais jovens para um sexo selvag</title>
   </programme>
   <programme channel="Cancaonova.br" start="20261114160000 -0300" stop="20261114173000 -0300">
-    <title lang="pt-BR">Congresso Nacional das Novas Comunidades 24 min restantes</title>
+    <title lang="pt-BR">Congresso Nacional das Novas Comunidades</title>
   </programme>
   <programme channel="MeioNorte.br" start="20261114160000 -0300" stop="20261114180000 -0300">
     <title lang="pt-BR">Quiz Enem Educational Veja uma grande competição entre alunos da 3ª série do ensino médio das escolas da rede estadual. Equipes de estudantes respond</title>
@@ -2558,16 +2555,16 @@
     <title lang="pt-BR">Uma Família em Pedaços Drama / 2019 Leo e Olivia enfrentam uma crise conjugal após a perda trágica de seu filho de 17 anos. Liv, a filha de nove anos</title>
   </programme>
   <programme channel="SBTNews.br" start="20261114160000 -0300" stop="20261114180000 -0300">
-    <title lang="pt-BR">News Sábado News As principais notícias do sábado, com análises e entrevistas sobre os fatos mais relevantes do Brasil e do mundo. 41 min restantes 1</title>
-  </programme>
-  <programme channel="RedeTV.br" start="20261114160000 -0300" stop="20261114183000 -0300">
-    <title lang="pt-BR">Campeonato Brasileiro - Série B Campeonato Brasileiro - Série B Vinte equipes disputam, em turno e returno, a segunda divisão do futebol brasileiro m</title>
+    <title lang="pt-BR">News Sábado News As principais notícias do sábado, com análises e entrevistas sobre os fatos mais relevantes do Brasil e do mundo.</title>
   </programme>
   <programme channel="Band.br" start="20261114160000 -0300" stop="20261114192000 -0300">
-    <title lang="pt-BR">Brasil Urgente News Acompanhe os principais acontecimentos do dia no Piauí, com foco em temas do cotidiano. 2 horas 5 min restantes</title>
+    <title lang="pt-BR">Brasil Urgente News Acompanhe os principais acontecimentos do dia no Piauí, com foco em temas do cotidiano.</title>
   </programme>
   <programme channel="BandPiaui.br" start="20261114160000 -0300" stop="20261114192000 -0300">
-    <title lang="pt-BR">Brasil Urgente News Acompanhe os principais acontecimentos do dia no Piauí, com foco em temas do cotidiano. 2 horas 14 min restantes</title>
+    <title lang="pt-BR">Brasil Urgente News Acompanhe os principais acontecimentos do dia no Piauí, com foco em temas do cotidiano.</title>
+  </programme>
+  <programme channel="RedeTV.br" start="20261114160000 -0300" stop="20261114193000 -0300">
+    <title lang="pt-BR">CRB x Ceará Campeonato Brasileiro - Série B Vinte equipes disputam, em turno e returno, a segunda divisão do futebol brasileiro masculino.</title>
   </programme>
   <programme channel="tv.assembleia.piaui.br" start="20261114160000 -0300" stop="20261114200000 -0300">
     <title lang="pt-BR">- SOB OUTRO OLHAR – REPRISE</title>
@@ -2636,7 +2633,7 @@
     <title lang="pt-BR">Febre do Ouro - Freddy Dodge ao Resgate Temporada 6 Episódio 2 - Última Resistência em Silver City Na esperança de corrigir os erros do pai na minera</title>
   </programme>
   <programme channel="SporTV.br" start="20261114164500 -0300" stop="20261114184500 -0300">
-    <title lang="pt-BR">Portugal x Dinamarca Liga das Nações da UEFA Acompanhe as emoções da competição que reúne seleções masculinas de futebol da Europa. 1 hora 32 min res</title>
+    <title lang="pt-BR">Portugal x Dinamarca Liga das Nações da UEFA Acompanhe as emoções da competição que reúne seleções masculinas de futebol da Europa.</title>
   </programme>
   <programme channel="SporTV3.br" start="20261114165000 -0300" stop="20261114190000 -0300">
     <title lang="pt-BR">Copa Libertadores de Futsal Feminino Copa Libertadores de Futsal Feminino Todas as emoções do principal torneio feminino de futsal entre clubes da Am</title>
@@ -2645,31 +2642,31 @@
     <title lang="pt-BR">Jamie vs. Britney - O Julgamento da Família Spears Temporada 1 Episódio 2 - A Versão de Britney Através das redes sociais e de raras gravações, Britn</title>
   </programme>
   <programme channel="Playboy.br" start="20261114165800 -0300" stop="20261114172200 -0300">
-    <title lang="pt-BR">Stay In Get Off Adults only As estrelas adultas favoritas ensinam como aproveitar o tempo em quarentena dentro de casa. 2 min restantes</title>
+    <title lang="pt-BR">Stay In Get Off Adults only As estrelas adultas favoritas ensinam como aproveitar o tempo em quarentena dentro de casa.</title>
   </programme>
   <programme channel="PlayboyHD.br" start="20261114165800 -0300" stop="20261114172200 -0300">
-    <title lang="pt-BR">Stay In Get Off Adults only As estrelas adultas favoritas ensinam como aproveitar o tempo em quarentena dentro de casa. 2 min restantes</title>
+    <title lang="pt-BR">Stay In Get Off Adults only As estrelas adultas favoritas ensinam como aproveitar o tempo em quarentena dentro de casa.</title>
   </programme>
   <programme channel="TVCultura.br" start="20261114170000 -0300" stop="20261114171500 -0300">
     <title lang="pt-BR">A Caverna de Petra Temporada 1 Episódio 4 - Jardineira É dia de comemorar o primeiro dia do Alumbror, a estação do ano que só existe dentro da Cavern</title>
   </programme>
   <programme channel="CNNBrasil.br" start="20261114170000 -0300" stop="20261114180000 -0300">
-    <title lang="pt-BR">CNN Newsroom News Notícias de última hora e histórias em desenvolvimento, apresentadas por um time de repórteres, ao vivo da sede da CNN. 42 min rest</title>
+    <title lang="pt-BR">CNN Newsroom News Notícias de última hora e histórias em desenvolvimento, apresentadas por um time de repórteres, ao vivo da sede da CNN.</title>
   </programme>
   <programme channel="SextremeBrazil.br" start="20261114170000 -0300" stop="20261114182700 -0300">
-    <title lang="pt-BR">P...as no Banho Adults only Beldades de seios enormes são colocadas contra o vidro durante o banho por garanhões sortudos. 1 hora 21 min restantes 18</title>
+    <title lang="pt-BR">P...as no Banho Adults only Beldades de seios enormes são colocadas contra o vidro durante o banho por garanhões sortudos.</title>
   </programme>
   <programme channel="BandSports.br" start="20261114170000 -0300" stop="20261114183000 -0300">
     <title lang="pt-BR">Carlos Barbosa x Surabaya Copa Intercontinental de Futsal Confronto entre os grandes campeões da Copa Libertadores e da Liga dos Campeões de futsal m</title>
   </programme>
   <programme channel="sexprive-brasileirinhas.br" start="20261114170000 -0300" stop="20261114183000 -0300">
-    <title lang="pt-BR">Show de Bola Adults only / 2006 Esse time de 12 beldades faz você ver a copa de outro ângulo e, com certeza, com muito mais prazer. 1 hora 24 min res</title>
+    <title lang="pt-BR">Show de Bola Adults only / 2006 Esse time de 12 beldades faz você ver a copa de outro ângulo e, com certeza, com muito mais prazer.</title>
   </programme>
   <programme channel="RecordTV.br" start="20261114170000 -0300" stop="20261114194500 -0300">
-    <title lang="pt-BR">Cidade Alerta - Edição de Sábado News Programa jornalístico que oferece ao público uma visão diferente da notícia habitual. 2 horas 30 min restantes</title>
+    <title lang="pt-BR">Cidade Alerta - Edição de Sábado News Programa jornalístico que oferece ao público uma visão diferente da notícia habitual.</title>
   </programme>
   <programme channel="TVAntena10.br" start="20261114170000 -0300" stop="20261114194500 -0300">
-    <title lang="pt-BR">Cidade Alerta - Edição de Sábado News Programa jornalístico que oferece ao público uma visão diferente da notícia habitual. 2 horas 39 min restantes</title>
+    <title lang="pt-BR">Cidade Alerta - Edição de Sábado News Programa jornalístico que oferece ao público uma visão diferente da notícia habitual.</title>
   </programme>
   <programme channel="tv.assembleia.piaui.br" start="20261114171000 -0300" stop="20261114172000 -0300">
     <title lang="pt-BR">- ESPORTE NA ÁREA – AO VIVO</title>
@@ -2795,7 +2792,7 @@
     <title lang="pt-BR">Buraco Negro Music Acompanhe tudo sobre o universo do reggae.</title>
   </programme>
   <programme channel="GETV.br" start="20261114180000 -0300" stop="20261114220000 -0300">
-    <title lang="pt-BR">GE TV Special</title>
+    <title lang="pt-BR">GE TV Special 1 min restantes</title>
   </programme>
   <programme channel="TNT.br" start="20261114180200 -0300" stop="20261114195100 -0300">
     <title lang="pt-BR">Jumanji Fantasy / 1995 / 6.8 Alan Parrish desapareceu quando era menino e ninguém acredita na história de seu amigo de que ele foi sugado por um jogo</title>
@@ -2837,10 +2834,7 @@
     <title lang="pt-BR">- MUSICALÍSSIMA</title>
   </programme>
   <programme channel="GloboSP.br" start="20261114183000 -0300" stop="20261114191000 -0300">
-    <title lang="pt-BR">Lá na Minha Terra Soap Brícia e Maria Lina conversam sobre Rosenda, elas lembram que o pai achou Brícia bebê, abandonada. Rosenda entra no avião para</title>
-  </programme>
-  <programme channel="RedeTV.br" start="20261114183000 -0300" stop="20261114193000 -0300">
-    <title lang="pt-BR">Vê se Pode Comedy Os vídeos mais divertidos e engraçados que viralizaram nas redes sociais.</title>
+    <title lang="pt-BR">Lá na Minha Terra Soap Entre o interior do Nordeste e a metrópole de São Paulo, dois mundos aparentemente distantes se conectam em uma história sobre</title>
   </programme>
   <programme channel="sexprive-brasileirinhas.br" start="20261114183000 -0300" stop="20261114193000 -0300">
     <title lang="pt-BR">Chama no Privé Erotic Aborda os desafios dos relacionamentos e da sexualidade. Com bom humor e respeito, o programa reúne personalidades para compart</title>
@@ -2963,7 +2957,7 @@
     <title lang="pt-BR">Cultura Livre Temporada 2026 Episódio 654 - Jade Baraldo Com foco na nova música brasileira, o programa recebe cantores e bandas em seu estúdio. Além</title>
   </programme>
   <programme channel="GloboSP.br" start="20261114193000 -0300" stop="20261114203000 -0300">
-    <title lang="pt-BR">Por Você Soap Peixe reconhece Osvaldo e ajuda Lucas a cercá-lo. Vanessa se irrita ao tomar conhecimento do projeto de medicina conduzido por Vitor. B</title>
+    <title lang="pt-BR">Por Você Soap Bela, ginecologista e obstetra, perde a melhor amiga em acidente de carro e precisa enfrentar a dor do luto enquanto tenta cumprir a úl</title>
   </programme>
   <programme channel="RedeTV.br" start="20261114193000 -0300" stop="20261114203000 -0300">
     <title lang="pt-BR">RedeTV! News News Os principais acontecimentos do Brasil e do mundo, com correspondentes internacionais e os melhores comentaristas da imprensa brasi</title>
@@ -3098,7 +3092,7 @@
     <title lang="pt-BR">Café com Aroma de Mulher Soap A trabalhadora rural Gaivota e o herdeiro da aristocracia cafeeira Sebastián devem lutar contra obstáculos, intrigas e</title>
   </programme>
   <programme channel="SporTV2.br" start="20261114203000 -0300" stop="20261114230000 -0300">
-    <title lang="pt-BR">Brusque x Brasília Superliga Feminina de Vôlei Todas as emoções da principal competição de vôlei feminino entre equipes brasileiras.</title>
+    <title lang="pt-BR">Brusque x Brasília Superliga Feminina de Vôlei Todas as emoções da principal competição de vôlei feminino entre equipes brasileiras. 59 min restantes</title>
   </programme>
   <programme channel="SBT.br" start="20261114204500 -0300" stop="20261114211500 -0300">
     <title lang="pt-BR">Sessão +SBT Entertainment Para celebrar os 45 anos da emissora, o programa resgata momentos históricos do acervo do canal.</title>
@@ -3155,16 +3149,16 @@
     <title lang="pt-BR">- SARAU 17.1</title>
   </programme>
   <programme channel="MeioNorte.br" start="20261114210000 -0300" stop="20261114223000 -0300">
-    <title lang="pt-BR">Filme Adults only As melhores produções de conteúdo adulto.</title>
+    <title lang="pt-BR">Filme Adults only As melhores produções de conteúdo adulto. 22 min restantes</title>
   </programme>
   <programme channel="RecordTV.br" start="20261114210000 -0300" stop="20261114223000 -0300">
-    <title lang="pt-BR">Cidade Alerta - Edição de Sábado News Programa jornalístico que oferece ao público uma visão diferente da notícia habitual.</title>
+    <title lang="pt-BR">Cidade Alerta - Edição de Sábado News Programa jornalístico que oferece ao público uma visão diferente da notícia habitual. 27 min restantes</title>
   </programme>
   <programme channel="TVAntena10.br" start="20261114210000 -0300" stop="20261114223000 -0300">
-    <title lang="pt-BR">Cidade Alerta - Edição de Sábado News Programa jornalístico que oferece ao público uma visão diferente da notícia habitual.</title>
+    <title lang="pt-BR">Cidade Alerta - Edição de Sábado News Programa jornalístico que oferece ao público uma visão diferente da notícia habitual. 35 min restantes</title>
   </programme>
   <programme channel="sexprive-brasileirinhas.br" start="20261114210000 -0300" stop="20261114223000 -0300">
-    <title lang="pt-BR">Encontro com os Fãs 2 Adults only / 2017 Fãs de todo o país disputam o aguardado encontro com as atrizes pornôs que eles mais desejam.</title>
+    <title lang="pt-BR">Encontro com os Fãs 2 Adults only / 2017 Fãs de todo o país disputam o aguardado encontro com as atrizes pornôs que eles mais desejam. 35 min restant</title>
   </programme>
   <programme channel="TVBrasil.br" start="20261114210000 -0300" stop="20261114224500 -0300">
     <title lang="pt-BR">A Praia do Fim do Mundo Drama / 2021 Em Ciarema, o avanço do mar desabriga famílias. Alice mora com Helena, sua mãe doente, em uma casa castigada pel</title>
@@ -3194,13 +3188,13 @@
     <title lang="pt-BR">Stay In Get Off Adults only As estrelas adultas favoritas ensinam como aproveitar o tempo em quarentena dentro de casa.</title>
   </programme>
   <programme channel="SextremeBrazil.br" start="20261114212400 -0300" stop="20261114225400 -0300">
-    <title lang="pt-BR">Uma B...a para Dois Adults only / 2025 Ela deseja se divertir muito com estes dois membros grossos prontos para satisfazê-la.</title>
+    <title lang="pt-BR">Uma B...a para Dois Adults only / 2025 Ela deseja se divertir muito com estes dois membros grossos prontos para satisfazê-la. 59 min restantes</title>
   </programme>
   <programme channel="Multishow.br" start="20261114212800 -0300" stop="20261114220300 -0300">
     <title lang="pt-BR">A Grande Família Temporada 7 Episódio 32 - Carrara de um, Focinho do Outro Lineu sofre assalto à mão armada; Gina promete apresentar o amigo comandan</title>
   </programme>
   <programme channel="ESPN2.br" start="20261114213000 -0300" stop="20261114220000 -0300">
-    <title lang="pt-BR">SportsCenter Abre o Jogo Os preparativos para os principais eventos esportivos do Brasil e do mundo.</title>
+    <title lang="pt-BR">SportsCenter Abre o Jogo Os preparativos para os principais eventos esportivos do Brasil e do mundo. 4 min restantes</title>
   </programme>
   <programme channel="GloboNews.br" start="20261114213000 -0300" stop="20261114220000 -0300">
     <title lang="pt-BR">Cidades e Soluções Public affairs O noticiário traz a cobertura das principais modalidades e eventos esportivos. A apresentação é conduzida por Alexa</title>
@@ -3224,13 +3218,13 @@
     <title lang="pt-BR">- SOB OUTRO OLHAR</title>
   </programme>
   <programme channel="Cancaonova.br" start="20261114213000 -0300" stop="20261114223000 -0300">
-    <title lang="pt-BR">Luz para os Meus Passos Special Baseada na "Lectio Divina", obra apresenta lições que devem ser feitas a cada dia.</title>
+    <title lang="pt-BR">Luz para os Meus Passos Special Baseada na "Lectio Divina", obra apresenta lições que devem ser feitas a cada dia. 36 min restantes</title>
   </programme>
   <programme channel="SporTV.br" start="20261114213000 -0300" stop="20261114223000 -0300">
-    <title lang="pt-BR">Japão x Brasil Amistoso Internacional de Futebol Masculino Seleções masculinas de futebol se enfrentam em partidas amistosas pelo mundo.</title>
+    <title lang="pt-BR">Japão x Brasil Amistoso Internacional de Futebol Masculino Seleções masculinas de futebol se enfrentam em partidas amistosas pelo mundo. 29 min resta</title>
   </programme>
   <programme channel="GloboSP.br" start="20261114213000 -0300" stop="20261114224000 -0300">
-    <title lang="pt-BR">Quem Ama Cuida Soap Felipe descobre que Mau Mau é irmão de Adriana. Elisa repreende Otoniel. Tiago avisa a Pilar que as retiradas dos sócios estão su</title>
+    <title lang="pt-BR">Quem Ama Cuida Soap Após ser demitida, Adriana tem sua casa destruída por uma enchente que também leva seu marido. Ainda sem entender como seguir, el</title>
   </programme>
   <programme channel="RedeGloboTeresina.br" start="20261114213000 -0300" stop="20261114224000 -0300">
     <title lang="pt-BR">Quem Ama Cuida Soap Após ser demitida, Adriana tem sua casa destruída por uma enchente que também leva seu marido. Ainda sem entender como seguir, el</title>
@@ -3254,7 +3248,7 @@
     <title lang="pt-BR">Filadélfia Drama / 1993 / 7.7 O advogado Andrew Beckett trabalha em um conceituado escritório de advocacia. Ao descobrir ser portador do vírus HIV, é</title>
   </programme>
   <programme channel="SexyHot.br" start="20261114215300 -0300" stop="20261114220800 -0300">
-    <title lang="pt-BR">Hora do Arrepio Adults only Uma bonequinha devassa e assustadoramente perigosa.</title>
+    <title lang="pt-BR">Hora do Arrepio Adults only Uma bonequinha devassa e assustadoramente perigosa. 13 min restantes</title>
   </programme>
   <programme channel="InvestigacaoDiscovery.br" start="20261114215400 -0300" stop="20261114223800 -0300">
     <title lang="pt-BR">Sob Efeito do Amor Temporada 1 Episódio 5 - Atração Fatal Chance e Danielle têm um histórico de violar a lei, se apaixonam profundamente e vão morar</title>
@@ -3272,13 +3266,13 @@
     <title lang="pt-BR">- APAE - REPRISE</title>
   </programme>
   <programme channel="CNNBrasil.br" start="20261114220000 -0300" stop="20261114230000 -0300">
-    <title lang="pt-BR">Smerconish News O jornalista Michael Smerconish apresenta as notícias mais importantes da política americana.</title>
+    <title lang="pt-BR">Smerconish News O jornalista Michael Smerconish apresenta as notícias mais importantes da política americana. 54 min restantes</title>
   </programme>
   <programme channel="GloboNews.br" start="20261114220000 -0300" stop="20261114230000 -0300">
-    <title lang="pt-BR">Jornal das Dez News Aline Midlej e um time de comentaristas apresentam e analisam os bastidores das notícias.</title>
+    <title lang="pt-BR">Jornal das Dez News Aline Midlej e um time de comentaristas apresentam e analisam os bastidores das notícias. 53 min restantes</title>
   </programme>
   <programme channel="JovemPanNews.br" start="20261114220000 -0300" stop="20261114230000 -0300">
-    <title lang="pt-BR">Em Off News Procura respostas imprevisíveis. O programa traz conversas leves, elegantes e sem filtros com personalidades que têm algo a dizer.</title>
+    <title lang="pt-BR">Em Off News Procura respostas imprevisíveis. O programa traz conversas leves, elegantes e sem filtros com personalidades que têm algo a dizer. 53 min</title>
   </programme>
   <programme channel="Premiere2.br" start="20261114220000 -0300" stop="20261114230000 -0300">
     <title lang="pt-BR">Premiere 2 Acompanhe a programação pay-per-view. googletag.cmd.push(function() { googletag.display('div-gpt-ad-1570786605020-0'); }); Sobre mi.tv A m</title>
@@ -3469,7 +3463,7 @@
   <programme channel="SporTV.br" start="20261114233000 -0300" stop="20261115000000 -0300">
     <title lang="pt-BR">Giro da Rodada Destaques das principais competições de futebol masculino e feminino pelo Brasil.</title>
   </programme>
-  <programme channel="RedeTV.br" start="20261114233000 -0300" stop="20261115004500 -0300">
+  <programme channel="RedeTV.br" start="20261114233000 -0300" stop="20261115004000 -0300">
     <title lang="pt-BR">Mega Sonho Game show Seis participantes, divididos em dois grupos, disputam para chegar a eliminatória. O finalista das três fases compete para tenta</title>
   </programme>
   <programme channel="Band.br" start="20261114233000 -0300" stop="20261115010000 -0300">

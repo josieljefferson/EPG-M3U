@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T17:19:55.345801-03:00",
+  "generated_at": "2026-11-14T22:08:43.282935-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -49,9 +49,9 @@
     "with_programs": 46
   },
   "programs": {
-    "total": 1088,
+    "total": 1086,
     "by_source": {
-      "fallback": 1088
+      "fallback": 1086
     },
     "by_channel": {
       "Band.br": 22,
@@ -79,7 +79,7 @@
       "Premiere7.br": 4,
       "RecordTV.br": 18,
       "RedeGloboTeresina.br": 22,
-      "RedeTV.br": 24,
+      "RedeTV.br": 22,
       "SBT.br": 15,
       "SBTNews.br": 18,
       "SBTPiaui.br": 17,
@@ -1222,7 +1222,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 24,
+      "programs": 22,
       "url": "https://mi.tv/br/canais/rede-tv",
       "error": ""
     },
@@ -1233,7 +1233,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 24,
+      "programs": 22,
       "url": "https://mi.tv/br/canais/rede-tv",
       "error": ""
     },
