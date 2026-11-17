@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T09:07:32.739454-03:00",
+  "generated_at": "2026-11-17T20:04:27.381363-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -49,9 +49,9 @@
     "with_programs": 46
   },
   "programs": {
-    "total": 1112,
+    "total": 1110,
     "by_source": {
-      "fallback": 1112
+      "fallback": 1110
     },
     "by_channel": {
       "Band.br": 18,
@@ -66,7 +66,7 @@
       "GloboNews.br": 15,
       "GloboSP.br": 25,
       "InvestigacaoDiscovery.br": 39,
-      "JovemPanNews.br": 15,
+      "JovemPanNews.br": 13,
       "MeioNorte.br": 20,
       "MeioNorteHD.br": 20,
       "Multishow.br": 45,
@@ -1486,7 +1486,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 15,
+      "programs": 13,
       "url": "https://mi.tv/br/canais/jovem-pan-news",
       "error": ""
     },
@@ -1497,7 +1497,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 15,
+      "programs": 13,
       "url": "https://mi.tv/br/canais/jovem-pan-news",
       "error": ""
     },
