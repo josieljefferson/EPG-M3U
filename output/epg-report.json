@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T08:37:43.373375-03:00",
+  "generated_at": "2026-11-18T08:57:13.893809-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -46,12 +46,12 @@
   ],
   "channels": {
     "configured": 61,
-    "with_programs": 45
+    "with_programs": 46
   },
   "programs": {
-    "total": 1090,
+    "total": 1110,
     "by_source": {
-      "fallback": 1090
+      "fallback": 1110
     },
     "by_channel": {
       "Band.br": 18,
@@ -68,6 +68,7 @@
       "InvestigacaoDiscovery.br": 35,
       "JovemPanNews.br": 13,
       "MeioNorte.br": 20,
+      "MeioNorteHD.br": 20,
       "Multishow.br": 42,
       "Playboy.br": 42,
       "PlayboyHD.br": 42,
@@ -102,9 +103,9 @@
     }
   },
   "attempts": {
-    "total": 158,
-    "successful": 90,
-    "failed": 68
+    "total": 156,
+    "successful": 92,
+    "failed": 64
   },
   "files": {
     "epg": "output/epg.xml",
@@ -1704,21 +1705,10 @@
       "date": "2026-11-18",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 20,
       "url": "https://mi.tv/br/canais/meio-norte-hd",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "MeioNorteHD.br",
-      "channel_name": "MEIO NORTE HD",
-      "date": "2026-11-18",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/meio-norte-hd: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "MeioNorteHD.br",
@@ -1726,21 +1716,10 @@
       "date": "2026-11-19",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 20,
       "url": "https://mi.tv/br/canais/meio-norte-hd",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "MeioNorteHD.br",
-      "channel_name": "MEIO NORTE HD",
-      "date": "2026-11-19",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/meio-norte-hd: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "Playboy.br",
