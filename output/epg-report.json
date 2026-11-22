@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T08:25:42.668502-03:00",
+  "generated_at": "2026-11-22T18:12:25.051756-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -49,13 +49,13 @@
     "with_programs": 47
   },
   "programs": {
-    "total": 1025,
+    "total": 1026,
     "by_source": {
-      "fallback": 1025
+      "fallback": 1026
     },
     "by_channel": {
       "Band.br": 18,
-      "BandPiaui.br": 22,
+      "BandPiaui.br": 23,
       "BandSports.br": 22,
       "CNNBrasil.br": 26,
       "CanalUOL.br": 27,
@@ -167,7 +167,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 22,
+      "programs": 23,
       "url": "https://mi.tv/br/canais/band-piaui-hd",
       "error": ""
     },
@@ -178,7 +178,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 22,
+      "programs": 23,
       "url": "https://mi.tv/br/canais/band-piaui-hd",
       "error": ""
     },
