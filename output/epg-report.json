@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T18:27:27.444754-03:00",
+  "generated_at": "2026-11-22T22:47:22.119512-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -46,12 +46,12 @@
   ],
   "channels": {
     "configured": 61,
-    "with_programs": 47
+    "with_programs": 46
   },
   "programs": {
-    "total": 1026,
+    "total": 1023,
     "by_source": {
-      "fallback": 1026
+      "fallback": 1023
     },
     "by_channel": {
       "Band.br": 18,
@@ -77,7 +77,6 @@
       "Premiere3.br": 3,
       "Premiere4.br": 3,
       "Premiere6.br": 3,
-      "Premiere7.br": 3,
       "RecordTV.br": 21,
       "RedeGloboTeresina.br": 17,
       "RedeTV.br": 24,
@@ -104,9 +103,9 @@
     }
   },
   "attempts": {
-    "total": 154,
-    "successful": 94,
-    "failed": 60
+    "total": 156,
+    "successful": 92,
+    "failed": 64
   },
   "files": {
     "epg": "output/epg.xml",
@@ -804,10 +803,21 @@
       "date": "2026-11-22",
       "source": "mitv",
       "priority": 1,
-      "success": true,
-      "programs": 3,
+      "success": false,
+      "programs": 0,
       "url": "https://mi.tv/br/canais/premiere-7",
-      "error": ""
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "Premiere7.br",
+      "channel_name": "PREMIERE 7",
+      "date": "2026-11-22",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/premiere-7: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
     },
     {
       "channel_id": "Premiere7.br",
@@ -815,10 +825,21 @@
       "date": "2026-11-23",
       "source": "mitv",
       "priority": 1,
-      "success": true,
-      "programs": 3,
+      "success": false,
+      "programs": 0,
       "url": "https://mi.tv/br/canais/premiere-7",
-      "error": ""
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "Premiere7.br",
+      "channel_name": "PREMIERE 7",
+      "date": "2026-11-23",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/premiere-7: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
     },
     {
       "channel_id": "PremiereFC.br",
