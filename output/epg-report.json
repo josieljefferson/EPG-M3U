@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T10:40:56.965115-03:00",
+  "generated_at": "2026-11-24T10:57:07.182944-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -46,12 +46,12 @@
   ],
   "channels": {
     "configured": 61,
-    "with_programs": 47
+    "with_programs": 45
   },
   "programs": {
-    "total": 1131,
+    "total": 1056,
     "by_source": {
-      "fallback": 1131
+      "fallback": 1056
     },
     "by_channel": {
       "Band.br": 21,
@@ -70,7 +70,6 @@
       "JovemPanNews.br": 13,
       "MeioNorte.br": 20,
       "MeioNorteHD.br": 20,
-      "Multishow.br": 46,
       "Playboy.br": 41,
       "PlayboyHD.br": 41,
       "Premiere2.br": 3,
@@ -98,15 +97,14 @@
       "TVClube.br": 24,
       "TVCultura.br": 65,
       "VenusTV.br": 17,
-      "Viva.br": 29,
       "sexprive-brasileirinhas.br": 35,
       "tv.assembleia.piaui.br": 80
     }
   },
   "attempts": {
-    "total": 154,
-    "successful": 94,
-    "failed": 60
+    "total": 158,
+    "successful": 90,
+    "failed": 68
   },
   "files": {
     "epg": "output/epg.xml",
@@ -1552,10 +1550,21 @@
       "date": "2026-11-24",
       "source": "mitv",
       "priority": 1,
-      "success": true,
-      "programs": 46,
+      "success": false,
+      "programs": 0,
       "url": "https://mi.tv/br/canais/multishow-hd",
-      "error": ""
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "Multishow.br",
+      "channel_name": "MULTISHOW",
+      "date": "2026-11-24",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/multishow-hd: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
     },
     {
       "channel_id": "Multishow.br",
@@ -1563,10 +1572,21 @@
       "date": "2026-11-25",
       "source": "mitv",
       "priority": 1,
-      "success": true,
-      "programs": 46,
+      "success": false,
+      "programs": 0,
       "url": "https://mi.tv/br/canais/multishow-hd",
-      "error": ""
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "Multishow.br",
+      "channel_name": "MULTISHOW",
+      "date": "2026-11-25",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/multishow-hd: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
     },
     {
       "channel_id": "TNTNovelas.br",
@@ -1618,10 +1638,21 @@
       "date": "2026-11-24",
       "source": "mitv",
       "priority": 1,
-      "success": true,
-      "programs": 29,
+      "success": false,
+      "programs": 0,
       "url": "https://mi.tv/br/canais/viva",
-      "error": ""
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "Viva.br",
+      "channel_name": "VIVA",
+      "date": "2026-11-24",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/viva: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
     },
     {
       "channel_id": "Viva.br",
@@ -1629,10 +1660,21 @@
       "date": "2026-11-25",
       "source": "mitv",
       "priority": 1,
-      "success": true,
-      "programs": 29,
+      "success": false,
+      "programs": 0,
       "url": "https://mi.tv/br/canais/viva",
-      "error": ""
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "Viva.br",
+      "channel_name": "VIVA",
+      "date": "2026-11-25",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/viva: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
     },
     {
       "channel_id": "TVAlvoradaDoSul.br",
