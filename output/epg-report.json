@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T09:51:36.866030-03:00",
+  "generated_at": "2026-11-25T20:46:33.792222-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -46,12 +46,12 @@
   ],
   "channels": {
     "configured": 61,
-    "with_programs": 46
+    "with_programs": 44
   },
   "programs": {
-    "total": 1069,
+    "total": 1104,
     "by_source": {
-      "fallback": 1069
+      "fallback": 1104
     },
     "by_channel": {
       "Band.br": 21,
@@ -62,7 +62,6 @@
       "Cancaonova.br": 37,
       "DiscoveryChannel.br": 38,
       "ESPN.br": 20,
-      "ESPN2.br": 20,
       "GETV.br": 6,
       "GloboNews.br": 15,
       "GloboSP.br": 23,
@@ -76,13 +75,11 @@
       "Premiere2.br": 3,
       "Premiere3.br": 3,
       "Premiere4.br": 3,
-      "Premiere6.br": 3,
       "Premiere7.br": 3,
       "RecordTV.br": 25,
       "RedeGloboTeresina.br": 23,
       "RedeTV.br": 19,
       "SBT.br": 15,
-      "SBTNews.br": 11,
       "SBTPiaui.br": 17,
       "SextremeBrazil.br": 19,
       "SexyHot.br": 29,
@@ -96,6 +93,7 @@
       "TVBrasil.br": 55,
       "TVCidadeVerde.br": 17,
       "TVClube.br": 23,
+      "TVCultura.br": 69,
       "VenusTV.br": 17,
       "Viva.br": 30,
       "sexprive-brasileirinhas.br": 35,
@@ -103,9 +101,9 @@
     }
   },
   "attempts": {
-    "total": 156,
-    "successful": 92,
-    "failed": 64
+    "total": 160,
+    "successful": 88,
+    "failed": 72
   },
   "files": {
     "epg": "output/epg.xml",
@@ -407,10 +405,21 @@
       "date": "2026-11-25",
       "source": "mitv",
       "priority": 1,
-      "success": true,
-      "programs": 20,
+      "success": false,
+      "programs": 0,
       "url": "https://mi.tv/br/canais/espn-2",
-      "error": ""
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "ESPN2.br",
+      "channel_name": "ESPN 2",
+      "date": "2026-11-25",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/espn-2: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
     },
     {
       "channel_id": "ESPN2.br",
@@ -418,10 +427,21 @@
       "date": "2026-11-26",
       "source": "mitv",
       "priority": 1,
-      "success": true,
-      "programs": 20,
+      "success": false,
+      "programs": 0,
       "url": "https://mi.tv/br/canais/espn-2",
-      "error": ""
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "ESPN2.br",
+      "channel_name": "ESPN 2",
+      "date": "2026-11-26",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/espn-2: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
     },
     {
       "channel_id": "ESPN3.br",
@@ -781,10 +801,21 @@
       "date": "2026-11-25",
       "source": "mitv",
       "priority": 1,
-      "success": true,
-      "programs": 3,
+      "success": false,
+      "programs": 0,
       "url": "https://mi.tv/br/canais/premiere-6",
-      "error": ""
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "Premiere6.br",
+      "channel_name": "PREMIERE 6",
+      "date": "2026-11-25",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/premiere-6: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
     },
     {
       "channel_id": "Premiere6.br",
@@ -792,10 +823,21 @@
       "date": "2026-11-26",
       "source": "mitv",
       "priority": 1,
-      "success": true,
-      "programs": 3,
+      "success": false,
+      "programs": 0,
       "url": "https://mi.tv/br/canais/premiere-6",
-      "error": ""
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "Premiere6.br",
+      "channel_name": "PREMIERE 6",
+      "date": "2026-11-26",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/premiere-6: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
     },
     {
       "channel_id": "Premiere7.br",
@@ -1331,21 +1373,10 @@
       "date": "2026-11-25",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 69,
       "url": "https://mi.tv/br/canais/cultura-hd",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "TVCultura.br",
-      "channel_name": "TV CULTURA",
-      "date": "2026-11-25",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/cultura-hd: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "TVCultura.br",
@@ -1353,21 +1384,10 @@
       "date": "2026-11-26",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 69,
       "url": "https://mi.tv/br/canais/cultura-hd",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "TVCultura.br",
-      "channel_name": "TV CULTURA",
-      "date": "2026-11-26",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/cultura-hd: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "BandNews.br",
@@ -1551,10 +1571,21 @@
       "date": "2026-11-25",
       "source": "mitv",
       "priority": 1,
-      "success": true,
-      "programs": 11,
+      "success": false,
+      "programs": 0,
       "url": "https://mi.tv/br/canais/sbt-news",
-      "error": ""
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "SBTNews.br",
+      "channel_name": "SBT NEWS",
+      "date": "2026-11-25",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/sbt-news: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
     },
     {
       "channel_id": "SBTNews.br",
@@ -1562,10 +1593,21 @@
       "date": "2026-11-26",
       "source": "mitv",
       "priority": 1,
-      "success": true,
-      "programs": 11,
+      "success": false,
+      "programs": 0,
       "url": "https://mi.tv/br/canais/sbt-news",
-      "error": ""
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "SBTNews.br",
+      "channel_name": "SBT NEWS",
+      "date": "2026-11-26",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/sbt-news: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
     },
     {
       "channel_id": "Multishow.br",
