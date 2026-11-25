@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T09:36:19.180450-03:00",
+  "generated_at": "2026-11-25T09:51:36.866030-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -46,12 +46,12 @@
   ],
   "channels": {
     "configured": 61,
-    "with_programs": 47
+    "with_programs": 46
   },
   "programs": {
-    "total": 1133,
+    "total": 1069,
     "by_source": {
-      "fallback": 1133
+      "fallback": 1069
     },
     "by_channel": {
       "Band.br": 21,
@@ -96,7 +96,6 @@
       "TVBrasil.br": 55,
       "TVCidadeVerde.br": 17,
       "TVClube.br": 23,
-      "TVCultura.br": 64,
       "VenusTV.br": 17,
       "Viva.br": 30,
       "sexprive-brasileirinhas.br": 35,
@@ -104,9 +103,9 @@
     }
   },
   "attempts": {
-    "total": 154,
-    "successful": 94,
-    "failed": 60
+    "total": 156,
+    "successful": 92,
+    "failed": 64
   },
   "files": {
     "epg": "output/epg.xml",
@@ -1332,10 +1331,21 @@
       "date": "2026-11-25",
       "source": "mitv",
       "priority": 1,
-      "success": true,
-      "programs": 64,
+      "success": false,
+      "programs": 0,
       "url": "https://mi.tv/br/canais/cultura-hd",
-      "error": ""
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "TVCultura.br",
+      "channel_name": "TV CULTURA",
+      "date": "2026-11-25",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/cultura-hd: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
     },
     {
       "channel_id": "TVCultura.br",
@@ -1343,10 +1353,21 @@
       "date": "2026-11-26",
       "source": "mitv",
       "priority": 1,
-      "success": true,
-      "programs": 64,
+      "success": false,
+      "programs": 0,
       "url": "https://mi.tv/br/canais/cultura-hd",
-      "error": ""
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "TVCultura.br",
+      "channel_name": "TV CULTURA",
+      "date": "2026-11-26",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/cultura-hd: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
     },
     {
       "channel_id": "BandNews.br",

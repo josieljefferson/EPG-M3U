@@ -313,9 +313,6 @@
   <programme channel="SporTV.br" start="20261125003000 -0300" stop="20261125010000 -0300">
     <title lang="pt-BR">Atlético-MG x Corinthians Campeonato Brasileiro Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro. 0</title>
   </programme>
-  <programme channel="TVCultura.br" start="20261125003000 -0300" stop="20261125010000 -0300">
-    <title lang="pt-BR">Metrópolis Art Metrópolis nos trae todas las tendencias artísticas de vanguardia que se producen dentro y fuera del país.</title>
-  </programme>
   <programme channel="ESPN.br" start="20261125003000 -0300" stop="20261125013000 -0300">
     <title lang="pt-BR">America Brasileña Special Estudiantes e Boca Juniors representam a Argentina nas decisões da Libertadores e Sul-Americana.</title>
   </programme>
@@ -396,9 +393,6 @@
   </programme>
   <programme channel="SporTV.br" start="20261125010000 -0300" stop="20261125020000 -0300">
     <title lang="pt-BR">Semifinal, Jogo de Volta: Palmeiras x Operário-PR Copa do Brasil de Futebol Sub-20</title>
-  </programme>
-  <programme channel="TVCultura.br" start="20261125010000 -0300" stop="20261125020000 -0300">
-    <title lang="pt-BR">Entrelinhas Educational O jornalista e crítico literário Manuel da Costa Pinto apresenta um programa focado no universo dos livros, com entrevistas c</title>
   </programme>
   <programme channel="GloboNews.br" start="20261125010000 -0300" stop="20261125030000 -0300">
     <title lang="pt-BR">Em Pauta News O time de comentaristas analisa e debate os grandes temas políticos, econômicos, culturais e internacionais do dia, aprofundando os ass</title>
@@ -526,9 +520,6 @@
   <programme channel="SporTV.br" start="20261125020000 -0300" stop="20261125030000 -0300">
     <title lang="pt-BR">Argentina x Costa Rica Amistoso Internacional de Futebol Masculino Seleções masculinas de futebol se enfrentam em partidas amistosas pelo mundo. 03:0</title>
   </programme>
-  <programme channel="TVCultura.br" start="20261125020000 -0300" stop="20261125030000 -0300">
-    <title lang="pt-BR">Jornal da Cultura News As principais notícias do Brasil e do mundo, sempre com comentários de especialistas.</title>
-  </programme>
   <programme channel="BandSports.br" start="20261125020000 -0300" stop="20261125033000 -0300">
     <title lang="pt-BR">Supermotor Programa especializado no mundo motor, sempre com convidados renomados do meio, trazendo informação, serviço e as principais notícias do a</title>
   </programme>
@@ -639,9 +630,6 @@
   </programme>
   <programme channel="MeioNorteHD.br" start="20261125030000 -0300" stop="20261125040000 -0300">
     <title lang="pt-BR">O Homem de 6 Milhões de Dólares Temporada 3 Episódio 5 Steve viaja ao Japão para ajudar um amigo a localizar um menino criado por lobos selvagens. 04</title>
-  </programme>
-  <programme channel="TVCultura.br" start="20261125030000 -0300" stop="20261125040000 -0300">
-    <title lang="pt-BR">Provoca Interview Marcelo Tas revisita o formato de entrevistas trazendo filosofia e interação, prometendo romper o véu entre alta cultura e a cultur</title>
   </programme>
   <programme channel="CanalUOL.br" start="20261125030000 -0300" stop="20261125040500 -0300">
     <title lang="pt-BR">Desculpa Alguma Coisa Talk A escritora e roteirista Tati Bernardi instiga os entrevistados, com toda sua irreverência, a dizer tudo o que nunca falar</title>
@@ -760,9 +748,6 @@
   <programme channel="TVClube.br" start="20261125040000 -0300" stop="20261125050000 -0300">
     <title lang="pt-BR">Hora 1 News Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejorn</title>
   </programme>
-  <programme channel="TVCultura.br" start="20261125040000 -0300" stop="20261125050000 -0300">
-    <title lang="pt-BR">Inglês com Música Educational Programa incentiva o aprendizado da língua inglesa de uma forma descontraída, por meio de letras de músicas e jogos ent</title>
-  </programme>
   <programme channel="MeioNorte.br" start="20261125040000 -0300" stop="20261125054000 -0300">
     <title lang="pt-BR">Voz do Povo News Informativo com notícias nacionais e internacionais. Os apresentadores também revelam fatos em destaque na sociedade, além de contar</title>
   </programme>
@@ -845,13 +830,13 @@
     <title lang="pt-BR">Faróis do Brasil Art Localizado a 50 km da cidade de Campos, o Farol de São Tomé foi construído no final do século XIX, em uma região que ganhou aind</title>
   </programme>
   <programme channel="BandSports.br" start="20261125050000 -0300" stop="20261125060000 -0300">
-    <title lang="pt-BR">Porsche Cup Brasil Porsche Cup Brasil Todas as emoções da competição de automobilismo que envolve apenas veículos da montadora alemã. Sobre mi.tv A m</title>
+    <title lang="pt-BR">Porsche Cup Brasil Porsche Cup Brasil Todas as emoções da competição de automobilismo que envolve apenas veículos da montadora alemã. googletag.cmd.p</title>
   </programme>
   <programme channel="CNNBrasil.br" start="20261125050000 -0300" stop="20261125060000 -0300">
     <title lang="pt-BR">CNN Newsroom News Notícias de última hora e histórias em desenvolvimento, apresentadas por um time de repórteres, ao vivo da sede da CNN. googletag.c</title>
   </programme>
   <programme channel="GloboNews.br" start="20261125050000 -0300" stop="20261125060000 -0300">
-    <title lang="pt-BR">Jornal GloboNews - Edição das 5 Horas News Os principais fatos que acontecem no Brasil e no mundo. Sobre mi.tv A mi.tv é um guia de TV inteligente, c</title>
+    <title lang="pt-BR">Jornal GloboNews - Edição das 5 Horas News Os principais fatos que acontecem no Brasil e no mundo. googletag.cmd.push(function() { googletag.display(</title>
   </programme>
   <programme channel="JovemPanNews.br" start="20261125050000 -0300" stop="20261125060000 -0300">
     <title lang="pt-BR">Jornal da Manhã - 1ª Edição News O time de comentaristas da Jovem Pan analisa os principais assuntos do dia. googletag.cmd.push(function() { googleta</title>
@@ -867,12 +852,6 @@
   </programme>
   <programme channel="SporTV.br" start="20261125050000 -0300" stop="20261125060000 -0300">
     <title lang="pt-BR">Argentina x Uruguai Amistoso Internacional de Futebol Masculino Seleções masculinas de futebol se enfrentam em partidas amistosas pelo mundo. googlet</title>
-  </programme>
-  <programme channel="TVCultura.br" start="20261125050000 -0300" stop="20261125060000 -0300">
-    <title lang="pt-BR">Jornal da Cultura News As principais notícias do Brasil e do mundo, sempre com comentários de especialistas. googletag.cmd.push(function() { googleta</title>
-  </programme>
-  <programme channel="TVCultura.br" start="20261125050000 -0300" stop="20261125063000 -0300">
-    <title lang="pt-BR">Jornal da Cultura News As principais notícias do Brasil e do mundo, sempre com comentários de especialistas.</title>
   </programme>
   <programme channel="CNNBrasil.br" start="20261125050000 -0300" stop="20261125070000 -0300">
     <title lang="pt-BR">CNN Newsroom News Notícias de última hora e histórias em desenvolvimento, apresentadas por um time de repórteres, ao vivo da sede da CNN.</title>
@@ -929,7 +908,7 @@
     <title lang="pt-BR">Meio Norte News Special Resumo das principais notícias do estado do Piauí. googletag.cmd.push(function() { googletag.display('div-gpt-ad-157078660502</title>
   </programme>
   <programme channel="MeioNorteHD.br" start="20261125054000 -0300" stop="20261125064000 -0300">
-    <title lang="pt-BR">Meio Norte News Special Resumo das principais notícias do estado do Piauí. Sobre mi.tv A mi.tv é um guia de TV inteligente, com mais de 200 canais de</title>
+    <title lang="pt-BR">Meio Norte News Special Resumo das principais notícias do estado do Piauí. googletag.cmd.push(function() { googletag.display('div-gpt-ad-157078660502</title>
   </programme>
   <programme channel="VenusTV.br" start="20261125054900 -0300" stop="20261125064900 -0300">
     <title lang="pt-BR">Adicta al porno Adults only Muitas latinas são diretas. Se gostam de alguém, elas dão. E aqui, todos amam mulheres decididas. googletag.cmd.push(func</title>
@@ -1046,22 +1025,22 @@
     <title lang="pt-BR">Bom Dia PI News As últimas notícias de Teresina e de todo o estado do Piauí.</title>
   </programme>
   <programme channel="GETV.br" start="20261125060000 -0300" stop="20261125100000 -0300">
-    <title lang="pt-BR">GE TV Special 33 min restantes</title>
+    <title lang="pt-BR">GE TV Special 18 min restantes</title>
   </programme>
   <programme channel="Premiere2.br" start="20261125060000 -0300" stop="20261125140000 -0300">
-    <title lang="pt-BR">Premiere 2 Acompanhe a programação pay-per-view. 4 horas 32 min restantes</title>
+    <title lang="pt-BR">Premiere 2 Acompanhe a programação pay-per-view. 4 horas 17 min restantes</title>
   </programme>
   <programme channel="Premiere3.br" start="20261125060000 -0300" stop="20261125140000 -0300">
-    <title lang="pt-BR">Premiere 3 Acompanhe a programação pay-per-view. 4 horas 32 min restantes</title>
+    <title lang="pt-BR">Premiere 3 Acompanhe a programação pay-per-view. 4 horas 17 min restantes</title>
   </programme>
   <programme channel="Premiere4.br" start="20261125060000 -0300" stop="20261125140000 -0300">
-    <title lang="pt-BR">Premiere 4 Acompanhe a programação pay-per-view. 4 horas 32 min restantes</title>
+    <title lang="pt-BR">Premiere 4 Acompanhe a programação pay-per-view. 4 horas 17 min restantes</title>
   </programme>
   <programme channel="Premiere6.br" start="20261125060000 -0300" stop="20261125140000 -0300">
-    <title lang="pt-BR">Premiere 6 Acompanhe a programação pay-per-view. 4 horas 32 min restantes</title>
+    <title lang="pt-BR">Premiere 6 Acompanhe a programação pay-per-view. 4 horas 17 min restantes</title>
   </programme>
   <programme channel="Premiere7.br" start="20261125060000 -0300" stop="20261125140000 -0300">
-    <title lang="pt-BR">Premiere 7 Acompanhe a programação pay-per-view. 4 horas 31 min restantes</title>
+    <title lang="pt-BR">Premiere 7 Acompanhe a programação pay-per-view. 4 horas 16 min restantes</title>
   </programme>
   <programme channel="tv.assembleia.piaui.br" start="20261125060000 -0300" stop="20261126060000 -0300">
     <title lang="pt-BR">– PROGRAMAÇÃO LIVRE DOMINGO</title>
@@ -1108,9 +1087,6 @@
   <programme channel="TVBrasil.br" start="20261125063000 -0300" stop="20261125070000 -0300">
     <title lang="pt-BR">Culturas do Campo Agriculture A realidade da agricultura familiar a partir da produção e das técnicas utilizadas por agricultores familiares, comunid</title>
   </programme>
-  <programme channel="TVCultura.br" start="20261125063000 -0300" stop="20261125070000 -0300">
-    <title lang="pt-BR">Matéria de Capa Newsmagazine De curiosidades a segredos do espaço, uma síntese dos temas mais importantes da atualidade.</title>
-  </programme>
   <programme channel="sexprive-brasileirinhas.br" start="20261125063000 -0300" stop="20261125070000 -0300">
     <title lang="pt-BR">Oral Total com Lady Bee Adults only Lady Bee é uma mulher experiente que sabe tudo de sexo oral.</title>
   </programme>
@@ -1141,9 +1117,6 @@
   <programme channel="TVBrasil.br" start="20261125070000 -0300" stop="20261125070600 -0300">
     <title lang="pt-BR">Esse É o Bicho! Adventure Ao misturar imaginação, humor e ciência, programa convida público infantil a enxergar com novos olhos os animais que fazem</title>
   </programme>
-  <programme channel="TVCultura.br" start="20261125070000 -0300" stop="20261125071500 -0300">
-    <title lang="pt-BR">Peppa Children Peppa e Suzy reúnem seus amigos para uma missão artística. Com a ajuda da Vovó Ovelha, as crianças criam um mural na parede usando div</title>
-  </programme>
   <programme channel="Multishow.br" start="20261125070000 -0300" stop="20261125072800 -0300">
     <title lang="pt-BR">Chaves Sitcom Para não ter de pagar o aluguel, Seu Madruga resolve fingir que a Chiquinha está doente. O problema é que todos acreditam na história e</title>
   </programme>
@@ -1172,7 +1145,7 @@
     <title lang="pt-BR">- JORNAL BOM DIA ASSEMBLEIA - AO VIVO</title>
   </programme>
   <programme channel="JovemPanNews.br" start="20261125070000 -0300" stop="20261125100000 -0300">
-    <title lang="pt-BR">Jornal da Manhã - 2ª Edição News O time de comentaristas da Jovem Pan analisa os principais assuntos do dia. 26 min restantes</title>
+    <title lang="pt-BR">Jornal da Manhã - 2ª Edição News O time de comentaristas da Jovem Pan analisa os principais assuntos do dia. 10 min restantes</title>
   </programme>
   <programme channel="tv.assembleia.piaui.br" start="20261125070000 -0300" stop="20261125103000 -0300">
     <title lang="pt-BR">- CINE KIDS</title>
@@ -1198,9 +1171,6 @@
   <programme channel="TVBrasil.br" start="20261125071400 -0300" stop="20261125072900 -0300">
     <title lang="pt-BR">Playpolis Adventure O menino Teteu e sua mãe Juju brincam de esconde-esconde em casa e descobrem um portal para Playpolis. No local, eles ganham a fo</title>
   </programme>
-  <programme channel="TVCultura.br" start="20261125071500 -0300" stop="20261125073000 -0300">
-    <title lang="pt-BR">Lupita no Planeta de Gente Grande Children Lupita, uma bebê de pouco mais de um ano, é mostrada como uma astronauta e cada ambiente é como um planeta</title>
-  </programme>
   <programme channel="SexyHot.br" start="20261125072600 -0300" stop="20261125075200 -0300">
     <title lang="pt-BR">Contos Urbanos Temporada 1 Episódio 2 Energia boa é aquela que conecta. Um grupo de amigas decide trocar informações sobre vibradores e as vibrações</title>
   </programme>
@@ -1209,9 +1179,6 @@
   </programme>
   <programme channel="TVBrasil.br" start="20261125072900 -0300" stop="20261125074400 -0300">
     <title lang="pt-BR">Playpolis Adventure O menino Teteu e sua mãe Juju brincam de esconde-esconde em casa e descobrem um portal para Playpolis. No local, eles ganham a fo</title>
-  </programme>
-  <programme channel="TVCultura.br" start="20261125073000 -0300" stop="20261125073500 -0300">
-    <title lang="pt-BR">Léo - O Caminhão Children Léo é um caminhão inteligente e cheio de dúvidas porque quer aprender coisas novas. Ele e os seus melhores amigos, Lifty a</title>
   </programme>
   <programme channel="Band.br" start="20261125073000 -0300" stop="20261125080000 -0300">
     <title lang="pt-BR">Dia Dia Rural Agriculture Entrevistas, debates técnicos, boletins ao vivo dos maiores eventos do setor e as principais notícias do agronegócio no Bra</title>
@@ -1240,9 +1207,6 @@
   <programme channel="SextremeBrazil.br" start="20261125073300 -0300" stop="20261125090400 -0300">
     <title lang="pt-BR">S...s Grandes, P..s N...s, F...s Duras Adults only Mulheres de seios volumosos divertem-se muito com homens de membros grandes.</title>
   </programme>
-  <programme channel="TVCultura.br" start="20261125073500 -0300" stop="20261125074500 -0300">
-    <title lang="pt-BR">Portão Mágico Children Uma turma de amigos, de diferentes regiões do Brasil, descobre um Portão Mágico que, ao ser ultrapassado, transporta-os para u</title>
-  </programme>
   <programme channel="TVBrasil.br" start="20261125074400 -0300" stop="20261125075100 -0300">
     <title lang="pt-BR">Tropa Troco Temporada 1 Episódio 5 A história de três melhores amigos a bordo da maior escola de heróis da galáxia. Eles treinam para proteger elemen</title>
   </programme>
@@ -1251,9 +1215,6 @@
   </programme>
   <programme channel="PlayboyHD.br" start="20261125074400 -0300" stop="20261125080800 -0300">
     <title lang="pt-BR">SexArt Temporada 3 Episódio 10 Mulheres fazem sexo em cenários românticos.</title>
-  </programme>
-  <programme channel="TVCultura.br" start="20261125074500 -0300" stop="20261125075500 -0300">
-    <title lang="pt-BR">Turbossauros Children Dinossauros capazes de se transformar em máquinas potentes ajudam seus amigos Katie e Peter a resolver problemas grandes e pequ</title>
   </programme>
   <programme channel="Cancaonova.br" start="20261125074700 -0300" stop="20261125080000 -0300">
     <title lang="pt-BR">Pai das Misericórdias Religious Discussões sobre diversos temas que ajudam na caminhada para a santidade, apresentando a espiritualidade e devoção ao</title>
@@ -1270,14 +1231,8 @@
   <programme channel="Multishow.br" start="20261125075400 -0300" stop="20261125080000 -0300">
     <title lang="pt-BR">Vai que Cola Temporada 11 Episódio 38 - Teste Sem Sofá O sol nasce feliz na fazendinha, quando chega a notícia de que a cidade estará na regravação d</title>
   </programme>
-  <programme channel="TVCultura.br" start="20261125075500 -0300" stop="20261125080000 -0300">
-    <title lang="pt-BR">Parquinho Jurássico Children Ágata, Enzo, Helena e Kauê são dinossauros que viveram no Brasil há mais de 70 milhões de anos. Juntos, os quatro vivem</title>
-  </programme>
   <programme channel="TVBrasil.br" start="20261125075600 -0300" stop="20261125080800 -0300">
     <title lang="pt-BR">Massinhas Educational As massinhas de modelar Lila, Bel e Max escapam da mochila de uma criança de cinco anos para explorar objetos do cotidiano - co</title>
-  </programme>
-  <programme channel="TVCultura.br" start="20261125080000 -0300" stop="20261125081500 -0300">
-    <title lang="pt-BR">Cocoricó na Cidade Children A turma da fazenda vive muitas aventuras na cidade de São Paulo com João, primo de Júlio, e sua família. Eles passeiam po</title>
   </programme>
   <programme channel="Band.br" start="20261125080000 -0300" stop="20261125083000 -0300">
     <title lang="pt-BR">AgroBand Agriculture Acompanhe todas as informações sobre agricultura, pecuária, produção, cooperativismo, agroindústria, reflorestamento, economia a</title>
@@ -1313,16 +1268,16 @@
     <title lang="pt-BR">- JORNAL BOM DIA ASSEMBLEIA – REPRISE</title>
   </programme>
   <programme channel="Cancaonova.br" start="20261125080000 -0300" stop="20261125093300 -0300">
-    <title lang="pt-BR">Sorrindo pra Vida Religious Junte-se a um grupo diário de oração, música e meditação da palavra de Deus. 10 min restantes</title>
+    <title lang="pt-BR">Sorrindo pra Vida Religious Junte-se a um grupo diário de oração, música e meditação da palavra de Deus.</title>
   </programme>
   <programme channel="MeioNorte.br" start="20261125080000 -0300" stop="20261125100000 -0300">
-    <title lang="pt-BR">Central Meio Norte News Programa traz análises da política piauiense e nacional, com participação de comentaristas. 24 min restantes</title>
+    <title lang="pt-BR">Central Meio Norte News Programa traz análises da política piauiense e nacional, com participação de comentaristas. 9 min restantes</title>
   </programme>
   <programme channel="MeioNorteHD.br" start="20261125080000 -0300" stop="20261125100000 -0300">
-    <title lang="pt-BR">Central Meio Norte News Programa traz análises da política piauiense e nacional, com participação de comentaristas. 24 min restantes</title>
+    <title lang="pt-BR">Central Meio Norte News Programa traz análises da política piauiense e nacional, com participação de comentaristas. 9 min restantes</title>
   </programme>
   <programme channel="SporTV2.br" start="20261125080000 -0300" stop="20261125100000 -0300">
-    <title lang="pt-BR">Praia Clube x Fluminense Superliga Feminina de Vôlei Todas as emoções da principal competição de vôlei feminino entre equipes brasileiras. 31 min res</title>
+    <title lang="pt-BR">Praia Clube x Fluminense Superliga Feminina de Vôlei Todas as emoções da principal competição de vôlei feminino entre equipes brasileiras. 16 min res</title>
   </programme>
   <programme channel="DiscoveryChannel.br" start="20261125080300 -0300" stop="20261125085400 -0300">
     <title lang="pt-BR">Largados e Pelados Temporada 8 Episódio 7 - Desconectados em Belize A surfista Anastasia Ashley e o youtuber Cory Williams tentam sobreviver completa</title>
@@ -1337,10 +1292,7 @@
     <title lang="pt-BR">Pleasure Parlour Temporada 3 Episódio 1 Arenas misteriosas onde desejos são saciados e fantasias são realizadas.</title>
   </programme>
   <programme channel="SporTV3.br" start="20261125081000 -0300" stop="20261125101000 -0300">
-    <title lang="pt-BR">GP dos Estados Unidos Fórmula 1 Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1. 41 min restantes</title>
-  </programme>
-  <programme channel="TVCultura.br" start="20261125081500 -0300" stop="20261125083000 -0300">
-    <title lang="pt-BR">Cocoricó Children Júlio é um menino de cidade grande que adora tocar gaita. Nas férias, ele vai para a casa dos seus avós e fica encantado com a Faze</title>
+    <title lang="pt-BR">GP dos Estados Unidos Fórmula 1 Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1. 26 min restantes</title>
   </programme>
   <programme channel="Space.br" start="20261125081700 -0300" stop="20261125090300 -0300">
     <title lang="pt-BR">CSI: Miami Temporada 4 Episódio 25 - One of Our Own Horatio mourns the murder of someone close to him as he and the team hunt for the killer; the rev</title>
@@ -1356,9 +1308,6 @@
   </programme>
   <programme channel="GloboNews.br" start="20261125082500 -0300" stop="20261125110000 -0300">
     <title lang="pt-BR">GloboNews Radar News O GloboNews Radar oferece uma análise acurada e perspicaz dos principais acontecimentos do dia. Os especialistas falam sobre pol</title>
-  </programme>
-  <programme channel="TVCultura.br" start="20261125083000 -0300" stop="20261125084000 -0300">
-    <title lang="pt-BR">Jacarelvis e Amigos Children Com animações que até os mais velhos vão querer assistir, Jacarelvis e seus amigos trazem músicas infantis de qualidade,</title>
   </programme>
   <programme channel="Band.br" start="20261125083000 -0300" stop="20261125090000 -0300">
     <title lang="pt-BR">BandSports News As notícias esportivas mais relevantes do Brasil e do mundo.</title>
@@ -1388,16 +1337,16 @@
     <title lang="pt-BR">Bom Dia Brasil News A cobertura de notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.</title>
   </programme>
   <programme channel="TVClube.br" start="20261125083000 -0300" stop="20261125093000 -0300">
-    <title lang="pt-BR">Bom Dia Brasil News A cobertura de notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia. 8 min restantes 09</title>
+    <title lang="pt-BR">Bom Dia Brasil News A cobertura de notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.</title>
   </programme>
   <programme channel="CanalUOL.br" start="20261125083000 -0300" stop="20261125100000 -0300">
     <title lang="pt-BR">UOL News Esporte Os principais fatos do esporte com a participação de colunistas, repórteres e convidados especiais, provocando a interação com o púb</title>
   </programme>
   <programme channel="SporTV.br" start="20261125083000 -0300" stop="20261125100000 -0300">
-    <title lang="pt-BR">SporTV News As últimas notícias esportivas do Brasil e do mundo. 31 min restantes</title>
+    <title lang="pt-BR">SporTV News As últimas notícias esportivas do Brasil e do mundo. 16 min restantes</title>
   </programme>
   <programme channel="SBTNews.br" start="20261125083000 -0300" stop="20261125110000 -0300">
-    <title lang="pt-BR">News Manhã News As primeiras notícias do dia, bastidores políticos e movimentações no Brasil e no mundo. 1 hora 25 min restantes</title>
+    <title lang="pt-BR">News Manhã News As primeiras notícias do dia, bastidores políticos e movimentações no Brasil e no mundo. 1 hora 10 min restantes</title>
   </programme>
   <programme channel="SBTPiaui.br" start="20261125083000 -0300" stop="20261125110000 -0300">
     <title lang="pt-BR">Primeiro Impacto News Acompanhe as reportagens que trazem informações do dia a dia. Saiba o que é relevante para o cenário cotidiano por meio de anál</title>
@@ -1420,17 +1369,11 @@
   <programme channel="TVBrasil.br" start="20261125083800 -0300" stop="20261125085100 -0300">
     <title lang="pt-BR">Lupita no Planeta de Gente Grande Children Lupita, uma bebê de pouco mais de um ano, é mostrada como uma astronauta e cada ambiente é como um planeta</title>
   </programme>
-  <programme channel="TVCultura.br" start="20261125084000 -0300" stop="20261125084500 -0300">
-    <title lang="pt-BR">Paramigos Imparáveis Educational Uma equipe de heróis com deficiência têm a missão de impedir o fim dos recursos minerais do planeta.</title>
-  </programme>
   <programme channel="RecordTV.br" start="20261125084000 -0300" stop="20261125095000 -0300">
     <title lang="pt-BR">Fala Brasil News O Fala Brasil é um programa de jornalismo moderno e dinâmico que mostra os mais importantes acontecimentos nacionais e internacionai</title>
   </programme>
   <programme channel="TVAntena10.br" start="20261125084000 -0300" stop="20261125095000 -0300">
     <title lang="pt-BR">Fala Brasil News O Fala Brasil é um programa de jornalismo moderno e dinâmico que mostra os mais importantes acontecimentos nacionais e internacionai</title>
-  </programme>
-  <programme channel="TVCultura.br" start="20261125084500 -0300" stop="20261125090000 -0300">
-    <title lang="pt-BR">Meu AmigãoZão Children Matt e Lili não se entendem na praia, pois querem brincar de coisas diferentes.</title>
   </programme>
   <programme channel="TVBrasil.br" start="20261125085100 -0300" stop="20261125085500 -0300">
     <title lang="pt-BR">Mundo Bita Children Bita apresenta um alfabeto cheio de poesia, para a criançada aprender com diversão.</title>
@@ -1448,13 +1391,10 @@
     <title lang="pt-BR">Secret Sessions Temporada 3 Episódio 8 Uma sessão de massagens relaxantes pode se transformar em um jogo erótico sem igual. Corpos lambuzados de óleo</title>
   </programme>
   <programme channel="SexyHot.br" start="20261125085700 -0300" stop="20261125102200 -0300">
-    <title lang="pt-BR">Coach de Calcinha Adults only / 2026 Ao precisar de um coach de calcinha, o Husky sabe e consegue ajudar. 59 min restantes</title>
+    <title lang="pt-BR">Coach de Calcinha Adults only / 2026 Ao precisar de um coach de calcinha, o Husky sabe e consegue ajudar. 44 min restantes</title>
   </programme>
   <programme channel="tv.assembleia.piaui.br" start="20261125090000 -0300" stop="20261125090500 -0300">
     <title lang="pt-BR">- LENDAS E HISTÓRIAS</title>
-  </programme>
-  <programme channel="TVCultura.br" start="20261125090000 -0300" stop="20261125091000 -0300">
-    <title lang="pt-BR">Milo Children Milo é um gatinho curioso que vive grandes aventuras com seus melhores amigos. De explorar galáxias e mundos fantásticos, a cozinhar, c</title>
   </programme>
   <programme channel="BandSports.br" start="20261125090000 -0300" stop="20261125091500 -0300">
     <title lang="pt-BR">Oléé S.A. Uma discussão sobre o que acontece fora das disputas esportivas. Tudo sobre as modalidades por meio da ótica dos negócios e do nicho econôm</title>
@@ -1469,19 +1409,19 @@
     <title lang="pt-BR">- PIAUÍ CHEIO DE GRAÇA - REPRISE</title>
   </programme>
   <programme channel="CNNBrasil.br" start="20261125090000 -0300" stop="20261125103000 -0300">
-    <title lang="pt-BR">CNN News Central News Acompanhe as últimas notícias de todo o mundo direto do centro de notícias imersivo da CNN. 56 min restantes</title>
+    <title lang="pt-BR">CNN News Central News Acompanhe as últimas notícias de todo o mundo direto do centro de notícias imersivo da CNN. 41 min restantes</title>
   </programme>
   <programme channel="Band.br" start="20261125090000 -0300" stop="20261125110000 -0300">
-    <title lang="pt-BR">Bora Brasil News Acompanhe as principais informações do Brasil e do mundo com leveza, interatividade e credibilidade. 1 hora 29 min restantes</title>
+    <title lang="pt-BR">Bora Brasil News Acompanhe as principais informações do Brasil e do mundo com leveza, interatividade e credibilidade. 1 hora 14 min restantes</title>
   </programme>
   <programme channel="BandPiaui.br" start="20261125090000 -0300" stop="20261125110000 -0300">
-    <title lang="pt-BR">Bora Brasil News Acompanhe as principais informações do Brasil e do mundo com leveza, interatividade e credibilidade. 1 hora 37 min restantes</title>
+    <title lang="pt-BR">Bora Brasil News Acompanhe as principais informações do Brasil e do mundo com leveza, interatividade e credibilidade. 1 hora 22 min restantes</title>
   </programme>
   <programme channel="ESPN.br" start="20261125090000 -0300" stop="20261125110000 -0300">
-    <title lang="pt-BR">Atalanta x Internazionale Campeonato Italiano Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália. 1 hora 36 mi</title>
+    <title lang="pt-BR">Atalanta x Internazionale Campeonato Italiano Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália. 1 hora 21 mi</title>
   </programme>
   <programme channel="ESPN2.br" start="20261125090000 -0300" stop="20261125110000 -0300">
-    <title lang="pt-BR">Minnesota Timberwolves x Brooklyn Nets NBA Trinta equipes dos Estados Unidos e Canadá se enfrentam na principal liga de basquete do mundo. 1 hora 36</title>
+    <title lang="pt-BR">Minnesota Timberwolves x Brooklyn Nets NBA Trinta equipes dos Estados Unidos e Canadá se enfrentam na principal liga de basquete do mundo. 1 hora 21</title>
   </programme>
   <programme channel="VenusTV.br" start="20261125090100 -0300" stop="20261125103100 -0300">
     <title lang="pt-BR">Pelo Amor do Grande P.u Negro! Adults only Seja uma rapidinha no parque, sexo oral na venda de garagem ou uma masturbação com os seios no jantar, ess</title>
@@ -1507,11 +1447,8 @@
   <programme channel="TVBrasil.br" start="20261125090700 -0300" stop="20261125091900 -0300">
     <title lang="pt-BR">Igarapé Mágico Temporada 1 Episódio 8 - Garrafa ou Gafanhoto? Conscientização sobre a limpeza das águas é o tema deste episódio, que mostra que os an</title>
   </programme>
-  <programme channel="TVCultura.br" start="20261125091000 -0300" stop="20261125092500 -0300">
-    <title lang="pt-BR">PJ Masks - Heróis de Pijama Children Connor, Amaya e Greg são vizinhos e grandes amigos. Durante o dia, eles vão à escola e brincam juntos. À noite,</title>
-  </programme>
   <programme channel="BandSports.br" start="20261125091500 -0300" stop="20261125100000 -0300">
-    <title lang="pt-BR">Esporte Total Confira as notícias locais do mundo esportivo e os destaques do futebol goiano. 36 min restantes</title>
+    <title lang="pt-BR">Esporte Total Confira as notícias locais do mundo esportivo e os destaques do futebol goiano. 22 min restantes</title>
   </programme>
   <programme channel="tv.assembleia.piaui.br" start="20261125091500 -0300" stop="20261125124900 -0300">
     <title lang="pt-BR">, última modificação 30/10/2023</title>
@@ -1528,9 +1465,6 @@
   <programme channel="PlayboyHD.br" start="20261125092000 -0300" stop="20261125094400 -0300">
     <title lang="pt-BR">Secret Sessions Temporada 3 Episódio 9 Uma sessão de massagens relaxantes pode se transformar em um jogo erótico sem igual. Corpos lambuzados de óleo</title>
   </programme>
-  <programme channel="TVCultura.br" start="20261125092500 -0300" stop="20261125094000 -0300">
-    <title lang="pt-BR">Bluey Children Bandit tenta se exercitar no jardim, mas suas filhas transformam sua rotina de treino em uma brincadeira; durante as férias no hotel,</title>
-  </programme>
   <programme channel="TNT.br" start="20261125092800 -0300" stop="20261125095400 -0300">
     <title lang="pt-BR">Um Maluco no Pedaço Temporada 3 Episódio 21 - Pode Apostar A caminho de visitar a Universidade de Nevada, Will, Carlton e DJ Jazzy Jeff se envolvem c</title>
   </programme>
@@ -1541,7 +1475,7 @@
     <title lang="pt-BR">Volte Sempre Temporada 2 Episódio 1 Waldir relembra um encontro improvável com Carlinhos Brown. Zuenir tenta atender um pedido esotérico. Narcisa tra</title>
   </programme>
   <programme channel="RedeTV.br" start="20261125093000 -0300" stop="20261125100000 -0300">
-    <title lang="pt-BR">RedeTV! Notícias - 1ª Edição News Telejornal com as principais notícias do Brasil e do mundo. 28 min restantes</title>
+    <title lang="pt-BR">RedeTV! Notícias - 1ª Edição News Telejornal com as principais notícias do Brasil e do mundo. 13 min restantes</title>
   </programme>
   <programme channel="tv.assembleia.piaui.br" start="20261125093000 -0300" stop="20261125100000 -0300">
     <title lang="pt-BR">- CINE KIDS</title>
@@ -1559,16 +1493,13 @@
     <title lang="pt-BR">Encontro com Patrícia Poeta Entertainment O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jo</title>
   </programme>
   <programme channel="sexprive-brasileirinhas.br" start="20261125093000 -0300" stop="20261125110000 -0300">
-    <title lang="pt-BR">Baby Face 1 Adults only / 2003 As mais inocentes garotas mostram seu lado mais safado.</title>
+    <title lang="pt-BR">Baby Face 1 Adults only / 2003 As mais inocentes garotas mostram seu lado mais safado. 1 hora 22 min restantes</title>
   </programme>
   <programme channel="Cancaonova.br" start="20261125093300 -0300" stop="20261125100000 -0300">
-    <title lang="pt-BR">Canção Nova Notícias News As notícias do dia e reportagens com um jornalismo a serviço da vida e da esperança.</title>
+    <title lang="pt-BR">Canção Nova Notícias News As notícias do dia e reportagens com um jornalismo a serviço da vida e da esperança. 22 min restantes</title>
   </programme>
   <programme channel="TVBrasil.br" start="20261125093800 -0300" stop="20261125094900 -0300">
     <title lang="pt-BR">Portão Mágico Children Uma turma de amigos, de diferentes regiões do Brasil, descobre um Portão Mágico que, ao ser ultrapassado, transporta-os para u</title>
-  </programme>
-  <programme channel="TVCultura.br" start="20261125094000 -0300" stop="20261125095500 -0300">
-    <title lang="pt-BR">Ninhos em Movimento Documentary Série documental sobre crianças migrantes e refugiadas que vivem no Brasil.</title>
   </programme>
   <programme channel="DiscoveryChannel.br" start="20261125094100 -0300" stop="20261125103200 -0300">
     <title lang="pt-BR">Desafio em Dose Dupla - Brasil Temporada 2 Episódio 4 - Mar de Morros Partindo do cenário de dois caçadores que se perdem no Vale do Ribeira, Leo Roc</title>
@@ -1599,9 +1530,6 @@
   </programme>
   <programme channel="TNT.br" start="20261125095400 -0300" stop="20261125101900 -0300">
     <title lang="pt-BR">Um Maluco no Pedaço Temporada 3 Episódio 22 - Não Tem Nada Como o Show Business Will se depara com o amigo de longa data Keith, um aspirante a comedi</title>
-  </programme>
-  <programme channel="TVCultura.br" start="20261125095500 -0300" stop="20261125100500 -0300">
-    <title lang="pt-BR">Os Óculos Mágicos de Charlotte Children A pequena Charlotte, uma menina de sete anos, ganha óculos mágicos de presente da fada do dente que permite q</title>
   </programme>
   <programme channel="Multishow.br" start="20261125095800 -0300" stop="20261125102900 -0300">
     <title lang="pt-BR">Atenção para o Refrão Temporada 2 Episódio 5 - Brilho Sarah Oliveira explora refrões e versos que celebram a luz, o encanto e a força de quem se dest</title>
@@ -1651,9 +1579,6 @@
   <programme channel="MeioNorteHD.br" start="20261125100500 -0300" stop="20261125101000 -0300">
     <title lang="pt-BR">O 10 do Esporte Sports talk Os principais destaques do esporte.</title>
   </programme>
-  <programme channel="TVCultura.br" start="20261125100500 -0300" stop="20261125101500 -0300">
-    <title lang="pt-BR">Histórias Atrás da Porta Adventure Anita se muda para a casa da avó e descobre que sua família tem o poder de viajar no tempo. Agora, com seus dois m</title>
-  </programme>
   <programme channel="Playboy.br" start="20261125100800 -0300" stop="20261125112800 -0300">
     <title lang="pt-BR">Safadas à Venda Adults only / 2022 Shay Sights, Caitlin Bell, Crystal Rush e McKenzie Lee são mulheres experientes e corretoras de imóveis. Elas faze</title>
   </programme>
@@ -1672,9 +1597,6 @@
   <programme channel="TVBrasil.br" start="20261125101100 -0300" stop="20261125102500 -0300">
     <title lang="pt-BR">Criança Raiz Documentary Registro da infância cuja proteção significa também zelar pela natureza, cultura e memória. Crianças vivendo em zonas rurais</title>
   </programme>
-  <programme channel="TVCultura.br" start="20261125101500 -0300" stop="20261125103000 -0300">
-    <title lang="pt-BR">O Show da Luna! Children Luna, uma garota de seis anos que ama ciências, acredita que a Terra é um enorme laboratório. Luna, seu irmão e seu furão de</title>
-  </programme>
   <programme channel="TNT.br" start="20261125101900 -0300" stop="20261125104200 -0300">
     <title lang="pt-BR">Um Maluco no Pedaço Temporada 3 Episódio 23 - O Jeito que Éramos Enquanto Philip e Vivian se preparam para renovar os votos de casamento no 25º anive</title>
   </programme>
@@ -1689,9 +1611,6 @@
   </programme>
   <programme channel="Multishow.br" start="20261125102900 -0300" stop="20261125105700 -0300">
     <title lang="pt-BR">Chaves Sitcom Para não ter de pagar o aluguel, Seu Madruga resolve fingir que a Chiquinha está doente. O problema é que todos acreditam na história e</title>
-  </programme>
-  <programme channel="TVCultura.br" start="20261125103000 -0300" stop="20261125104000 -0300">
-    <title lang="pt-BR">Bino e Fino Children Os irmãos Bino e Fino vivem na África com sua família. Com a ajuda de sua amiga Zeena, a borboleta mágica, os dois aprendem sobr</title>
   </programme>
   <programme channel="CNNBrasil.br" start="20261125103000 -0300" stop="20261125110000 -0300">
     <title lang="pt-BR">World Sport Uma análise abrangente das notícias esportivas de todo o mundo, incluindo todos os principais destaques, perfis e entrevistas com os reda</title>
@@ -1738,17 +1657,11 @@
   <programme channel="TVBrasil.br" start="20261125103900 -0300" stop="20261125104600 -0300">
     <title lang="pt-BR">As Aventuras de Tita Children Tita, filha do caçador Lavareda na região do São Francisco, é transformada em uma arara-azul como punição à captura de</title>
   </programme>
-  <programme channel="TVCultura.br" start="20261125104000 -0300" stop="20261125104500 -0300">
-    <title lang="pt-BR">Esse É o Bicho! Adventure Ao misturar imaginação, humor e ciência, programa convida público infantil a enxergar com novos olhos os animais que fazem</title>
-  </programme>
   <programme channel="TNT.br" start="20261125104200 -0300" stop="20261125110400 -0300">
     <title lang="pt-BR">Todo Mundo Odeia o Chris Temporada 4 Episódio 6 - Todo Mundo Odeia O Doc Stacy, a nova namorada atrevida de Doc, torna a vida de Chris um verdadeiro</title>
   </programme>
   <programme channel="InvestigacaoDiscovery.br" start="20261125104300 -0300" stop="20261125112700 -0300">
     <title lang="pt-BR">Emboscada Temporada 1 Episódio 5 - Laços de Sangue Ray Kotomski, um agente penitenciário aposentado, acredita que a fase negra de sua vida ficou para</title>
-  </programme>
-  <programme channel="TVCultura.br" start="20261125104500 -0300" stop="20261125110000 -0300">
-    <title lang="pt-BR">Iuri &amp; Udi Children Iuri é um garoto hiperativo que vive consertando ou inventando aparelhos. O seu jabuti, Udi, tem o poder de se fundir a esses inv</title>
   </programme>
   <programme channel="BandSports.br" start="20261125104500 -0300" stop="20261125111500 -0300">
     <title lang="pt-BR">The Golf Brasil O programa traz os atletas e o mundo que rodeia o golfe, como o seu círculo de tomadores de decisão, empresários, executivos, empreen</title>
@@ -1761,9 +1674,6 @@
   </programme>
   <programme channel="TVBrasil.br" start="20261125105900 -0300" stop="20261125111200 -0300">
     <title lang="pt-BR">Ninhos em Movimento Documentary Série documental sobre crianças migrantes e refugiadas que vivem no Brasil.</title>
-  </programme>
-  <programme channel="TVCultura.br" start="20261125110000 -0300" stop="20261125111000 -0300">
-    <title lang="pt-BR">Gildo Children As aventuras diárias do curioso e corajoso menino elefante Gildo.</title>
   </programme>
   <programme channel="SexyHot.br" start="20261125110000 -0300" stop="20261125112600 -0300">
     <title lang="pt-BR">Contos Urbanos Temporada 1 Episódio 2 Energia boa é aquela que conecta. Um grupo de amigas decide trocar informações sobre vibradores e as vibrações</title>
@@ -1810,17 +1720,11 @@
   <programme channel="TNT.br" start="20261125110400 -0300" stop="20261125112800 -0300">
     <title lang="pt-BR">Todo Mundo Odeia o Chris Temporada 4 Episódio 7 - Todo Mundo Odeia X9 Chris deveria estar em casa tomando conta de Drew e Tonya, mas vai ao cinema co</title>
   </programme>
-  <programme channel="TVCultura.br" start="20261125111000 -0300" stop="20261125111500 -0300">
-    <title lang="pt-BR">Morgana &amp; Celeste Children A poderosa bruxa Morgana, de "Castelo Rá-Tim-Bum", relembra grandes momentos da história da humanidade testemunhados por e</title>
-  </programme>
   <programme channel="TVBrasil.br" start="20261125111200 -0300" stop="20261125111700 -0300">
     <title lang="pt-BR">Além da Lenda Children As lendas brasileiras estão em crise e sua existência está ameaçada. A solução é fazer terapia com um especialista, que vai aj</title>
   </programme>
   <programme channel="BandSports.br" start="20261125111500 -0300" stop="20261125113000 -0300">
     <title lang="pt-BR">Oléé S.A. Uma discussão sobre o que acontece fora das disputas esportivas. Tudo sobre as modalidades por meio da ótica dos negócios e do nicho econôm</title>
-  </programme>
-  <programme channel="TVCultura.br" start="20261125111500 -0300" stop="20261125113500 -0300">
-    <title lang="pt-BR">Weme e a Natureza Children Crianças ao redor do mundo falam sobre meio ambiente destacando diferentes elementos da natureza.</title>
   </programme>
   <programme channel="Viva.br" start="20261125111500 -0300" stop="20261125120200 -0300">
     <title lang="pt-BR">O Cravo e a Rosa Soap Candoca desconfia de Celso; Petruchio desabafa com Calixto; Heitor recebe uma notícia importante; Batista resolve viajar novame</title>
@@ -1867,9 +1771,6 @@
   <programme channel="TVAntena10.br" start="20261125113000 -0300" stop="20261125153000 -0300">
     <title lang="pt-BR">Balanço Geral PI News O programa transita entre o jornalismo e o entretenimento, com reportagens exclusivas, denúncias, prestação de serviços, saúde</title>
   </programme>
-  <programme channel="TVCultura.br" start="20261125113500 -0300" stop="20261125114500 -0300">
-    <title lang="pt-BR">Turma da Mônica Children Um grupo de amigos está sempre se metendo em confusões no Bairro do Limoeiro. Mônica, Cebolinha, Cascão, Magali e o resto da</title>
-  </programme>
   <programme channel="SporTV2.br" start="20261125113500 -0300" stop="20261125124000 -0300">
     <title lang="pt-BR">Final Masculina - Tóquio, Japão SLS - Liga Internacional de Skate Street As emoções da SLS, circuito internacional de skate street com etapas em dive</title>
   </programme>
@@ -1878,9 +1779,6 @@
   </programme>
   <programme channel="CNNBrasil.br" start="20261125114500 -0300" stop="20261125120000 -0300">
     <title lang="pt-BR">World Sport Uma análise abrangente das notícias esportivas de todo o mundo, incluindo todos os principais destaques, perfis e entrevistas com os reda</title>
-  </programme>
-  <programme channel="TVCultura.br" start="20261125114500 -0300" stop="20261125120000 -0300">
-    <title lang="pt-BR">Quintal da Cultura Children Os irmãos Ludovico e Doroteia, o amigo Osório e sua tia Ofélia brincam e se divertem aprendendo coisas novas ao lado de u</title>
   </programme>
   <programme channel="GloboSP.br" start="20261125114500 -0300" stop="20261125130000 -0300">
     <title lang="pt-BR">SP1 News Acompanhe as últimas notícias, prestação de serviço, campanhas comunitárias e informações necessárias para o dia a dia dos paulistanos, como</title>
@@ -1908,9 +1806,6 @@
   </programme>
   <programme channel="sexprive-brasileirinhas.br" start="20261125120000 -0300" stop="20261125123000 -0300">
     <title lang="pt-BR">Carona do Ted Adults only Se tudo pode acontecer entre quatro paredes, também pode sobre quatro rodas. Seguindo a onda das startups de mobilidade urb</title>
-  </programme>
-  <programme channel="TVCultura.br" start="20261125120000 -0300" stop="20261125124500 -0300">
-    <title lang="pt-BR">Jornal da Tarde News As primeiras notícias do dia de forma objetiva e imparcial. No Jornal da Tarde você acompanha tudo sobre as discussões e votaçõe</title>
   </programme>
   <programme channel="Cancaonova.br" start="20261125120000 -0300" stop="20261125125000 -0300">
     <title lang="pt-BR">Santa Missa Religious Acompanhe a celebração da santa missa em João Pessoa.</title>
@@ -2005,9 +1900,6 @@
   <programme channel="Multishow.br" start="20261125124200 -0300" stop="20261125131700 -0300">
     <title lang="pt-BR">Tapas &amp; Beijos Temporada 2 Episódio 8 - O Forró da Discórdia Armane e Jorge se desdobram para reconquistar suas mulheres. Fátima briga com Armane e v</title>
   </programme>
-  <programme channel="TVCultura.br" start="20261125124500 -0300" stop="20261125130000 -0300">
-    <title lang="pt-BR">Cocoricó na Cidade Children A turma da fazenda vive muitas aventuras na cidade de São Paulo com João, primo de Júlio, e sua família. Eles passeiam po</title>
-  </programme>
   <programme channel="tv.assembleia.piaui.br" start="20261125124900 -0300" stop="20261126060000 -0300">
     <title lang="pt-BR">PROGRAMAÇÃO TV ASSEMBLEIA SEGUNDA-FEIRA</title>
   </programme>
@@ -2028,9 +1920,6 @@
   </programme>
   <programme channel="PlayboyHD.br" start="20261125125800 -0300" stop="20261125132200 -0300">
     <title lang="pt-BR">Passion Diaries Adults only Desvende as fantasias mais profundas e os mistérios mais indescritíveis em um mundo inebriante de sensualidade e intimida</title>
-  </programme>
-  <programme channel="TVCultura.br" start="20261125130000 -0300" stop="20261125131500 -0300">
-    <title lang="pt-BR">Cocoricó Children Júlio é um menino de cidade grande que adora tocar gaita. Nas férias, ele vai para a casa dos seus avós e fica encantado com a Faze</title>
   </programme>
   <programme channel="GloboSP.br" start="20261125130000 -0300" stop="20261125132500 -0300">
     <title lang="pt-BR">Globo Esporte SP As últimas notícias dos principais eventos do mundo esportivo com destaque para os times do estado.</title>
@@ -2086,9 +1975,6 @@
   <programme channel="DiscoveryChannel.br" start="20261125130600 -0300" stop="20261125135800 -0300">
     <title lang="pt-BR">Vida Remota Temporada 6 Episódio 4 - Casa de 30 Mil Pneus Os Raneys chegam a Ohio e encontram a família Broadhead lutando para sobreviver em sua casa</title>
   </programme>
-  <programme channel="TVCultura.br" start="20261125131500 -0300" stop="20261125132500 -0300">
-    <title lang="pt-BR">Jacarelvis e Amigos Children Com animações que até os mais velhos vão querer assistir, Jacarelvis e seus amigos trazem músicas infantis de qualidade,</title>
-  </programme>
   <programme channel="Multishow.br" start="20261125131700 -0300" stop="20261125133000 -0300">
     <title lang="pt-BR">Vai que Cola Temporada 12 Episódio 32 - Tetê Pisa Fundo A pensão tem uma super encomenda de 400 quentinhas. Sem a moto de Sanderson, o jeito é Terezi</title>
   </programme>
@@ -2100,9 +1986,6 @@
   </programme>
   <programme channel="PlayboyHD.br" start="20261125132200 -0300" stop="20261125134600 -0300">
     <title lang="pt-BR">Passion Diaries Adults only Desvende as fantasias mais profundas e os mistérios mais indescritíveis em um mundo inebriante de sensualidade e intimida</title>
-  </programme>
-  <programme channel="TVCultura.br" start="20261125132500 -0300" stop="20261125133000 -0300">
-    <title lang="pt-BR">Léo - O Caminhão Children Léo é um caminhão inteligente e cheio de dúvidas porque quer aprender coisas novas. Ele e os seus melhores amigos, Lifty a</title>
   </programme>
   <programme channel="GloboSP.br" start="20261125132500 -0300" stop="20261125144500 -0300">
     <title lang="pt-BR">Jornal Hoje News As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.</title>
@@ -2118,9 +2001,6 @@
   </programme>
   <programme channel="SextremeBrazil.br" start="20261125132900 -0300" stop="20261125140000 -0300">
     <title lang="pt-BR">Encontros Ardentes XXX Adults only Ela quer transar desesperadamente e, para isso, vai disponibilizar a parte da frente e de trás.</title>
-  </programme>
-  <programme channel="TVCultura.br" start="20261125133000 -0300" stop="20261125134000 -0300">
-    <title lang="pt-BR">Portão Mágico Children Uma turma de amigos, de diferentes regiões do Brasil, descobre um Portão Mágico que, ao ser ultrapassado, transporta-os para u</title>
   </programme>
   <programme channel="sexprive-brasileirinhas.br" start="20261125133000 -0300" stop="20261125140000 -0300">
     <title lang="pt-BR">Jazz Duro Adults only O programa leva o telespectador a um turismo pelo mundo, atrás das maiores e melhores depravações do planeta. Vale tudo: visita</title>
@@ -2149,9 +2029,6 @@
   <programme channel="InvestigacaoDiscovery.br" start="20261125133700 -0300" stop="20261125150500 -0300">
     <title lang="pt-BR">O Lado Sombrio de Hollywood Temporada 1 Episódio 2 - Estrelas Mirins Violentas No auge dos programas para a família dos anos 1990, atores mirins eram</title>
   </programme>
-  <programme channel="TVCultura.br" start="20261125134000 -0300" stop="20261125135000 -0300">
-    <title lang="pt-BR">Bino e Fino Children Os irmãos Bino e Fino vivem na África com sua família. Com a ajuda de sua amiga Zeena, a borboleta mágica, os dois aprendem sobr</title>
-  </programme>
   <programme channel="Space.br" start="20261125134300 -0300" stop="20261125143000 -0300">
     <title lang="pt-BR">CSI Investigação Criminal Temporada 7 Episódio 8 - Happenstance Gêmeos, que não sabiam da existência um do outro, são assassinados em lugares diferen</title>
   </programme>
@@ -2173,9 +2050,6 @@
   <programme channel="PlayboyHD.br" start="20261125134600 -0300" stop="20261125141000 -0300">
     <title lang="pt-BR">The Warm Up Temporada 1 Episódio 4 Exercícios físicos inspiram sensações sensuais e vigorosas em treinos inesquecíveis.</title>
   </programme>
-  <programme channel="TVCultura.br" start="20261125135000 -0300" stop="20261125140000 -0300">
-    <title lang="pt-BR">Milo Children Milo é um gatinho curioso que vive grandes aventuras com seus melhores amigos. De explorar galáxias e mundos fantásticos, a cozinhar, c</title>
-  </programme>
   <programme channel="BandPiaui.br" start="20261125135000 -0300" stop="20261125143000 -0300">
     <title lang="pt-BR">Vem com a Gente Entertainment Programa leve, divertido e informativo para suas tardes com conteúdo recheado de boas histórias.</title>
   </programme>
@@ -2187,9 +2061,6 @@
   </programme>
   <programme channel="DiscoveryChannel.br" start="20261125135800 -0300" stop="20261125145000 -0300">
     <title lang="pt-BR">Largados e Pelados Temporada 8 Episódio 4 - Caçadores e Presas Uma mãe de quatro filhos e um rapaz do interior são deixados em uma selva em Belize. E</title>
-  </programme>
-  <programme channel="TVCultura.br" start="20261125140000 -0300" stop="20261125141500 -0300">
-    <title lang="pt-BR">Meu AmigãoZão Children Matt e Lili não se entendem na praia, pois querem brincar de coisas diferentes.</title>
   </programme>
   <programme channel="SextremeBrazil.br" start="20261125140000 -0300" stop="20261125143000 -0300">
     <title lang="pt-BR">Amigos de Peito Adults only De um lado, uma gatinha. Do outro, uma mulher experiente. No meio, um homem muito sortudo.</title>
@@ -2239,17 +2110,11 @@
   <programme channel="PlayboyHD.br" start="20261125141000 -0300" stop="20261125143400 -0300">
     <title lang="pt-BR">Secret Sessions Adults only Uma sessão de massagens relaxantes pode se transformar em um jogo erótico sem igual. Corpos lambuzados de óleo, cheios de</title>
   </programme>
-  <programme channel="TVCultura.br" start="20261125141500 -0300" stop="20261125143000 -0300">
-    <title lang="pt-BR">Masha e o Urso Children Masha e o Urso finalmente partem para uma viagem ao redor do mundo. Cada episódio é uma história musical vibrante sobre um pa</title>
-  </programme>
   <programme channel="SporTV3.br" start="20261125142500 -0300" stop="20261125163000 -0300">
     <title lang="pt-BR">Décima Quinta Etapa - Bruxelas, Bélgica Diamond League Os principais nomes do atletismo mundial se reúnem em uma série anual de competições disputada</title>
   </programme>
   <programme channel="Space.br" start="20261125143000 -0300" stop="20261125144500 -0300">
     <title lang="pt-BR">Pré-Jogo A programação da TNT Brasil apresenta a transmissão dos jogos da UEFA Champions League. A atração acompanha a exibição de partidas do futebo</title>
-  </programme>
-  <programme channel="TVCultura.br" start="20261125143000 -0300" stop="20261125144500 -0300">
-    <title lang="pt-BR">Ninhos em Movimento Documentary Série documental sobre crianças migrantes e refugiadas que vivem no Brasil.</title>
   </programme>
   <programme channel="TVBrasil.br" start="20261125143000 -0300" stop="20261125150000 -0300">
     <title lang="pt-BR">Meu Pedaço do Brasil Travel Blumenau e Pomerode são cidades fortemente influenciadas pela imigração alemã no Brasil.</title>
@@ -2311,9 +2176,6 @@
   <programme channel="Cancaonova.br" start="20261125144000 -0300" stop="20261125145000 -0300">
     <title lang="pt-BR">Poder da Palavra Religious Momento de oração e reflexão sobre a palavra do Senhor, com Luzia Santiago.</title>
   </programme>
-  <programme channel="TVCultura.br" start="20261125144500 -0300" stop="20261125150000 -0300">
-    <title lang="pt-BR">Quintal TV Educational Com uma linguagem lúdica e leve, temas contemporâneos são abordados pelo olhar diverso de crianças.</title>
-  </programme>
   <programme channel="GloboSP.br" start="20261125144500 -0300" stop="20261125152500 -0300">
     <title lang="pt-BR">Roque Santeiro - Edição Especial Soap Em Asa Branca, moradores vivem em função dos supostos milagres de Roque Santeiro, que teria morrido como mártir</title>
   </programme>
@@ -2347,9 +2209,6 @@
   <programme channel="PlayboyHD.br" start="20261125145800 -0300" stop="20261125152200 -0300">
     <title lang="pt-BR">Seduction Principles Adults only Conheça mulheres que sabem aproveitar, têm o talento da sedução e estão prontas para compartilhar com você as habili</title>
   </programme>
-  <programme channel="TVCultura.br" start="20261125150000 -0300" stop="20261125151500 -0300">
-    <title lang="pt-BR">Gildo Children As aventuras diárias do curioso e corajoso menino elefante Gildo.</title>
-  </programme>
   <programme channel="TVBrasil.br" start="20261125150000 -0300" stop="20261125153000 -0300">
     <title lang="pt-BR">Parques do Brasil Environment Após percorrer mais de mil quilômetros do sul ao sudeste do Brasil, a Serra do Mar alcança no estado do Rio de Janeiro</title>
   </programme>
@@ -2376,9 +2235,6 @@
   </programme>
   <programme channel="Multishow.br" start="20261125151200 -0300" stop="20261125160100 -0300">
     <title lang="pt-BR">Vai que Cola Temporada 12 Episódio 37 - O Testamento de Tetê Terezinha engasga com uma azeitona durante o baile e declara o seu fim como o mesmo de T</title>
-  </programme>
-  <programme channel="TVCultura.br" start="20261125151500 -0300" stop="20261125153000 -0300">
-    <title lang="pt-BR">Bluey Children Bandit tenta se exercitar no jardim, mas suas filhas transformam sua rotina de treino em uma brincadeira; durante as férias no hotel,</title>
   </programme>
   <programme channel="Playboy.br" start="20261125152200 -0300" stop="20261125154700 -0300">
     <title lang="pt-BR">Girls of MetArt Temporada 2 Episódio 1 As beldades internacionais da MetArt retornam para uma nova temporada eletrizante.</title>
@@ -2409,9 +2265,6 @@
   </programme>
   <programme channel="TVClube.br" start="20261125152500 -0300" stop="20261125170500 -0300">
     <title lang="pt-BR">Eu Sou Maria Drama / 2023 Maria, uma menina que mora em uma comunidade carioca, consegue uma bolsa de estudos em um dos melhores colégios particulare</title>
-  </programme>
-  <programme channel="TVCultura.br" start="20261125153000 -0300" stop="20261125154500 -0300">
-    <title lang="pt-BR">Iuri &amp; Udi Children Iuri é um garoto hiperativo que vive consertando ou inventando aparelhos. O seu jabuti, Udi, tem o poder de se fundir a esses inv</title>
   </programme>
   <programme channel="CanalUOL.br" start="20261125153000 -0300" stop="20261125160000 -0300">
     <title lang="pt-BR">Desculpa Alguma Coisa Talk A escritora e roteirista Tati Bernardi instiga os entrevistados, com toda sua irreverência, a dizer tudo o que nunca falar</title>
@@ -2461,17 +2314,11 @@
   <programme channel="DiscoveryChannel.br" start="20261125154000 -0300" stop="20261125163000 -0300">
     <title lang="pt-BR">Desafio em Dose Dupla Temporada 1 Episódio 5 - Pânico na Selva Dave e Cody unem forças para enfrentar uma caminhada pela selva de Laos com apenas uma</title>
   </programme>
-  <programme channel="TVCultura.br" start="20261125154500 -0300" stop="20261125160000 -0300">
-    <title lang="pt-BR">O Show da Luna! Children Luna, uma garota de seis anos que ama ciências, acredita que a Terra é um enorme laboratório. Luna, seu irmão e seu furão de</title>
-  </programme>
   <programme channel="Playboy.br" start="20261125154700 -0300" stop="20261125161100 -0300">
     <title lang="pt-BR">The Stash Temporada 2 Episódio 2 Rachel Perry apresenta uma seleção de momentos ridículos e divertidíssimos.</title>
   </programme>
   <programme channel="PlayboyHD.br" start="20261125154700 -0300" stop="20261125161100 -0300">
     <title lang="pt-BR">The Stash Temporada 2 Episódio 2 Rachel Perry apresenta uma seleção de momentos ridículos e divertidíssimos.</title>
-  </programme>
-  <programme channel="TVCultura.br" start="20261125160000 -0300" stop="20261125162000 -0300">
-    <title lang="pt-BR">Weme e a Natureza Children Crianças ao redor do mundo falam sobre meio ambiente destacando diferentes elementos da natureza.</title>
   </programme>
   <programme channel="BandSports.br" start="20261125160000 -0300" stop="20261125163000 -0300">
     <title lang="pt-BR">Gearing Up Tudo sobre as competições mais eletrizantes do universo dos esportes a motor.</title>
@@ -2530,9 +2377,6 @@
   <programme channel="Viva.br" start="20261125161500 -0300" stop="20261125172700 -0300">
     <title lang="pt-BR">Amor à Vida Soap Pilar revela que orquestrou o acidente que gerou toda a vingança de Aline contra César; Edith larga Herbert e foge pelas ruas vestid</title>
   </programme>
-  <programme channel="TVCultura.br" start="20261125162000 -0300" stop="20261125164500 -0300">
-    <title lang="pt-BR">Turma da Mônica Children Um grupo de amigos está sempre se metendo em confusões no Bairro do Limoeiro. Mônica, Cebolinha, Cascão, Magali e o resto da</title>
-  </programme>
   <programme channel="SporTV.br" start="20261125163000 -0300" stop="20261125165500 -0300">
     <title lang="pt-BR">Santos x Grêmio Campeonato Brasileiro Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</title>
   </programme>
@@ -2572,9 +2416,6 @@
   <programme channel="PlayboyHD.br" start="20261125163500 -0300" stop="20261125165900 -0300">
     <title lang="pt-BR">SexArt Temporada 3 Episódio 10 Mulheres fazem sexo em cenários românticos.</title>
   </programme>
-  <programme channel="TVCultura.br" start="20261125164500 -0300" stop="20261125170000 -0300">
-    <title lang="pt-BR">Quintal da Cultura Children Os irmãos Ludovico e Doroteia, o amigo Osório e sua tia Ofélia brincam e se divertem aprendendo coisas novas ao lado de u</title>
-  </programme>
   <programme channel="MeioNorte.br" start="20261125164500 -0300" stop="20261125171500 -0300">
     <title lang="pt-BR">Boa Hits Special Seleção de sucessos musicais, hits do momento, pop e entretenimento jovem.</title>
   </programme>
@@ -2601,9 +2442,6 @@
   </programme>
   <programme channel="ESPN2.br" start="20261125170000 -0300" stop="20261125171500 -0300">
     <title lang="pt-BR">Momento ESPN Entrevistas e matérias especiais feitas pelo time do canal que mais entende de esporte.</title>
-  </programme>
-  <programme channel="TVCultura.br" start="20261125170000 -0300" stop="20261125171500 -0300">
-    <title lang="pt-BR">A Caverna de Petra Educational Em sua caverna, Petra explora dilemas típicos da infância e do amadurecimento.</title>
   </programme>
   <programme channel="Cancaonova.br" start="20261125170000 -0300" stop="20261125172800 -0300">
     <title lang="pt-BR">Cantinho da Criança Children Acompanhe histórias de evangelização para crianças apresentadas de forma divertida e inteligente, com vários personagens</title>
@@ -2650,9 +2488,6 @@
   <programme channel="ESPN2.br" start="20261125171500 -0300" stop="20261125173000 -0300">
     <title lang="pt-BR">Momento CBTênis Bastidores, novas gerações e cobertura de torneios nacionais de tênis.</title>
   </programme>
-  <programme channel="TVCultura.br" start="20261125171500 -0300" stop="20261125173000 -0300">
-    <title lang="pt-BR">Osmar - A Primeira Fatia do Pão de Forma Children A série conta a história do primogênito das fatias do pão de forma, aquela que sempre fica para trá</title>
-  </programme>
   <programme channel="MeioNorte.br" start="20261125171500 -0300" stop="20261125200000 -0300">
     <title lang="pt-BR">Patrulha News O apresentador alerta a sociedade e cobra das autoridades providências para reduzir os índices da criminalidade. O programa também abre</title>
   </programme>
@@ -2691,9 +2526,6 @@
   </programme>
   <programme channel="Cancaonova.br" start="20261125173000 -0300" stop="20261125175000 -0300">
     <title lang="pt-BR">A Bíblia no Meu Dia a Dia Religious Padre Roger Luís incentiva fiéis a se aprofundarem na palavra de Deus.</title>
-  </programme>
-  <programme channel="TVCultura.br" start="20261125173000 -0300" stop="20261125180000 -0300">
-    <title lang="pt-BR">Irmão do Jorel Children Um garoto tímido e sem nome é sempre chamado de irmão do Jorel. Sendo quase sempre ofuscado pela fama e popularidade de seu i</title>
   </programme>
   <programme channel="sexprive-brasileirinhas.br" start="20261125173000 -0300" stop="20261125180000 -0300">
     <title lang="pt-BR">Porn Stars Adults only Acompanhe filmes para lá de salientes com as maiores estrelas da pornografia.</title>
@@ -2778,9 +2610,6 @@
   </programme>
   <programme channel="TVBrasil.br" start="20261125180000 -0300" stop="20261125183000 -0300">
     <title lang="pt-BR">Brasil Sobre Duas Rodas Documentary Acompanhe uma viagem com ponto de partida sendo a charmosa vila de Trindade, em Paraty, no sul fluminense. Veja a</title>
-  </programme>
-  <programme channel="TVCultura.br" start="20261125180000 -0300" stop="20261125183000 -0300">
-    <title lang="pt-BR">O Mundo de Beakman Children O excêntrico cientista Beakman, por meio de experimentos químicos bizarros e divertidos, ilustra conceitos básicos da ciê</title>
   </programme>
   <programme channel="sexprive-brasileirinhas.br" start="20261125180000 -0300" stop="20261125183000 -0300">
     <title lang="pt-BR">Monique M...a, P...a na Taça Adults only Ela não aceita nada direto do canudo. Para manter a pose e a elegância, gosta de tomar tudo da taça.</title>
@@ -2869,9 +2698,6 @@
   <programme channel="TVBrasil.br" start="20261125183000 -0300" stop="20261125190000 -0300">
     <title lang="pt-BR">Stadium Acompanhe o programa de debates e entrevistas com participação ao vivo de repórteres, atletas, técnicos e comentaristas. Na pauta, esportes d</title>
   </programme>
-  <programme channel="TVCultura.br" start="20261125183000 -0300" stop="20261125190000 -0300">
-    <title lang="pt-BR">Shaun, o Carneiro Children Shaun é um carneiro extremamente inteligente e bastante criativo que vive em uma pequena fazenda. Ele é o líder do rebanho</title>
-  </programme>
   <programme channel="tv.assembleia.piaui.br" start="20261125183000 -0300" stop="20261125190000 -0300">
     <title lang="pt-BR">- ESPORTE NA ÁREA - REPRISE</title>
   </programme>
@@ -2946,9 +2772,6 @@
   </programme>
   <programme channel="TVBrasil.br" start="20261125190000 -0300" stop="20261125200000 -0300">
     <title lang="pt-BR">Repórter Brasil News Noticiário isento que mostra o que foi notícia no Brasil e no mundo, com destaque para reportagens voltadas ao cidadão.</title>
-  </programme>
-  <programme channel="TVCultura.br" start="20261125190000 -0300" stop="20261125200000 -0300">
-    <title lang="pt-BR">Antimatéria - Energia Geek Gaming Cultura pop, animes, games, filmes e séries tokusatsu.</title>
   </programme>
   <programme channel="tv.assembleia.piaui.br" start="20261125190000 -0300" stop="20261125200000 -0300">
     <title lang="pt-BR">- SARAU 17.1 - REPRISE</title>
@@ -3081,9 +2904,6 @@
   </programme>
   <programme channel="SporTV.br" start="20261125200000 -0300" stop="20261125210000 -0300">
     <title lang="pt-BR">Semifinal, Jogo de Volta: São Paulo x Atlético-MG Copa do Brasil de Futebol Sub-20</title>
-  </programme>
-  <programme channel="TVCultura.br" start="20261125200000 -0300" stop="20261125210000 -0300">
-    <title lang="pt-BR">Boas Práticas Escolares Educational Histórias de cidadania, inclusão e educação a partir de iniciativas transformadoras, dentro e fora do ambiente es</title>
   </programme>
   <programme channel="BandSports.br" start="20261125200000 -0300" stop="20261125213000 -0300">
     <title lang="pt-BR">Supermotor Programa especializado no mundo motor, sempre com convidados renomados do meio, trazendo informação, serviço e as principais notícias do a</title>
@@ -3232,9 +3052,6 @@
   <programme channel="TVAntena10.br" start="20261125210000 -0300" stop="20261125220000 -0300">
     <title lang="pt-BR">Iludida Soap Asya, uma médica respeitada, começa a suspeitar da infidelidade de seu marido: Volkan. Conforme ela aprofunda suas investigações, segred</title>
   </programme>
-  <programme channel="TVCultura.br" start="20261125210000 -0300" stop="20261125220000 -0300">
-    <title lang="pt-BR">Jornal da Cultura News As principais notícias do Brasil e do mundo, sempre com comentários de especialistas.</title>
-  </programme>
   <programme channel="tv.assembleia.piaui.br" start="20261125210000 -0300" stop="20261125220000 -0300">
     <title lang="pt-BR">- SARAU 17.1</title>
   </programme>
@@ -3352,9 +3169,6 @@
   <programme channel="TVAntena10.br" start="20261125220000 -0300" stop="20261125223000 -0300">
     <title lang="pt-BR">Reis Temporada 13 Episódio 10 A história da nação de Israel, do momento em que o último juiz, o profeta Samuel, é usado por Deus para guiar o Seu pov</title>
   </programme>
-  <programme channel="TVCultura.br" start="20261125220000 -0300" stop="20261125223000 -0300">
-    <title lang="pt-BR">Metrópolis Art Metrópolis nos trae todas las tendencias artísticas de vanguardia que se producen dentro y fuera del país.</title>
-  </programme>
   <programme channel="sexprive-brasileirinhas.br" start="20261125220000 -0300" stop="20261125223000 -0300">
     <title lang="pt-BR">Porn Stars Adults only Acompanhe filmes para lá de salientes com as maiores estrelas da pornografia.</title>
   </programme>
@@ -3377,7 +3191,7 @@
     <title lang="pt-BR">Premiere 3 Acompanhe a programação pay-per-view. googletag.cmd.push(function() { googletag.display('div-gpt-ad-1570786605020-0'); }); Sobre mi.tv A m</title>
   </programme>
   <programme channel="Premiere4.br" start="20261125220000 -0300" stop="20261125230000 -0300">
-    <title lang="pt-BR">Premiere 4 Acompanhe a programação pay-per-view. googletag.cmd.push(function() { googletag.display('div-gpt-ad-1570786605020-0'); }); Sobre mi.tv A m</title>
+    <title lang="pt-BR">Premiere 4 Acompanhe a programação pay-per-view. Sobre mi.tv A mi.tv é um guia de TV inteligente, com mais de 200 canais de programação, personalizáv</title>
   </programme>
   <programme channel="Premiere6.br" start="20261125220000 -0300" stop="20261125230000 -0300">
     <title lang="pt-BR">Premiere 6 Acompanhe a programação pay-per-view. googletag.cmd.push(function() { googletag.display('div-gpt-ad-1570786605020-0'); }); Sobre mi.tv A m</title>
@@ -3465,9 +3279,6 @@
   </programme>
   <programme channel="Cancaonova.br" start="20261125223000 -0300" stop="20261125233000 -0300">
     <title lang="pt-BR">Trocando Ideias Religious O apresentador e os convidados deste programa respondem às perguntas e esclarecem as dúvidas dos telespectadores sobre dive</title>
-  </programme>
-  <programme channel="TVCultura.br" start="20261125223000 -0300" stop="20261125233000 -0300">
-    <title lang="pt-BR">Travessias Desiguais Documentary Série documental que apresenta reflexões e experiências de vidas brasileiras das cinco regiões do país, que pensam e</title>
   </programme>
   <programme channel="Band.br" start="20261125223000 -0300" stop="20261125235000 -0300">
     <title lang="pt-BR">Dossiê Celebridades Talk Leo Dias mergulha na trajetória de personalidades que foram do céu ao inferno no auge da popularidade. O comediante Whinders</title>
@@ -3603,9 +3414,6 @@
   </programme>
   <programme channel="ESPN.br" start="20261125233000 -0300" stop="20261126003000 -0300">
     <title lang="pt-BR">SportsCenter Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião</title>
-  </programme>
-  <programme channel="TVCultura.br" start="20261125233000 -0300" stop="20261126003000 -0300">
-    <title lang="pt-BR">Orquestra Sinfônica Heliópolis Music Apresentação da Orquestra Sinfônica Heliópolis.</title>
   </programme>
   <programme channel="TVBrasil.br" start="20261125233000 -0300" stop="20261126013000 -0300">
     <title lang="pt-BR">Sem Censura Newsmagazine Informações sobre o que acontece no Brasil e no mundo, em diferentes áreas da atividade humana. Entrevistados e debatedores</title>
