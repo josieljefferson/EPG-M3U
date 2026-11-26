@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T09:33:30.456641-03:00",
+  "generated_at": "2026-11-26T20:50:36.041785-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -49,9 +49,9 @@
     "with_programs": 47
   },
   "programs": {
-    "total": 1111,
+    "total": 1110,
     "by_source": {
-      "fallback": 1111
+      "fallback": 1110
     },
     "by_channel": {
       "Band.br": 21,
@@ -70,7 +70,7 @@
       "JovemPanNews.br": 13,
       "MeioNorte.br": 20,
       "MeioNorteHD.br": 20,
-      "Multishow.br": 40,
+      "Multishow.br": 39,
       "Playboy.br": 38,
       "PlayboyHD.br": 38,
       "Premiere2.br": 3,
@@ -1553,7 +1553,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 40,
+      "programs": 39,
       "url": "https://mi.tv/br/canais/multishow-hd",
       "error": ""
     },
@@ -1564,7 +1564,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 40,
+      "programs": 39,
       "url": "https://mi.tv/br/canais/multishow-hd",
       "error": ""
     },
